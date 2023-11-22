@@ -1,0 +1,930 @@
+[
+    {
+        "place_id": "ChIJJZqwWowTA0cRndL9FoJGwD4",
+        "name": "Kliniki i Laboratoria Medyczne INVICTA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 249,
+        "website": "https://klinikainvicta.pl/",
+        "owner": {
+            "id": "103429840019328940329",
+            "name": "Kliniki i Laboratoria Medyczne INVICTA (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103429840019328940329"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOS9H2b9uk4QWAV70GFyo5qySYHsD5oorzJKq6r=w408-h272-k-no",
+        "main_category": "Voortplantingskliniek",
+        "categories": [
+            "Voortplantingskliniek",
+            "Vruchtbaarheidskliniek",
+            "Verloskundige/gynaecoloog",
+            "Gynaecoloog",
+            "Medisch centrum",
+            "Medische kliniek",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-19:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": null,
+        "address": "Kliniki i Laboratoria Medyczne INVICTA, Jagiellonska 109/81, 85-001 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kliniki+i+Laboratoria+Medyczne+INVICTA/data=!4m7!3m6!1s0x4703138c5ab09a25:0x3ec0468216fdd29d!8m2!3d53.1216885!4d18.0308873!16s%2Fg%2F11g02b4v30!19sChIJJZqwWowTA0cRndL9FoJGwD4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJuRK_cL8TA0cRDqNfLkuV8WU",
+        "name": "Vitalabo Laboratoria Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 175,
+        "website": "http://www.vitalabo.com.pl/",
+        "owner": {
+            "id": null,
+            "name": "Vitalabo Laboratoria Medyczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPODf0UjHJwEeRNQEY0EoUeF6Lf59ssdFCGU328=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Laboratorium"
+        ],
+        "rating": 4.5,
+        "workday_timing": "06:00-18:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 52 322 10 14",
+        "address": "Vitalabo Laboratoria Medyczne, Karola Libelta 2A, 85-008 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Vitalabo+Laboratoria+Medyczne/data=!4m7!3m6!1s0x470313bf70bf12b9:0x65f1954b2e5fa30e!8m2!3d53.1278333!4d18.0085547!16s%2Fg%2F11ghmwly9m!19sChIJuRK_cL8TA0cRDqNfLkuV8WU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJa8nw90sWA0cRbv0i1fZEssY",
+        "name": "Vitalabo Laboratoria Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 119,
+        "website": "http://www.vitalabo.com.pl/",
+        "owner": {
+            "id": "105866250237160111805",
+            "name": "Vitalabo Laboratoria Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105866250237160111805"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNJVF_dxL6f-qjda67y8rupPwZf7vUHvHpx_Pdf=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.5,
+        "workday_timing": "07:00-11:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 52 561 80 50",
+        "address": "Vitalabo Laboratoria Medyczne, Generala Jozefa Hallera 2, 85-795 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Vitalabo+Laboratoria+Medyczne/data=!4m7!3m6!1s0x4703164bf7f0c96b:0xc6b244f6d522fd6e!8m2!3d53.1640558!4d18.1670449!16s%2Fg%2F1tlbh7xv!19sChIJa8nw90sWA0cRbv0i1fZEssY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJA6ve-lQSA0cRJxUs8i9II4o",
+        "name": "Punkt Pobran Vitalabo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 74,
+        "website": "https://www.vitalabo.com.pl/punkty-pobran",
+        "owner": {
+            "id": null,
+            "name": "Punkt Pobran Vitalabo (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Nm3qwo663L_wfMT6CvyAtA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=168.49966&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "07:00-10:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 52 346 92 05",
+        "address": "Punkt Pobran Vitalabo, Szubinska 93/95, 85-312 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Vitalabo/data=!4m7!3m6!1s0x47031254fadeab03:0x8a23482ff22c1527!8m2!3d53.1159829!4d17.9680966!16s%2Fg%2F11b6hvcsqd!19sChIJA6ve-lQSA0cRJxUs8i9II4o?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJLQx5y_ITA0cRQvjGoXPjc_o",
+        "name": "Vitalabo Punkt Pobran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 65,
+        "website": "http://www.vitalabo.com.pl/",
+        "owner": {
+            "id": null,
+            "name": "Vitalabo Punkt Pobran (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=p3FTUJOWCNy1DnIeRx2iWQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=257.33713&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 4.1,
+        "workday_timing": "08:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 52 561 80 50",
+        "address": "Vitalabo Punkt Pobran, Marii Sklodowskiej Curie 26, 85-094 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Vitalabo+Punkt+Pobra%C5%84/data=!4m7!3m6!1s0x470313f2cb790c2d:0xfa73e373a1c6f842!8m2!3d53.1257563!4d18.0312448!16s%2Fg%2F11b6hy_8fg!19sChIJLQx5y_ITA0cRQvjGoXPjc_o?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJeW5B92kSA0cRM4p_nABbWnU",
+        "name": "Punkt Pobran Vitalabo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 36,
+        "website": "http://www.vitalabo.com.pl/punkty-pobran/bydgoszcz-galeria-miedzyn",
+        "owner": {
+            "id": null,
+            "name": "Punkt Pobran Vitalabo (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPXey2wCBV4BYifOknniiGnPPxuWzUvzU1THvf3=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.8,
+        "workday_timing": "07:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 52 561 80 50",
+        "address": "Punkt Pobran Vitalabo, Nakielska 86, Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Vitalabo/data=!4m7!3m6!1s0x47031269f7416e79:0x755a5b009c7f8a33!8m2!3d53.1318059!4d17.9460073!16s%2Fg%2F11d_ypbsrg!19sChIJeW5B92kSA0cRM4p_nABbWnU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJZeT0rl0WA0cRUw8WkhhJ33k",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 35,
+        "website": "https://www.synevo.pl/laboratorium-bydgoszcz-fordon/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dbydgoszcz_fordon",
+        "owner": {
+            "id": "106331462803758825541",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106331462803758825541"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMZi1p9ScWyMy3bFfQBG6SJaql96it_4tcrbSZr=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "06:30-13:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Monte Cassino 30, 85-791 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x4703165daef4e465:0x79df491892160f53!8m2!3d53.1538367!4d18.1457586!16s%2Fg%2F11c2nn41cv!19sChIJZeT0rl0WA0cRUw8WkhhJ33k?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJk16yCPANA0cRHNLoS4bMp9k",
+        "name": "Vitalabo punkt pobran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 33,
+        "website": "http://www.vitalabo.com.pl/",
+        "owner": {
+            "id": "104754255785773881339",
+            "name": "Vitalabo punkt pobran (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/104754255785773881339"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ndTeow7hOTmvyBlCzIZm6w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=13.233351&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-11:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 52 346 92 05",
+        "address": "Vitalabo punkt pobran, Waleniowa 2, 85-435 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Vitalabo+punkt+pobra%C5%84/data=!4m7!3m6!1s0x47030df008b25e93:0xd9a7cc864be8d21c!8m2!3d53.155867!4d17.916904!16s%2Fg%2F11hd1qp0l5!19sChIJk16yCPANA0cRHNLoS4bMp9k?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJEcKaHQcTA0cRjOo0M2U3IR0",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 29,
+        "website": "https://www.synevo.pl/laboratorium-bydgoszcz-szwederowo/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dbydgoszcz-szwederowo",
+        "owner": {
+            "id": "106626602215682184012",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106626602215682184012"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMIEYQfRyh1VbBA045cFJV0iFnYUgwER5kPllpT=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.4,
+        "workday_timing": "08:00-11:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Ksiedza Ignacego Skorupki 98/4, 85-156 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470313071d9ac211:0x1d2137653334ea8c!8m2!3d53.1086578!4d17.9775301!16s%2Fg%2F11c5_7v5bm!19sChIJEcKaHQcTA0cRjOo0M2U3IR0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJs0PPey4XA0cR0vlxKegTcaY",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "website": "https://sklep.alablaboratoria.pl/badania?punkty_id=9809",
+        "owner": {
+            "id": "100987014095340960128",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100987014095340960128"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOY-u6RU4qNjkjhuAlHdc87yxkbjFQYkjBPmY3k=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "07:00-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 52 307 95 60",
+        "address": "Punkt Pobran ALAB laboratoria, Szafirowa 14, 85-790 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x4703172e7bcf43b3:0xa67113e82971f9d2!8m2!3d53.1499768!4d18.1557165!16s%2Fg%2F11rghlk448!19sChIJs0PPey4XA0cR0vlxKegTcaY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJX1iGbDoTA0cRe60ZRQ9Mgr4",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10113",
+        "owner": {
+            "id": "104417454424837987273",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/104417454424837987273"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMZK9608VAVuXl6dfkoRyLYsh2FztyujP2Gxqzw=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 52 307 94 89",
+        "address": "Punkt Pobran ALAB laboratoria, Jana Karola Chodkiewicza 19e, 86-061 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x4703133a6c86585f:0xbe824c0f4519ad7b!8m2!3d53.1333258!4d18.0197119!16s%2Fg%2F11thhdrg_d!19sChIJX1iGbDoTA0cRe60ZRQ9Mgr4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJm0QCpe0TA0cRLDjs46-dXzU",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": "https://www.synevo.pl/laboratorium-bydgoszcz-bielawy/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dbydgoszcz-bielawy",
+        "owner": {
+            "id": "105327146840607535209",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105327146840607535209"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jKOhA1FMt-xS_bKHeWbMeQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=166.44849&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.9,
+        "workday_timing": "08:00-15:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, aleja Powstancow Wielkopolskich 26, 85-090 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470313eda502449b:0x355f9dafe3ec382c!8m2!3d53.1290617!4d18.0284132!16s%2Fg%2F11ddx4l_2q!19sChIJm0QCpe0TA0cRLDjs46-dXzU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJN5_f9bUVA0cRrRVKXCo0Dmw",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9869",
+        "owner": {
+            "id": "114828663577073827116",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114828663577073827116"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN377gZOMM_sbBpmFobsnurXVbgq9-RzvFs0oD1=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:30-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 52 307 94 95",
+        "address": "Punkt Pobran ALAB laboratoria, Adama Grzymaly Siedleckiego 30, 85-868 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470315b5f5df9f37:0x6c0e342a5c4a15ad!8m2!3d53.1087116!4d18.0372422!16s%2Fg%2F11pcscj400!19sChIJN5_f9bUVA0cRrRVKXCo0Dmw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJexhYJDETA0cRULcnFWUC_DA",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": "https://sklep.alablaboratoria.pl/badania?punkty_id=9848",
+        "owner": {
+            "id": "113612340717939637853",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113612340717939637853"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNaKB4NByOSTM-60F1ZxnExQEBjAcb5iw3tn3Rw=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 52 307 95 04",
+        "address": "Punkt Pobran ALAB laboratoria, Teofila Lenartowicza 33/35, 85-133 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470313312458187b:0x30fc02651527b750!8m2!3d53.1134797!4d18.0008163!16s%2Fg%2F11np4zkcsj!19sChIJexhYJDETA0cRULcnFWUC_DA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9drBJtgQA0cRPynezNp20YE",
+        "name": "Vitalabo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": "https://vitalabo.com.pl/",
+        "owner": {
+            "id": null,
+            "name": "Vitalabo (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rPkParpXW1I8IJoAUQJ2Sw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=311.96182&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "07:15-11:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 52 320 11 77",
+        "address": "Vitalabo, Szosa Gdanska 53, 86-031 Osielsko, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Vitalabo/data=!4m7!3m6!1s0x470310d826c1daf5:0x81d176daccde293f!8m2!3d53.1874751!4d18.0706215!16s%2Fg%2F11cp74r261!19sChIJ9drBJtgQA0cRPynezNp20YE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJV0A8Aq4TA0cRFX_uDoqds5E",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "101728881621890265110",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101728881621890265110"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CYj3lWo5Y1spKhF2cjiw3A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=337.652&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Fryderyka Chopina 3/1, 85-092 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470313ae023c4057:0x91b39d8a0eee7f15!8m2!3d53.1234963!4d18.02076!16s%2Fg%2F11q360z348!19sChIJV0A8Aq4TA0cRFX_uDoqds5E?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJAQCQRUkWA0cRplpjPc0xMoA",
+        "name": "Vetlaboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "https://vetlaboratoria.pl/",
+        "owner": {
+            "id": "110419059428305500305",
+            "name": "Vetlaboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110419059428305500305"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM3BgUoS_lJzENICep_XZM1bHL-PfO4Mx4bKYxg=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 52 515 37 37",
+        "address": "Vetlaboratoria, Generala Jozefa Hallera 2 E, 85-795 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Vetlaboratoria/data=!4m7!3m6!1s0x4703164945900001:0x803231cd3d635aa6!8m2!3d53.1640721!4d18.1670927!16s%2Fg%2F11fm16f13c!19sChIJAQCQRUkWA0cRplpjPc0xMoA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_____2AUA0cRiIGD3Dwepu8",
+        "name": "NZOZ Medical Analysis Laboratory ALCO",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "http://www.alco.bydgoszcz.pl/",
+        "owner": {
+            "id": null,
+            "name": "NZOZ Medical Analysis Laboratory ALCO (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UZeBzDzomeikvkTqMVxbpg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=217.142&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 52 500 56 70",
+        "address": "NZOZ Medical Analysis Laboratory ALCO, Magnuszewska 5, 85-001 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/NZOZ+Medical+Analysis+Laboratory+ALCO/data=!4m7!3m6!1s0x47031460ffffffff:0xefa61e3cdc838188!8m2!3d53.10808!4d18.0327251!16s%2Fg%2F11c6036x9m!19sChIJ_____2AUA0cRiIGD3Dwepu8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJt6t5leUVA0cRYuKJBZjqkIE",
+        "name": "Laboratorium Vitalabo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "http://vitalabo.com.pl/",
+        "owner": {
+            "id": null,
+            "name": "Laboratorium Vitalabo (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=X4exrwkvorjLj3FArfZXwg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=312.3906&pitch=0&thumbfov=100",
+        "main_category": "Medisch centrum",
+        "categories": [
+            "Medisch centrum"
+        ],
+        "rating": 2.8,
+        "workday_timing": "06:00-14:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 801 002 050",
+        "address": "Laboratorium Vitalabo, Aleja Prezydenta Lecha Kaczynskiego 42, 85-827 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Vitalabo/data=!4m7!3m6!1s0x470315e59579abb7:0x8190ea980589e262!8m2!3d53.1081708!4d18.0520712!16s%2Fg%2F11txp131f2!19sChIJt6t5leUVA0cRYuKJBZjqkIE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJz6yXiH0UA0cRTxkztKLLQeE",
+        "name": "Laboratorium analiz lekarskich",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "https://alco.bydgoszcz.pl/",
+        "owner": {
+            "id": null,
+            "name": "Laboratorium analiz lekarskich (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xiLc3RqYOhpqI0Mk4GK45A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=323.70078&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 52 363 37 14",
+        "address": "Laboratorium analiz lekarskich, Ksiedza Jerzego Popieluszki 16, 85-863 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+analiz+lekarskich/data=!4m7!3m6!1s0x4703147d8897accf:0xe141cba2b433194f!8m2!3d53.1013294!4d18.0412832!16s%2Fg%2F1tjz21s_!19sChIJz6yXiH0UA0cRTxkztKLLQeE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJnVEoflUVA0cRnCYfyRGSiYU",
+        "name": "Vitalabo - punkt pobran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "https://www.vitalabo.com.pl/punkty-pobran/bydgoszcz-ogrody",
+        "owner": {
+            "id": null,
+            "name": "Vitalabo - punkt pobran (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AfGIkgpYA6HppdhlU-yPeg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=345.6877&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "07:30-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 694 485 064",
+        "address": "Vitalabo - punkt pobran, Ogrody 21, 85-870 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Vitalabo+-+punkt+pobra%C5%84/data=!4m7!3m6!1s0x470315557e28519d:0x85899211c91f269c!8m2!3d53.1120457!4d18.0377674!16s%2Fg%2F11lh2vxt96!19sChIJnVEoflUVA0cRnCYfyRGSiYU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJtZa1EcETA0cRA-WgMw5vPzs",
+        "name": "Gentest - Testy DNA na ustalenie ojcostwa, badania generyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "http://gentest.org.pl/",
+        "owner": {
+            "id": "103489520051795977336",
+            "name": "Gentest - Testy DNA na ustalenie ojcostwa, badania generyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103489520051795977336"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP7k6maROL_wcgm_HJqDqc8B7BePapPwGoY9vNC=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-17:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 730 168 706",
+        "address": "Gentest - Testy DNA na ustalenie ojcostwa, badania generyczne, Aleje Adama Mickiewicza 3/4, 85-071 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gentest+-+Testy+DNA+na+ustalenie+ojcostwa,+badania+generyczne/data=!4m7!3m6!1s0x470313c111b596b5:0x3b3f6f0e33a0e503!8m2!3d53.131901!4d18.01098!16s%2Fg%2F11c71p3l0z!19sChIJtZa1EcETA0cRA-WgMw5vPzs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJL-A1d78TA0cRv_ny-fdI7ac",
+        "name": "Laboratorium analiz lekarskich",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://www.alablaboratoria.pl/",
+        "owner": {
+            "id": null,
+            "name": "Laboratorium analiz lekarskich (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8-CLXCVaUfofGfHNU92BbQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=97.15736&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 52 322 40 33",
+        "address": "Laboratorium analiz lekarskich, Karola Libelta 2A, 85-008 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+analiz+lekarskich/data=!4m7!3m6!1s0x470313bf7735e02f:0xa7ed48f7f9f2f9bf!8m2!3d53.1278433!4d18.0086195!16s%2Fg%2F1w3w1rp4!19sChIJL-A1d78TA0cRv_ny-fdI7ac?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJqfflDZMTA0cRG1ZIm34jfZo",
+        "name": "testDNA Bydgoszcz - badania DNA, testy na ojcostwo, badania genetyczne, NIFTY Pro - punkt pobran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://www.testdna.pl/",
+        "owner": {
+            "id": "108731368525658678073",
+            "name": "testDNA Bydgoszcz - badania DNA, testy na ojcostwo, badania genetyczne, NIFTY Pro - punkt pobran (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108731368525658678073"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNdCtAlHNKZLCwBu0uDY6Myw_8R6YthS-Ak6VGU=w408-h270-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 665 761 161",
+        "address": "testDNA Bydgoszcz - badania DNA, testy na ojcostwo, badania genetyczne, NIFTY Pro - punkt pobran, Mieczyslawa Karlowicza 3/5, 85-092 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/testDNA+Bydgoszcz+-+badania+DNA,+testy+na+ojcostwo,+badania+genetyczne,+NIFTY+Pro+-+punkt+pobra%C5%84/data=!4m7!3m6!1s0x470313930de5f7a9:0x9a7d237e9b48561b!8m2!3d53.124508!4d18.02215!16s%2Fg%2F1vnthlf3!19sChIJqfflDZMTA0cRG1ZIm34jfZo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7yG64jEVA0cR8HyHwmjARok",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9798",
+        "owner": {
+            "id": "111871644266314749167",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111871644266314749167"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO9UIz7Lvo7_VFoKmGay1CDbIQYbdqLz0XwEUrF=w550-h240-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "07:30-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 518 830 187",
+        "address": "Punkt Pobran ALAB laboratoria, Zdrowotna 6, 85-826 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x47031531e2ba21ef:0x8946c068c2877cf0!8m2!3d53.105631!4d18.0482888!16s%2Fg%2F11rgt8cspr!19sChIJ7yG64jEVA0cR8HyHwmjARok?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9SEITDMTA0cRHCABoGLKRng",
+        "name": "Vitalabo Punkt Pobran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 40,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Vitalabo Punkt Pobran (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7M4gpsq00sx41_fbZzxddA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=196.38766&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "07:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 664 442 904",
+        "address": "Vitalabo Punkt Pobran, Adama Naruszewicza 11, 85-230 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Vitalabo+Punkt+Pobra%C5%84/data=!4m7!3m6!1s0x470313334c0821f5:0x7846ca62a001201c!8m2!3d53.1287209!4d17.9933194!16s%2Fg%2F11mx6qc0dj!19sChIJ9SEITDMTA0cRHCABoGLKRng?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ91F6ipgTA0cRKuvUhUkYhy8",
+        "name": "Vitalabo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 30,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Vitalabo (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMh-vAo0KKpevzLoE9IuWaIEPGNEF8idyeAWwho=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-11:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 52 371 43 84",
+        "address": "Vitalabo, Kujawska 48, 85-125 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Vitalabo/data=!4m7!3m6!1s0x470313988a7a51f7:0x2f87184985d4eb2a!8m2!3d53.1150341!4d18.0064728!16s%2Fg%2F11gnnmbbq9!19sChIJ91F6ipgTA0cRKuvUhUkYhy8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJl2wWI4gNA0cRe4buxKLVaYg",
+        "name": "Punkt Pobran Vitalabo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": null,
+        "owner": {
+            "id": "115976808389394447315",
+            "name": "Punkt Pobran Vitalabo (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115976808389394447315"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMEnj0XkHE4p3GZHvGCN-L2LGBCLW-JpmVHbwg3=w408-h725-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.8,
+        "workday_timing": "07:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 685 560",
+        "address": "Punkt Pobran Vitalabo, Nakielska 327, 85-391 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Vitalabo/data=!4m7!3m6!1s0x47030d8823166c97:0x8869d5a2c4ee867b!8m2!3d53.1338152!4d17.9144633!16s%2Fg%2F11b6hvd1_3!19sChIJl2wWI4gNA0cRe4buxKLVaYg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJrxruiYsWA0cRiB2jASeiljI",
+        "name": "Medic Klinika Spolka Z Ograniczona Odpowiedzialnoscia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Medic Klinika Spolka Z Ograniczona Odpowiedzialnoscia (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fXbP4kN4Ipc01H0mIFxW1g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=250.24026&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Medic Klinika Spolka Z Ograniczona Odpowiedzialnoscia, Wojciecha Lochowskiego 7A, 85-796 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Medic+Klinika+Sp%C3%B3%C5%82ka+Z+Ograniczon%C4%85+Odpowiedzialno%C5%9Bci%C4%85/data=!4m7!3m6!1s0x4703168b89ee1aaf:0x3296a22701a31d88!8m2!3d53.1514148!4d18.1232855!16s%2Fg%2F11q1d90lw7!19sChIJrxruiYsWA0cRiB2jASeiljI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJs05wKosWA0cRqnS6JURjjPs",
+        "name": "Medic Klinika - Poradnia Poz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Medic Klinika - Poradnia Poz (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bGvEP7n-KGpMAg6vy9HJQA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=116.685425&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Medic Klinika - Poradnia Poz, Melchiora Wankowicza 1, 85-796 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Medic+Klinika+-+Poradnia+Poz/data=!4m7!3m6!1s0x4703168b2a704eb3:0xfb8c634425ba74aa!8m2!3d53.1540289!4d18.129148!16s%2Fg%2F11q1d8nz54!19sChIJs05wKosWA0cRqnS6JURjjPs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJe94Z1igTA0cRq0ylxoT37UE",
+        "name": "Laboratorium Medicover Bydgoszcz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "103994452589825182101",
+            "name": "Laboratorium Medicover Bydgoszcz (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103994452589825182101"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eGrQZWacymWQI4qj_5KRgQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=176.73964&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-13:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": null,
+        "address": "Laboratorium Medicover Bydgoszcz, aleja Powstancow Wielkopolskich 26, 85-090 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Medicover+Bydgoszcz/data=!4m7!3m6!1s0x47031328d619de7b:0x41edf784c6a54cab!8m2!3d53.129067!4d18.0279061!16s%2Fg%2F11sdns7zh2!19sChIJe94Z1igTA0cRq0ylxoT37UE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJL-A1d78TA0cR7YFFoeQf6Ds",
+        "name": "SANITAS Lekarze Specjalisci Sp z o.o. Laboratorium Higieny Pracy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "109545925303522246818",
+            "name": "SANITAS Lekarze Specjalisci Sp z o.o. Laboratorium Higieny Pracy (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109545925303522246818"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=D-mZFIiylVkIXHbifRUo7A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=139.73233&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium",
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 506 085 686",
+        "address": "SANITAS Lekarze Specjalisci Sp z o.o. Laboratorium Higieny Pracy, Dworcowa 110, 85-010 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/SANITAS+Lekarze+Specjali%C5%9Bci+Sp+z+o.o.+Laboratorium+Higieny+Pracy/data=!4m7!3m6!1s0x470313bf7735e02f:0x3be81fe4a14581ed!8m2!3d53.1342092!4d17.9932945!16s%2Fg%2F11ghq07h5c!19sChIJL-A1d78TA0cR7YFFoeQf6Ds?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJk-i2t2MTA0cRBZo-ucaBmXY",
+        "name": "NZOZ LABORATORIUM ANALIZ MEDYCZNYCH DAN-LAB DANUTA ADAMCZAK",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "NZOZ LABORATORIUM ANALIZ MEDYCZNYCH DAN-LAB DANUTA ADAMCZAK (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LERS8hnCn1oQ6dUg7sr5DA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=320.27795&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 52 345 94 35",
+        "address": "NZOZ LABORATORIUM ANALIZ MEDYCZNYCH DAN-LAB DANUTA ADAMCZAK, Marii Konopnickiej 26, 85-124 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/NZOZ+LABORATORIUM+ANALIZ+MEDYCZNYCH+DAN-LAB+DANUTA+ADAMCZAK/data=!4m7!3m6!1s0x47031363b7b6e893:0x769981c6b93e9a05!8m2!3d53.1124188!4d17.9984918!16s%2Fg%2F11j7fb9sp5!19sChIJk-i2t2MTA0cRBZo-ucaBmXY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJGagJtrITA0cRwmKvAWdZ81w",
+        "name": "Dzial Diagnostyki Laboratoryjnej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dzial Diagnostyki Laboratoryjnej (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=g4UV4k2euLGgJal77pXEDA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=172.00116&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Dzial Diagnostyki Laboratoryjnej, Swietego Floriana 12, 85-030 Bydgoszcz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dzia%C5%82+Diagnostyki+Laboratoryjnej/data=!4m7!3m6!1s0x470313b2b609a819:0x5cf3596701af62c2!8m2!3d53.1222419!4d18.0090474!16s%2Fg%2F11fswz_sjh!19sChIJGagJtrITA0cRwmKvAWdZ81w?authuser=0&hl=nl&rclk=1"
+    }
+]

@@ -1,0 +1,3308 @@
+[
+    {
+        "place_id": "ChIJiTCdF87CD0cRh6SQPb9VE7I",
+        "name": "Diagnostyka Punkt Pobran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 341,
+        "website": "https://diag.pl/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-opolska-131a/",
+        "owner": {
+            "id": "115180524094569623107",
+            "name": "Diagnostyka Punkt Pobran (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115180524094569623107"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOJtYSU6gS_vh3ait7mOSkSoYPIB4JikZwtpT3y=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 00",
+        "address": "Diagnostyka Punkt Pobran, Opolska 131A, 52-013 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka+Punkt+Pobra%C5%84/data=!4m7!3m6!1s0x470fc2ce179d3089:0xb21355bf3d90a487!8m2!3d51.0717537!4d17.0895318!16s%2Fg%2F11b7yqjwgn!19sChIJiTCdF87CD0cRh6SQPb9VE7I?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJJ2uBa7zpD0cRdg6YJotz-tk",
+        "name": "Laboratorium Medyczne Santelab",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 199,
+        "website": "https://santelab.pl/",
+        "owner": {
+            "id": "107503483009586986611",
+            "name": "Laboratorium Medyczne Santelab (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107503483009586986611"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPDk86iUU-vqs8ko62wllFjetbmCSXzWkwuz9O7=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Gezondheid"
+        ],
+        "rating": 4.9,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 509 799 388",
+        "address": "Laboratorium Medyczne Santelab, aleja Jana Kasprowicza 77, 51-136 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Medyczne+Santelab/data=!4m7!3m6!1s0x470fe9bc6b816b27:0xd9fa738b26980e76!8m2!3d51.1373257!4d17.0509312!16s%2Fg%2F1xb2c8y7!19sChIJJ2uBa7zpD0cRdg6YJotz-tk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJCSWQfR3pD0cRyoaNijFACI0",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 81,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-zakladowa-11/",
+        "owner": {
+            "id": "117959230757752504593",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117959230757752504593"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPEDtdOi3WakAwDO4Y6HJz4nJ5CyGhlmWV4Su8=w408-h725-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.4,
+        "workday_timing": "07:30-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 20",
+        "address": "Diagnostyka. Laboratoria Medyczne., Zakladowa 11h, 50-231 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470fe91d7d902509:0x8d0840318a8d86ca!8m2!3d51.1296618!4d17.0440389!16s%2Fg%2F11j2mmtj_l!19sChIJCSWQfR3pD0cRyoaNijFACI0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVVXFxNTpD0cRY_F0MXmtPxY",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 81,
+        "website": "https://diag.pl/pacjent/",
+        "owner": {
+            "id": "116318402730118166349",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116318402730118166349"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNoLsANHQGTE9UpW-Mb8PSh93nGmD6vONoRmvM9=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.8,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 12 295 01 00",
+        "address": "Diagnostyka. Laboratoria Medyczne., plac Grunwaldzki 18-20, 50-384 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470fe9d4c4c55555:0x163fad793174f163!8m2!3d51.1115212!4d17.0585684!16s%2Fg%2F11q1d9831f!19sChIJVVXFxNTpD0cRY_F0MXmtPxY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJTY88NALDD0cRKf-fHToqL7g",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 77,
+        "website": "https://www.alablaboratoria.pl/punkty%239807",
+        "owner": {
+            "id": "107858100934031628024",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107858100934031628024"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMdfPeH5Ilr3N5FCp3wunjMyCLGbeS7KXycJ6S_=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "07:15-14:15",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 511 172 133",
+        "address": "Punkt Pobran ALAB laboratoria, Biskupia 8a, 50-148 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470fc302343c8f4d:0xb82f2a3a1d9fff29!8m2!3d51.1089005!4d17.0367711!16s%2Fg%2F11qsc42f3v!19sChIJTY88NALDD0cRKf-fHToqL7g?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJHamL_2XqD0cRPeTHC88EnG0",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 68,
+        "website": "https://diag.pl/pacjent/",
+        "owner": {
+            "id": "100533876586428671159",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100533876586428671159"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO073Ch-lOu5M78PdRYaTlUFedrmSc_vUQ2lJL6=w408-h725-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 20",
+        "address": "Diagnostics. Medical Laboratories., Dokerska 2a, 54-142 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x470fea65ff8ba91d:0x6d9c04cf0bc7e43d!8m2!3d51.1380318!4d16.9652282!16s%2Fg%2F11g6hvxrdp!19sChIJHamL_2XqD0cRPeTHC88EnG0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJxfnUDs_DD0cRGbvge8OYr8c",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 68,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-krzycka-94/",
+        "owner": {
+            "id": "111985366176855980511",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111985366176855980511"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNSnzk0CCACDdhkweEJJGqQiXdTRSULyCQQxrRa=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.8,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 00",
+        "address": "Diagnostics. Medical Laboratories., Krzycka 94, 53-020 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x470fc3cf0ed4f9c5:0xc7af98c37be0bb19!8m2!3d51.066529!4d16.988598!16s%2Fg%2F11df0xh115!19sChIJxfnUDs_DD0cRGbvge8OYr8c?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ86O2HU7CD0cRuTzwBIj9W6Y",
+        "name": "Diagnostics",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 67,
+        "website": "https://diag.pl/pacjent/",
+        "owner": {
+            "id": "106505468103481117441",
+            "name": "Diagnostics (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106505468103481117441"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP4CTvwBwpsSwIiBF0UeCDFntM3xY4TpweXTpBq=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 00",
+        "address": "Diagnostics, Weigla 12, 53-114 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics/data=!4m7!3m6!1s0x470fc24e1db6a3f3:0xa65bfd8804f03cb9!8m2!3d51.0764253!4d17.0226177!16s%2Fg%2F1tm09jlr!19sChIJ86O2HU7CD0cRuTzwBIj9W6Y?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJV6EhBQ7qD0cR-d4t0tW0lng",
+        "name": "Laboratorium Mykologiczne Anna Kudla",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 67,
+        "website": "http://www.labmyk.pl/",
+        "owner": {
+            "id": "100115310491164050818",
+            "name": "Laboratorium Mykologiczne Anna Kudla (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100115310491164050818"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP03VdsW4io7v_WH8kaSO7PXVFUTNwEH9yxouFt=w408-h306-k-no",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 4.8,
+        "workday_timing": "08:30-12:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 797 857 736",
+        "address": "Laboratorium Mykologiczne Anna Kudla, Inzynierska 29a, 53-228 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Mykologiczne+Anna+Kud%C5%82a/data=!4m7!3m6!1s0x470fea0e0521a157:0x7896b4d5d22ddef9!8m2!3d51.0956155!4d16.9898277!16s%2Fg%2F1q62bcv0j!19sChIJV6EhBQ7qD0cR-d4t0tW0lng?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJw93Ui3bCD0cRadOVVqwYtPs",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 66,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-olawska-14/",
+        "owner": {
+            "id": "101083607869918256628",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101083607869918256628"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN6fHARY-HjIS-aPzO2Sy7-8Xd34110KDV6j_wT=w408-h725-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "08:00-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 341 87 85",
+        "address": "Diagnostyka. Laboratoria Medyczne., Olawska 14, 50-123 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470fc2768bd4ddc3:0xfbb418ac5695d369!8m2!3d51.1084986!4d17.0356182!16s%2Fg%2F1thd5djf!19sChIJw93Ui3bCD0cRadOVVqwYtPs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJw1ull9LpD0cRsoW1xdlbbRc",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 66,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-bierutowska-17/",
+        "owner": {
+            "id": "117370471646016465507",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117370471646016465507"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP4NbgElvxxRigcuIV6F8gYPOSK6IqS68os7YQM=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.8,
+        "workday_timing": "07:15-13:15",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 798 764 555",
+        "address": "Diagnostyka. Laboratoria Medyczne., Bierutowska 17, 51-317 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470fe9d297a55bc3:0x176d5bd9c5b585b2!8m2!3d51.148372!4d17.1179468!16s%2Fg%2F11j0j2vwf4!19sChIJw1ull9LpD0cRsoW1xdlbbRc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJX63DwmXpD0cRkjQfDwzQN94",
+        "name": "Wita Medica - Kroplowki Witaminowe, Punkt Pobran, Diagnostyka Badania Krwi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 64,
+        "website": "http://witamedica.pl/",
+        "owner": {
+            "id": "114868072447599775758",
+            "name": "Wita Medica - Kroplowki Witaminowe, Punkt Pobran, Diagnostyka Badania Krwi (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114868072447599775758"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO46r-QPAUKRBxJeW-3N2pqRy1HElZ-Vyn8-rQA=w408-h408-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 734 924 924",
+        "address": "Wita Medica - Kroplowki Witaminowe, Punkt Pobran, Diagnostyka Badania Krwi, Zakladowa 14C, 50-231 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Wita+Medica+-+Kropl%C3%B3wki+Witaminowe,+Punkt+Pobra%C5%84,+Diagnostyka+Badania+Krwi/data=!4m7!3m6!1s0x470fe965c2c3ad5f:0xde37d00c0f1f3492!8m2!3d51.1305764!4d17.0432774!16s%2Fg%2F11h3m7sjvk!19sChIJX63DwmXpD0cRkjQfDwzQN94?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJSTRBU3bCD0cRF0spNhYgYUA",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 64,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "104569930417954224167",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/104569930417954224167"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO7ojubtqHA0_udk3XizoR3kwS4-dsoIAuN71Mx=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Krawiecka 3c, 50-148 Wroclaw, Polen",
+        "review_keywords": [
+            {
+                "keyword": "bloed",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470fc27653413449:0x4061201636294b17!8m2!3d51.108763!4d17.038124!16s%2Fg%2F11gg724hdj!19sChIJSTRBU3bCD0cRF0spNhYgYUA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJh2VdF2DCD0cRPaJxxcFoqiI",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 63,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9215",
+        "owner": {
+            "id": "110260865374773470138",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110260865374773470138"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMtqTjd7C7S46vv2qpn3k8d75wFckAXtDwftjEj=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.4,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 720 70 00",
+        "address": "Punkt Pobran ALAB laboratoria, Hubska 76a, 50-501 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470fc260175d6587:0x22aa68c1c571a23d!8m2!3d51.0903275!4d17.0449535!16s%2Fg%2F124sxw46q!19sChIJh2VdF2DCD0cRPaJxxcFoqiI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9W53MoToD0cR3xHhj_5HrY8",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 61,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-kielczowska-70/",
+        "owner": {
+            "id": "110118343143319728899",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110118343143319728899"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNWXJLhfdpyYxl4RFyf00wZleEh0hNe6MMwEGQG=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.5,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 20",
+        "address": "Diagnostics. Medical Laboratories., Kielczowska 70, 51-315 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x470fe88432776ef5:0x8fad47fe8fe111df!8m2!3d51.1464187!4d17.1349337!16s%2Fg%2F11dyzlh4pd!19sChIJ9W53MoToD0cR3xHhj_5HrY8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJN9kEHcnpD0cRsdYUtG_uyag",
+        "name": "Laboratorium Dermatologiczne Derma-Lab",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 57,
+        "website": "http://derma-lab.pl/",
+        "owner": {
+            "id": "111117845984893826198",
+            "name": "Laboratorium Dermatologiczne Derma-Lab (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111117845984893826198"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOZo5xD-y-hFtbTGsiAss7aL8FJZFtpzUFBlpu_=w408-h433-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "10:00-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 732 470 600",
+        "address": "Laboratorium Dermatologiczne Derma-Lab, STEFANA JARACZA 60B WEJSCIE OD DZIEDZINCA MIEDZY JARACZA 54 ORAZ 66, 50-305 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Dermatologiczne+Derma-Lab/data=!4m7!3m6!1s0x470fe9c91d04d937:0xa8c9ee6fb414d6b1!8m2!3d51.1261444!4d17.0571556!16s%2Fg%2F11g88gjltl!19sChIJN9kEHcnpD0cRsdYUtG_uyag?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJXSX7WRvDD0cRdFiji9k8l80",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 54,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-zwycieska-41/",
+        "owner": {
+            "id": "112086454136980233250",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112086454136980233250"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOUovEzLaIWpXtmbSTZyEsKriP7w2bDtGA6Kc8W=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "07:00-16:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 20",
+        "address": "Diagnostyka. Laboratoria Medyczne., Zwycieska 41, 53-033 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470fc31b59fb255d:0xcd973cd98ba35874!8m2!3d51.0593681!4d17.0120098!16s%2Fg%2F11fq6sls01!19sChIJXSX7WRvDD0cRdFiji9k8l80?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJa41A0mTCD0cRnh5af0K9ZAc",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 53,
+        "website": "https://www.synevo.pl/laboratorium-wroclaw-krzyki-dabrowskiego/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dwroclaw-krzyki-dabrowskiego",
+        "owner": {
+            "id": "109793838816059724351",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109793838816059724351"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMK9RS2677QmryCNhUeWHAhIbrB6Xx1m-Spasuk=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "07:30-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Dabrowskiego 44, 50-457 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470fc264d2408d6b:0x764bd427f5a1e9e!8m2!3d51.0996293!4d17.0410678!16s%2Fg%2F11ckdh5dpp!19sChIJa41A0mTCD0cRnh5af0K9ZAc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJUXSUcHDqD0cRA0r8HIGTkx4",
+        "name": "Kroplowki Witaminowe Wita-Gen",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 49,
+        "website": "https://witagen-kroplowki.pl/",
+        "owner": {
+            "id": "116832320503325894651",
+            "name": "Kroplowki Witaminowe Wita-Gen (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116832320503325894651"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOK7gUR7MCg0UhmaS487Ymy6O53c3rvIen2Yr6H=w478-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 884 734 734",
+        "address": "Kroplowki Witaminowe Wita-Gen, Szybowcowa 31/lokal 02A, 54-130 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kropl%C3%B3wki+Witaminowe+Wita-Gen/data=!4m7!3m6!1s0x470fea7070947451:0x1e9393811cfc4a03!8m2!3d51.13122!4d16.9620541!16s%2Fg%2F11g723zwy4!19sChIJUXSUcHDqD0cRA0r8HIGTkx4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJL3lDLm3BD0cRUSgR_YKSba0",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 46,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-w-przychodni-remedis-wroclaw-ul-minska-5/",
+        "owner": {
+            "id": "105062529826757907168",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105062529826757907168"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOY5qbXs3Do8CC7nTlZ1ZnCVnvcJTtiGehoRV30=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": "07:30-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 20",
+        "address": "Diagnostyka. Laboratoria Medyczne., Minska 5, 54-610 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470fc16d2e43792f:0xad6d9282fd112851!8m2!3d51.0995522!4d16.9414382!16s%2Fg%2F11gr633qgf!19sChIJL3lDLm3BD0cRUSgR_YKSba0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4zhyiXTqD0cRGiwzj3XCH00",
+        "name": "Punkt Pobran Krwi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 44,
+        "website": "https://mhmed.pl/",
+        "owner": {
+            "id": "101763432130138763382",
+            "name": "Punkt Pobran Krwi (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101763432130138763382"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOjx3WxUyJF03TUSmpEbDVZJe5Zdr5X81pnDV1v=w408-h612-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:30-13:00",
+        "closed_on": [
+            "dinsdag",
+            "woensdag",
+            "zaterdag",
+            "zondag",
+            "maandag"
+        ],
+        "phone": "+48 571 383 766",
+        "address": "Punkt Pobran Krwi, Bulwar Ikara 12a/4, 54-130 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Krwi/data=!4m7!3m6!1s0x470fea74897238e3:0x4d1fc2758f332c1a!8m2!3d51.1254068!4d16.9721423!16s%2Fg%2F11g7327bwj!19sChIJ4zhyiXTqD0cRGiwzj3XCH00?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ40CesFyVD0cRHYT2mZ6AAvk",
+        "name": "Amed Laboratorium Diagnostyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 43,
+        "website": "http://www.amed.org.pl/",
+        "owner": {
+            "id": "109292006188598897834",
+            "name": "Amed Laboratorium Diagnostyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109292006188598897834"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPtXhUeIBNIfC2I5E0ZLSHlkXzSG6BGfeM0dl0B=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:30-16:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 71 349 37 26",
+        "address": "Amed Laboratorium Diagnostyczne, Pawla Eluarda 7, 54-019 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Amed+Laboratorium+Diagnostyczne/data=!4m7!3m6!1s0x470f955cb09e40e3:0xf902809e99f6841d!8m2!3d51.1469037!4d16.8663047!16s%2Fg%2F1vd74mx_!19sChIJ40CesFyVD0cRHYT2mZ6AAvk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJISZu-07DD0cRgVIK5XWvR2Y",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 41,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-powstancow-slaskich-60/",
+        "owner": {
+            "id": "107170173984067483176",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107170173984067483176"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPwnse1iRWhK_cFMSnmdS7gIjN4kI0ChVoy6-Lg=w408-h543-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 20",
+        "address": "Diagnostyka. Laboratoria Medyczne., Powstancow Slaskich 60, 53-333 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470fc34efb6e2621:0x6647af75e50a5281!8m2!3d51.0962792!4d17.02436!16s%2Fg%2F11rbyzs92f!19sChIJISZu-07DD0cRgVIK5XWvR2Y?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVd3sA5zpD0cRwDSp58_iotY",
+        "name": "Lower Silesian Center for Laboratory Diagnostics Sp. o.o.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 39,
+        "website": "http://dcdl.pl/",
+        "owner": {
+            "id": null,
+            "name": "Lower Silesian Center for Laboratory Diagnostics Sp. o.o. (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMkWMba6Su8pGPiFiaVkD0MhS3_CQpMpVpleDBS=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "24 uur geopend",
+        "closed_on": [],
+        "phone": "+48 71 327 03 61",
+        "address": "Lower Silesian Center for Laboratory Diagnostics Sp. o.o., Kamienskiego 73A, 51-124 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lower+Silesian+Center+for+Laboratory+Diagnostics+Sp.+o.o./data=!4m7!3m6!1s0x470fe99c03ecdd55:0xd6a2e2cfe7a934c0!8m2!3d51.1482816!4d17.043789!16s%2Fg%2F1tj7csb6!19sChIJVd3sA5zpD0cRwDSp58_iotY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJfQfNPG7CD0cRh7HLwq2Vkjk",
+        "name": "Smiechowicz Bozena, mgr. Medical analysis laboratory",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 37,
+        "website": "http://www.laboratorium.wroclaw.pl/",
+        "owner": {
+            "id": null,
+            "name": "Smiechowicz Bozena, mgr. Medical analysis laboratory (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNTvuV_Rc4jcuEWaxoNMgHxvYmlZuazkUFuSR01=w427-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.7,
+        "workday_timing": "08:00-16:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 71 783 38 77",
+        "address": "Smiechowicz Bozena, mgr. Medical analysis laboratory, Trwala 7, 53-335 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Amiechowicz+Bo%C5%BCena,+mgr.+Medical+analysis+laboratory/data=!4m7!3m6!1s0x470fc26e3ccd077d:0x399295adc2cbb187!8m2!3d51.0933951!4d17.0243838!16s%2Fg%2F1hg4v73cb!19sChIJfQfNPG7CD0cRh7HLwq2Vkjk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6WSN9EfCD0cRILUS9iyQoOc",
+        "name": "LABKROL - Laboratorium Diagnostyki Medycznej - mgr Miroslawa Krol",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 37,
+        "website": "http://dmlab.pl/",
+        "owner": {
+            "id": "102923573481551060628",
+            "name": "LABKROL - Laboratorium Diagnostyki Medycznej - mgr Miroslawa Krol (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102923573481551060628"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNHSlREw9g6eD4b28XeFE5LY4uly5xrazc96G8y=w408-h273-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:00-15:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 71 337 17 26",
+        "address": "LABKROL - Laboratorium Diagnostyki Medycznej - mgr Miroslawa Krol, Powstancow Slaskich 168, 53-110 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/LABKR%C3%93L+-+Laboratorium+Diagnostyki+Medycznej+-+mgr+Miros%C5%82awa+Kr%C3%B3l/data=!4m7!3m6!1s0x470fc247f48d64e9:0xe7a0902cf612b520!8m2!3d51.0842323!4d17.0113045!16s%2Fg%2F1tcyqkct!19sChIJ6WSN9EfCD0cRILUS9iyQoOc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJXSpXw0HrD0cRddBwlXiqawo",
+        "name": "Diagnostyka. Punkt Pobran Kontrahenta. eM-MED.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 35,
+        "website": "https://www.facebook.com/EM-MED-Punkt-Pobra%25C5%2584-Ambulatoryjne-%25C5%259Awiadczenia-Zdrowotne-101356208672008",
+        "owner": {
+            "id": "107436874735874924478",
+            "name": "Diagnostyka. Punkt Pobran Kontrahenta. eM-MED. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107436874735874924478"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOfVYPanbiKmD7zqzk18j2Wr1HqbjdspiyGew4Q=w408-h563-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 511 512 227",
+        "address": "Diagnostyka. Punkt Pobran Kontrahenta. eM-MED., Aleja Architektow 4A, 54-115 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Punkt+Pobra%C5%84+Kontrahenta.+eM-MED./data=!4m7!3m6!1s0x470feb41c3572a5d:0xa6baa789570d075!8m2!3d51.1379697!4d16.9288719!16s%2Fg%2F11p44fss8_!19sChIJXSpXw0HrD0cRddBwlXiqawo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJM-lmB3zDD0cR_DPKM_6kZsA",
+        "name": "Centrum Medyczne L4med",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 34,
+        "website": "http://l4med.pl/",
+        "owner": {
+            "id": "107184666645424842787",
+            "name": "Centrum Medyczne L4med (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107184666645424842787"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOqqmKWM0QDnGJ0kCUz8VcO9TqDzhpTviRSobNm=w408-h270-k-no",
+        "main_category": "Medische kliniek",
+        "categories": [
+            "Medische kliniek",
+            "Cardioloog",
+            "Medisch laboratorium",
+            "Neuroloog",
+            "Optometrist",
+            "Reumatoloog",
+            "Rontgenlaboratorium"
+        ],
+        "rating": 4.7,
+        "workday_timing": "08:00-19:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 602 247 682",
+        "address": "Centrum Medyczne L4med, Waleriana Lukasinskiego 12-14/1A, 50-436 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Centrum+Medyczne+L4med/data=!4m7!3m6!1s0x470fc37c0766e933:0xc066a4fe33ca33fc!8m2!3d51.1015787!4d17.0502705!16s%2Fg%2F11fhl4cn8t!19sChIJM-lmB3zDD0cR_DPKM_6kZsA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3YZnpLrqD0cRRjIBCWCMY-8",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 33,
+        "website": "https://www.synevo.pl/laboratorium-wroclaw-fabryczna-fieldorfa/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dwroclaw_fieldorfa",
+        "owner": {
+            "id": "105959783015589775979",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105959783015589775979"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNMOunJrNqV9KyJHZQnOARVouvZyB-0zkNVCgUC=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 01",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Fieldorfa 2, 54-049 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470feabaa46786dd:0xef638c6009013246!8m2!3d51.1442311!4d16.9076076!16s%2Fg%2F11c2nn8tv1!19sChIJ3YZnpLrqD0cRRjIBCWCMY-8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJR4zImYfCD0cRbcYREdFu0O4",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 32,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-traugutta-142/",
+        "owner": {
+            "id": "107551118304039811474",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107551118304039811474"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Of4OLJjRNHMhzkQbczRYfw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=123.87153&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 341 59 08",
+        "address": "Diagnostics. Medical Laboratories., Generala Romualda Traugutta 142, 50-420 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x470fc28799c88c47:0xeed06ed11111c66d!8m2!3d51.0975365!4d17.0562442!16s%2Fg%2F12hxgdlf2!19sChIJR4zImYfCD0cRbcYREdFu0O4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJueyyF3fDD0cRMW4Ug1ipVAA",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 32,
+        "website": "https://www.synevo.pl/laboratorium-wroclaw-dworzec-glowny/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dwroclaw-dworzec",
+        "owner": {
+            "id": "116227125823754486914",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116227125823754486914"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOj99KyBu1hsAvJBPHkwpv8GnDmCoILgp6Ihgv4=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Swobodna 8A, 53-110 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470fc37717b2ecb9:0x54a95883146e31!8m2!3d51.0971749!4d17.0315766!16s%2Fg%2F11hyfwj91k!19sChIJueyyF3fDD0cRMW4Ug1ipVAA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJccZnpLfpD0cRbTCH3tF2E8Y",
+        "name": "DIALAB Laboratory - Laboratory Wroclaw",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 31,
+        "website": "http://www.dialab.pl/",
+        "owner": {
+            "id": "111907506481935739850",
+            "name": "DIALAB Laboratory - Laboratory Wroclaw (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111907506481935739850"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMqVeGR3IAGxojfUjQ_9kryqdoApXfh2i1_J-9z=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.4,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 71 325 56 23",
+        "address": "DIALAB Laboratory - Laboratory Wroclaw, Jana Sebastiana Bacha 13, 50-305 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/DIALAB+Laboratory+-+Laboratory+Wroclaw/data=!4m7!3m6!1s0x470fe9b7a467c671:0xc61376d1de87306d!8m2!3d51.1262181!4d17.0553977!16s%2Fg%2F11bw1xf1ym!19sChIJccZnpLfpD0cRbTCH3tF2E8Y?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJjaAzODDpD0cRRk52lFIep6I",
+        "name": "Diagnostyka, Punkt Pobran Kontrahenta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 31,
+        "website": "http://www.cm-vivamedica.pl/",
+        "owner": {
+            "id": "111890778312388881606",
+            "name": "Diagnostyka, Punkt Pobran Kontrahenta (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111890778312388881606"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPh50Or0sE2LoFx-Am1M8ZNOzzJd7uo9XZckeul=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Bloedbank",
+            "Diagnosecentrum"
+        ],
+        "rating": 4.7,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 452 123 699",
+        "address": "Diagnostyka, Punkt Pobran Kontrahenta, Slowianska 23, 50-234 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka,+Punkt+Pobra%C5%84+Kontrahenta/data=!4m7!3m6!1s0x470fe9303833a08d:0xa2a71e5294764e46!8m2!3d51.1237291!4d17.0420987!16s%2Fg%2F11tj9mz58w!19sChIJjaAzODDpD0cRRk52lFIep6I?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJIxpZRPjCD0cRPBhCMY6H7kU",
+        "name": "Diagnostyka Punkt Pobran Kontrahenta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 30,
+        "website": "https://witagen-kroplowki.pl/",
+        "owner": {
+            "id": "117944144430950380722",
+            "name": "Diagnostyka Punkt Pobran Kontrahenta (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117944144430950380722"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOte-6W6so0oyBxx8SKyGmJeB4iJ8_sP1paZGWg=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 884 777 727",
+        "address": "Diagnostyka Punkt Pobran Kontrahenta, Swieradowska 47A, 50-559 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka+Punkt+Pobra%C5%84+Kontrahenta/data=!4m7!3m6!1s0x470fc2f844591a23:0x45ee878e3142183c!8m2!3d51.0766521!4d17.0403594!16s%2Fg%2F11f3cv133t!19sChIJIxpZRPjCD0cRPBhCMY6H7kU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJSbi9lejDD0cRFOP-g0XBOq0",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 30,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "108208429980550088199",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108208429980550088199"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOa2jWCSMTj-uaY09evQ97c75Vb_h7Nqd3tvHGD=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Zwycieska 14CA/A, 53-033 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470fc3e895bdb849:0xad3ac14583fee314!8m2!3d51.058858!4d17.0101569!16s%2Fg%2F11sx222xjt!19sChIJSbi9lejDD0cRFOP-g0XBOq0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJY3UU6QfCD0cREMCFAALL5FA",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 29,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-mlodych-technikow-7/",
+        "owner": {
+            "id": "113078426884580599375",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113078426884580599375"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOL5VM1YaKb5gc3Ybsw6lLcpcZ1dIKAn1p9ZMn8=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.7,
+        "workday_timing": "07:30-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 20",
+        "address": "Diagnostics. Medical Laboratories., Mlodych Technikow 7, 53-647 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x470fc207e9147563:0x50e4cb020085c010!8m2!3d51.1137079!4d17.0122798!16s%2Fg%2F1vvdsykw!19sChIJY3UU6QfCD0cREMCFAALL5FA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJN_sNBtTpD0cRRwNpWISTGvU",
+        "name": "Molecular Pathology Centre Cellgen",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 28,
+        "website": "https://cellgen.pl/",
+        "owner": {
+            "id": "112311121420101315870",
+            "name": "Molecular Pathology Centre Cellgen (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112311121420101315870"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNJSOECCztnxQ-t2sUqe7XigcpG-M9Q7cSaFOIF=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Biotechnologiebedrijf"
+        ],
+        "rating": 3.4,
+        "workday_timing": "10:00-18:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": null,
+        "address": "Molecular Pathology Centre Cellgen, Piwna 13, 50-353 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Molecular+Pathology+Centre+Cellgen/data=!4m7!3m6!1s0x470fe9d4060dfb37:0xf51a938458690347!8m2!3d51.1137379!4d17.0541823!16s%2Fg%2F11f1zlqymb!19sChIJN_sNBtTpD0cRRwNpWISTGvU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVbd9OEXpD0cRAzYH3347834",
+        "name": "Diagnostyka Punkt Pobran Kontrahenta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 27,
+        "website": "https://www.diagnostykawroclaw.pl/",
+        "owner": {
+            "id": "104186092744019501061",
+            "name": "Diagnostyka Punkt Pobran Kontrahenta (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/104186092744019501061"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOH5YNyD9iQ8Sf09oV1-QhiRZJmCo6mG8fRxdE=w408-h408-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 798 860 156",
+        "address": "Diagnostyka Punkt Pobran Kontrahenta, Zakladowa 14, 50-231 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka+Punkt+Pobra%C5%84+Kontrahenta/data=!4m7!3m6!1s0x470fe945387db755:0x7ef33b7edf073603!8m2!3d51.1305491!4d17.0432222!16s%2Fg%2F11jdz53yyx!19sChIJVbd9OEXpD0cRAzYH3347834?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJTUNXJpLBD0cRm_yMYG9C6_4",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 26,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9843",
+        "owner": {
+            "id": "102783144644563254557",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102783144644563254557"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOvV5RuCL7LZGYrwonxYC6Bz1ObTIQiR3ZRaGLi=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": "07:15-14:45",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 71 307 95 74",
+        "address": "Punkt Pobran ALAB laboratoria, Gubinska 17/lok U1, 54-434 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470fc1922657434d:0xfeeb426f608cfc9b!8m2!3d51.1145433!4d16.9585574!16s%2Fg%2F11ngmm8_5n!19sChIJTUNXJpLBD0cRm_yMYG9C6_4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJn_M2ROLpD0cRJ4sIw3hR2jc",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-pl-sw-macieja-8/",
+        "owner": {
+            "id": "102595376651745733924",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102595376651745733924"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOzX9G0_njKmebQvRz6QAJuPLQIFKHOukpHIAMr=w408-h906-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.2,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 683 080",
+        "address": "Diagnostyka. Laboratoria Medyczne., plac Swietego Macieja 8, 53-110 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470fe9e24436f39f:0x37da5178c3088b27!8m2!3d51.1201593!4d17.0368678!16s%2Fg%2F11fk4kgxbr!19sChIJn_M2ROLpD0cRJ4sIw3hR2jc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJD7rWQXbCD0cRbKe6v_2MChw",
+        "name": "DIALAB Laboratorium - Badania laboratoryjne Wroclaw",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": "http://www.dialab.pl/",
+        "owner": {
+            "id": "107073960226828567624",
+            "name": "DIALAB Laboratorium - Badania laboratoryjne Wroclaw (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107073960226828567624"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM4SOuxEcPITKvPJnTqZH7Q1jP6LzLAS1X914Ex=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "dinsdag",
+            "donderdag",
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 758 55 55",
+        "address": "DIALAB Laboratorium - Badania laboratoryjne Wroclaw, Biskupia 11, 50-149 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/DIALAB+Laboratorium+-+Badania+laboratoryjne+Wroc%C5%82aw/data=!4m7!3m6!1s0x470fc27641d6ba0f:0x1c0a8cfdbfbaa76c!8m2!3d51.1093648!4d17.0367593!16s%2Fg%2F11dx8jbmnt!19sChIJD7rWQXbCD0cRbKe6v_2MChw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJrXyXUTjCD0cRMboolsS6-hQ",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "website": "https://www.synevo.pl/laboratorium-wroclaw-krzyki-raclawicka/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dwroclaw_krzyki_raclawicka",
+        "owner": {
+            "id": "106329633533271678942",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106329633533271678942"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOExteV9hIggSAaNg2BWgNV_kXE3iBCbdDG5Lis=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.5,
+        "workday_timing": "07:30-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Raclawicka 15/19, 53-149 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470fc23851977cad:0x14fabac49628ba31!8m2!3d51.0853721!4d17.0083726!16s%2Fg%2F11ddx71prk!19sChIJrXyXUTjCD0cRMboolsS6-hQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_wEWdVbBD0cRUs15APdUNBU",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9903",
+        "owner": {
+            "id": "101527559537926847818",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101527559537926847818"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNuVEB66e3ebAtMrm1QyatzkzXAVQqVJ2OUcG8H=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.5,
+        "workday_timing": "07:00-12:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 307 95 52",
+        "address": "Punkt Pobran ALAB laboratoria, al. Generala Jozefa Hallera 184/1, 53-203 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470fc156751601ff:0x153454f70079cd52!8m2!3d51.0930673!4d16.9808146!16s%2Fg%2F11rwb74fjy!19sChIJ_wEWdVbBD0cRUs15APdUNBU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJQ9h_pfXDD0cRF4LP0nc6wY8",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-gwarna-6a/",
+        "owner": {
+            "id": "113738478894099881439",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113738478894099881439"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=npKV4_V7WJxFm0AerIW9Lg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=106.76879&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "08:00-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 680 256",
+        "address": "Diagnostyka. Laboratoria Medyczne., Gwarna 6a, 50-001 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470fc3f5a57fd843:0x8fc13a77d2cf8217!8m2!3d51.100913!4d17.0383569!16s%2Fg%2F11h8wkrdqr!19sChIJQ9h_pfXDD0cRF4LP0nc6wY8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1bsC8hbCD0cRhL-hv7LC8uA",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-zelazna-34/",
+        "owner": {
+            "id": "103851909551502736032",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103851909551502736032"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNVAlr1Rvekg1UsjULOGW5cfQOQMzWsN2dlAnAg=w408-h545-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.4,
+        "workday_timing": "07:30-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 20",
+        "address": "Diagnostics. Medical Laboratories., Zelazna 34, 53-428 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x470fc216f202bbd5:0xe0f2c2b2bfa1bf84!8m2!3d51.0970575!4d17.0081698!16s%2Fg%2F11dyzldzyp!19sChIJ1bsC8hbCD0cRhL-hv7LC8uA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJSaNuzmDBD0cR5mPs97OOeS8",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-ostrowskiego-3/",
+        "owner": {
+            "id": "110410585877894351615",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110410585877894351615"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ErmYBJsn1LASP24mhWDflA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=345.65497&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:30-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 680 104",
+        "address": "Diagnostyka. Laboratoria Medyczne., Aleksandra Ostrowskiego 3, 53-238 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470fc160ce6ea349:0x2f798eb3f7ec63e6!8m2!3d51.094782!4d16.97773!16s%2Fg%2F11j96vq4l7!19sChIJSaNuzmDBD0cR5mPs97OOeS8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJvyK-otfCD0cROpW85Wh34js",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/laboratorium-diagnostyki-wroclaw-ul-warszawska-2/",
+        "owner": {
+            "id": "101776532750878618035",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101776532750878618035"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMyKnNWQ4BVFVK4wLrztx-wEO6_q642PL_H8Gwz=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.6,
+        "workday_timing": "07:00-18:30",
+        "closed_on": [],
+        "phone": "+48 71 342 76 81",
+        "address": "Diagnostyka. Laboratoria Medyczne., Warszawska 2, 52-114 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470fc2d7a2be22bf:0x3be27768e5bc953a!8m2!3d51.0640929!4d17.0803603!16s%2Fg%2F1tf85t8j!19sChIJvyK-otfCD0cROpW85Wh34js?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJqwSk8RnDD0cRcZEbK4bonoE",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": "https://www.synevo.pl/laboratorium-wroclaw-cedrowa/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dwroclaw_cedrowa",
+        "owner": {
+            "id": "106109735754368819335",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106109735754368819335"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNzxv_w7AaAvFwdPcH4NwWVQdV5DmNEJgX6m8ji=w408-h240-k-no-pi-0-ya323.40433-ro-0-fo100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Cedrowa 4, 52-112 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470fc319f1a404ab:0x819ee8862b1b9171!8m2!3d51.0675342!4d17.0802349!16s%2Fg%2F11tcx86lsm!19sChIJqwSk8RnDD0cRcZEbK4bonoE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJM359P5TpD0cR1NGI9RkSNBI",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-bonczyka-20/",
+        "owner": {
+            "id": "106050002620035908955",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106050002620035908955"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=A-2vW3dc3lm0DAFRLdxcUQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=277.43393&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.1,
+        "workday_timing": "07:00-13:00",
+        "closed_on": [
+            "dinsdag",
+            "donderdag",
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 20",
+        "address": "Diagnostics. Medical Laboratories., Ksiedza Norberta Bonczyka 20, 51-138 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x470fe9943f7d7e33:0x12341219f588d1d4!8m2!3d51.1365914!4d17.0381758!16s%2Fg%2F11df0x0rrk!19sChIJM359P5TpD0cR1NGI9RkSNBI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJl11O4evrD0cR7TbrtKYdffg",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": "https://www.synevo.pl/laboratorium-wroclaw-hermanowska/",
+        "owner": {
+            "id": "105246386880424034010",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105246386880424034010"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOquhYThPmgoAaEl4UGWx35NHbuz3luWzCw0jR_=w408-h272-k-no",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Hermanowska 99a, 54-314 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470febebe14e5d97:0xf87d1da6b4eb36ed!8m2!3d51.1254326!4d16.9465531!16s%2Fg%2F11gj3yxmc5!19sChIJl11O4evrD0cR7TbrtKYdffg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJLbDAJBnpD0cR66mdMb3h4qk",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-swojczycka-69/",
+        "owner": {
+            "id": "111273319051785147035",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111273319051785147035"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPuMdrnIxEFxMYXu-8CLH3SwpltPpr9_1cKwfwr=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 20",
+        "address": "Diagnostyka. Laboratoria Medyczne., Swojczycka 69, 51-501 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470fe91924c0b02d:0xa9e2e1bd319da9eb!8m2!3d51.1131172!4d17.1215249!16s%2Fg%2F11rgdp70nj!19sChIJLbDAJBnpD0cR66mdMb3h4qk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJjZRL6hvpD0cRNkxs6LbAThE",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "106056275703003241365",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106056275703003241365"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPmE7O5oN96KJ_28gnOuprBRfBbpTncIGlAri7n=w408-h305-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Jana Sebastiana Bacha 13, 50-305 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470fe91bea4b948d:0x114ec0b6e86c4c36!8m2!3d51.126242!4d17.0553632!16s%2Fg%2F11rvf_n4bb!19sChIJjZRL6hvpD0cRNkxs6LbAThE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJLStxrenpD0cRy56PGaW0ZLg",
+        "name": "Punkt Pobran Diamen, Badania Laboratoryjne, Pobieranie Krwi, Gabinet Zabiegowy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": "https://punktpobrandiamen.com/",
+        "owner": {
+            "id": "118419315264968038753",
+            "name": "Punkt Pobran Diamen, Badania Laboratoryjne, Pobieranie Krwi, Gabinet Zabiegowy (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/118419315264968038753"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPfMy01jFKBlZi-C7zlhSVy97mlgSEftVtEBRdA=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-11:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 570 200 490",
+        "address": "Punkt Pobran Diamen, Badania Laboratoryjne, Pobieranie Krwi, Gabinet Zabiegowy, Chorwacka 35a, 51-107 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Diamen,+Badania+Laboratoryjne,+Pobieranie+Krwi,+Gabinet+Zabiegowy/data=!4m7!3m6!1s0x470fe9e9ad712b2d:0xb864b4a5198f9ecb!8m2!3d51.1377496!4d17.0269023!16s%2Fg%2F11r9m2nvkx!19sChIJLStxrenpD0cRy56PGaW0ZLg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJr9KrOq_pD0cRJsPiYd4R7VA",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10004",
+        "owner": {
+            "id": "115645134293947681946",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115645134293947681946"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMb_UxfgX6hWVWCH0iU6958SeiqjCobRIxD7LEI=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": "07:30-15:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 71 307 95 15",
+        "address": "Punkt Pobran ALAB laboratoria, Curie-Sklodowskiej 12, 50-381 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470fe9af3aabd2af:0x50ed11de61e2c326!8m2!3d51.1125651!4d17.0568799!16s%2Fg%2F11tcw6t7pp!19sChIJr9KrOq_pD0cRJsPiYd4R7VA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJHeP1Mq7rD0cRmJ0fQymGGpo",
+        "name": "Diagnostyka Punkt Pobran Kontrahenta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": "https://www.diagnostykawroclaw.pl/kontakt/",
+        "owner": {
+            "id": "101746796029921015353",
+            "name": "Diagnostyka Punkt Pobran Kontrahenta (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101746796029921015353"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMTa4TWngM2EJdrgiYtDp2oFohAyYg9b-sCEVAX=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Bloedbank",
+            "Laboratorium",
+            "Medisch centrum"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 731 731 444",
+        "address": "Diagnostyka Punkt Pobran Kontrahenta, Popowicka 77, 54-236 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka+Punkt+Pobra%C5%84+Kontrahenta/data=!4m7!3m6!1s0x470febae32f5e31d:0x9a1a8629431f9d98!8m2!3d51.128721!4d16.990086!16s%2Fg%2F11kj2ypc83!19sChIJHeP1Mq7rD0cRmJ0fQymGGpo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJG1UMIYDDD0cRjnqT0gjDD1I",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-pilsudskiego-4a/",
+        "owner": {
+            "id": "100911952071730600895",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100911952071730600895"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5vTfVJS7S2T-msuVmsyayw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=117.403465&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:30-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 20",
+        "address": "Diagnostyka. Laboratoria Medyczne., Marszalka Jozefa Pilsudskiego 4a, 50-049 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470fc380210c551b:0x520fc308d2937a8e!8m2!3d51.1066536!4d17.021879!16s%2Fg%2F11sgw0hmm5!19sChIJG1UMIYDDD0cRjnqT0gjDD1I?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJKS_lnwfrD0cRe-yyVAUax5E",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-ul-horbaczewskiego-35/",
+        "owner": {
+            "id": "113933309739106411829",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113933309739106411829"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=g-coctXDEx9k2z0A242O-g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=207.84271&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.5,
+        "workday_timing": "07:30-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 20",
+        "address": "Diagnostyka. Laboratoria Medyczne., Horbaczewskiego 35, 54-130 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470feb079fe52f29:0x91c71a0554b2ec7b!8m2!3d51.1248033!4d16.9712668!16s%2Fg%2F11h8mqsqgw!19sChIJKS_lnwfrD0cRe-yyVAUax5E?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJm8JAYw7qD0cR-tySWkinMMs",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": "https://www.synevo.pl/laboratorium-wroclaw-fabryczna-wejherowska/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dwroclaw-fabryczna",
+        "owner": {
+            "id": "102857009711286649697",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102857009711286649697"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOJx1-KgNJ5nRq7DGEWdajjcJ5jaXATrwidbxtH=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": "07:30-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Wejherowska 28/4, 54-239 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470fea0e6340c29b:0xcb30a7485a92dcfa!8m2!3d51.129319!4d16.9846151!16s%2Fg%2F11c5_9jtzh!19sChIJm8JAYw7qD0cR-tySWkinMMs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVVXFUc7DD0cR1sIOJKfHlCk",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "103154708090763580266",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103154708090763580266"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN4X2aqZjhoWpdbXNd0WNGdKUGnsAu8qfSkD1E0=w408-h240-k-no-pi-20-ya246.02579-ro-0-fo100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 4.7,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Zyczliwa 15, 53-030 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470fc3ce51c55555:0x2994c7a7240ec2d6!8m2!3d51.0679266!4d16.9880401!16s%2Fg%2F11h53vwwj9!19sChIJVVXFUc7DD0cR1sIOJKfHlCk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJd4DbyePBD0cRt8KusjJyqiQ",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-trawowa-73/",
+        "owner": {
+            "id": "104381306611896526595",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/104381306611896526595"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=h3PZNgk6cdEBAF5fa-yP6Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=164.73581&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.1,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 20",
+        "address": "Diagnostyka. Laboratoria Medyczne., Trawowa 73, 54-614 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470fc1e3c9db8077:0x24aa7232b2aec2b7!8m2!3d51.1002084!4d16.9525868!16s%2Fg%2F11gxt3c_n5!19sChIJd4DbyePBD0cRt8KusjJyqiQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJC2s6bxrBD0cRY3Gir-PWJv0",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-budziszynska-62a/",
+        "owner": {
+            "id": "101580185590848348446",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101580185590848348446"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPW2RfeSoStD2sTvA6v0IFvyYcAC6vhXDc4rrow=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 00",
+        "address": "Diagnostyka. Laboratoria Medyczne., Budziszynska 62a, 54-433 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470fc11a6f3a6b0b:0xfd26d6e3afa27163!8m2!3d51.1126238!4d16.9595385!16s%2Fg%2F11p5fy3_xb!19sChIJC2s6bxrBD0cRY3Gir-PWJv0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJSfCaidSVD0cR8YRpeBXgm48",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "109784264573269471178",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109784264573269471178"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMNkRcR63QNI5J0Vatb7afAmeJjgvK-kdkfiwN4=w408-h240-k-no-pi-0-ya16.561874-ro-0-fo100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "06:30-13:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Krepicka 1, 54-018 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470f95d4899af049:0x8f9be015786984f1!8m2!3d51.147096!4d16.867322!16s%2Fg%2F11rsh2wfzf!19sChIJSfCaidSVD0cR8YRpeBXgm48?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJS6hXXJXDD0cRjr0Gj2NCano",
+        "name": "Iwona Sroka Laboratorium Mykologiczne Mykolab - punkt pobran nr 1",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": "http://mykolab.com.pl/",
+        "owner": {
+            "id": "104604022545680023212",
+            "name": "Iwona Sroka Laboratorium Mykologiczne Mykolab - punkt pobran nr 1 (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/104604022545680023212"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOsZ-8KhI13slC2sgdeF0HGrno3rYLHpY3wHDyb=w408-h725-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": "08:30-12:30",
+        "closed_on": [
+            "dinsdag",
+            "woensdag",
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 511 167 261",
+        "address": "Iwona Sroka Laboratorium Mykologiczne Mykolab - punkt pobran nr 1, Ziemowita 1/9, 53-678 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Iwona+Sroka+Laboratorium+Mykologiczne+Mykolab+-+punkt+pobra%C5%84+nr+1/data=!4m7!3m6!1s0x470fc3955c57a84b:0x7a6a42638f06bd8e!8m2!3d51.1113419!4d17.0173925!16s%2Fg%2F11rxwnf8s4!19sChIJS6hXXJXDD0cRjr0Gj2NCano?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJEZiAipjpD0cR10jHWr_6KZc",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9931",
+        "owner": {
+            "id": "102116891325530292662",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102116891325530292662"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMo4lHbVG79rrpTYmftZm8kR_00W5S_80AZFvI=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "07:00-12:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 307 94 83",
+        "address": "Punkt Pobran ALAB laboratoria, Kamienskiego 227/U3, 51-126 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470fe9988a809811:0x9729fabf5ac748d7!8m2!3d51.1554202!4d17.0445943!16s%2Fg%2F11tfwr8h8n!19sChIJEZiAipjpD0cR10jHWr_6KZc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJqThcbfXpD0cR9xhsTiYzVeQ",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-sienkiewicza-110/",
+        "owner": {
+            "id": "109992056178037767151",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109992056178037767151"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOJwg1PhNMYtyt0Omi69ZP1Xm5q61UkvflKCkYj=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.6,
+        "workday_timing": "08:00-13:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 00",
+        "address": "Diagnostyka. Laboratoria Medyczne., Henryka Sienkiewicza 110, 50-361 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470fe9f56d5c38a9:0xe45533264e6c18f7!8m2!3d51.1160588!4d17.0602682!16s%2Fg%2F11j3ncw536!19sChIJqThcbfXpD0cR9xhsTiYzVeQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ96GfFa7qD0cROTmkF211_1E",
+        "name": "DIALAB Laboratory - Laboratory Wroclaw",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "http://www.dialab.pl/",
+        "owner": {
+            "id": "109782891973441743671",
+            "name": "DIALAB Laboratory - Laboratory Wroclaw (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109782891973441743671"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNcFu-fUE-i6kTtImYfErq4a7ps6tOpzTf0mQSO=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "08:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 758 55 55",
+        "address": "DIALAB Laboratory - Laboratory Wroclaw, Kamiennogorska 10, 54-028 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/DIALAB+Laboratory+-+Laboratory+Wroclaw/data=!4m7!3m6!1s0x470feaae159fa1f7:0x51ff756d17a43939!8m2!3d51.140928!4d16.9001076!16s%2Fg%2F11g6mvbjns!19sChIJ96GfFa7qD0cROTmkF211_1E?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8fTaX_frD0cRaAl1LMbK8ZE",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "https://www.alablaboratoria.pl/punkty%3Fprovience%3D1%26city%3D15%26szukaj%3DSZUKAJ",
+        "owner": {
+            "id": "102798793486294258143",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102798793486294258143"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lr7Kuu8pK89unZfzzj7v7w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=33.05646&pitch=0&thumbfov=100",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 2.2,
+        "workday_timing": "07:30-11:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 356 07 92",
+        "address": "Punkt Pobran ALAB laboratoria, Dokerska 9, 54-151 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470febf75fdaf4f1:0x91f1cac62c750968!8m2!3d51.1406421!4d16.9653459!16s%2Fg%2F11q1rdlv_8!19sChIJ8fTaX_frD0cRaAl1LMbK8ZE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJM4uiFaTrD0cRk_3pxXK1BcE",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-rajska-71/",
+        "owner": {
+            "id": "116662431191241367700",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116662431191241367700"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=A_Ec9WQcXgbR8YExdxVJxw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=17.763603&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.5,
+        "workday_timing": "08:00-11:00",
+        "closed_on": [
+            "dinsdag",
+            "donderdag",
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 00",
+        "address": "Diagnostyka. Laboratoria Medyczne., Rajska 71, 54-028 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470feba415a28b33:0xc105b572c5e9fd93!8m2!3d51.1415905!4d16.898162!16s%2Fg%2F11h8w2kwqx!19sChIJM4uiFaTrD0cRk_3pxXK1BcE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJcbQq9U3oD0cRZ2TZxrRhbYw",
+        "name": "Iwona Sroka Laboratorium Mykologiczne Mykolab - punkt pobran nr 3",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": "http://mykolab.com.pl/",
+        "owner": {
+            "id": "113154371487591189312",
+            "name": "Iwona Sroka Laboratorium Mykologiczne Mykolab - punkt pobran nr 3 (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113154371487591189312"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XocO-e7Qi0YkTxLSVcdlfA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=123.097115&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:00-12:00",
+        "closed_on": [
+            "woensdag",
+            "vrijdag",
+            "zaterdag",
+            "zondag",
+            "maandag"
+        ],
+        "phone": "+48 511 167 261",
+        "address": "Iwona Sroka Laboratorium Mykologiczne Mykolab - punkt pobran nr 3, aleja Aleksandra Brucknera 47/49, 51-417 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Iwona+Sroka+Laboratorium+Mykologiczne+Mykolab+-+punkt+pobra%C5%84+nr+3/data=!4m7!3m6!1s0x470fe84df52ab471:0x8c6d61b4c6d96467!8m2!3d51.1365807!4d17.0814742!16s%2Fg%2F11bbrpjqqp!19sChIJcbQq9U3oD0cRZ2TZxrRhbYw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJP_ntoZbDD0cRMoUOLbwZfMI",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": "https://sklep.alablaboratoria.pl/",
+        "owner": {
+            "id": "102426101201753448581",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102426101201753448581"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPU1pNvaOp6X33wBtEg9sbbzgFMchZHN345K8s=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": "07:30-11:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 356 07 91",
+        "address": "Punkt Pobran ALAB laboratoria, Stalowa 50, 54-433 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470fc396a1edf93f:0xc27c19bc2d0e8532!8m2!3d51.097921!4d17.0012327!16s%2Fg%2F11rc8vs5wf!19sChIJP_ntoZbDD0cRMoUOLbwZfMI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3Tib0cnpD0cRU917FnmazyA",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-jaracza-75h/",
+        "owner": {
+            "id": "105004844612611649613",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105004844612611649613"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMvNclrFOe_oha-1Mc22rs1ntIji-7o1BsvhXfP=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": 4.4,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 00",
+        "address": "Diagnostyka. Laboratoria Medyczne., Stefana Jaracza 75h, 50-305 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470fe9c9d19b38dd:0x20cf9a79167bdd53!8m2!3d51.1279901!4d17.0572639!16s%2Fg%2F11shqfw2gt!19sChIJ3Tib0cnpD0cRU917FnmazyA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJp8RlTL7pD0cRdCG66VXHiFU",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9976",
+        "owner": {
+            "id": "108231215607812350962",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108231215607812350962"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO6QrRGxUi2ojqptw0STd3ukOBwnXIoM9cx3Jty=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "07:15-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 307 99 01",
+        "address": "Punkt Pobran ALAB laboratoria, Gen. Wladyslawa Sikorskiego 5A, 50-001 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470fe9be4c65c4a7:0x5588c755e9ba2174!8m2!3d51.113884!4d17.021024!16s%2Fg%2F11s60f5xwr!19sChIJp8RlTL7pD0cRdCG66VXHiFU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJzXC2cDXpD0cRiyxUJnQUZ00",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-olszewskiego-21/",
+        "owner": {
+            "id": "101614593024760160235",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101614593024760160235"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FM_FD5sQCV7kc_MrepMghg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=157.83684&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": "07:30-12:30",
+        "closed_on": [
+            "dinsdag",
+            "donderdag",
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 00",
+        "address": "Diagnostyka. Laboratoria Medyczne., Karola Olszewskiego 21, 51-627 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470fe93570b670cd:0x4d67147426542c8b!8m2!3d51.1026677!4d17.0966827!16s%2Fg%2F11h8mq_ctp!19sChIJzXC2cDXpD0cRiyxUJnQUZ00?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJZdw5JgTCD0cRThUJJAW2Ha4",
+        "name": "Rex Company SA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "http://www.laboratorium-dna.pl/",
+        "owner": {
+            "id": "117031110466081574836",
+            "name": "Rex Company SA (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117031110466081574836"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipON-uduRbrLgkk61XD22_aXR1jFqhTcitMPBdry=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "08:00-16:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 800 206 080",
+        "address": "Rex Company SA, Wita Stwosza 16/27, 50-148 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Rex+Company+SA/data=!4m7!3m6!1s0x470fc2042639dc65:0xae1db6052409154e!8m2!3d51.1095741!4d17.0367925!16s%2Fg%2F1td4hvkv!19sChIJZdw5JgTCD0cRThUJJAW2Ha4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJcdMW_LHDD0cRghlRn7NUTHY",
+        "name": "Zdrowegeny.pl - Wroclaw",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "https://zdrowegeny.pl/",
+        "owner": {
+            "id": "105080991428395468986",
+            "name": "Zdrowegeny.pl - Wroclaw (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105080991428395468986"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AJEdYAkd0_bD-NbzTVBCfA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=68.380196&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1.7,
+        "workday_timing": "08:00-17:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 716 25 45",
+        "address": "Zdrowegeny.pl - Wroclaw, ul, Olawska 14, 50-123 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Zdrowegeny.pl+-+Wroc%C5%82aw/data=!4m7!3m6!1s0x470fc3b1fc16d371:0x764c54b39f511982!8m2!3d51.1084986!4d17.0356182!16s%2Fg%2F11g0ms5pk4!19sChIJcdMW_LHDD0cRghlRn7NUTHY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJCykHwPbCD0cRiSuWIQl72Yo",
+        "name": "Punkt Pobran Santelab",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "https://santelab.pl/",
+        "owner": {
+            "id": "104506661063647342427",
+            "name": "Punkt Pobran Santelab (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/104506661063647342427"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LmDIgyoT8tRkBhlhhfobuw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=75.65583&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "08:30-10:00",
+        "closed_on": [
+            "vrijdag",
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 509 799 388",
+        "address": "Punkt Pobran Santelab, Krynicka 18, 50-555 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Santelab/data=!4m7!3m6!1s0x470fc2f6c007290b:0x8ad97b0921962b89!8m2!3d51.081581!4d17.046999!16s%2Fg%2F11cnc555ng!19sChIJCykHwPbCD0cRiSuWIQl72Yo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJw3H2FM_DD0cRsFzRXd4RsZs",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "https://diag.pl/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-pereca-201a/",
+        "owner": {
+            "id": "115941668913675365941",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115941668913675365941"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPgDWH-jzh4rwhYFAKvPoZ5BfUDv3dUGncJ0DQT=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-17:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 00",
+        "address": "Diagnostyka. Laboratoria Medyczne., Icchaka Lejba Pereca 20/1A, 53-444 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470fc3cf14f671c3:0x9bb111de5dd15cb0!8m2!3d51.0990993!4d17.0077457!16s%2Fg%2F11l20l3g23!19sChIJw3H2FM_DD0cRsFzRXd4RsZs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJV4RcUWjDD0cRGTGU7dPPtGY",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "https://www.alablaboratoria.pl/punkty%239789",
+        "owner": {
+            "id": "106672112313041185223",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106672112313041185223"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMw6XzE7723eWZ77Hi5gLcrLu47HgaJPSCBvY5T=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 1.8,
+        "workday_timing": "08:00-11:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag",
+            "maandag"
+        ],
+        "phone": "+48 71 356 07 90",
+        "address": "Punkt Pobran ALAB laboratoria, plac Dominikanski 6, 50-159 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470fc368515c8457:0x66b4cfd3ed943119!8m2!3d51.1092208!4d17.041029!16s%2Fg%2F11rxpp050x!19sChIJV4RcUWjDD0cRGTGU7dPPtGY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJl_Xgr07pD0cRRBkLTJTH2uo",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "https://diag.pl/katalogi/placowki/wroclaw/punkt-pobran-diagnostyki-wroclaw-ul-canaletta-4/",
+        "owner": {
+            "id": "103611791082567423618",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103611791082567423618"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sDjnjF8bW_OUqRG2K8vSgQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=307.60504&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": "07:00-10:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 714 97 20",
+        "address": "Diagnostyka. Laboratoria Medyczne., Bernarda Belotta Canaletta 4, 51-650 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470fe94eafe0f597:0xeadac7944c0b1944!8m2!3d51.1041628!4d17.1149872!16s%2Fg%2F11j39gz5yz!19sChIJl_Xgr07pD0cRRBkLTJTH2uo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJW6Sn8eXBD0cRCc0B_9gPBSY",
+        "name": "Amplicon sp. z o. o.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "https://www.amplicon.pl/",
+        "owner": {
+            "id": "107408849393137010007",
+            "name": "Amplicon sp. z o. o. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107408849393137010007"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO3VpxbP8Vr558sVyy8v9klfOR_c0of2eeMcOk=w408-h366-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Biotechnologiebedrijf"
+        ],
+        "rating": 5,
+        "workday_timing": "07:30-15:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 739 223 268",
+        "address": "Amplicon sp. z o. o., Budynek Beta Klecinska 125, wejscie nr 8, 54-413 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Amplicon+sp.+z+o.+o./data=!4m7!3m6!1s0x470fc1e5f1a7a45b:0x26050fd8ff01cd09!8m2!3d51.1068771!4d16.9710078!16s%2Fg%2F11cmcvrf0s!19sChIJW6Sn8eXBD0cRCc0B_9gPBSY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJN4SWMTnDD0cRkWH3WIcHAjw",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "https://sklep.alablaboratoria.pl/",
+        "owner": {
+            "id": "108194836039823639012",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108194836039823639012"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNc9HIekmcPAaAV1rFB8BwuqYcWXBTytUFlJe7c=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-12:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 307 95 14",
+        "address": "Punkt Pobran ALAB laboratoria, Raclawicka 2, 53-146 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470fc33931968437:0x3c02078758f76191!8m2!3d51.0855636!4d17.0107033!16s%2Fg%2F11jyj7qd84!19sChIJN4SWMTnDD0cRkWH3WIcHAjw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9eUAdl_BD0cR7y4slQyLC0c",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "https://sklep.alablaboratoria.pl/badania?punkty_id=9879",
+        "owner": {
+            "id": "100717311939573252587",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100717311939573252587"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPj_TbPdU-vRqX3tL9LICmXud9FIzrwZopBkKUW=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "07:30-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 307 96 34",
+        "address": "Punkt Pobran ALAB laboratoria, Nowodworska 91A, 54-438 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470fc15f7600e5f5:0x470b8b0c952c2eef!8m2!3d51.1171416!4d16.9537971!16s%2Fg%2F11jylp531v!19sChIJ9eUAdl_BD0cR7y4slQyLC0c?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJn4Hsl_XCD0cRHJxk48WNlUs",
+        "name": "EUROIMMUN laboratory genetic DNA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "http://www.euroimmundna.pl/",
+        "owner": {
+            "id": "100781051779471237252",
+            "name": "EUROIMMUN laboratory genetic DNA (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100781051779471237252"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPT94nErVFL8Sotwa_JjAtyQWEo5grlpL578mn3=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:00-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 364 45 96",
+        "address": "EUROIMMUN laboratory genetic DNA, Widna 2, 50-543 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/EUROIMMUN+laboratory+genetic+DNA/data=!4m7!3m6!1s0x470fc2f597ec819f:0x4b958dc5e3649c1c!8m2!3d51.0851259!4d17.0454909!16s%2Fg%2F11yc19jqx!19sChIJn4Hsl_XCD0cRHJxk48WNlUs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJAQDwJQTCD0cRflL1O3cYgtg",
+        "name": "Laboratorium DNA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://laboratorium-dna.pl/",
+        "owner": {
+            "id": "111458149495557399395",
+            "name": "Laboratorium DNA (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111458149495557399395"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=g6vyilY6aQBHx4iJfyJTkQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=237.4325&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2,
+        "workday_timing": "08:00-16:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 571 204 271",
+        "address": "Laboratorium DNA, Wita Stwosza 16/27, 50-148 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+DNA/data=!4m7!3m6!1s0x470fc20425f00001:0xd88218773bf5527e!8m2!3d51.1095741!4d17.0367925!16s%2Fg%2F11h48wpvz0!19sChIJAQDwJQTCD0cRflL1O3cYgtg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJZ3CUwCvoD0cRHFAy_2bngj0",
+        "name": "Zaklad Technik Molekularnych",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "http://www.forensic.umed.wroc.pl/zaklad-technik-molekularnych",
+        "owner": {
+            "id": null,
+            "name": "Zaklad Technik Molekularnych (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPu8RJXwVdnLwHZ3zT56BgkyWpAjTUVa4ZSC3df=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-15:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 784 15 88",
+        "address": "Zaklad Technik Molekularnych, Curie-Sklodowskiej 52, 50-369 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Zak%C5%82ad+Technik+Molekularnych/data=!4m7!3m6!1s0x470fe82bc0947067:0x3d82e766ff32501c!8m2!3d51.1107774!4d17.0652799!16s%2Fg%2F11gf9qhv7g!19sChIJZ3CUwCvoD0cRHFAy_2bngj0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJG9876NPpD0cRaNNq9124Dcg",
+        "name": "Labo-Fam",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "http://www.fundacjaam.pl/",
+        "owner": {
+            "id": null,
+            "name": "Labo-Fam (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PRnoxSZwqFko3wpDY3mZlw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=95.97304&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 71 784 11 84",
+        "address": "Labo-Fam, Jana Mikulicza-Radeckiego 5, 50-345 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Labo-Fam/data=!4m7!3m6!1s0x470fe9d3e83bdf1b:0xc80db85df76ad368!8m2!3d51.1121239!4d17.0678289!16s%2Fg%2F1tgmt_3w!19sChIJG9876NPpD0cRaNNq9124Dcg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJGTbkX9DrD0cRNl3yohKOhAw",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "117321238186261686311",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117321238186261686311"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wuQXg2UGgieOtOWSkuFuNg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=99.45612&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "08:00-12:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Kamiennogorska 10, 54-034 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470febd05fe43619:0xc848e12a2f25d36!8m2!3d51.1408739!4d16.9003826!16s%2Fg%2F11q4g7g45d!19sChIJGTbkX9DrD0cRNl3yohKOhAw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJb-Pn8WrDD0cR8oJTtSbhdRg",
+        "name": "Laboratorium Medicover Strzegomska",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://www.medicover.pl/laboratorium/wroclaw/",
+        "owner": {
+            "id": "112243526961094968814",
+            "name": "Laboratorium Medicover Strzegomska (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112243526961094968814"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rr1Opnnlwg9T8qlyED9URw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=177.48021&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "07:00-12:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 725 97 82",
+        "address": "Laboratorium Medicover Strzegomska, Strzegomska 36, 53-611 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Medicover+Strzegomska/data=!4m7!3m6!1s0x470fc36af1e7e36f:0x1875e126b55382f2!8m2!3d51.113012!4d17.0003919!16s%2Fg%2F11tw_vq855!19sChIJb-Pn8WrDD0cR8oJTtSbhdRg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVyMpSDzoD0cRTLXJQBFZ-ws",
+        "name": "Laboratorium Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "http://www.laboratorium.wroclaw.pl/",
+        "owner": {
+            "id": null,
+            "name": "Laboratorium Analityczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XTBAw-hkyCty3iA6Tk11yg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=196.30128&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 71 783 38 77",
+        "address": "Laboratorium Analityczne, Trwala 7, 50-529 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Analityczne/data=!4m7!3m6!1s0x470fe83c48292357:0xbfb591140c9b54c!8m2!3d51.0933951!4d17.0243838!16s%2Fg%2F1trswqp2!19sChIJVyMpSDzoD0cRTLXJQBFZ-ws?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ5U1ZHc7DD0cR5nnOHaoqRcU",
+        "name": "Laboratorium Medicover Globis",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "http://www.medicover.pl/laboratorium/wroclaw/",
+        "owner": {
+            "id": "108611865734620100489",
+            "name": "Laboratorium Medicover Globis (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108611865734620100489"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_JZPwzD_ZEXWGna3zMUlsw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=50.00272&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "07:00-12:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 725 97 86",
+        "address": "Laboratorium Medicover Globis, Globis, Powstancow Slaskich 7a, 53-332 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Medicover+Globis/data=!4m7!3m6!1s0x470fc3ce1d594de5:0xc5452aaa1dce79e6!8m2!3d51.0986603!4d17.0256629!16s%2Fg%2F11khkm_wv0!19sChIJ5U1ZHc7DD0cR5nnOHaoqRcU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJMbRdveHDD0cRjOklc1Hrymo",
+        "name": "Laboratorium Medicover Tarasy Grabiszynskie",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://www.medicover.pl/laboratorium/wroclaw/",
+        "owner": {
+            "id": "101652855785522338270",
+            "name": "Laboratorium Medicover Tarasy Grabiszynskie (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101652855785522338270"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-ItPEIJBEsCd7BiGNgybIg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=175.76466&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "07:00-12:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 725 97 78",
+        "address": "Laboratorium Medicover Tarasy Grabiszynskie, Grabiszynska 240, 50-001 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Medicover+Tarasy+Grabiszy%C5%84skie/data=!4m7!3m6!1s0x470fc3e1bd5db431:0x6acaeb517325e98c!8m2!3d51.0945006!4d16.9818202!16s%2Fg%2F11khkn1424!19sChIJMbRdveHDD0cRjOklc1Hrymo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJM_zyX8XBD0cR7ZIlbo07dXg",
+        "name": "testDNA Wroclaw - badania DNA, testy na ojcostwo, badanie kariotypu, NIFTY Pro, testy genetyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://www.testdna.pl/badania-dna-na-ustalenie-ojcostwa-wroclaw/",
+        "owner": {
+            "id": "110797433240194872839",
+            "name": "testDNA Wroclaw - badania DNA, testy na ojcostwo, badanie kariotypu, NIFTY Pro, testy genetyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110797433240194872839"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oXFRqv9AgfkKeCLviMIWMA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=154.34448&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "07:00-19:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 665 761 161",
+        "address": "testDNA Wroclaw - badania DNA, testy na ojcostwo, badanie kariotypu, NIFTY Pro, testy genetyczne, Jurija Gagarina 110, 54-616 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/testDNA+Wroc%C5%82aw+-+badania+DNA,+testy+na+ojcostwo,+badanie+kariotypu,+NIFTY+Pro,+testy+genetyczne/data=!4m7!3m6!1s0x470fc1c55ff2fc33:0x78753b8d6e2592ed!8m2!3d51.0944625!4d16.9343845!16s%2Fg%2F11v5x22479!19sChIJM_zyX8XBD0cR7ZIlbo07dXg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJn-O4w7rpD0cR9XGyElIJh-Y",
+        "name": "Adamski Ryszard, dr. Prywatne laboratorium analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Adamski Ryszard, dr. Prywatne laboratorium analityczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=e4aKiMXvCUSLwMxelPCz0Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=223.04666&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "17:00-18:00",
+        "closed_on": [
+            "woensdag",
+            "vrijdag",
+            "zondag"
+        ],
+        "phone": "+48 504 133 599",
+        "address": "Adamski Ryszard, dr. Prywatne laboratorium analityczne, Leopolda Staffa 6, 51-144 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Adamski+Ryszard,+dr.+Prywatne+laboratorium+analityczne/data=!4m7!3m6!1s0x470fe9bac3b8e39f:0xe687095212b271f5!8m2!3d51.1392025!4d17.0586126!16s%2Fg%2F1tfm5cwc!19sChIJn-O4w7rpD0cR9XGyElIJh-Y?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJv2dPCAnCD0cR_p_sLKfXP24",
+        "name": "Punkt Pobran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Pobran (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yiMSiyQhSOyEqAx5iJJMoQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=346.11346&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 3.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Punkt Pobran, Ziemowita 1/9, 53-678 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84/data=!4m7!3m6!1s0x470fc209084f67bf:0x6e3fd7a72cec9ffe!8m2!3d51.1112781!4d17.0174151!16s%2Fg%2F11hzwc6dm0!19sChIJv2dPCAnCD0cR_p_sLKfXP24?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJh2eBDQrDD0cR8NbGM7C5a6I",
+        "name": "Zaklad Diagnostyki Laboratoryjnej 4WSKzP SP ZOZ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Zaklad Diagnostyki Laboratoryjnej 4WSKzP SP ZOZ (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=86Cg3qAFFrY8n-G6TdnV2g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=200.5014&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-17:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": null,
+        "address": "Zaklad Diagnostyki Laboratoryjnej 4WSKzP SP ZOZ, Weigla 5, 53-114 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Zak%C5%82ad+Diagnostyki+Laboratoryjnej+4WSKzP+SP+ZOZ/data=!4m7!3m6!1s0x470fc30a0d816787:0xa26bb9b033c6d6f0!8m2!3d51.0757889!4d17.0215117!16s%2Fg%2F11stqqy2jy!19sChIJh2eBDQrDD0cR8NbGM7C5a6I?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJgW_W1C_pD0cRnGyaOS-B-K0",
+        "name": "Laboratorium diagnostyczne SP ZOZ MSWiA we Wroclawiu",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Laboratorium diagnostyczne SP ZOZ MSWiA we Wroclawiu (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9EAmREvV-ezsuDju6DrdiQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=165.55571&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.3,
+        "workday_timing": "07:30-10:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 798 46 27",
+        "address": "Laboratorium diagnostyczne SP ZOZ MSWiA we Wroclawiu, Olbinska 32, 50-233 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+diagnostyczne+SP+ZOZ+MSWiA+we+Wroc%C5%82awiu/data=!4m7!3m6!1s0x470fe92fd4d66f81:0xadf8812f399a6c9c!8m2!3d51.1246336!4d17.0359747!16s%2Fg%2F11jpk417zl!19sChIJgW_W1C_pD0cRnGyaOS-B-K0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ09NGYjvDD0cRqEBC-K3QD8I",
+        "name": "Alab Laboratoria Sp. z o.o.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": "108419569606245793613",
+            "name": "Alab Laboratoria Sp. z o.o. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108419569606245793613"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipON13_0mSXGcpw9hDgLoZImueeZxvi8OrxDeXx3=w408-h408-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.3,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 307 95 51",
+        "address": "Alab Laboratoria Sp. z o.o., Generala Romualda Traugutta 103, 50-419 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Alab+Laboratoria+Sp.+z+o.o./data=!4m7!3m6!1s0x470fc33b6246d3d3:0xc20fd0adf84240a8!8m2!3d51.1004026!4d17.0522941!16s%2Fg%2F11v69v2x6j!19sChIJ09NGYjvDD0cRqEBC-K3QD8I?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ99V8wPbCD0cRg9Gb3eAmGys",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LmDIgyoT8tRkBhlhhfobuw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=117.0854&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 71 790 10 98",
+        "address": "Punkt Szczepien COVID, Krynicka 20-22, 50-555 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x470fc2f6c07cd5f7:0x2b1b26e0dd9bd183!8m2!3d51.081447!4d17.046995!16s%2Fg%2F11nm9lnp4k!19sChIJ99V8wPbCD0cRg9Gb3eAmGys?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJKRILe1bCD0cR9scZESa2zAE",
+        "name": "Poradnia Podstawowej Opieki Zdrowotnej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Podstawowej Opieki Zdrowotnej (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yuwa33l_RHdZyOhcuPo4FQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=96.48289&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": "07:30-13:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 71 733 16 00",
+        "address": "Poradnia Podstawowej Opieki Zdrowotnej, Borowska 213, 50-556 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Podstawowej+Opieki+Zdrowotnej/data=!4m7!3m6!1s0x470fc2567b0b1229:0x1ccb6261119c7f6!8m2!3d51.0746594!4d17.0332608!16s%2Fg%2F11nm9m1gmn!19sChIJKRILe1bCD0cR9scZESa2zAE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-fjS1vbCD0cR-qiQmr2gyCM",
+        "name": "Vitalab Krynicka",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Vitalab Krynicka (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=13ayeE8PEi9_4P3eIC4w3g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=65.345146&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": "07:00-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 730 771 136",
+        "address": "Vitalab Krynicka, Krynicka 32, 50-555 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Vitalab+Krynicka/data=!4m7!3m6!1s0x470fc2f6d6d2f8f9:0x23c8a0bd9a90a8fa!8m2!3d51.0804483!4d17.047459!16s%2Fg%2F11bwkf6y4d!19sChIJ-fjS1vbCD0cR-qiQmr2gyCM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4fOviHTqD0cRhHj3d5JlXOw",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bIwua3Uj-KPwPKlOPoSUng&cb_client=search.gws-prod.gps&w=408&h=240&yaw=263.49615&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 71 352 18 85",
+        "address": "Punkt Szczepien COVID, Bulwar Ikara 27C, 54-130 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x470fea7488aff3e1:0xec5c659277f77884!8m2!3d51.125847!4d16.9703178!16s%2Fg%2F11rbysq76d!19sChIJ4fOviHTqD0cRhHj3d5JlXOw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_Xz6C7rqD0cRLUsOB8FUo28",
+        "name": "Zaklad Diagnostyki Hematoonkologicznej DCOPiH",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Zaklad Diagnostyki Hematoonkologicznej DCOPiH (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO8CLilJX4kW8obXlh7iS_rmBR7B8GoTquqbZ_J=w408-h725-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 71 757 17 71",
+        "address": "Zaklad Diagnostyki Hematoonkologicznej DCOPiH, Fieldorfa 6, 54-049 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Zak%C5%82ad+Diagnostyki+Hematoonkologicznej+DCOPiH/data=!4m7!3m6!1s0x470feaba0bfa7cfd:0x6fa354c1070e4b2d!8m2!3d51.1472904!4d16.9091215!16s%2Fg%2F11g9dn217d!19sChIJ_Xz6C7rqD0cRLUsOB8FUo28?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJmYzmwXTqD0cRdAWEiH32l_M",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=g-coctXDEx9k2z0A242O-g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=207.84271&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 71 351 28 95",
+        "address": "Punkt Szczepien COVID, Horbaczewskiego 35, 54-130 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x470fea74c1e68c99:0xf397f67d88840574!8m2!3d51.1248033!4d16.9712668!16s%2Fg%2F11rbysqccy!19sChIJmYzmwXTqD0cRdAWEiH32l_M?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2dYxHXnCD0cRzEjUP6Ez9aM",
+        "name": "Poz Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poz Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cJT4Gde26z3sp9Q6_Tk-1w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=264.26785&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 609 101 022",
+        "address": "Poz Punkt Szczepien COVID, Dobrzynska 21/23, 50-403 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poz+Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x470fc2791d31d6d9:0xa3f533a13fd448cc!8m2!3d51.1070147!4d17.0460841!16s%2Fg%2F11nm9l_l1_!19sChIJ2dYxHXnCD0cRzEjUP6Ez9aM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0_dn4gDCD0cR8AIPFMcaG7c",
+        "name": "Gabinet Diagnostyczno - Zabiegowy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Diagnostyczno - Zabiegowy (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=E0aW6K9havsTOfFnVqgUdQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=85.721664&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 71 771 17 77",
+        "address": "Gabinet Diagnostyczno - Zabiegowy, Legnicka 40, 53-674 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Diagnostyczno+-+Zabiegowy/data=!4m7!3m6!1s0x470fc200e267f7d3:0xb71b1ac7140f02f0!8m2!3d51.1136836!4d17.0030829!16s%2Fg%2F11q1d99j37!19sChIJ0_dn4gDCD0cR8AIPFMcaG7c?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJeRNuh27CD0cRUKustBVypps",
+        "name": "Punkt szczepien na COVID-19-Oddzial Arkady Wroclawskie",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt szczepien na COVID-19-Oddzial Arkady Wroclawskie (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gOWgSQmhSxC1yB-Y9yW3vA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=293.3388&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Punkt szczepien na COVID-19-Oddzial Arkady Wroclawskie, Powstancow Slaskich 2, 50-529 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+szczepie%C5%84+na+COVID-19-Oddzia%C5%82+Arkady+Wroc%C5%82awskie/data=!4m7!3m6!1s0x470fc26e876e1379:0x9ba67215b4acab50!8m2!3d51.0989358!4d17.028777!16s%2Fg%2F11rxhvpd8k!19sChIJeRNuh27CD0cRUKustBVypps?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJd15DQn_qD0cRx3bj-Il1c6k",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GreOJu85bBewj6yCL3ktVw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=212.4922&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 71 357 57 28",
+        "address": "Punkt Szczepien COVID, Hermanowska 89, 54-314 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x470fea7f42435e77:0xa9737589f8e376c7!8m2!3d51.1253849!4d16.948048!16s%2Fg%2F11q1d8t7h7!19sChIJd15DQn_qD0cRx3bj-Il1c6k?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJI8mA4uHpD0cRlEBFgBknzyc",
+        "name": "Europejski Bank DNA Sp. z o.o.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Europejski Bank DNA Sp. z o.o. (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LnJuMmaSAiVnl00KBzdFbQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=6.128244&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 600 770 040",
+        "address": "Europejski Bank DNA Sp. z o.o., Swidnicka 39, 50-029 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Europejski+Bank+DNA+Sp.+z+o.o./data=!4m7!3m6!1s0x470fe9e1e280c923:0x27cf271980454094!8m2!3d51.1037577!4d17.0302924!16s%2Fg%2F1tkrkj7y!19sChIJI8mA4uHpD0cRlEBFgBknzyc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ___PF33CD0cRDEA2o3OCv4Q",
+        "name": "Gabinet Zabiegowy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Zabiegowy (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fFFwykANaDB-3CdneQ0RQA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=210.34583&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gabinet Zabiegowy, Komuny Paryskiej 73A, 50-452 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Zabiegowy/data=!4m7!3m6!1s0x470fc27d17cfffff:0x84bf8273a336400c!8m2!3d51.099948!4d17.0496684!16s%2Fg%2F11q1d9bxyb!19sChIJ___PF33CD0cRDEA2o3OCv4Q?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJAQBsREbCD0cRe6thjnvm-S8",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ANbxZyVKy4AM3_QNVVKOKw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=29.683165&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 71 367 40 78",
+        "address": "Punkt Szczepien COVID, aleja Lipowa 10, 53-124 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x470fc246446c0001:0x2ff9e67b8e61ab7b!8m2!3d51.0838655!4d17.0161369!16s%2Fg%2F11rbysr7ny!19sChIJAQBsREbCD0cRe6thjnvm-S8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJIZ5LyFyVD0cRZMY3n3Tn9jk",
+        "name": "Gabinet Szczepien",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Szczepien (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TyeUWTavjTSqFOFXoVejLA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=31.732235&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 71 349 27 21",
+        "address": "Gabinet Szczepien, Pawla Eluarda 7, 54-019 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Szczepie%C5%84/data=!4m7!3m6!1s0x470f955cc84b9e21:0x39f6e7749f37c664!8m2!3d51.1468726!4d16.8664225!16s%2Fg%2F11q1d8zlx6!19sChIJIZ5LyFyVD0cRZMY3n3Tn9jk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ___PF33CD0cRPAEZx_Lhz40",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fFFwykANaDB-3CdneQ0RQA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=210.34583&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 71 342 91 46",
+        "address": "Punkt Szczepien COVID, Komuny Paryskiej 73A, 50-452 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x470fc27d17cfffff:0x8dcfe1f2c719013c!8m2!3d51.099948!4d17.0496684!16s%2Fg%2F11nm9lttf8!19sChIJ___PF33CD0cRPAEZx_Lhz40?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2d4oxQzCD0cR_gVIW7nWbKs",
+        "name": "Poradnia Podstawowej Opieki Zdrowotnej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Podstawowej Opieki Zdrowotnej (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Uc-t2i7N2hhfi49sKD76Cg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=296.50775&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 71 343 55 32",
+        "address": "Poradnia Podstawowej Opieki Zdrowotnej, Sadowa 8, 50-046 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Podstawowej+Opieki+Zdrowotnej/data=!4m7!3m6!1s0x470fc20cc528ded9:0xab6cd6b95b4805fe!8m2!3d51.1058988!4d17.0233648!16s%2Fg%2F11nm9l_7kb!19sChIJ2d4oxQzCD0cR_gVIW7nWbKs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJdTDL-wjqD0cRZ3SJCDpL7t8",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dpAfTZ8m_NwO0fh_lK72MQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=211.05981&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 71 356 79 00",
+        "address": "Punkt Szczepien COVID, Stobrawska 2, 54-211 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x470fea08fbcb3075:0xdfee4b3a08897467!8m2!3d51.1222095!4d16.9841748!16s%2Fg%2F11q1d8w4mb!19sChIJdTDL-wjqD0cRZ3SJCDpL7t8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJh5bgxBroD0cRsTmL6z3npDI",
+        "name": "Gabinet Szczepien",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Szczepien (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9SsjdqfcFZYgVyDYNg2e5Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=0.9108399&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 71 372 80 29",
+        "address": "Gabinet Szczepien, Partyzantow 72, 51-675 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Szczepie%C5%84/data=!4m7!3m6!1s0x470fe81ac4e09687:0x32a4e73deb8b39b1!8m2!3d51.109866!4d17.1048847!16s%2Fg%2F11q1d8v9tc!19sChIJh5bgxBroD0cRsTmL6z3npDI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVRY-6QfCD0cRAtA1I5GRglY",
+        "name": "Poradnia Lekarza Poz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Lekarza Poz (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oUu_s0-pJ76T_FSVR8s37w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=99.663345&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 71 355 50 00",
+        "address": "Poradnia Lekarza Poz, Mlodych Technikow 7, 53-647 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Lekarza+Poz/data=!4m7!3m6!1s0x470fc207e93e1655:0x568291912335d002!8m2!3d51.1138089!4d17.012387!16s%2Fg%2F11nm9lt4dh!19sChIJVRY-6QfCD0cRAtA1I5GRglY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0Uo3eKfCD0cRTFyE12SthrM",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iIBvqiyNFf3BL9yvxg_dPg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=216.00308&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 71 347 82 03",
+        "address": "Punkt Szczepien COVID, OLSZEWSKIEGO 23B, 51-642 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x470fc2a778374ad1:0xb386ad64d7845c4c!8m2!3d51.101634!4d17.0968019!16s%2Fg%2F11q1d8wks3!19sChIJ0Uo3eKfCD0cRTFyE12SthrM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJAQBw3w7qD0cRo0NAPNOFjc4",
+        "name": "Przychodnia Specjalistyczna Owf",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Przychodnia Specjalistyczna Owf (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6SgCarqGzftKZUeGs7O2MA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=48.04217&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Przychodnia Specjalistyczna Owf, Legnicka 61, 54-203 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Przychodnia+Specjalistyczna+Owf/data=!4m7!3m6!1s0x470fea0edf700001:0xce8d85d33c4043a3!8m2!3d51.1254444!4d16.9853852!16s%2Fg%2F11nm9lqvnk!19sChIJAQBw3w7qD0cRo0NAPNOFjc4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1Q1y2gDoD0cRzndt112Q8ic",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sDjnjF8bW_OUqRG2K8vSgQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=302.38544&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 71 348 90 49",
+        "address": "Punkt Szczepien COVID, Bernarda Belotta Canaletta 4, 51-665 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x470fe800da720dd5:0x27f2905dd76d77ce!8m2!3d51.1041312!4d17.1149734!16s%2Fg%2F11rbyt9pm9!19sChIJ1Q1y2gDoD0cRzndt112Q8ic?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJCXxcLDroD0cRzN95Ss3qvUg",
+        "name": "Przychodnia Vita Krystyna Witas",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Przychodnia Vita Krystyna Witas (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LO850E18vdtZabkQWYTnBg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=303.59537&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 71 348 14 76",
+        "address": "Przychodnia Vita Krystyna Witas, Stanislawa Moniuszki 10, 51-610 Wroclaw, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Przychodnia+Vita+Krystyna+Witas/data=!4m7!3m6!1s0x470fe83a2c5c7c09:0x48bdeacd4a79dfcc!8m2!3d51.1198034!4d17.084422!16s%2Fg%2F11nm9lw3ll!19sChIJCXxcLDroD0cRzN95Ss3qvUg?authuser=0&hl=nl&rclk=1"
+    }
+]

@@ -1,0 +1,3280 @@
+[
+    {
+        "place_id": "ChIJj5OCVpjNHkcRknCCW44Upk0",
+        "name": "The Warsaw Center for Health Promotion - Panacea",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 423,
+        "website": "https://panaceum-waw.pl/",
+        "owner": {
+            "id": "115047151675454473310",
+            "name": "The Warsaw Center for Health Promotion - Panacea (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115047151675454473310"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOS3nSNJ_pRGU3rLp0PGDCCC_DEDbspwLDlCXlk=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.9,
+        "workday_timing": "07:00-20:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 884 804 894",
+        "address": "The Warsaw Center for Health Promotion - Panacea, Sienna 86, 00-815 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+Warsaw+Center+for+Health+Promotion+-+Panacea/data=!4m7!3m6!1s0x471ecd985682938f:0x4da6148e5b827092!8m2!3d52.2299465!4d20.9916483!16s%2Fg%2F1yglpdgl0!19sChIJj5OCVpjNHkcRknCCW44Upk0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4904n3bNHkcRvJ38RUgrd5o",
+        "name": "Borlamed Medyczne Laboratorium Diagnostyczne Borelioza Warszawa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 239,
+        "website": "http://www.borlamed.pl/",
+        "owner": {
+            "id": "100132060481793504913",
+            "name": "Borlamed Medyczne Laboratorium Diagnostyczne Borelioza Warszawa (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100132060481793504913"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN71n7K4aCRWSSv9U7nLAMF6D3Du2qhs1UY4S9s=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Diagnosecentrum",
+            "Medisch centrum",
+            "Medische kliniek"
+        ],
+        "rating": 4.8,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 534 630 468",
+        "address": "Borlamed Medyczne Laboratorium Diagnostyczne Borelioza Warszawa, Nasturcjowa 6, 03-989 Warszawa, Polen",
+        "review_keywords": [
+            {
+                "keyword": "examen",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Borlamed+Medyczne+Laboratorium+Diagnostyczne+Borelioza+Warszawa/data=!4m7!3m6!1s0x471ecd769f38dde3:0x9a772b4845fc9dbc!8m2!3d52.2163667!4d21.1045246!16s%2Fg%2F11h6130yk6!19sChIJ4904n3bNHkcRvJ38RUgrd5o?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJdWYxunPLHkcRRCxidxHvuwo",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 183,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-olbrachta-126/",
+        "owner": {
+            "id": "103068291978139673725",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103068291978139673725"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOqBl6JycitH_RVW6pcOkOU526VwAM8j0HcCFYm=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratoria Medyczne., Jana Olbrachta 126, 01-373 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471ecb73ba316675:0xabbef1177622c44!8m2!3d52.2338012!4d20.9152072!16s%2Fg%2F11htwzc1sb!19sChIJdWYxunPLHkcRRCxidxHvuwo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6Y5_n4LNHkcRiWH1XW5uINk",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 143,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10030",
+        "owner": {
+            "id": "101959569496536854102",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101959569496536854102"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN1aLbi4vUHJYipd31exxfjCm8BWZhMoGZMMS4F=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [],
+        "phone": "+48 22 613 80 20",
+        "address": "Punkt Pobran ALAB laboratoria, Gen. Emila Fieldorfa 10, 03-984 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471ecd829f7f8ee9:0xd9206e6e5df56189!8m2!3d52.2227131!4d21.0929906!16s%2Fg%2F1ptx7jncd!19sChIJ6Y5_n4LNHkcRiWH1XW5uINk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_5iw2IfLHkcR-ZzzHUpae1g",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 124,
+        "website": "https://www.synevo.pl/laboratorium-warszawa-srodmiescie/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dwarszawa_dzika",
+        "owner": {
+            "id": "114420320510315254863",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114420320510315254863"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN_pTFUA3bjw6vHZhTX5xVSxiA3ohUWQbYZ-R7e=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.5,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Dzika 4, 00-194 Warszawa, Polen",
+        "review_keywords": [
+            {
+                "keyword": "examen",
+                "count": 4
+            },
+            {
+                "keyword": "website",
+                "count": 3
+            },
+            {
+                "keyword": "resultaat",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471ecb87d8b098ff:0x587b5a4a1df39cf9!8m2!3d52.252663!4d20.9877454!16s%2Fg%2F11c2nt3p9k!19sChIJ_5iw2IfLHkcR-ZzzHUpae1g?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJycwDoTbNHkcRrScijrnAISc",
+        "name": "Punkt Pobran Diagnostyki",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 119,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-marszalkowska-68-70/",
+        "owner": {
+            "id": "100991827869728252169",
+            "name": "Punkt Pobran Diagnostyki (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100991827869728252169"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMyA85hTXXTooXDixfj3_KcvUv-YjVmYhSaH5r7=w408-h312-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.9,
+        "workday_timing": "06:00-14:30",
+        "closed_on": [],
+        "phone": "+48 799 366 566",
+        "address": "Punkt Pobran Diagnostyki, Marszalkowska 68/70, 00-545 Warszawa, Polen",
+        "review_keywords": [
+            {
+                "keyword": "examen",
+                "count": 3
+            },
+            {
+                "keyword": "resultaat",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Diagnostyki/data=!4m7!3m6!1s0x471ecd36a103ccc9:0x2721c0b98e2227ad!8m2!3d52.2252393!4d21.0149612!16s%2Fg%2F11j_yw7jv7!19sChIJycwDoTbNHkcRrScijrnAISc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJm_YJy-bKHkcRTWhVV-ZYvIo",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 97,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10032",
+        "owner": {
+            "id": "111411708228312430636",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111411708228312430636"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOfQJiAbgG_aMnJfEIugogTZyJyuMBNvOYqhFTB=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "06:30-11:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 403 04 11",
+        "address": "Punkt Pobran ALAB laboratoria, Gorczewska 224/lok. U8, 01-460 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471ecae6cb09f69b:0x8abc58e65755684d!8m2!3d52.2396026!4d20.901668!16s%2Fg%2F11cn0pynz3!19sChIJm_YJy-bKHkcRTWhVV-ZYvIo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJGTmVDyLLHkcRJWOuxcKxwaI",
+        "name": "Polskie Punkty Pobran, Laboratorium Zdrowia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 94,
+        "website": "http://www.polskiepunktypobran.pl/",
+        "owner": {
+            "id": "100435802827873633257",
+            "name": "Polskie Punkty Pobran, Laboratorium Zdrowia (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100435802827873633257"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNEnaNEcuiqJnVB_OAY3Iouxg_eJ-wXroXgzXtM=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:30-12:00",
+        "closed_on": [],
+        "phone": "+48 608 471 100",
+        "address": "Polskie Punkty Pobran, Laboratorium Zdrowia, Powstancow Slaskich 49, 01-355 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Polskie+Punkty+Pobra%C5%84,+Laboratorium+Zdrowia/data=!4m7!3m6!1s0x471ecb220f953919:0xa2c1b1c2c5ae6325!8m2!3d52.2306865!4d20.9144551!16s%2Fg%2F1hf49kq_g!19sChIJGTmVDyLLHkcRJWOuxcKxwaI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJgQ580l3LHkcRYCVplPLD4Q8",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 90,
+        "website": "https://diag.pl/pacjent/",
+        "owner": {
+            "id": "107228586251793079107",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107228586251793079107"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOUNasbSytKZLeBF6UX1DHecUx0OK0poVkoE_pf=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.1,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostics. Medical Laboratories., Aleja Prymasa Tysiaclecia 79A, 01-242 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x471ecb5dd27c0e81:0xfe1c3f294692560!8m2!3d52.2228673!4d20.9572129!16s%2Fg%2F1tdwj7y9!19sChIJgQ580l3LHkcRYCVplPLD4Q8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJN7pbpmLNHkcR_ppxYgDkdlc",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 73,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-kontrahenta-warszawa-ul-brazylijska-13/",
+        "owner": {
+            "id": "113476881537833933701",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113476881537833933701"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2OKIIoY22YWeaZINXaiC5w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=3.714052&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratoria Medyczne., Brazylijska 13, 03-946 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471ecd62a65bba37:0x5776e40062719afe!8m2!3d52.2314524!4d21.0667522!16s%2Fg%2F11f712bddc!19sChIJN7pbpmLNHkcR_ppxYgDkdlc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1VYVV6jMHkcRg78JcuE08xU",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 65,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10047",
+        "owner": {
+            "id": "102869430359745260102",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102869430359745260102"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPEbtVqCf_tv-zSBhhD_LhGKaw8kzMmL9NeqTR_=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 2.4,
+        "workday_timing": "07:30-12:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag",
+            "maandag"
+        ],
+        "phone": "+48 22 121 51 04",
+        "address": "Punkt Pobran ALAB laboratoria, Opaczewska 43/LOK. 18, 02-201 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471ecca8571556d5:0x15f334e17209bf83!8m2!3d52.2097103!4d20.9622906!16s%2Fg%2F11cs3_dxhp!19sChIJ1VYVV6jMHkcRg78JcuE08xU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJAU41d1g1GUcRf-ENIfz8PlI",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 60,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-jutrzenki-100/",
+        "owner": {
+            "id": "116323368798583121238",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116323368798583121238"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMFpIHxhNxAhzBoT_R8bFLocfdPD4kQtJVninyM=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "06:00-18:00",
+        "closed_on": [],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratoria Medyczne., Jutrzenki 100, 02-230 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x4719355877354e01:0x523efcfc210de17f!8m2!3d52.1906909!4d20.9281031!16s%2Fg%2F11sg33g_fx!19sChIJAU41d1g1GUcRf-ENIfz8PlI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-TP09O3MHkcRKmw-7xqdKGk",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 60,
+        "website": "https://sklep.alablaboratoria.pl/badania?punkty_id=9252",
+        "owner": {
+            "id": "115741310843769357510",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115741310843769357510"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOx5JIRayu116T2g6RCn3Bx0fhIPHSacLbYt3mc=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.2,
+        "workday_timing": "07:30-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 525 12 75",
+        "address": "Punkt Pobran ALAB laboratoria, Poznanska 22, 00-685 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471eccedf4f433f9:0x69289d1aef3e6c2a!8m2!3d52.2258939!4d21.0117434!16s%2Fg%2F1tffbytm!19sChIJ-TP09O3MHkcRKmw-7xqdKGk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJEyZOZag1GUcRKO4keLgkjOg",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 58,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10163",
+        "owner": {
+            "id": "100920748820505438592",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100920748820505438592"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPC7yw78gtQu8_VUXlEC7pZm0lKxZfw9nI_QarW=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag",
+            "maandag"
+        ],
+        "phone": "+48 22 349 11 65",
+        "address": "Punkt Pobran ALAB laboratoria, Wlodarzewska 83/lok u6, 02-393 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471935a8654e2613:0xe88c24b87824ee28!8m2!3d52.2026037!4d20.9492101!16s%2Fg%2F11s8wyy4gg!19sChIJEyZOZag1GUcRKO4keLgkjOg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJo8y4B9wtGUcRyK94MYUU9s8",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 57,
+        "website": "https://www.synevo.pl/laboratorium-warszawa-ursynow/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dwarszawa_ursynow",
+        "owner": {
+            "id": "106977937868279268054",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106977937868279268054"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMHUSqK1KnKHWZJgdJwSZ1XoapxQX1audLPMz1o=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.5,
+        "workday_timing": "06:45-14:15",
+        "closed_on": [],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Aleja Komisji Edukacji Narodowej 46, 02-797 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x47192ddc07b8cca3:0xcff614853178afc8!8m2!3d52.1418874!4d21.0565113!16s%2Fg%2F11fjz4jz1s!19sChIJo8y4B9wtGUcRyK94MYUU9s8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6dAUJk8zGUcRUopYJDGoohY",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 56,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-al-dwudziestolatkow-3/",
+        "owner": {
+            "id": "101536673661429277288",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101536673661429277288"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMGdQNMBpHG44fjM-1gE3KXTmk3edBDO8N8WbjO=w408-h687-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostics. Medical Laboratories., aleja Dwudziestolatkow 3, 02-100 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x4719334f2614d0e9:0x16a2a83124588a52!8m2!3d52.1927342!4d20.9682059!16s%2Fg%2F1tf4cskr!19sChIJ6dAUJk8zGUcRUopYJDGoohY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJgZt6C7IyGUcR-14bf__RZVA",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 56,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10023",
+        "owner": {
+            "id": "103156492626578514433",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103156492626578514433"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM8ukaS_lq7lE6LF6o4GBPywtLK-dqDWn0-t6hJ=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.4,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 415 60 85",
+        "address": "Punkt Pobran ALAB laboratoria, Swietego Bonifacego 70, 02-517 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471932b20b7a9b81:0x5065d1ff7f1b5efb!8m2!3d52.1808542!4d21.0555832!16s%2Fg%2F11c1v1yx0s!19sChIJgZt6C7IyGUcR-14bf__RZVA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJJWMgQNoyGUcRnzEwkS0sGcs",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 54,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10045",
+        "owner": {
+            "id": "110734616692176163528",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110734616692176163528"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOfWaqTQz0luNux49Bhm69oH3VpYiObNUfoD0qr=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.5,
+        "workday_timing": "07:00-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 853 17 73",
+        "address": "Punkt Pobran ALAB laboratoria, Zygmunta Modzelewskiego 37, 02-679 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471932da40206325:0xcb192c2d9130319f!8m2!3d52.1803681!4d21.0134296!16s%2Fg%2F11c5860n3w!19sChIJJWMgQNoyGUcRnzEwkS0sGcs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJS6ICzWMyGUcRIinyVUJj05I",
+        "name": "Pracownia Badan Bakteriologicznych Kostrzenska BADBAK",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 54,
+        "website": "http://www.badbak.pl/",
+        "owner": {
+            "id": "106544040937827503187",
+            "name": "Pracownia Badan Bakteriologicznych Kostrzenska BADBAK (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106544040937827503187"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zWIBoTaeWTQ6YaN92686Ig&cb_client=search.gws-prod.gps&w=408&h=240&yaw=10.312525&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "09:00-15:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 741 00 00",
+        "address": "Pracownia Badan Bakteriologicznych Kostrzenska BADBAK, Lelka 26, 02-812 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pracownia+Bada%C5%84+Bakteriologicznych+Kostrze%C5%84ska+BADBAK/data=!4m7!3m6!1s0x47193263cd02a24b:0x92d3634255f22922!8m2!3d52.144235!4d21.01952!16s%2Fg%2F1thlltz0!19sChIJS6ICzWMyGUcRIinyVUJj05I?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJi5psfOTNHkcRSZyhQS7rdZs",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 52,
+        "website": "https://www.synevo.pl/laboratorium-warszawa-praga-poludnie/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dwarszawa_praga_poludnie",
+        "owner": {
+            "id": "109230829556895792390",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109230829556895792390"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPwJMyAanQE7MWO2tdSvHRxi1W-33WfHcabCSx8=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, gen. Augusta Emila Fieldorfa ,,Nila\" 10/lok. 329, 03-984 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471ecde47c6c9a8b:0x9b75eb2e41a19c49!8m2!3d52.2230329!4d21.0928657!16s%2Fg%2F11jb1kp18k!19sChIJi5psfOTNHkcRSZyhQS7rdZs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJm3f908M0GUcRlZH7ZTqhuf8",
+        "name": "ALAB Laboratoria Point Downloads Children of Warsaw 31/27",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 51,
+        "website": "https://sklep.alablaboratoria.pl/badania?punkty_id=10028",
+        "owner": {
+            "id": "111013856718115792205",
+            "name": "ALAB Laboratoria Point Downloads Children of Warsaw 31/27 (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111013856718115792205"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP3MtXkx_2dAdA5xA5HR7LfJt1XkxvMVws7nlrj=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 868 16 76",
+        "address": "ALAB Laboratoria Point Downloads Children of Warsaw 31/27, Dzieci Warszawy 31/27, 02-495 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/ALAB+Laboratoria+Point+Downloads+Children+of+Warsaw+31%2F27/data=!4m7!3m6!1s0x471934c3d3fd779b:0xffb9a13a65fb9195!8m2!3d52.1943199!4d20.9002983!16s%2Fg%2F1ptxzw30j!19sChIJm3f908M0GUcRlZH7ZTqhuf8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJz4U9KzVbBEcRFEeRGlqNTvo",
+        "name": "Nadzieja-Lab",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 49,
+        "website": "http://nadzieja.com.pl/",
+        "owner": {
+            "id": "117530512556686392373",
+            "name": "Nadzieja-Lab (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117530512556686392373"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qJK1WAy_iLj3qFsIoHXbCQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=355.23358&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.7,
+        "workday_timing": "07:00-15:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 622 05 03",
+        "address": "Nadzieja-Lab, Wilcza 28/3, 00-544 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Nadzieja-Lab/data=!4m7!3m6!1s0x47045b352b3d85cf:0xfa4e8d5a1a914714!8m2!3d52.2252501!4d21.0167217!16s%2Fg%2F1tt1fzvr!19sChIJz4U9KzVbBEcRFEeRGlqNTvo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJM-H-WSzLHkcRZ-kg6NH-HgE",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 49,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "106115331152789682301",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106115331152789682301"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMKQTh04os_6jqVIqs_UT3vLQXBUD8vxJt6Md-Z=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "06:30-14:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Powstancow Slaskich 45, 01-355 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471ecb2c59fee133:0x11efed1e820e967!8m2!3d52.2297622!4d20.9146163!16s%2Fg%2F11px9fs2bl!19sChIJM-H-WSzLHkcRZ-kg6NH-HgE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJjXY3H9DNHkcRcEUHcj1GcXk",
+        "name": "Punkt Pobran Diagnostyki",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 49,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-chrzanowskiego-4/",
+        "owner": {
+            "id": "106029625977144989034",
+            "name": "Punkt Pobran Diagnostyki (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106029625977144989034"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP-G4RoJVRFC7QI3bO-vNROnkett5BMV-plrvfS=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.6,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Punkt Pobran Diagnostyki, Wojciecha Chrzanowskiego 4, 04-381 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Diagnostyki/data=!4m7!3m6!1s0x471ecdd01f37768d:0x7971463d72074570!8m2!3d52.2530235!4d21.0819936!16s%2Fg%2F11nykzdlb8!19sChIJjXY3H9DNHkcRcEUHcj1GcXk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJmzGm46LLHkcR0Lm0h24GKSc",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 48,
+        "website": "https://www.synevo.pl/laboratorium-warszawa-wola/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dwarszawa_wola",
+        "owner": {
+            "id": "100855285110412616675",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100855285110412616675"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO9b8KdE1o5n1VsHYIW8SRqokydfpx-sB5h15w=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.4,
+        "workday_timing": "06:45-14:15",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Skierniewicka 21, 01-230 Warszawa, Polen",
+        "review_keywords": [
+            {
+                "keyword": "pijn",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471ecba2e3a6319b:0x2729066e87b4b9d0!8m2!3d52.2330831!4d20.9669287!16s%2Fg%2F11h540wj95!19sChIJmzGm46LLHkcR0Lm0h24GKSc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJoQHFCrPOHkcROQeCyRax_Rw",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 48,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-kondratowicza-11/",
+        "owner": {
+            "id": "107210496978974997622",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107210496978974997622"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMg2q37Bk-fRn-ORkoIFu6IwmsaOnV-Ly2Qs_kd=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostics. Medical Laboratories., Ludwika Kondratowicza 11, 03-242 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x471eceb30ac501a1:0x1cfdb116c9820739!8m2!3d52.2943067!4d21.0278295!16s%2Fg%2F11dyzl33j3!19sChIJoQHFCrPOHkcROQeCyRax_Rw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJR3sfc4PPHkcRTZEyt8Czs1s",
+        "name": "Helisa Medyczne Laboratorium Diagnostyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 48,
+        "website": "http://www.helisalab.pl/",
+        "owner": {
+            "id": "101754836470229127807",
+            "name": "Helisa Medyczne Laboratorium Diagnostyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101754836470229127807"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOoi3jtg9pcdj52b3gUbae0V-SiQ1wdntn4s9_B=w408-h240-k-no-pi-10-ya302.29-ro0-fo100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.6,
+        "workday_timing": "08:00-16:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 606 548 883",
+        "address": "Helisa Medyczne Laboratorium Diagnostyczne, Parter przy fontannie, Zamkowa 2/U1, 03-890 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Helisa+Medyczne+Laboratorium+Diagnostyczne/data=!4m7!3m6!1s0x471ecf83731f7b47:0x5bb3b3c0b732914d!8m2!3d52.2733955!4d21.078036!16s%2Fg%2F11lkywxbbt!19sChIJR3sfc4PPHkcRTZEyt8Czs1s?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJu5rg4pnLHkcReBLmMgqE1UQ",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 48,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10035",
+        "owner": {
+            "id": "116556651055131304932",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116556651055131304932"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNlpYclBuoFQzWMSPr78NPahATcCGn08LQ8pumx=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 2.8,
+        "workday_timing": "07:00-12:30, 15:00-19:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 349 11 56",
+        "address": "Punkt Pobran ALAB laboratoria, Kaliny Jedrusik 9/lok. U5, 01-748 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471ecb99e2e09abb:0x44d5840a32e61278!8m2!3d52.256688!4d20.9667217!16s%2Fg%2F11lsszd9jt!19sChIJu5rg4pnLHkcReBLmMgqE1UQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJMZf0n4LNHkcRtObbCyIb-oI",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 46,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-fieldorfa-10/",
+        "owner": {
+            "id": "100990878906835007904",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100990878906835007904"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPLJL-fXUNUluHBAAQE4nbbBCcxQnpPOKO5g24z=w408-h545-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.7,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostics. Medical Laboratories., gen. Augusta Emila Fieldorfa ,,Nila\" 10, 03-984 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x471ecd829ff49731:0x82fa1b220bdbe6b4!8m2!3d52.2231302!4d21.0926412!16s%2Fg%2F11dyzl7my0!19sChIJMZf0n4LNHkcRtObbCyIb-oI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_0evj8MyGUcRc3Xh5BJ6WZQ",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 46,
+        "website": "https://www.synevo.pl/laboratorium-warszawa-sluzew/?utm_source=google&utm_medium=mybusiness&utm_campaign=warszawa-sluzew",
+        "owner": {
+            "id": "110332435591895269107",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110332435591895269107"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP-L_rvXXOg-NCIqaNTblLKQzEPrScIKFtSYmdj=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.1,
+        "workday_timing": "06:30-14:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Walbrzyska 48, 02-739 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471932c38faf47ff:0x94597a12e4e17573!8m2!3d52.1735118!4d21.021887!16s%2Fg%2F11c5_cpcln!19sChIJ_0evj8MyGUcRc3Xh5BJ6WZQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJeQFl3nfMHkcRxtFlN3DCkxk",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 45,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10063",
+        "owner": {
+            "id": "113035369936650164215",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113035369936650164215"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPpob52nleEmNPVqA-rt3eaaCbMyt3W9i7e2YYQ=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [],
+        "phone": "+48 22 100 83 96",
+        "address": "Punkt Pobran ALAB laboratoria, Stawki 4B, 00-193 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471ecc77de650179:0x1993c2703765d1c6!8m2!3d52.2537809!4d20.9921039!16s%2Fg%2F11cs3_qr6j!19sChIJeQFl3nfMHkcRxtFlN3DCkxk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7wGNroPLHkcRfjlBj9dRb1w",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 45,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10020",
+        "owner": {
+            "id": "105479336009232292172",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105479336009232292172"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNpvpL-N7NqkkbZ9uP0mHgpDDzCBvURARbW3hyp=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.6,
+        "workday_timing": "07:00-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 825 85 08",
+        "address": "Punkt Pobran ALAB laboratoria, Przy Agorze 26, 01-930 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471ecb83ae8d01ef:0x5c6f51d78f41397e!8m2!3d52.2903075!4d20.9351983!16s%2Fg%2F11hyk424xx!19sChIJ7wGNroPLHkcRfjlBj9dRb1w?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJJypk6_3NHkcR9UkITcISlB4",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 44,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-sliska-10/",
+        "owner": {
+            "id": "110217064981917231256",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110217064981917231256"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM-YKXX4daAkjAcoz3vzrScB0tj4xnnh0_fkOi1=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.7,
+        "workday_timing": "06:00-18:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratoria Medyczne., Sliska 10, 00-127 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471ecdfdeb642a27:0x1e9412c24d0849f5!8m2!3d52.2321967!4d20.9996273!16s%2Fg%2F11spnq62mn!19sChIJJypk6_3NHkcR9UkITcISlB4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJxwoL2CzLHkcRwn4ooKPuWCY",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 44,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "108584237482491059116",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108584237482491059116"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPJxGyT9cle6UfQkYwNcZ8guBSI3fPr4M4sOLJk=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": "06:00-13:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Juliana Konstantego Ordona 5F/U7, 01-237 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471ecb2cd80b0ac7:0x2658eea3a0287ec2!8m2!3d52.224632!4d20.9566325!16s%2Fg%2F11rjt1q3np!19sChIJxwoL2CzLHkcRwn4ooKPuWCY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJf-yZXnktGUcRKSEGx7DL7iA",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 42,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-lanciego-13/",
+        "owner": {
+            "id": "113809161003697289216",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113809161003697289216"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOgVGA91VWpxDCh03Q1Ogsa6Apr5s7uzg6IYkuc=w408-h725-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratoria Medyczne., Franciszka Marii Lanciego 13, 02-792 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x47192d795e99ec7f:0x20eecbb0c7062129!8m2!3d52.1455126!4d21.056148!16s%2Fg%2F1tn04jxl!19sChIJf-yZXnktGUcRKSEGx7DL7iA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1_oWSkfMHkcRHyrjpb1L6yg",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 39,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10064",
+        "owner": {
+            "id": "114375344970663095799",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114375344970663095799"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMLyYs5OfIsq3J2uU_HL3g8d1WqejupEl0z8eIg=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:00-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 619 00 11",
+        "address": "Punkt Pobran ALAB laboratoria, Targowa 70/2, 03-734 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471ecc474a16fad7:0x28eb4bbda5e32a1f!8m2!3d52.2539575!4d21.0360324!16s%2Fg%2F11c1v0gf1c!19sChIJ1_oWSkfMHkcRHyrjpb1L6yg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJd2orclvJHkcRmtPRKMF7vkE",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 38,
+        "website": "https://www.synevo.pl/laboratorium-bialoleka/?utm_source=google&utm_medium=mybusiness&utm_campaign=warszawa_bialoleka",
+        "owner": {
+            "id": "115510366988505559623",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115510366988505559623"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNDGmUbzOJNaJLvymBoqDdZdOd0VFL5--5AwULm=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "06:30-14:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Swiatowida 49, 03-144 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471ec95b722b6a77:0x41be7bc128d1d39a!8m2!3d52.319017!4d20.9506139!16s%2Fg%2F11j1pvzqmx!19sChIJd2orclvJHkcRmtPRKMF7vkE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJpQuDDMMzGUcRb0P-kOXj76s",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 37,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-pulawska-186/",
+        "owner": {
+            "id": "103333943516866270073",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103333943516866270073"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPSYtHwWjBJoAkPDNLqA6yANUeIFdb-OPjlK4t9=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratoria Medyczne., Pulawska 186, 02-670 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471933c30c830ba5:0xabefe3e590fe436f!8m2!3d52.1812134!4d21.0222623!16s%2Fg%2F11sn_64_jz!19sChIJpQuDDMMzGUcRb0P-kOXj76s?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJPV4dsVHNHkcRjOf5VNcoOj0",
+        "name": "Diagnostyka. Laboratorium Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 37,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-okrzei-18-u5/",
+        "owner": {
+            "id": "102843997471834668201",
+            "name": "Diagnostyka. Laboratorium Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102843997471834668201"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO43ONR8LVsMoU0CmCKsHe7fbn0qAt2Bt2wI6A=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.8,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratorium Medyczne., Stefana Okrzei 18/U5, 03-710 PUNKT, Polen",
+        "review_keywords": [
+            {
+                "keyword": "covid-19-diagnostiek",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratorium+Medyczne./data=!4m7!3m6!1s0x471ecd51b11d5e3d:0x3d3a28d754f9e78c!8m2!3d52.2502157!4d21.0335951!16s%2Fg%2F11h0vq3hdn!19sChIJPV4dsVHNHkcRjOf5VNcoOj0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJQ4QUdfHKHkcR7wxTj0Zvg4c",
+        "name": "SYNLAB Punkt Pobran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 35,
+        "website": "https://www.synlab.pl/",
+        "owner": {
+            "id": "105857729474636985057",
+            "name": "SYNLAB Punkt Pobran (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105857729474636985057"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNdWAvMKveQ9WrYu-4Hkb_0ArLhwDXmVZyHBRqE=w408-h585-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.6,
+        "workday_timing": "07:30-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 116 77 24",
+        "address": "SYNLAB Punkt Pobran, Kartezjusza 2, 01-480 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/SYNLAB+Punkt+Pobra%C5%84/data=!4m7!3m6!1s0x471ecaf175148443:0x87836f468f530cef!8m2!3d52.2505414!4d20.8953033!16s%2Fg%2F1tczz84f!19sChIJQ4QUdfHKHkcR7wxTj0Zvg4c?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJGYC7zafPHkcRUGaaYOOFXQc",
+        "name": "MULTI-LAB Medyczne Laboratorium Diagnostyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 34,
+        "website": "https://multi-lab-laboratorium-warszawa.business.site/?utm_source=gmb&utm_medium=referral",
+        "owner": {
+            "id": "100842163533883032602",
+            "name": "MULTI-LAB Medyczne Laboratorium Diagnostyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100842163533883032602"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPt-yDy47t4U3N_ymfHwDaEGF1fIBr6A6cMfqHy=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Diagnosecentrum",
+            "Laboratorium"
+        ],
+        "rating": 4.9,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 675 58 85",
+        "address": "MULTI-LAB Medyczne Laboratorium Diagnostyczne, Poborzanska 8/U2, 03-368 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/MULTI-LAB+Medyczne+Laboratorium+Diagnostyczne/data=!4m7!3m6!1s0x471ecfa7cdbb8019:0x75d85e3609a6650!8m2!3d52.2906061!4d21.0319878!16s%2Fg%2F11n190dy6z!19sChIJGYC7zafPHkcRUGaaYOOFXQc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJwS0uhG01GUcRqsIVicCgu1c",
+        "name": "Diagnostyka. Laboratoria medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 32,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-skoroszewska-11/",
+        "owner": {
+            "id": "108156943057789446041",
+            "name": "Diagnostyka. Laboratoria medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108156943057789446041"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPRmR7xDyyyoqp6f8qyF_gmyIVFVbSk-A9KeWVR=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratoria medyczne., Skoroszewska 11, 02-495 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+medyczne./data=!4m7!3m6!1s0x4719356d842e2dc1:0x57bba0c08915c2aa!8m2!3d52.1860325!4d20.8958769!16s%2Fg%2F11hdxc4fyb!19sChIJwS0uhG01GUcRqsIVicCgu1c?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJvWYdttrLHkcReUt2kx5iZ80",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 31,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-lazurowa-87/",
+        "owner": {
+            "id": "118334935192221406388",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/118334935192221406388"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMi97Uj3plGMgPk6xuwlNHuvXvX5P8aAkKJXk_G=w427-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.4,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratoria Medyczne., Lazurowa 87, 01-479 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471ecbdab61d66bd:0xcd67621e93764b79!8m2!3d52.2344436!4d20.8963082!16s%2Fg%2F11q1dj89yw!19sChIJvWYdttrLHkcReUt2kx5iZ80?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJdUciSPAzGUcRd1sfrHcVy9I",
+        "name": "Analizy Medyczne Warszawa, Podolog Warszawa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 31,
+        "website": "http://www.amvenus.pl/",
+        "owner": {
+            "id": "101389835359981844162",
+            "name": "Analizy Medyczne Warszawa, Podolog Warszawa (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101389835359981844162"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNmVNkY3NTIH9dxiIEUF-SjJcwNEVBgqXTtoA00=w408-h272-k-no",
+        "main_category": "Medisch centrum",
+        "categories": [
+            "Medisch centrum",
+            "Dermatoloog",
+            "Medische kliniek",
+            "Medisch laboratorium",
+            "Voedingsdeskundige",
+            "Chirurg",
+            "Inloopkliniek"
+        ],
+        "rating": 4.9,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 644 49 11",
+        "address": "Analizy Medyczne Warszawa, Podolog Warszawa, Wawrzynca Surowieckiego 8, 02-785 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Analizy+Medyczne+Warszawa,+Podolog+Warszawa/data=!4m7!3m6!1s0x471933f048224775:0xd2cb1577ac1f5b77!8m2!3d52.1601723!4d21.0207112!16s%2Fg%2F11j0s9bv4f!19sChIJdUciSPAzGUcRd1sfrHcVy9I?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJEbXihUIzGUcRLeXalTHbslI",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 30,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10025",
+        "owner": {
+            "id": "101530507300631101006",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101530507300631101006"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPKGo4aKqRAbpQR5JRN2JYG5Zsf70tzWty8KzCt=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [],
+        "phone": "+48 22 349 11 68",
+        "address": "Punkt Pobran ALAB laboratoria, Cybernetyki 17/lok. U9, 02-677 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x4719334285e2b511:0x52b2db3195dae52d!8m2!3d52.1765329!4d20.9919692!16s%2Fg%2F11nz3cknzx!19sChIJEbXihUIzGUcRLeXalTHbslI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ5TM4cNPLHkcRl0GQ6HDh7Gs",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 29,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-ceglowska-80/",
+        "owner": {
+            "id": "102379807379439268027",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102379807379439268027"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP3Sp36VuBovSUDQqglwWxuqKI0aq6kpsI7mu5d=w408-h725-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.7,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostics. Medical Laboratories., Ceglowska 80, 01-809 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x471ecbd3703833e5:0x6bece170e8904197!8m2!3d52.2867672!4d20.9512511!16s%2Fg%2F11df0x22tz!19sChIJ5TM4cNPLHkcRl0GQ6HDh7Gs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJQ-vCxeEyGUcR9GLOCufGdNc",
+        "name": "Health Laboratory - Polish Points Downloads",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 25,
+        "website": "http://www.polskiepunktypobran.pl/",
+        "owner": {
+            "id": "117893272817767953077",
+            "name": "Health Laboratory - Polish Points Downloads (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117893272817767953077"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN3BYb2zQSkTyLU8w0pb3UJEOPIz_slQj_oeHd4=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Laboratorium"
+        ],
+        "rating": 3.5,
+        "workday_timing": "07:30-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 885 571 100",
+        "address": "Health Laboratory - Polish Points Downloads, Obrzezna 1/U12, 02-691 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Health+Laboratory+-+Polish+Points+Downloads/data=!4m7!3m6!1s0x471932e1c5c2eb43:0xd774c6e70ace62f4!8m2!3d52.170095!4d20.9966421!16s%2Fg%2F11b7lmx_86!19sChIJQ-vCxeEyGUcR9GLOCufGdNc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJnRcrNug0GUcRh9I7Lk9b-a4",
+        "name": "Ad-Lab s.c. Laboratorium analityki medycznej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "website": "http://adlab-laboratorium.pl/",
+        "owner": {
+            "id": null,
+            "name": "Ad-Lab s.c. Laboratorium analityki medycznej (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPM7nr8qoF1y8oiZTCMj6hDMyScEqUR-ub7u50z=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-17:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 668 42 32",
+        "address": "Ad-Lab s.c. Laboratorium analityki medycznej, Walerego Slawka 13, 02-495 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ad-Lab+s.c.+Laboratorium+analityki+medycznej/data=!4m7!3m6!1s0x471934e8362b179d:0xaef95b4f2e3bd287!8m2!3d52.1914379!4d20.8937557!16s%2Fg%2F1tl1gmnh!19sChIJnRcrNug0GUcRh9I7Lk9b-a4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJpWeZ-8LNHkcRKvZyqheUgOw",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9686",
+        "owner": {
+            "id": "102529260620136425997",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102529260620136425997"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipObPvt1t49I528mnt20HTXt8H8QZTL0QhuvmdAU=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": "07:30-14:00",
+        "closed_on": [],
+        "phone": "+48 22 657 10 08",
+        "address": "Punkt Pobran ALAB laboratoria, Wojciecha Gorskiego 6, 00-030 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471ecdc2fb9967a5:0xec809417aa72f62a!8m2!3d52.2339059!4d21.0159717!16s%2Fg%2F11fhzhkck2!19sChIJpWeZ-8LNHkcRKvZyqheUgOw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJzfKpak7PHkcRyejTiP5J67o",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "website": "https://www.synevo.pl/laboratorium-warszawa-magiczna/",
+        "owner": {
+            "id": "104174388565232297667",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/104174388565232297667"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPpDakFHNdrPdnfdv39wCrLHJPh7gKVbSexIbrg=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Magiczna 6, 03-289 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471ecf4e6aa9f2cd:0xbaeb49fe88d3e8c9!8m2!3d52.3128527!4d21.0625768!16s%2Fg%2F11tt8cyfr3!19sChIJzfKpak7PHkcRyejTiP5J67o?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJV-tISkQtGUcRR1A5qRHm0FI",
+        "name": "SYNLAB Punkt Pobran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "website": "https://www.synlab.pl/",
+        "owner": {
+            "id": "109716443513380279581",
+            "name": "SYNLAB Punkt Pobran (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109716443513380279581"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOw-NbzHBP4EcaVbOTtO3Gpx0CAlyqTNaz_64Qa=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "07:30-11:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 530 060 878",
+        "address": "SYNLAB Punkt Pobran, Adama Branickiego 12, 02-972 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/SYNLAB+Punkt+Pobra%C5%84/data=!4m7!3m6!1s0x47192d444a48eb57:0x52d0e611a9395047!8m2!3d52.1572896!4d21.0770785!16s%2Fg%2F11lsft1z0t!19sChIJV-tISkQtGUcRR1A5qRHm0FI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJnTfGQQTNHkcRVgr8ISaEAiM",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10101",
+        "owner": {
+            "id": "112607838126529822931",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112607838126529822931"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMEWDw2emlpQHNXKB8IuLF43HqQAbOiUwGCMwOB=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 349 11 85",
+        "address": "Punkt Pobran ALAB laboratoria, gen. Stanislawa Skalskiego 1/lok U11, 03-982 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471ecd0441c6379d:0x2302842621fc0a56!8m2!3d52.2290773!4d21.07844!16s%2Fg%2F11s4w6z_9f!19sChIJnTfGQQTNHkcRVgr8ISaEAiM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJMY9kyrTTHkcRlYmEq8Pyhag",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "109446709421257797099",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109446709421257797099"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMfrxbll1s1mraXnzkEvtu7lYHkoVOClvxpQ96b=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.6,
+        "workday_timing": "06:30-14:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Zeganska 21/23, 04-713 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471ed3b4ca648f31:0xa885f2c3ab848995!8m2!3d52.207066!4d21.1789019!16s%2Fg%2F11r7qyxwxh!19sChIJMY9kyrTTHkcRlYmEq8Pyhag?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJETQglRzNHkcRkBfFKKFchU0",
+        "name": "SYNLAB Punkt Pobran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": "http://www.synlab.pl/",
+        "owner": {
+            "id": "105794945272299493794",
+            "name": "SYNLAB Punkt Pobran (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105794945272299493794"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNOUVBnFjqQ1pxIpkomNEqTy7ttp6xPWRzFZrXV=w408-h545-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.2,
+        "workday_timing": "08:00-12:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 691 862 880",
+        "address": "SYNLAB Punkt Pobran, Maurycego Mochnackiego 10, 02-042 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/SYNLAB+Punkt+Pobra%C5%84/data=!4m7!3m6!1s0x471ecd1c95203411:0x4d855ca128c51790!8m2!3d52.217222!4d20.9834685!16s%2Fg%2F11fd4jy85_!19sChIJETQglRzNHkcRkBfFKKFchU0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJOQS46ILLHkcR7LFJ9q8R7B0",
+        "name": "SYNLAB Punkt Pobran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": "https://www.synlab.pl/",
+        "owner": {
+            "id": "100064865953311068256",
+            "name": "SYNLAB Punkt Pobran (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100064865953311068256"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNE-t9Yr5e2jYOc7wpW5qZFW9t5hd6uPD0ht3Lu=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.2,
+        "workday_timing": "07:30-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 607 861 184",
+        "address": "SYNLAB Punkt Pobran, Ludwika Rydygiera 13, 01-793 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/SYNLAB+Punkt+Pobra%C5%84/data=!4m7!3m6!1s0x471ecb82e8b80439:0x1dec11aff649b1ec!8m2!3d52.2592914!4d20.9750944!16s%2Fg%2F11ghs54qv2!19sChIJOQS46ILLHkcR7LFJ9q8R7B0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJtxNT-pgtGUcRjp4imNrQtL0",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-wawozowa-1719/",
+        "owner": {
+            "id": "110681615680540573274",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110681615680540573274"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOs8URiRnDhQT-u-BtJWJY1xXlGhQvgtCGsN-v-=w408-h301-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.4,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [],
+        "phone": "+48 663 682 684",
+        "address": "Diagnostyka. Laboratoria Medyczne., Wawozowa 4, 02-796 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x47192d98fa5313b7:0xbdb4d0da98229e8e!8m2!3d52.1323323!4d21.0714894!16s%2Fg%2F11df0x82zv!19sChIJtxNT-pgtGUcRjp4imNrQtL0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJz-WKhMzNHkcRVLyQCfyWgSM",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-madalinskiego-25/",
+        "owner": {
+            "id": "114447960103447422755",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114447960103447422755"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tvpKOYr91Ia23pTqkAx_0A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=148.35748&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.2,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratoria Medyczne., Antoniego Jozefa Madalinskiego 25, 02-549 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471ecdcc848ae5cf:0x238196fc0990bc54!8m2!3d52.2041623!4d21.0171831!16s%2Fg%2F11h5fpb735!19sChIJz-WKhMzNHkcRVLyQCfyWgSM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJi0P72EQzGUcRq7crjSrwWBk",
+        "name": "Diagnostyka. Laboratoria medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-al-sikorskiego-9a/",
+        "owner": {
+            "id": "106614472030822748353",
+            "name": "Diagnostyka. Laboratoria medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106614472030822748353"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMbInbwCZ8AMibyv0y8ArZYWtFwYGZOs3MWv_nU=w506-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratoria medyczne., Aleja Gen. Wladyslawa Sikorskiego 9A, 02-758 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+medyczne./data=!4m7!3m6!1s0x47193344d8fb438b:0x1958f02a8d2bb7ab!8m2!3d52.1819098!4d21.0442813!16s%2Fg%2F11h8j6l5tr!19sChIJi0P72EQzGUcRq7crjSrwWBk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJp8NoHZnJHkcRtIYNju4OtUA",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-swiatowida-47/",
+        "owner": {
+            "id": "105073256996461990803",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105073256996461990803"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPEzMLaZITFvcRLu2ZnDrfFgAi4PrbgZjFlYvo0=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratoria Medyczne., Swiatowida 47, 03-144 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471ec9991d68c3a7:0x40b50eee8e0d86b4!8m2!3d52.318362!4d20.9512289!16s%2Fg%2F11t451qvm8!19sChIJp8NoHZnJHkcRtIYNju4OtUA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJTYp0LcDNHkcRTuXPiTWjYGc",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": "https://www.alablaboratoria.pl/punkty%2310036",
+        "owner": {
+            "id": "112186683504165112988",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112186683504165112988"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPGq4eTFQQ3SNBQvpoCW4vSupmnQo_2Lb47oG7b=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.6,
+        "workday_timing": "08:00-10:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 349 60 12",
+        "address": "Punkt Pobran ALAB laboratoria, Kobielska 6, 03-885 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471ecdc02d748a4d:0x6760a33589cfe54e!8m2!3d52.2470956!4d21.0912499!16s%2Fg%2F11c58bf7yn!19sChIJTYp0LcDNHkcRTuXPiTWjYGc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJdUUyCKUzGUcR7CUY4VdNOLI",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10054",
+        "owner": {
+            "id": "111787892840256568735",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111787892840256568735"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMvbBdZGJO_L3itNFPlDnT_Bucza9vFtJOdCGwo=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": "07:00-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 349 11 75",
+        "address": "Punkt Pobran ALAB laboratoria, Racjonalizacji 3/lok. U1, 02-673 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471933a508324575:0xb2384d57e11825ec!8m2!3d52.186672!4d20.9925244!16s%2Fg%2F11p13kvcds!19sChIJdUUyCKUzGUcR7CUY4VdNOLI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJi2P-tvvPHkcRAEofe2BzcKE",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10057",
+        "owner": {
+            "id": "114340328421493087837",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114340328421493087837"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOQkeS3JSSMBwmka7QwalkadktqcToqt5k3d30I=w426-h240-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:30-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 349 11 81",
+        "address": "Punkt Pobran ALAB laboratoria, Rembrandta 2/U11, 03-531 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471ecffbb6fe638b:0xa17073607b1f4a00!8m2!3d52.2795224!4d21.050119!16s%2Fg%2F11sx51c_qt!19sChIJi2P-tvvPHkcRAEofe2BzcKE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJCao_MynKHkcRJ5X5heXzc5k",
+        "name": "Medolab. Badania analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": "http://www.medolab.pl/",
+        "owner": {
+            "id": null,
+            "name": "Medolab. Badania analityczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPtSqpROywuA_pJTZLJI3aJpcD_8u1Y7YYcY-_3=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:30-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 865 08 77",
+        "address": "Medolab. Badania analityczne, Wrzeciono 10C, 01-961 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Medolab.+Badania+analityczne/data=!4m7!3m6!1s0x471eca29333faa09:0x9973f3e585f99527!8m2!3d52.2909058!4d20.9394321!16s%2Fg%2F1td9zfld!19sChIJCao_MynKHkcRJ5X5heXzc5k?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJqWnZLJrNHkcRzL90z0XpWkk",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": "https://www.alablaboratoria.pl/punkty",
+        "owner": {
+            "id": "111933042132300303327",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111933042132300303327"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMCVqMKD1Qr0rSb5k0p4dHLIaCb2I8J9T2VRP5b=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 349 11 08",
+        "address": "Punkt Pobran ALAB laboratoria, Karolkowa 28, 01-207 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471ecd9a2cd969a9:0x495ae945cf74bfcc!8m2!3d52.2300637!4d20.9784839!16s%2Fg%2F11srtxb1vc!19sChIJqWnZLJrNHkcRzL90z0XpWkk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-Zz9R2rLHkcRErDRhiseDFU",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": "https://sklep.alablaboratoria.pl/",
+        "owner": {
+            "id": "104195563765298425273",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/104195563765298425273"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO4T1j1sGjgzTBaS_X6bv9T7X8ZNi_k2Ba7WKZD=w519-h240-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.6,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 349 11 88",
+        "address": "Punkt Pobran ALAB laboratoria, Marcina Kasprzaka 29/l. U110, 01-234 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471ecb6a47fd9cf9:0x550c1e2b86d1b012!8m2!3d52.227438!4d20.955757!16s%2Fg%2F11tp6jksv5!19sChIJ-Zz9R2rLHkcRErDRhiseDFU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJmfYnFCszGUcRV_cJc3n6tm4",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10024",
+        "owner": {
+            "id": "106961896688209633798",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106961896688209633798"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM7vT75aTvL_7UIOjmP-MlUHomI27cvtWpnTrrw=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 349 11 79",
+        "address": "Punkt Pobran ALAB laboratoria, Bukowinska 22B, 02-703 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x4719332b1427f699:0x6eb6fa797309f757!8m2!3d52.1825007!4d21.025426!16s%2Fg%2F11s4_rpz15!19sChIJmfYnFCszGUcRV_cJc3n6tm4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVamzKhDPHkcR0K7l9gHCauU",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": "https://sklep.alablaboratoria.pl/badania?punkty_id=10211",
+        "owner": {
+            "id": "102624175222974088935",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102624175222974088935"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPRdn259_bw_8pACsl15BVNy9aNMz_v5a8RsyuU=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.5,
+        "workday_timing": "07:00-13:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 349 11 86",
+        "address": "Punkt Pobran ALAB laboratoria, Glebocka 88/lok 1U, 03-287 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471ecf102ab3a955:0xe56ac201f6e5aed0!8m2!3d52.3163262!4d21.0683183!16s%2Fg%2F11kc8l_j6k!19sChIJVamzKhDPHkcR0K7l9gHCauU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ91gkrx81GUcRMB3y3KEb74M",
+        "name": "AD-LAB",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": "http://www.adlab-laboratorium.pl/",
+        "owner": {
+            "id": null,
+            "name": "AD-LAB (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=i5mnS-uE2oA_kZ6zR1nd3g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=159.63959&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-17:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 817 50 10",
+        "address": "AD-LAB, Stanislawa Wojciechowskiego 37, 02-495 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/AD-LAB/data=!4m7!3m6!1s0x4719351faf2458f7:0x83ef1ba1dcf21d30!8m2!3d52.1946138!4d20.8714531!16s%2Fg%2F1vm7963n!19sChIJ91gkrx81GUcRMB3y3KEb74M?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJm9LgcgMzGUcRwgMXq_sHywc",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "108126870326797865839",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108126870326797865839"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN76hGs3lU-TfOussEOAxQTXQTdD-RRjNj1V288=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "06:30-14:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Bukowinska 12, 02-703 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x4719330372e0d29b:0x7cb07fbab1703c2!8m2!3d52.1800489!4d21.0272247!16s%2Fg%2F11sy3hg27k!19sChIJm9LgcgMzGUcRwgMXq_sHywc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJZVK5eKvLHkcRd6J0f1FvaBA",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-wroclawska-21/",
+        "owner": {
+            "id": "115015656332566194335",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115015656332566194335"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMgELDZSvvxABje7CYyCjb53jww3lKsfzyz__Qf=w533-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratoria Medyczne., Wroclawska 21, 01-493 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471ecbab78b95265:0x10686f517f74a277!8m2!3d52.2556944!4d20.9221639!16s%2Fg%2F11tk1ztq3r!19sChIJZVK5eKvLHkcRd6J0f1FvaBA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJCx8Xs7_PHkcRHsytN62wNBs",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "117255228475486233268",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117255228475486233268"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM_HLTY5RlV0_pgQcjcXPQG5n4Ve2UkoXsP-I1q=w408-h240-k-no-pi0-ya247.87344-ro-0-fo100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Ludwika Kondratowicza 18, 03-285 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471ecfbfb3171f0b:0x1b34b0ad37adcc1e!8m2!3d52.2906517!4d21.0481559!16s%2Fg%2F11sdb7wlcy!19sChIJCx8Xs7_PHkcRHsytN62wNBs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0UalUE4tGUcRHk-N93FJVTk",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-rzeczypospolitej-20-lok-u2/",
+        "owner": {
+            "id": "106671780364979534057",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106671780364979534057"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMhaCC__mEl5gi1IDeX3elw9rj9KA0_1sJy_4cz=w532-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratoria Medyczne., Aleja Rzeczypospolitej 20/lok.u2, 02-972 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x47192d4e50a546d1:0x39554971f78d4f1e!8m2!3d52.1661486!4d21.069778!16s%2Fg%2F11s1ct0c0n!19sChIJ0UalUE4tGUcRHk-N93FJVTk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJpeREKOTNHkcR1jMXbXmmvlg",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "107233230509920626001",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107233230509920626001"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPL5Y41IMmAUoFKpmM1gr3vbZ9Ms2wHFkjvdQmG=w408-h240-k-no-pi-20-ya182.5713-ro-0-fo100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.7,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Jana III Sobieskiego 112, 00-764 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471ecde42844e4a5:0x58bea6796d1733d6!8m2!3d52.2010948!4d21.0365834!16s%2Fg%2F11tnj_6xz7!19sChIJpeREKOTNHkcR1jMXbXmmvlg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJf-jTY2EzGUcRIkeWGA1taeY",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10034",
+        "owner": {
+            "id": "107536364924382361953",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107536364924382361953"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMUhH7KJ_OyMoILxgst8bucJ7_04M05Ozx_AShh=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.4,
+        "workday_timing": "06:30-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 349 11 76",
+        "address": "Punkt Pobran ALAB laboratoria, Klobucka 6c, 02-699 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x4719336163d3e87f:0xe6696d0d18964722!8m2!3d52.161038!4d20.9926326!16s%2Fg%2F11pv62v5mn!19sChIJf-jTY2EzGUcRIkeWGA1taeY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJGXbt7K3OHkcRb1u8QmAdMM8",
+        "name": "MULTI-LAB Laboratorium Analiz Lekarskich",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "https://multi-lab-laboratorium-warszawa.business.site/",
+        "owner": {
+            "id": "105130186265009050750",
+            "name": "MULTI-LAB Laboratorium Analiz Lekarskich (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105130186265009050750"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMGpBBuj_b_36HavUS1EUv6lZAA54KnkrldWzhi=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.9,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 675 58 85",
+        "address": "MULTI-LAB Laboratorium Analiz Lekarskich, Poborzanska 8, 03-368 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/MULTI-LAB+Laboratorium+Analiz+Lekarskich/data=!4m7!3m6!1s0x471eceadeced7619:0xcf301d6042bc5b6f!8m2!3d52.2904964!4d21.0317472!16s%2Fg%2F11cmfhrbnw!19sChIJGXbt7K3OHkcRb1u8QmAdMM8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJFRAJyO3JHkcRsb4CFGKhKGA",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-aluzyjna-33/",
+        "owner": {
+            "id": "102802800517867244852",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102802800517867244852"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FvouPMBHqV9EfkqGBfnFLA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=295.49628&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratoria Medyczne., Aluzyjna 33, 03-149 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471ec9edc8091015:0x6028a1621402beb1!8m2!3d52.3495144!4d20.9439788!16s%2Fg%2F11q22j640x!19sChIJFRAJyO3JHkcRsb4CFGKhKGA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJMV6UXEHJHkcRmiyupQP58XY",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-barei-1/",
+        "owner": {
+            "id": "113190703245440178179",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113190703245440178179"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eujxMYytrC1upxEZ9zN-Gw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=156.78285&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratoria Medyczne., Stanislawa Barei 1, 03-140 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471ec9415c945e31:0x76f1f903a5ae2c9a!8m2!3d52.3365718!4d20.9413185!16s%2Fg%2F11sgkytd1l!19sChIJMV6UXEHJHkcRmiyupQP58XY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJBYn7dUjMHkcRTS-WfCtcRNs",
+        "name": "Laboratorium, diagnostyka wirusow, bakterii, grzybow. Ustalenie ojcostwa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "http://www.cbdna.pl/",
+        "owner": {
+            "id": null,
+            "name": "Laboratorium, diagnostyka wirusow, bakterii, grzybow. Ustalenie ojcostwa (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0mXdY6RzDykykTW6CkQH8Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=21.325138&pitch=0&thumbfov=100",
+        "main_category": "Medisch centrum",
+        "categories": [
+            "Medisch centrum"
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-20:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 509 658 006",
+        "address": "Laboratorium, diagnostyka wirusow, bakterii, grzybow. Ustalenie ojcostwa, Brzeska 12, 03-737 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium,+diagnostyka+wirus%C3%B3w,+bakterii,+grzyb%C3%B3w.+Ustalenie+ojcostwa/data=!4m7!3m6!1s0x471ecc4875fb8905:0xdb445c2b7c962f4d!8m2!3d52.252215!4d21.042855!16s%2Fg%2F1hg4zyy7l!19sChIJBYn7dUjMHkcRTS-WfCtcRNs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJvcBKxJYtGUcRCrvPfPiAryA",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10161",
+        "owner": {
+            "id": "107215598884814575763",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107215598884814575763"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNASom1CkcxlDww4lltPW9hJ3BbYjcqABAtpDl0=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 349 11 57",
+        "address": "Punkt Pobran ALAB laboratoria, Belgradzka 4/lok 5U, 03-982 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x47192d96c44ac0bd:0x20af80f87ccfbb0a!8m2!3d52.1419572!4d21.0641652!16s%2Fg%2F11tj8tlly7!19sChIJvcBKxJYtGUcRCrvPfPiAryA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJT6pE_9vNHkcRx0XOuxImiD0",
+        "name": "Punkt Pobran Krwi ESKULAPEK Mokotow",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "https://www.badanie-krwi.warszawa.pl/",
+        "owner": {
+            "id": "106607530704703038235",
+            "name": "Punkt Pobran Krwi ESKULAPEK Mokotow (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106607530704703038235"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMlwSxPN0sPQskuIlvN8rQuBYomAfyQa6i8f8Gd=w408-h408-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:30-11:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 414 11 00",
+        "address": "Punkt Pobran Krwi ESKULAPEK Mokotow, Grupy AK \"Polnoc\" 4/lok. 20, 00-713 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Krwi+ESKULAPEK+Mokot%C3%B3w/data=!4m7!3m6!1s0x471ecddbff44aa4f:0x3d882612bbce45c7!8m2!3d52.2114322!4d21.0594594!16s%2Fg%2F11v5xdgwvm!19sChIJT6pE_9vNHkcRx0XOuxImiD0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJY-iXM9HNHkcROYwlCNI3Xkc",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-czerniakowska-231/",
+        "owner": {
+            "id": "108692090979155504594",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108692090979155504594"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OxECLputD3jtgS52eJBgUQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=212.93642&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratoria Medyczne., Czerniakowska 231, 00-416 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471ecdd13397e863:0x475e37d208258c39!8m2!3d52.2296155!4d21.0320992!16s%2Fg%2F11pd0pw9tk!19sChIJY-iXM9HNHkcROYwlCNI3Xkc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJxdpspwEtGUcR1hLhJexsTxM",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "113582062172876346012",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113582062172876346012"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP1hvFdQPqfrmc8k45qB3vwYmTysO_5iepZxiTx=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Muslinowa 1, 02-798 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x47192d01a76cdac5:0x134f6cec25e112d6!8m2!3d52.1334133!4d21.0524848!16s%2Fg%2F11q9hqq9t9!19sChIJxdpspwEtGUcR1hLhJexsTxM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJqZt2P4DMHkcRx3iImSmVi5g",
+        "name": "CD Slodczyk. Sp. z o.o.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "https://cdlab.com.pl/",
+        "owner": {
+            "id": "104379526070865913428",
+            "name": "CD Slodczyk. Sp. z o.o. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/104379526070865913428"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kYM-Zr3z206cU9S838dolQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=353.70352&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:15-16:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 607 100 565",
+        "address": "CD Slodczyk. Sp. z o.o., Wolnosc 2, 01-018 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CD+S%C5%82odczyk.+Sp.+z+o.o./data=!4m7!3m6!1s0x471ecc803f769ba9:0x988b9529998878c7!8m2!3d52.241152!4d20.984098!16s%2Fg%2F1td5kfwl!19sChIJqZt2P4DMHkcRx3iImSmVi5g?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJL06uSLnMHkcRQItmu2jmpX4",
+        "name": "Amerlab Spolka z o.o.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "http://www.amerlab.pl/",
+        "owner": {
+            "id": "115053813321368649041",
+            "name": "Amerlab Spolka z o.o. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115053813321368649041"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN6dd6Pr8D0_-qNlEwSBVz9Tv5OvXW9ruXs8gdz=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "08:15-12:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 508 017 683",
+        "address": "Amerlab Spolka z o.o., Zwirki i Wigury 101/p. 2.34, 02-089 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Amerlab+Sp%C3%B3%C5%82ka+z+o.o./data=!4m7!3m6!1s0x471eccb948ae4e2f:0x7ea5e668bb668b40!8m2!3d52.2135309!4d20.987609!16s%2Fg%2F11clflzc7b!19sChIJL06uSLnMHkcRQItmu2jmpX4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJx60lCAQzGUcRToorZbV4HCo",
+        "name": "Laboratorium Medyczne Al-Med",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "http://www.al-medlab.com/",
+        "owner": {
+            "id": "109473151043237893745",
+            "name": "Laboratorium Medyczne Al-Med (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109473151043237893745"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMX3rRJ1qtxpsL82UIF2YMfojsT5-UKaRXwJDqA=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 451 595 339",
+        "address": "Laboratorium Medyczne Al-Med, Raclawicka 127, 02-117 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Medyczne+Al-Med/data=!4m7!3m6!1s0x471933040825adc7:0x2a1c78b5652b8a4e!8m2!3d52.1978566!4d20.9819878!16s%2Fg%2F11v04w0kjb!19sChIJx60lCAQzGUcRToorZbV4HCo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJg3HL60_NHkcRgVfzKUr4z9A",
+        "name": "Punkt Pobran Synevo Laboratoria Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "https://synevo.pl/",
+        "owner": {
+            "id": "110769633069044130647",
+            "name": "Punkt Pobran Synevo Laboratoria Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110769633069044130647"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPf5Xx3AfGeb0jtRwFq0zCAXtiaoMOta3f8Q_-s=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "06:30-14:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratoria Medyczne, Targowa 15, 03-727 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratoria+Medyczne/data=!4m7!3m6!1s0x471ecd4febcb7183:0xd0cff84a29f35781!8m2!3d52.2485873!4d21.0432334!16s%2Fg%2F11svwwdt7b!19sChIJg3HL60_NHkcRgVfzKUr4z9A?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJMxQ088vLHkcRPF0jcJbMx-Q",
+        "name": "Laboratorium Masdiag",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "https://masdiag.pl/",
+        "owner": {
+            "id": "117291472392995134351",
+            "name": "Laboratorium Masdiag (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117291472392995134351"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMhcEFP9jzToLoc0macqP6KEV2D85Uk3xmpXebl=w408-h255-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 602 228 824",
+        "address": "Laboratorium Masdiag, Stefana Zeromskiego 33, 01-882 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Masdiag/data=!4m7!3m6!1s0x471ecbcbf3341433:0xe4c7cc9670235d3c!8m2!3d52.2758025!4d20.9459522!16s%2Fg%2F11h48w85pb!19sChIJMxQ088vLHkcRPF0jcJbMx-Q?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJS4xMdtfNHkcRw5IZ0CqZ-dI",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://diag.pl/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-pulawska-27-lok-35/",
+        "owner": {
+            "id": "116287442165430829509",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116287442165430829509"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6O0_6f8hnZmqEDTWTu_iGw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=128.18054&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratoria Medyczne., Pulawska 27, 02-508 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471ecdd7764c8c4b:0xd2f9992ad01992c3!8m2!3d52.2087867!4d21.0219722!16s%2Fg%2F11l6x169ld!19sChIJS4xMdtfNHkcRw5IZ0CqZ-dI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2bEVfAnLHkcRqx1CiIFT5wo",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://diag.pl/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-powstancow-slaskich-45/",
+        "owner": {
+            "id": "107578720004029075773",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107578720004029075773"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bFwrZ5k1Ds0w5sC7KVbDog&cb_client=search.gws-prod.gps&w=408&h=240&yaw=198.55046&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratoria Medyczne., Powstancow Slaskich 45, 01-355 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471ecb097c15b1d9:0xae7538188421dab!8m2!3d52.2299915!4d20.91446!16s%2Fg%2F11vcxlkc0h!19sChIJ2bEVfAnLHkcRqx1CiIFT5wo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJO9U3moDMHkcR9HUaEToNIb0",
+        "name": "Labolatorum ZOZ Wola",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "http://nowolipie.zozwola.pl/diagnostyka/",
+        "owner": {
+            "id": null,
+            "name": "Labolatorum ZOZ Wola (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v1Neb15R3SQHQliFi28AKQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=142.24358&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Labolatorum ZOZ Wola, Nowolipie 31, 00-001 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Labolatorum+ZOZ+Wola/data=!4m7!3m6!1s0x471ecc809a37d53b:0xbd210d3a111a75f4!8m2!3d52.2414005!4d20.9876956!16s%2Fg%2F11ggz496j2!19sChIJO9U3moDMHkcR9HUaEToNIb0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJd88DaBLLHkcRP5YimQRv6PY",
+        "name": "Laboratorium analiz lekarskich",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://www.alablaboratoria.pl/",
+        "owner": {
+            "id": null,
+            "name": "Laboratorium analiz lekarskich (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1M3vNIXjeuJr4vR0YQOZTA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=21.36979&pitch=0&thumbfov=100",
+        "main_category": "Medisch centrum",
+        "categories": [
+            "Medisch centrum"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 22 837 25 36",
+        "address": "Laboratorium analiz lekarskich, Okocimska 6, 01-114 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+analiz+lekarskich/data=!4m7!3m6!1s0x471ecb126803cf77:0xf6e86f049922963f!8m2!3d52.2385089!4d20.9391104!16s%2Fg%2F1v2kw5vb!19sChIJd88DaBLLHkcRP5YimQRv6PY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ5_g4IWLLHkcRc5QpShXkKYc",
+        "name": "Punkt Pobran dla dzieci Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://www.synevo.pl/laboratorium-warszawa-dzika-dla-dzieci/",
+        "owner": {
+            "id": "110509165219596560950",
+            "name": "Punkt Pobran dla dzieci Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110509165219596560950"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM4DSkoS2v6xSh7B7148YpaorUfakBuZ2p1asbL=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran dla dzieci Synevo Laboratorium Medyczne, Dzika 4, 00-198 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+dla+dzieci+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471ecb622138f8e7:0x8729e4154a299473!8m2!3d52.2530174!4d20.9884444!16s%2Fg%2F11ss3j9j0j!19sChIJ5_g4IWLLHkcRc5QpShXkKYc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJC9Cv_r3MHkcRJMvvfFlN1qg",
+        "name": "Analab Sp. z o.o.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "http://www.analab.pl/",
+        "owner": {
+            "id": null,
+            "name": "Analab Sp. z o.o. (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EK3S_220SwCMZEz7u-GgHA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=209.83209&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 22 865 85 25",
+        "address": "Analab Sp. z o.o., Filtrowa 73, 02-055 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Analab+Sp.+z+o.o./data=!4m7!3m6!1s0x471eccbdfeafd00b:0xa8d64d597cefcb24!8m2!3d52.2189408!4d20.989782!16s%2Fg%2F1tpn19kz!19sChIJC9Cv_r3MHkcRJMvvfFlN1qg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJT0Vk-crLHkcRuq70w5cnecM",
+        "name": "WPE Punkt Pobran Zoliborz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "http://badanie-krwi-zoliborz.pl/",
+        "owner": {
+            "id": "103645978281332241142",
+            "name": "WPE Punkt Pobran Zoliborz (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103645978281332241142"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qE18BnPXrjifSmn5QRb9qQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=333.0341&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Inloopkliniek"
+        ],
+        "rating": 4,
+        "workday_timing": "07:30-11:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag",
+            "maandag"
+        ],
+        "phone": "+48 22 688 72 84",
+        "address": "WPE Punkt Pobran Zoliborz, Warszawska Przychodnia Endokrynologiczna, Zygmunta Krasinskiego 59, 01-755 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/WPE+Punkt+Pobra%C5%84+%C5%BBoliborz/data=!4m7!3m6!1s0x471ecbcaf964454f:0xc3792797c3f4aeba!8m2!3d52.2600768!4d20.9654051!16s%2Fg%2F11gj6by0zb!19sChIJT0Vk-crLHkcRuq70w5cnecM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-yZaSUfMHkcR6DpQ3XxXwPY",
+        "name": "Microbiological Laboratory Bakter",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "http://www.bakter.pl/",
+        "owner": {
+            "id": "103374667699028636227",
+            "name": "Microbiological Laboratory Bakter (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103374667699028636227"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9d3Eqto6gInM14jrQH5XVg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=33.509052&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:30-10:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 619 18 17",
+        "address": "Microbiological Laboratory Bakter, Targowa 70/lok.2A, 03-734 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Microbiological+Laboratory+Bakter/data=!4m7!3m6!1s0x471ecc47495a26fb:0xf6c0577cdd503ae8!8m2!3d52.2541156!4d21.0359231!16s%2Fg%2F1xb2c9v6!19sChIJ-yZaSUfMHkcR6DpQ3XxXwPY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJD4h3LPTMHkcR6Il33xeniXw",
+        "name": "Medical analysis laboratory",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://www.alablaboratoria.pl/",
+        "owner": {
+            "id": null,
+            "name": "Medical analysis laboratory (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IKKJJUITrAzFPU8CjCkIVw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=252.58801&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "07:00-17:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 826 47 61",
+        "address": "Medical analysis laboratory, Chmielna 4/11, 00-020 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Medical+analysis+laboratory/data=!4m7!3m6!1s0x471eccf42c77880f:0x7c89a717df7789e8!8m2!3d52.2332015!4d21.0184109!16s%2Fg%2F1tddqyx6!19sChIJD4h3LPTMHkcR6Il33xeniXw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ5TM4cNPLHkcRfTnGgdMOyzs",
+        "name": "Fryda Teresa, dr nauk med. Laboratorium medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "http://www.fryda.pl/",
+        "owner": {
+            "id": null,
+            "name": "Fryda Teresa, dr nauk med. Laboratorium medyczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 22 834 40 55",
+        "address": "Fryda Teresa, dr nauk med. Laboratorium medyczne, Ceglowska 80, 00-809 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fryda+Teresa,+dr+nauk+med.+Laboratorium+medyczne/data=!4m7!3m6!1s0x471ecbd3703833e5:0x3bcb0ed381c6397d!8m2!3d52.2867672!4d20.9512511!16s%2Fg%2F1w2ysmtf!19sChIJ5TM4cNPLHkcRfTnGgdMOyzs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJc6p2vN0vGUcRhZRnCLPk1Zg",
+        "name": "Genelab Centrum Diagnostyki Genetycznej i Immunologicznej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://genelab.pl/",
+        "owner": {
+            "id": "113517676268722030442",
+            "name": "Genelab Centrum Diagnostyki Genetycznej i Immunologicznej (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113517676268722030442"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO6TZQH98PU-dNwL_1rFgd17YXxDu7AdIpplLdR=w408-h408-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 100 69 76",
+        "address": "Genelab Centrum Diagnostyki Genetycznej i Immunologicznej, Czerniowiecka 9, 02-705 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Genelab+Centrum+Diagnostyki+Genetycznej+i+Immunologicznej/data=!4m7!3m6!1s0x47192fddbc76aa73:0x98d5e4b308679485!8m2!3d52.1848918!4d21.0259608!16s%2Fg%2F11gvsp2lvl!19sChIJc6p2vN0vGUcRhZRnCLPk1Zg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJmafsvczLHkcRD-bFLsAEaMg",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://diag.pl/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-ul-ludwika-rydygiera-13-u2u3/",
+        "owner": {
+            "id": "115987349365777030406",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115987349365777030406"
+        },
+        "featured_image": null,
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "07:30-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratoria Medyczne., Ludwika Rydygiera 13, 01-793 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471ecbccbdeca799:0xc86804c02ec5e60f!8m2!3d52.2597385!4d20.9755938!16s%2Fg%2F11y1vxvt2n!19sChIJmafsvczLHkcRD-bFLsAEaMg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJh8afiXzLHkcRT0eV3e6nsHg",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 34,
+        "website": null,
+        "owner": {
+            "id": "114417919076745753264",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114417919076745753264"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Tf5U_dipP_F6s0kAStPLLQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=36.934834&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": 4.4,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [],
+        "phone": null,
+        "address": "Diagnostyka. Laboratoria Medyczne., Jana Kasprowicza 68, 01-949 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471ecb7c899fc687:0x78b0a7eedd95474f!8m2!3d52.2865775!4d20.9397868!16s%2Fg%2F11tfp5yq2h!19sChIJh8afiXzLHkcRT0eV3e6nsHg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ01YZwpvNHkcRY58TntCVFtk",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNBPYBQPCdlUcU_6XDn04YdS8raoL9Jd4LjT0g0=w408-h543-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratoria Medyczne., al. Jana Pawla II 50, 00-117 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471ecd9bc21956d3:0xd91695d09e139f63!8m2!3d52.2437326!4d20.9926049!16s%2Fg%2F11sjm2j6fc!19sChIJ01YZwpvNHkcRY58TntCVFtk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJbeJwHxQtGUcRq3lCiQlN114",
+        "name": "Diagnostyka, Punkt Pobran- Warszawa, Wawozowa 4",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Diagnostyka, Punkt Pobran- Warszawa, Wawozowa 4 (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNsl533TM6ryrsyo5kew-jS6f1DAZODXIgRP5O-=w408-h251-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.4,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": null,
+        "address": "Diagnostyka, Punkt Pobran- Warszawa, Wawozowa 4, Wawozowa 4, 02-796 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka,+Punkt+Pobra%C5%84-+Warszawa,+W%C4%85wozowa+4/data=!4m7!3m6!1s0x47192d141f70e26d:0x5ed74d09894279ab!8m2!3d52.1323323!4d21.0714894!16s%2Fg%2F11hhmkzym3!19sChIJbeJwHxQtGUcRq3lCiQlN114?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJR3xiXszJHkcRMm7nDsU7cPY",
+        "name": "Analiza. Laboratorium analiz lekarskich",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Analiza. Laboratorium analiz lekarskich (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMWb5M0zLe_rRJSTvTULYrnFpqSuORfKX8-qLQe=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": "07:00-10:00, 16:00-19:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 302 63 05",
+        "address": "Analiza. Laboratorium analiz lekarskich, Stanislawa Barei 1/2, 03-141 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Analiza.+Laboratorium+analiz+lekarskich/data=!4m7!3m6!1s0x471ec9cc5e627c47:0xf6703bc50ee76e32!8m2!3d52.33659!4d20.9413252!16s%2Fg%2F1tks5227!19sChIJR3xiXszJHkcRMm7nDsU7cPY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJXa7Gh2nTHkcRtBwXhvNuYqc",
+        "name": "Anal-Med. Laboratorium Analiz Lekarskich",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": "105473494842814814612",
+            "name": "Anal-Med. Laboratorium Analiz Lekarskich (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105473494842814814612"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNH5XHcK-_UvkV9znOqt3Gdqg3ABCvQUNO7MKVi=w408-h860-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:30-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 615 88 05",
+        "address": "Anal-Med. Laboratorium Analiz Lekarskich, Izbicka 1, 04-838 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Anal-Med.+Laboratorium+Analiz+Lekarskich/data=!4m7!3m6!1s0x471ed36987c6ae5d:0xa7626ef386171cb4!8m2!3d52.1841132!4d21.1898371!16s%2Fg%2F1tl7mgp7!19sChIJXa7Gh2nTHkcRtBwXhvNuYqc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8yyCLC_MHkcRqZc8ArbTRPw",
+        "name": "Alab. NZOZ. Laboratoria analiz lekarskich",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Alab. NZOZ. Laboratoria analiz lekarskich (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-9TKM_bvMbsQ0mefwpscGA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=264.1235&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 504 521 718",
+        "address": "Alab. NZOZ. Laboratoria analiz lekarskich, Radzyminska 101/103, 03-506 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Alab.+NZOZ.+Laboratoria+analiz+lekarskich/data=!4m7!3m6!1s0x471ecc2f2c822cf3:0xfc44d3b6023c97a9!8m2!3d52.2674943!4d21.0587892!16s%2Fg%2F1ptx11fhm!19sChIJ8yyCLC_MHkcRqZc8ArbTRPw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJq5StZyPNHkcRvs1oXUbHpw4",
+        "name": "Iso-Lab Sp. z o.o. Sp. Komandytowa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Iso-Lab Sp. z o.o. Sp. Komandytowa (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xOlDSLco-QLZciDgzGqjGg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=102.353645&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Voedingsdeskundige"
+        ],
+        "rating": 3,
+        "workday_timing": "08:00-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 841 55 35",
+        "address": "Iso-Lab Sp. z o.o. Sp. Komandytowa, Stepinska 22/30, 00-739 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Iso-Lab+Sp.+z+o.o.+Sp.+Komandytowa/data=!4m7!3m6!1s0x471ecd2367ad94ab:0xea7c7465d68cdbe!8m2!3d52.2058435!4d21.0379149!16s%2Fg%2F1td9zfmq!19sChIJq5StZyPNHkcRvs1oXUbHpw4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJHbxO79rLHkcRoFYfMZ18LpY",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": "115677366517353941820",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115677366517353941820"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMGkvW8-JQxylsP4m2EvU2jOXSXuU3JPTaQ5rHI=w506-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Diagnostyka. Laboratoria Medyczne., Adama Mickiewicza 27, 01-562 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471ecbdaef4ebc1d:0x962e7c9d311f56a0!8m2!3d52.2682751!4d20.9861881!16s%2Fg%2F11l2k4zqsw!19sChIJHbxO79rLHkcRoFYfMZ18LpY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8UT6NITLHkcRu9DxJ0uMS6c",
+        "name": "Punkt Pobran Materialow Do Badan",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Pobran Materialow Do Badan (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d6cp6F6Sl6T15HOhZNZQEA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=177.15564&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 506 191 296",
+        "address": "Punkt Pobran Materialow Do Badan, Spokojna 5, 01-044 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Materia%C5%82%C3%B3w+Do+Bada%C5%84/data=!4m7!3m6!1s0x471ecb8434fa44f1:0xa74b8c4b27f1d0bb!8m2!3d52.2517065!4d20.9793909!16s%2Fg%2F11q1d92lzq!19sChIJ8UT6NITLHkcRu9DxJ0uMS6c?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJT50JaBLLHkcRCID5kggn2OU",
+        "name": "LABOL - EWA KULESZA Specjalistyczne Labolatorium Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "LABOL - EWA KULESZA Specjalistyczne Labolatorium Analityczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNzWifhe-xsH1fouF2GE1IQZ3O3Ssl7DK-OjJUB=w408-h725-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": "07:30-10:30",
+        "closed_on": [
+            "dinsdag",
+            "donderdag",
+            "zaterdag",
+            "zondag",
+            "maandag"
+        ],
+        "phone": "+48 22 837 25 36",
+        "address": "LABOL - EWA KULESZA Specjalistyczne Labolatorium Analityczne, Okocimska 6, 01-114 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/LABOL+-+EWA+KULESZA+Specjalistyczne+Labolatorium+Analityczne/data=!4m7!3m6!1s0x471ecb1268099d4f:0xe5d8270892f98008!8m2!3d52.2385126!4d20.939183!16s%2Fg%2F11dz77z22b!19sChIJT50JaBLLHkcRCID5kggn2OU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9aguTivNHkcRd9cJAFTYRNQ",
+        "name": "Test&drive Corten Medic",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Test&drive Corten Medic (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPTbuWnfSrNrLTEcqAnV6yJbSd1TbChY0afpWxH=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-20:00",
+        "closed_on": [],
+        "phone": "+48 22 602 09 97",
+        "address": "Test&drive Corten Medic, Kijowska 2, 03-738 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Test%26drive+Corten+Medic/data=!4m7!3m6!1s0x471ecd2b4e2ea8f5:0xd444d8540009d777!8m2!3d52.2499406!4d21.0443694!16s%2Fg%2F11rg42dx0t!19sChIJ9aguTivNHkcRd9cJAFTYRNQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJmdkbUrnNHkcRSzqGYTEYk5M",
+        "name": "Diagnostyczne Laboratorium Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Diagnostyczne Laboratorium Analityczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPTMq30xziR1xnxCfOd0mGOhKRykZfaNvp8U5xa=w408-h509-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Diagnostyczne Laboratorium Analityczne, Grenadierow 51/59, 04-073 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyczne+Laboratorium+Analityczne/data=!4m7!3m6!1s0x471ecdb9521bd999:0x9393183161863a4b!8m2!3d52.2424106!4d21.0782107!16s%2Fg%2F11hzwccbpl!19sChIJmdkbUrnNHkcRSzqGYTEYk5M?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_3_ZeI7MHkcR5ePEpoKnEfY",
+        "name": "Niepubliczny Zaklad Opieki Zdrowotnej Laboratorium Analityczne Probe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Niepubliczny Zaklad Opieki Zdrowotnej Laboratorium Analityczne Probe (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SYRUiR8KJupqdUlG0N_r1w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=284.56567&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Niepubliczny Zaklad Opieki Zdrowotnej Laboratorium Analityczne Probe, al. Jana Pawla II 2F, 00-828 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Niepubliczny+Zak%C5%82ad+Opieki+Zdrowotnej+Laboratorium+Analityczne+Probe/data=!4m7!3m6!1s0x471ecc8e78d97fff:0xf611a782a6c4e3e5!8m2!3d52.2310161!4d20.9995439!16s%2Fg%2F11h6g171tj!19sChIJ_3_ZeI7MHkcR5ePEpoKnEfY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJD1AVo5vLHkcRQuP23tu1n_I",
+        "name": "Mineola Laboratoria Sp. z o.o. oddzial Warszawa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mineola Laboratoria Sp. z o.o. oddzial Warszawa (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KoIxythNArExbJEg0zumcg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=328.96246&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Mineola Laboratoria Sp. z o.o. oddzial Warszawa, al. Jerozolimskie 179, 02-222 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mineola+Laboratoria+Sp.+z+o.o.+oddzia%C5%82+Warszawa/data=!4m7!3m6!1s0x471ecb9ba315500f:0xf29fb5dbdef6e342!8m2!3d52.2125194!4d20.9556897!16s%2Fg%2F11p1054g0r!19sChIJD1AVo5vLHkcRQuP23tu1n_I?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJreMLOfTMHkcRZBqW2g9JbDU",
+        "name": "Centrum Medyczne Pulawska Sp. Z O.O. Niepubliczny Zaklad Opieki Zdrowotnej Oddzial W Warszawie- Chmielna",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Centrum Medyczne Pulawska Sp. Z O.O. Niepubliczny Zaklad Opieki Zdrowotnej Oddzial W Warszawie- Chmielna (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bCZdoGjWeo2dZiHSLXvbpg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=342.1925&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 22 737 50 50",
+        "address": "Centrum Medyczne Pulawska Sp. Z O.O. Niepubliczny Zaklad Opieki Zdrowotnej Oddzial W Warszawie- Chmielna, Chmielna 14, 00-020 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Centrum+Medyczne+Pulawska+Sp.+Z+O.O.+Niepubliczny+Zak%C5%82ad+Opieki+Zdrowotnej+Oddzia%C5%82+W+Warszawie-+Chmielna/data=!4m7!3m6!1s0x471eccf4390be3ad:0x356c490fda961a64!8m2!3d52.2328252!4d21.0167667!16s%2Fg%2F11rbytc9_r!19sChIJreMLOfTMHkcRZBqW2g9JbDU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJz4m4xuEyGUcRJM4a76eS5fQ",
+        "name": "Analizy Medyczne Polskie Punkty Pobran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Analizy Medyczne Polskie Punkty Pobran (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uPNyGGH2qumdqVgL11KRrA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=32.13407&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Analizy Medyczne Polskie Punkty Pobran, Bokserska, 02-690 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Analizy+Medyczne+Polskie+Punkty+Pobran/data=!4m7!3m6!1s0x471932e1c6b889cf:0xf4e592a7ef1ace24!8m2!3d52.1701038!4d20.9966877!16s%2Fg%2F11gxjsvmq8!19sChIJz4m4xuEyGUcRJM4a76eS5fQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6VDhnb3LHkcRwPLkok3IW88",
+        "name": "Punkt Pobran Krwi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Pobran Krwi (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=31z87Owo-FwsmDH2iMGQSg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=200.68317&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Punkt Pobran Krwi, Elblaska 35, 01-737 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Krwi/data=!4m7!3m6!1s0x471ecbbd9de150e9:0xcf5bc84da2e4f2c0!8m2!3d52.2609434!4d20.9607807!16s%2Fg%2F11j08bbvc8!19sChIJ6VDhnb3LHkcRwPLkok3IW88?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJTXENWGXLHkcRKrtXyJyPa0k",
+        "name": "Centrum Medyczne Crg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Centrum Medyczne Crg (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=y5bTwwepQ2h0bUlBHp1jQA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=278.68167&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 22 100 45 30",
+        "address": "Centrum Medyczne Crg, Sokolowska 9 U2, 01-142 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Centrum+Medyczne+Crg/data=!4m7!3m6!1s0x471ecb65580d714d:0x496b8f9cc857bb2a!8m2!3d52.235283!4d20.9596007!16s%2Fg%2F11nm9lx00v!19sChIJTXENWGXLHkcRKrtXyJyPa0k?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJax5EqJktGUcRP0mMfwmLvuI",
+        "name": "KLINIKA KABATY OMED",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "KLINIKA KABATY OMED (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qnqUxnY8rl9W7DXn1DuqEQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=110.35076&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "09:00-18:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 500 055 277",
+        "address": "KLINIKA KABATY OMED, Wawozowa 21, 02-796 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/KLINIKA+KABATY+OMED/data=!4m7!3m6!1s0x47192d99a8441e6b:0xe2be8b097f8c493f!8m2!3d52.1306236!4d21.0630923!16s%2Fg%2F11j8fj0b1w!19sChIJax5EqJktGUcRP0mMfwmLvuI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJG6eRDrnMHkcR7Rs35XJcKrM",
+        "name": "Gabinet Zabiegowy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Zabiegowy (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uzGtcriMiIoB_cflghigjg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=282.5949&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 22 592 48 00",
+        "address": "Gabinet Zabiegowy, Zwirki i Wigury 95/97, 02-089 Warszawa, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Zabiegowy/data=!4m7!3m6!1s0x471eccb90e91a71b:0xb32a5c72e5371bed!8m2!3d52.2119079!4d20.9874561!16s%2Fg%2F11q1d8vlcz!19sChIJG6eRDrnMHkcR7Rs35XJcKrM?authuser=0&hl=nl&rclk=1"
+    }
+]

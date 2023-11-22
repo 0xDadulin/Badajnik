@@ -1,0 +1,24 @@
+# System operacyjny
+.DS_Store
+Thumbs.db
+
+# Środowisko Pythona
+venv/
+*.pyc
+__pycache__/
+
+# Bazy danych
+*.sqlite3
+
+# Folder dystrybucji Angulara
+/dist
+
+# Node dependencies
+/node_modules
+
+# IDE - Visual Studio Code
+.vscode
+
+# Pliki tymczasowe
+*.tmp
+tmp/

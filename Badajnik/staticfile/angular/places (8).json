@@ -1,0 +1,3305 @@
+[
+    {
+        "place_id": "ChIJJZhywiFFBEcR3jTO5FROETQ",
+        "name": "neoMedica - Medical Center",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 302,
+        "website": "http://www.neomedica.pl/",
+        "owner": {
+            "id": "118079112103774682564",
+            "name": "neoMedica - Medical Center (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/118079112103774682564"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNFBVjDdc_5lG2uGVKQwrhB_Sn2omXjA_xr6aBH=w408-h272-k-no",
+        "main_category": "Medisch centrum",
+        "categories": [
+            "Medisch centrum",
+            "Cardioloog",
+            "Dermatoloog",
+            "Endocrinoloog",
+            "Verloskundige/gynaecoloog",
+            "Medisch laboratorium",
+            "Orthopedisch chirurg",
+            "Kindercardioloog",
+            "Radioloog",
+            "Vaatchirurg"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-20:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 730 730 710",
+        "address": "neoMedica - Medical Center, Swietlana 25, 60-151 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/neoMedica+-+Medical+Center/data=!4m7!3m6!1s0x47044521c2729825:0x34114e54e4ce34de!8m2!3d52.391919!4d16.8676286!16s%2Fg%2F12330j19r!19sChIJJZhywiFFBEcR3jTO5FROETQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJszKm6PtaBEcRjBGrx0cC5eY",
+        "name": "PL Certus - Centrum Medyczne nr 2",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 179,
+        "website": "https://www.certus.med.pl/%3Futm_source%3Dgmf%26utm_medium%3Dorganic%26utm_campaign%3Dgmf2",
+        "owner": {
+            "id": "108941594621825260328",
+            "name": "PL Certus - Centrum Medyczne nr 2 (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108941594621825260328"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNgxU4hKOxn1QjGCnhbD_zWNjS8jJGW7Z84lRHg=w408-h272-k-no",
+        "main_category": "Medisch centrum",
+        "categories": [
+            "Medisch centrum",
+            "Cardioloog",
+            "Internist",
+            "Medisch laboratorium",
+            "Arbo-arts",
+            "Optometrist",
+            "Orthopedisch chirurg",
+            "KNO-arts",
+            "Kinderarts",
+            "Uroloog"
+        ],
+        "rating": 2.4,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 61 860 42 00",
+        "address": "PL Certus - Centrum Medyczne nr 2, Wagrowska 6, 61-369 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/PL+Certus+-+Centrum+Medyczne+nr+2/data=!4m7!3m6!1s0x47045afbe8a632b3:0xe6e50247c7ab118c!8m2!3d52.3778669!4d16.9463328!16s%2Fg%2F1td6wtwm!19sChIJszKm6PtaBEcRjBGrx0cC5eY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJS1_8zTFFBEcRE84pGECj_Dg",
+        "name": "Punkt Pobran Synevo Laboratorium medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 138,
+        "website": "https://www.synevo.pl/laboratorium-poznan-gorczyn/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dpoznan-gorczyn",
+        "owner": {
+            "id": "118404186571871691757",
+            "name": "Punkt Pobran Synevo Laboratorium medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/118404186571871691757"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO5Y_76TRT6nDVMEm6xtikEEmXEDdP3NLd8-R4j=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "06:30-15:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium medyczne, Zgoda 28A, 60-101 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+medyczne/data=!4m7!3m6!1s0x47044531cdfc5f4b:0x38fca3401829ce13!8m2!3d52.3821757!4d16.8809957!16s%2Fg%2F1tdxtqk3!19sChIJS1_8zTFFBEcRE84pGECj_Dg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8yqTl8BdBEcRtDVDGGen0Cc",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 121,
+        "website": "https://diag.pl/katalogi/miasta-badania-krwi/poznan/",
+        "owner": {
+            "id": "113092347055195076364",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113092347055195076364"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNQ6epFOgGH9lxYyolkQhhPooUcYUHPm86RjmTl=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 680 217",
+        "address": "Diagnostyka. Laboratoria Medyczne., Naramowicka 203K/2, 61-611 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x47045dc097932af3:0x27d0a767184335b4!8m2!3d52.4507101!4d16.9475156!16s%2Fg%2F11h3b2mmfc!19sChIJ8yqTl8BdBEcRtDVDGGen0Cc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJqV7V4clEBEcRN3Meub7nNBY",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 107,
+        "website": "https://diag.pl/katalogi/placowki/poznan/punkt-pobran-diagnostyki-poznan-ul-dabrowskiego-77a/",
+        "owner": {
+            "id": "109920063127075934419",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109920063127075934419"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM00U54vaSneG7EgBfr-WwWOXWT8U3AlOCuXm0Y=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.2,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 663 680 217",
+        "address": "Diagnostics. Medical Laboratories., Jana Henryka Dabrowskiego 77A, 60-529 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x470444c9e1d55ea9:0x1634e7beb91e7337!8m2!3d52.4139945!4d16.9005161!16s%2Fg%2F11dyzlcymj!19sChIJqV7V4clEBEcRN3Meub7nNBY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJQ1A6jgtbBEcRk8GfOdPQAhs",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 93,
+        "website": "https://diag.pl/katalogi/placowki/poznan/punkt-pobran-diagnostyki-poznan-ul-katowicka-11-u6/",
+        "owner": {
+            "id": "105850135686987059716",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105850135686987059716"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNrhkkCEkdAl5fEe28uV7fvIB2p2fXCTt2q-G6U=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 661 992 018",
+        "address": "Diagnostics. Medical Laboratories., Katowicka 11/U6, 61-131 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x47045b0b8e3a5043:0x1b02d0d3399fc193!8m2!3d52.4000963!4d16.9626997!16s%2Fg%2F11df0x4g4z!19sChIJQ1A6jgtbBEcRk8GfOdPQAhs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJk5vu8yZbBEcRCrDzpptVif8",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 93,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9275",
+        "owner": {
+            "id": "100140048151430127202",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100140048151430127202"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPCUk4CwwbqtKnqpRImOOYpXIJ6SOA_lVpVdynn=w550-h240-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.4,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [],
+        "phone": "+48 504 300 776",
+        "address": "Punkt Pobran ALAB laboratoria, 28 Czerwca 1956 r. 194, 66-446 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x47045b26f3ee9b93:0xff89559ba6f3b00a!8m2!3d52.3832962!4d16.9124902!16s%2Fg%2F11c1v33ntg!19sChIJk5vu8yZbBEcRCrDzpptVif8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJm5_3QNREBEcRyVhjmmgkIfc",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 92,
+        "website": "https://diag.pl/katalogi/placowki/poznan/punkt-pobran-diagnostyki-poznan-ul-boguslawskiego-4/",
+        "owner": {
+            "id": "114822132498170264899",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114822132498170264899"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOEDU09CINdX3hj5TtMV_yNmGjh8GTDqTfQ-DWF=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.9,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 680 980",
+        "address": "Diagnostyka. Laboratoria Medyczne., Boguslawskiego 4, 60-214 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470444d440f79f9b:0xf72124689a6358c9!8m2!3d52.3958369!4d16.8954678!16s%2Fg%2F11gdlygnbk!19sChIJm5_3QNREBEcRyVhjmmgkIfc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJGVBufKlcBEcRIUDwb6XiSgo",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 71,
+        "website": "https://diag.pl/katalogi/placowki/poznan/punkt-pobran-diagnostyki-poznan-al-solidarnosci-36/",
+        "owner": {
+            "id": "104561515871638142404",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/104561515871638142404"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO_YaLXTO8LASRczkD5OI8REkNz5KX3y-lY7SEg=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 512 515 969",
+        "address": "Diagnostics. Medical Laboratories., Aleje Solidarnosci 36, 61-647 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x47045ca97c6e5019:0xa4ae2a56ff04021!8m2!3d52.4332505!4d16.9335527!16s%2Fg%2F11cs5mtx8v!19sChIJGVBufKlcBEcRIUDwb6XiSgo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3-AkNbVEBEcRFJXo6PXQ8Tw",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 69,
+        "website": "https://diag.pl/katalogi/placowki/poznan/laboratorium-diagnostyki-poznan-ul-mickiewicza-54/",
+        "owner": {
+            "id": "103088496819848514631",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103088496819848514631"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPLdPzZd7FEsgdx5lV1b-3MyE5R-Ff0o7jyt309=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [],
+        "phone": "+48 663 680 638",
+        "address": "Diagnostics. Medical Laboratories., Mickiewicza 5/4, 60-833 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x470444b53524e0df:0x3cf1d0f5e8e89514!8m2!3d52.4128999!4d16.9120666!16s%2Fg%2F11df7jrzzj!19sChIJ3-AkNbVEBEcRFJXo6PXQ8Tw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJm8IExLZDBEcRPzIeoSGdol8",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 68,
+        "website": "https://www.synevo.pl/laboratorium-poznan-piatkowska/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dpoznan_piatkowska",
+        "owner": {
+            "id": "106456153898715411293",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106456153898715411293"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMXWBrMHgY66aAYLoG2EFTV5hJXvpDMLIqnkpOK=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Piatkowska 173, 61-693 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470443b6c404c29b:0x5fa29d21a11e323f!8m2!3d52.4398395!4d16.9117655!16s%2Fg%2F11h9bhf9b5!19sChIJm8IExLZDBEcRPzIeoSGdol8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_____y5FBEcRXizccLhQX9E",
+        "name": "Instytut Mikroekologii",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 65,
+        "website": "https://instytut-mikroekologii.pl/",
+        "owner": {
+            "id": "101336602437044318398",
+            "name": "Instytut Mikroekologii (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101336602437044318398"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNy0iDygxzocHQVYiIUQTGwmhyS2pE2v-1mm_gv=w408-h270-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Medische organisatie",
+            "Voedingsdeskundige"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:30-17:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 61 862 63 15",
+        "address": "Instytut Mikroekologii, Sielska 6, 60-129 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Instytut+Mikroekologii/data=!4m7!3m6!1s0x4704452effffffff:0xd15f50b870dc2c5e!8m2!3d52.3847892!4d16.8868406!16s%2Fg%2F11c718b3qx!19sChIJ_____y5FBEcRXizccLhQX9E?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJkQO5WNhaBEcRn_igGL69QSY",
+        "name": "Interlab. Sp. z o.o. Centrum diagnostyczno - lecznicze. Laboratorium, fizjoterapia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 62,
+        "website": "http://interlab-poznan.pl/",
+        "owner": {
+            "id": "111072064010480225655",
+            "name": "Interlab. Sp. z o.o. Centrum diagnostyczno - lecznicze. Laboratorium, fizjoterapia (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111072064010480225655"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO_btsLqMM_ym-jSoKVWLZlWL2SDN9_ThCrkyXZ=w408-h306-k-no",
+        "main_category": "Openbaar medisch centrum",
+        "categories": [
+            "Openbaar medisch centrum",
+            "Fysiotherapiepraktijk"
+        ],
+        "rating": 4.5,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 61 833 39 49",
+        "address": "Interlab. Sp. z o.o. Centrum diagnostyczno - lecznicze. Laboratorium, fizjoterapia, 28 Czerwca 1956 r. 161, 61-505 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Interlab.+Sp.+z+o.o.+Centrum+diagnostyczno+-+lecznicze.+Laboratorium,+fizjoterapia/data=!4m7!3m6!1s0x47045ad858b90391:0x2641bdbe18a0f89f!8m2!3d52.38693!4d16.916439!16s%2Fg%2F1td0x558!19sChIJkQO5WNhaBEcRn_igGL69QSY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJqdgQGa5bBEcR1JXROl79Uqw",
+        "name": "Punkt Pobran Diagnostyki",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 61,
+        "website": "https://diag.pl/pacjent/",
+        "owner": {
+            "id": "103173171803653383044",
+            "name": "Punkt Pobran Diagnostyki (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103173171803653383044"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP5c-g2BKC4Y2gH6U2ckgJm8Y2yTYtBmHGDbAs=w408-h305-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": null,
+        "address": "Punkt Pobran Diagnostyki, Czarnieckiego 2, 61-538 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Diagnostyki/data=!4m7!3m6!1s0x47045bae1910d8a9:0xac52fd5e3ad195d4!8m2!3d52.3936273!4d16.9159898!16s%2Fg%2F11mwzdhksw!19sChIJqdgQGa5bBEcR1JXROl79Uqw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJAQBAy2hDBEcRrm_fsl3oJ2I",
+        "name": "KAM-MED KAMILA RYBAK",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 59,
+        "website": "https://www.facebook.com/profile.php%3Fid%3D100057305505606",
+        "owner": {
+            "id": "100041053436437641822",
+            "name": "KAM-MED KAMILA RYBAK (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100041053436437641822"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOHnLSqzD8cunEyX56-10y_1sozudUGccc3CT8Y=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Medisch centrum",
+            "Medische groep",
+            "Praktijkondersteuner"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 786 802 663",
+        "address": "KAM-MED KAMILA RYBAK, Strzeszynska 69, 60-479 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/KAM-MED+KAMILA+RYBAK/data=!4m7!3m6!1s0x47044368cb400001:0x6227e85db2df6fae!8m2!3d52.4477484!4d16.8928501!16s%2Fg%2F11q9hl_fhb!19sChIJAQBAy2hDBEcRrm_fsl3oJ2I?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJrUg2o-ddBEcR0iEzWvqUxdc",
+        "name": "Punkt Pobran Diagnostyki",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 50,
+        "website": "https://diag.pl/katalogi/placowki/poznan/punkt-pobran-diagnostyki-poznan-ul-hercena-4/",
+        "owner": {
+            "id": "109037608316102832347",
+            "name": "Punkt Pobran Diagnostyki (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109037608316102832347"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP65-0sNea_YYufZTuHetIcGJKCjbgvCtFsvcOl=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.7,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [],
+        "phone": "+48 663 680 217",
+        "address": "Punkt Pobran Diagnostyki, Hercena 4, 61-671 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Diagnostyki/data=!4m7!3m6!1s0x47045de7a33648ad:0xd7c594fa5a3321d2!8m2!3d52.4329417!4d16.9331559!16s%2Fg%2F11ng1z64th!19sChIJrUg2o-ddBEcR0iEzWvqUxdc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJA5jBGcpEBEcRUNtPkgTphNU",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 46,
+        "website": "https://www.synevo.pl/laboratorium-poznan-jezyce/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dpoznan-jezyce",
+        "owner": {
+            "id": "103486317326973920661",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103486317326973920661"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNO4sjoXzTjo9XpXG4Pj6Qsz65g--Ml_BCA8RP9=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:30-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Slowackiego 48/2, 60-825 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470444ca19c19803:0xd584e904924fdb50!8m2!3d52.4114699!4d16.9040019!16s%2Fg%2F11ddx6mgct!19sChIJA5jBGcpEBEcRUNtPkgTphNU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJw-4-YZxDBEcRHoNOQA3CplM",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 45,
+        "website": "https://diag.pl/katalogi/placowki/poznan/punkt-pobran-diagnostyki-poznan-ul-strzeszynska-63/",
+        "owner": {
+            "id": "112247220877566153449",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112247220877566153449"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMljzn44CBYrrEbM0yYlH6rhYTe5vUFY-XQIt5j=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:00-12:15",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 663 680 217",
+        "address": "Diagnostyka. Laboratoria Medyczne., Strzeszynska 63, 60-479 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x4704439c613eeec3:0x53a6c20d404e831e!8m2!3d52.4485081!4d16.8941236!16s%2Fg%2F11hd_79g0t!19sChIJw-4-YZxDBEcRHoNOQA3CplM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJryfOAn5bBEcRiHyZLClk2-A",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 45,
+        "website": "https://diag.pl/katalogi/placowki/poznan/punkt-pobran-diagnostyki-poznan-os-orla-bialego-43/",
+        "owner": {
+            "id": "100053048327760436672",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100053048327760436672"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNGNy9gZ22GBjyR_2OTlKNait0OYWDPwoENBiHh=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.5,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 503 947 377",
+        "address": "Diagnostyka. Laboratoria Medyczne., Osiedle Orla Bialego 43, 61-251 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x47045b7e02ce27af:0xe0db64292c997c88!8m2!3d52.3751816!4d16.96246!16s%2Fg%2F11h47lzgvy!19sChIJryfOAn5bBEcRiHyZLClk2-A?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJH_GufkZDBEcRUbdaudnouUs",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 41,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9276",
+        "owner": {
+            "id": "108823839506067394893",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108823839506067394893"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNrcvi4qvLwvU4I6osWSFtdojCzM3GjH9uot9T3=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "07:30-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 504 233 132",
+        "address": "Punkt Pobran ALAB laboratoria, Osiedle Boleslawa Chrobrego 118, 60-681 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470443467eaef11f:0x4bb9e8d9b95ab751!8m2!3d52.4495426!4d16.915358!16s%2Fg%2F1ptx5fhfy!19sChIJH_GufkZDBEcRUbdaudnouUs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJp83RoxtbBEcRtbi1SL7EXNk",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 40,
+        "website": "https://sklep.alablaboratoria.pl/badania?punkty_id=9355",
+        "owner": {
+            "id": "117761984809070551871",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117761984809070551871"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMhkOIOBtHcowc_E4GWK6vCCBIZdVmK0QCgxD4g=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 2.7,
+        "workday_timing": "07:15-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 61 307 94 92",
+        "address": "Punkt Pobran ALAB laboratoria, Osiedle Piastowskie 58, 61-156 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x47045b1ba3d1cda7:0xd95cc4be48b5b8b5!8m2!3d52.3919041!4d16.943403!16s%2Fg%2F11c586hcgr!19sChIJp83RoxtbBEcRtbi1SL7EXNk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJQejLvNVEBEcR60mww80-NCg",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 39,
+        "website": "https://www.synevo.pl/laboratorium-poznan/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dwielkopolskie%26utm_content%3Dpozna%25C5%2584",
+        "owner": {
+            "id": "115180132412374867278",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115180132412374867278"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNBKIiF9V3QzcXiEVpZGz_vCdLH1jHUAIDeo7GQ=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.5,
+        "workday_timing": "07:30-11:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Kasprzaka 16, 60-357 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470444d5bccbe841:0x28343ecdc3b049eb!8m2!3d52.393501!4d16.8951895!16s%2Fg%2F11fy4k1n0m!19sChIJQejLvNVEBEcR60mww80-NCg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJYUytpkRDBEcRUfF2g-OPRk0",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 39,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9852",
+        "owner": {
+            "id": "100286889227725622463",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100286889227725622463"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPk68hSpC-ybnEE_WigpfQxPVZFT0H_iGuGWxLr=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-11:15",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 61 307 95 45",
+        "address": "Punkt Pobran ALAB laboratoria, Osiedle Stefana Batorego 17c, 60-687 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x47044344a6ad4c61:0x4d468fe38376f151!8m2!3d52.457151!4d16.922605!16s%2Fg%2F11q84l4f1q!19sChIJYUytpkRDBEcRUfF2g-OPRk0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJb0j3IehEBEcRJo1mbcJUXG4",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 34,
+        "website": "https://sklep.alablaboratoria.pl/badania?punkty_id=9280",
+        "owner": {
+            "id": "102860209787574464718",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102860209787574464718"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM0-RcruYI-Kb9E4KHGTj3yhHjmCCPebQmMZ_9L=w550-h240-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:00-10:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 509 193 299",
+        "address": "Punkt Pobran ALAB laboratoria, Grochowska 110, 60-335 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470444e821f7486f:0x6e5c54c26d668d26!8m2!3d52.407272!4d16.875976!16s%2Fg%2F1pt_8271k!19sChIJb0j3IehEBEcRJo1mbcJUXG4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJe0G5FLtbBEcRHL39EqBSYIU",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 33,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9281",
+        "owner": {
+            "id": "113145805051691941539",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113145805051691941539"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP0fL1fmAxu6pz70kIHFdALshcd98CqrVc6uU8l=w550-h240-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 61 871 54 94",
+        "address": "Punkt Pobran ALAB laboratoria, Lwa 7, 61-245 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x47045bbb14b9417b:0x856052a012fdbd1c!8m2!3d52.3938719!4d16.984189!16s%2Fg%2F1pty_swb7!19sChIJe0G5FLtbBEcRHL39EqBSYIU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJKdEQVAhFBEcR0_OAnSFkLSk",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 33,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9892",
+        "owner": {
+            "id": "109995424328859599898",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109995424328859599898"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM3INgo28_Z68uy8aXMFJXDs1iai1Oght-Yf2kS=w408-h307-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.6,
+        "workday_timing": "07:00-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 61 307 95 31",
+        "address": "Punkt Pobran ALAB laboratoria, Marcelinska 98/303, 60-354 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470445085410d129:0x292d64219d80f3d3!8m2!3d52.4051062!4d16.8602519!16s%2Fg%2F11sgn08397!19sChIJKdEQVAhFBEcR0_OAnSFkLSk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJGTjIacJbBEcRP6ulSI9mFsY",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 29,
+        "website": "https://diag.pl/katalogi/placowki/poznan/punkt-pobran-diagnostyki-poznan-ul-murawa-12b3/",
+        "owner": {
+            "id": "116787660755179180330",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116787660755179180330"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNj6xbQZScFymtkt91hN0KewCX_ta36wMeTYOH7=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 680 217",
+        "address": "Diagnostyka. Laboratoria Medyczne., Os. na Murawie 12b/3, 61-655 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x47045bc269c83819:0xc616668f48a5ab3f!8m2!3d52.4278797!4d16.9354155!16s%2Fg%2F11h5ksgb48!19sChIJGTjIacJbBEcRP6ulSI9mFsY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJl0cdH8pFBEcRtiMUkQaw8qk",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 29,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10007",
+        "owner": {
+            "id": "110226600710547300935",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110226600710547300935"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPbfGCjsfs0QDMEFlM5rQNi4u9wDVGivKeTETqz=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.4,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "donderdag",
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 61 307 94 96",
+        "address": "Punkt Pobran ALAB laboratoria, Krauthofera 22B, 60-203 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470445ca1f1d4797:0xa9f2b006911423b6!8m2!3d52.3861127!4d16.8949891!16s%2Fg%2F11qbbb83wy!19sChIJl0cdH8pFBEcRtiMUkQaw8qk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJZxYuk0dFBEcR2ZAH5RebZGQ",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 28,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10213",
+        "owner": {
+            "id": "102343019143099754670",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102343019143099754670"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNBE-ka-OYoEs8CkgRJjMUmEUhoEi1caT1qpvg-=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.5,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 61 307 96 72",
+        "address": "Punkt Pobran ALAB laboratoria, Jana Henryka Dabrowskiego 89, 60-574 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x47044547932e1667:0x64649b17e50790d9!8m2!3d52.4145653!4d16.8966473!16s%2Fg%2F11tmrgk1b8!19sChIJZxYuk0dFBEcR2ZAH5RebZGQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJFxYC3thFBEcRTAz9Vp1qbkw",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 27,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "100612589752592935731",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100612589752592935731"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNV7sY_FMXprQz7ttjqRzepzjoAQphFnRxmSHco=w408-h240-k-no-pi-10-ya213.87396-ro-0-fo100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "06:30-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Marcelinska 96A, 60-324 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470445d8de021617:0x4c6e6a9d56fd0c4c!8m2!3d52.4051501!4d16.8617694!16s%2Fg%2F11nms3t4c0!19sChIJFxYC3thFBEcRTAz9Vp1qbkw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8_xXg4pbBEcRRcmeawuzCZ8",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 27,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "109260652388378035177",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109260652388378035177"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM14gDhERCrznsFI5j-_uFEJOYN6h60DAx7FJig=w408-h240-k-no-pi-0.112540185-ya299.88748-ro0-fo100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Lwowska 2A, 61-131 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x47045b8a8357fcf3:0x9f09b30b6b9ec945!8m2!3d52.4011582!4d16.9625916!16s%2Fg%2F11qg0l095c!19sChIJ8_xXg4pbBEcRRcmeawuzCZ8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJH8g_M9xEBEcR5V6pA3Ouvw0",
+        "name": "Medic-Lab Analytical Laboratory",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 25,
+        "website": "http://medic-lab.pl/",
+        "owner": {
+            "id": null,
+            "name": "Medic-Lab Analytical Laboratory (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNxYn247DtMjorIgs8u-6QTK9rxuShe5GyFYIRB=w408-h543-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "07:00-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 61 867 20 37",
+        "address": "Medic-Lab Analytical Laboratory, Grochowska 50, 60-332 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Medic-Lab+Analytical+Laboratory/data=!4m7!3m6!1s0x470444dc333fc81f:0xdbfae7303a95ee5!8m2!3d52.4011722!4d16.8763705!16s%2Fg%2F1wcxbsvv!19sChIJH8g_M9xEBEcR5V6pA3Ouvw0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_R9fPoJbBEcRw7vyRdDsrtA",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 25,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9902",
+        "owner": {
+            "id": "102973433239409127379",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102973433239409127379"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP9F0pQjMMNWLn5_03qp39eByWC05jAOwcud-Wl=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 61 307 94 89",
+        "address": "Punkt Pobran ALAB laboratoria, Katowicka 89A/101, 61-131 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x47045b823e5f1ffd:0xd0aeecd045f2bbc3!8m2!3d52.39541!4d16.9653465!16s%2Fg%2F11sq_sltq2!19sChIJ_R9fPoJbBEcRw7vyRdDsrtA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJB-bKjwNbBEcRPjU2HH6eRIc",
+        "name": "Punkt Pobran Diagnostyki",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "website": "https://diag.pl/pacjent/",
+        "owner": {
+            "id": "107765953876682905554",
+            "name": "Punkt Pobran Diagnostyki (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107765953876682905554"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOzomuv4H1mBSrJxsQDUY0A03KEo5mz6QVYlNMj=w408-h380-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "08:00-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 680 217",
+        "address": "Punkt Pobran Diagnostyki, Osiedle Rzeczypospolitej 6, 61-397 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Diagnostyki/data=!4m7!3m6!1s0x47045b038fcae607:0x87449e7e1c36353e!8m2!3d52.3885274!4d16.9513141!16s%2Fg%2F1tcyqjmy!19sChIJB-bKjwNbBEcRPjU2HH6eRIc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJx5WwVYtFBEcReJIxS1osz44",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9755",
+        "owner": {
+            "id": "114064616181872361840",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114064616181872361840"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMO5rJTpXiLBQDAUsRy9LiHYvltQDekOOX4WKkN=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "08:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 61 101 37 67",
+        "address": "Punkt Pobran ALAB laboratoria, Wojskowa 1, 60-802 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x4704458b55b095c7:0x8ecf2c5a4b319278!8m2!3d52.3999398!4d16.8924434!16s%2Fg%2F11hzstzjlz!19sChIJx5WwVYtFBEcReJIxS1osz44?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJEY2wi5RbBEcR3NiO7LyR6ow",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9724",
+        "owner": {
+            "id": "110497415430043153434",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110497415430043153434"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMJFS77WpEws0jjmsYsqBmAtnMPYscp0lGGtlvy=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 2.4,
+        "workday_timing": "07:30-11:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 61 307 94 83",
+        "address": "Punkt Pobran ALAB laboratoria, plac Kolegiacki 12A, 61-132 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x47045b948bb08d11:0x8cea91bcec8ed8dc!8m2!3d52.406828!4d16.936659!16s%2Fg%2F11hzstz3gp!19sChIJEY2wi5RbBEcR3NiO7LyR6ow?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJnzkR6QZdBEcRXFd_DB2PQEY",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9982",
+        "owner": {
+            "id": "109247847043396365641",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109247847043396365641"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOEoNjD9sQn0hp6Avn90RzkHUV6ITzI_1lIlXTi=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "vrijdag",
+            "zondag"
+        ],
+        "phone": "+48 61 307 95 03",
+        "address": "Punkt Pobran ALAB laboratoria, Osiedle Wichrowe Wzgorze 16, 61-676 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x47045d06e911399f:0x46408f1d0c7f575c!8m2!3d52.4394905!4d16.9402368!16s%2Fg%2F11thsqf8ch!19sChIJnzkR6QZdBEcRXFd_DB2PQEY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ5xwBAwlFBEcROROuRn7klzs",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9775",
+        "owner": {
+            "id": "117631434620396996574",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117631434620396996574"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNqi0fMy0dVWZP1aAxuXRslc9Q0k7J4DzEg57ac=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.2,
+        "workday_timing": "08:00-11:00",
+        "closed_on": [
+            "donderdag",
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 515 014 063",
+        "address": "Punkt Pobran ALAB laboratoria, Zwierzyniecka 32/40, 61-132 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x4704450903011ce7:0x3b97e47e46ae1339!8m2!3d52.4096489!4d16.9026277!16s%2Fg%2F11qqyh2bx0!19sChIJ5xwBAwlFBEcROROuRn7klzs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ410TFp9GBEcR11zSq-9ZEt0",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "website": "https://diag.pl/katalogi/placowki/przezmierowo/punkt-pobran-diagnostyki-przezmierowo-ul-rynkowa-63/",
+        "owner": {
+            "id": "107921626876692101502",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107921626876692101502"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aWF9N3CbWnvZRDBNRareUg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=85.559326&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 680 320",
+        "address": "Diagnostics. Medical Laboratories., Rynkowa 63, 62-081 Przezmierowo, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x4704469f16135de3:0xdd1259efabd25cd7!8m2!3d52.428236!4d16.784875!16s%2Fg%2F11dyzl33j5!19sChIJ410TFp9GBEcR11zSq-9ZEt0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJE5Z64_hbBEcR_n62GTQmdGc",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": "https://diag.pl/katalogi/placowki/poznan/punkt-pobran-diagnostyki-poznan-ul-szyperska-13a/",
+        "owner": {
+            "id": "101562113067484792999",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101562113067484792999"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMOoOfJQs6iqWOV9LqggRD-S-TnfPt6avvevjm9=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:30-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 680 217",
+        "address": "Diagnostyka. Laboratoria Medyczne., Szyperska 13A, 61-754 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x47045bf8e37a9613:0x6774263419b67efe!8m2!3d52.4134315!4d16.9409761!16s%2Fg%2F11rd02cyrl!19sChIJE5Z64_hbBEcR_n62GTQmdGc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJEU6w0oJFBEcRPizNJnuRB-w",
+        "name": "Centrum Badan DNA - Testy COVID19 - Poznan Lawica",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": "https://d-lab.pl/register-lawica/pl",
+        "owner": {
+            "id": null,
+            "name": "Centrum Badan DNA - Testy COVID19 - Poznan Lawica (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMWPDXz9va5TlHzoCErfIUvlFhkyoA1JliHPkJe=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "24 uur geopend",
+        "closed_on": [],
+        "phone": null,
+        "address": "Centrum Badan DNA - Testy COVID19 - Poznan Lawica, Bukowska 285 Port Lotniczy im, Henryka Wieniawskiego, 60-189 Poznan, Polen",
+        "review_keywords": [
+            {
+                "keyword": "covid-19-diagnostiek",
+                "count": 4
+            },
+            {
+                "keyword": "resultaat",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Centrum+Bada%C5%84+DNA+-+Testy+COVID19+-+Pozna%C5%84+%C5%81awica/data=!4m7!3m6!1s0x47044582d2b04e11:0xec07917b26cd2c3e!8m2!3d52.415102!4d16.8300344!16s%2Fg%2F11s0wjzypk!19sChIJEU6w0oJFBEcRPizNJnuRB-w?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJK8NQSlFaBEcR4RFzDQt0JzE",
+        "name": "Baktolab Sp. z o.o. Centrum Diagnostyki Mikrobiologicznej i Analitycznej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": "http://baktolab.com.pl/",
+        "owner": {
+            "id": null,
+            "name": "Baktolab Sp. z o.o. Centrum Diagnostyki Mikrobiologicznej i Analitycznej (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOqAwTyz3FoQpjtfUYcb07oZwhcYc2viU2Po1o0=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 503 947 377",
+        "address": "Baktolab Sp. z o.o. Centrum Diagnostyki Mikrobiologicznej i Analitycznej, Osiedle Orla Bialego 43, 61-251 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Baktolab+Sp.+z+o.o.+Centrum+Diagnostyki+Mikrobiologicznej+i+Analitycznej/data=!4m7!3m6!1s0x47045a514a50c32b:0x3127740b0d7311e1!8m2!3d52.3751758!4d16.9624772!16s%2Fg%2F1tdr1_qk!19sChIJK8NQSlFaBEcR4RFzDQt0JzE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJCwAyooxbBEcRgkOAer1xOxA",
+        "name": "Punkt Pobran Diagnostyki",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": "https://diag.pl/katalogi/placowki/poznan/punkt-pobran-diagnostyki-poznan-pl-kolegiacki-12a/",
+        "owner": {
+            "id": "108851336016177860725",
+            "name": "Punkt Pobran Diagnostyki (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108851336016177860725"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=t_yafBal_-ziwMRVInshmw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=138.97156&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 680 217",
+        "address": "Punkt Pobran Diagnostyki, plac Kolegiacki 12C, 61-841 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Diagnostyki/data=!4m7!3m6!1s0x47045b8ca232000b:0x103b71bd7a804382!8m2!3d52.406825!4d16.9369971!16s%2Fg%2F11fnnscqm3!19sChIJCwAyooxbBEcRgkOAer1xOxA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJA1OamXhbBEcRg3kTmtPmFOc",
+        "name": "TopLab Laboratorium Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": "http://toplab.pl/",
+        "owner": {
+            "id": null,
+            "name": "TopLab Laboratorium Analityczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JgRv0OL0R5T8NzHWJDV2Yg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=149.35449&pitch=0&thumbfov=100",
+        "main_category": "Ziekenhuis",
+        "categories": [
+            "Ziekenhuis"
+        ],
+        "rating": 2.6,
+        "workday_timing": "08:00-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 61 872 28 28",
+        "address": "TopLab Laboratorium Analityczne, osiedle Lecha 120, 61-298 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/TopLab+Laboratorium+Analityczne/data=!4m7!3m6!1s0x47045b78999a5303:0xe714e6d39a137983!8m2!3d52.3872638!4d16.9748072!16s%2Fg%2F11gyyxgyv1!19sChIJA1OamXhbBEcRg3kTmtPmFOc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJhQLP3ydFBEcRoC4zswnu-MI",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": "https://diag.pl/katalogi/placowki/poznan/punkt-pobran-diagnostyki-poznan-ul-swit-47/",
+        "owner": {
+            "id": "104569228648404061676",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/104569228648404061676"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fWESXj8SPjfLVAUJo7A6LA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=51.76734&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:00-13:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 680 217",
+        "address": "Diagnostyka. Laboratoria Medyczne., Swit 34/36, 60-375 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x47044527dfcf0285:0xc2f8ee09b3332ea0!8m2!3d52.4095213!4d16.8769842!16s%2Fg%2F11jm_5dh_s!19sChIJhQLP3ydFBEcRoC4zswnu-MI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8xhDEjdDBEcRg3n2aG0uJCA",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": "https://diag.pl/katalogi/placowki/poznan/punkt-pobran-kontrahenta-poznan-os-b-chrobrego-118/",
+        "owner": {
+            "id": "113088250381395740711",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113088250381395740711"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOf-wEhSgpRUS5QCarqb4h9YfTopbKYYCqy2Okp=w408-h725-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.3,
+        "workday_timing": "07:30-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 680 217",
+        "address": "Diagnostyka. Laboratoria Medyczne., os. B, Osiedle Boleslawa Chrobrego 118, 60-681 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x47044337124318f3:0x20242e6d68f67983!8m2!3d52.4497144!4d16.9154047!16s%2Fg%2F11h_m1wp8p!19sChIJ8xhDEjdDBEcRg3n2aG0uJCA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJa7MBZOZbBEcRrnRWlfVYxfw",
+        "name": "PANgen - laboratorium diagnostyki molekularnej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": "http://pangen.pl/",
+        "owner": {
+            "id": "104751145456614495955",
+            "name": "PANgen - laboratorium diagnostyki molekularnej (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/104751145456614495955"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3NE6adjhUdfB859ThsIZVg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=283.9817&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 61 848 33 74",
+        "address": "PANgen - laboratorium diagnostyki molekularnej, Wieniawskiego 17/19, 61-713 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/PANgen+-+laboratorium+diagnostyki+molekularnej/data=!4m7!3m6!1s0x47045be66401b36b:0xfcc558f5955674ae!8m2!3d52.411434!4d16.9177463!16s%2Fg%2F11rc940g7c!19sChIJa7MBZOZbBEcRrnRWlfVYxfw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJI8qy7XBbBEcRjV-iBSBfBDs",
+        "name": "Diagnostyka",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": "https://diag.pl/",
+        "owner": {
+            "id": null,
+            "name": "Diagnostyka (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FeUXH075yW4tMQq1KRP4xQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=138.62224&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 4.9,
+        "workday_timing": "07:30-13:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 683 291",
+        "address": "Diagnostyka, Graniczna 15, 60-713 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka/data=!4m7!3m6!1s0x47045b70edb2ca23:0x3b045f2005a25f8d!8m2!3d52.395875!4d16.9037944!16s%2Fg%2F11sr66zn3m!19sChIJI8qy7XBbBEcRjV-iBSBfBDs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJn7uCiT9DBEcR4392hrEPG7E",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": "https://diag.pl/katalogi/placowki/poznan/punkt-pobran-kontrahenta-poznan-os-b-chrobrego-101/",
+        "owner": {
+            "id": "117775298209127383494",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117775298209127383494"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iZXbYUqM5CBymi20Cm2cqw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=200.60081&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.6,
+        "workday_timing": "08:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 680 217",
+        "address": "Diagnostyka. Laboratoria Medyczne., os. B, Osiedle Boleslawa Chrobrego 101, 60-680 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x4704433f8982bb9f:0xb11b0fb186767fe3!8m2!3d52.4590563!4d16.9122556!16s%2Fg%2F11h5krtrrk!19sChIJn7uCiT9DBEcR4392hrEPG7E?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJC86ZPSVbBEcRtHkQf4awHyY",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10112",
+        "owner": {
+            "id": "112975424382161595760",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112975424382161595760"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNL6qgLRmjfSHPuki3TDTUzg0f8oEu7jw8OFycT=w408-h543-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 61 307 95 46",
+        "address": "Punkt Pobran ALAB laboratoria, Szwajcarska 1A, 61-285 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x47045b253d99ce0b:0x261fb0867f1079b4!8m2!3d52.3934173!4d16.9916994!16s%2Fg%2F11td7znkj4!19sChIJC86ZPSVbBEcRtHkQf4awHyY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJaVLqsmtbBEcRi7VMZ-B-s8g",
+        "name": "MobilLab",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": "http://mobillab.pl/",
+        "owner": {
+            "id": "101804270899669309570",
+            "name": "MobilLab (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101804270899669309570"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zHDCqTFVf_cJChv5q7f_Zw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=208.35545&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-17:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 509 332 779",
+        "address": "MobilLab, Folwarczna 29, 61-064 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/MobilLab/data=!4m7!3m6!1s0x47045b6bb2ea5269:0xc8b37ee0674cb58b!8m2!3d52.388385!4d17.0056456!16s%2Fg%2F11hhfvms3k!19sChIJaVLqsmtbBEcRi7VMZ-B-s8g?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJEwrE4LZaBEcRwKjHtNOhBxk",
+        "name": "NZOZ Analysis Laboratory Medical Opol-Med s.c.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": "http://www.opol-med.pl/",
+        "owner": {
+            "id": "103902486511539893589",
+            "name": "NZOZ Analysis Laboratory Medical Opol-Med s.c. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103902486511539893589"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oTfO36NxxI6J285z2SzEGw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=307.50256&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "07:00-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 61 832 29 01",
+        "address": "NZOZ Analysis Laboratory Medical Opol-Med s.c., Opolska 58, 61-433 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/NZOZ+Analysis+Laboratory+Medical+Opol-Med+s.c./data=!4m7!3m6!1s0x47045ab6e0c40a13:0x1907a1d3b4c7a8c0!8m2!3d52.3662675!4d16.8948414!16s%2Fg%2F1thzmlrx!19sChIJEwrE4LZaBEcRwKjHtNOhBxk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ5a_R2xtdBEcRHHOK4F8-nBY",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "https://diag.pl/katalogi/placowki/warszawa/punkt-pobran-diagnostyki-warszawa-al-komisji-edukacji-narodowej-61/",
+        "owner": {
+            "id": "110765600867441886066",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110765600867441886066"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RKf-Wh5bzba9CdZFcYUH5g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=314.29858&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1.9,
+        "workday_timing": "08:00-12:00",
+        "closed_on": [],
+        "phone": "+48 663 680 217",
+        "address": "Diagnostyka. Laboratoria Medyczne., Serbska 7, 60-101 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x47045d1bdbd1afe5:0x169c3e5fe08a731c!8m2!3d52.4327742!4d16.9507759!16s%2Fg%2F11j5vv4k23!19sChIJ5a_R2xtdBEcRHHOK4F8-nBY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJueppYCtbBEcRKJ0TSzsse_k",
+        "name": "ToronLab - Laboratorium ortodontyczne (Technik Dentystyczny)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "https://toron-lab.business.site/",
+        "owner": {
+            "id": "102029192031657771498",
+            "name": "ToronLab - Laboratorium ortodontyczne (Technik Dentystyczny) (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102029192031657771498"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN2Op9xX2SHBBmLEafXuSTuiafq5uUYugby62UX=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Tandtechnisch laboratorium",
+            "Laboratorium",
+            "Orthodontist",
+            "Protetyka"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 692 476 226",
+        "address": "ToronLab - Laboratorium ortodontyczne (Technik Dentystyczny), Jesienna 1, 60-712 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Toro%C5%84Lab+-+Laboratorium+ortodontyczne+%28Technik+Dentystyczny%29/data=!4m7!3m6!1s0x47045b2b6069eab9:0xf97b2c3b4b139d28!8m2!3d52.4108047!4d16.8761555!16s%2Fg%2F11dzdfsh56!19sChIJueppYCtbBEcRKJ0TSzsse_k?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJW9o890tbBEcRKIBnnmsZBAM",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": "https://diag.pl/katalogi/miasta-badania-krwi/poznan/",
+        "owner": {
+            "id": "111377025874849661494",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111377025874849661494"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7fXjQb9cer_eKFar1BNg6Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=340.89285&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.1,
+        "workday_timing": "08:00-15:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 680 217",
+        "address": "Diagnostyka. Laboratoria Medyczne., Sporna 16, 61-709 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x47045b4bf73cda5b:0x304196b9e678028!8m2!3d52.4150613!4d16.920953!16s%2Fg%2F1xg5rcll!19sChIJW9o890tbBEcRKIBnnmsZBAM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJleQJTpNEBEcRvG9GbZA-KFs",
+        "name": "Zaklad Diagnostyki Medycznej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": "http://zdmdobra.pl/",
+        "owner": {
+            "id": "107862197602500868113",
+            "name": "Zaklad Diagnostyki Medycznej (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107862197602500868113"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0LaBqOcaG1nE3KZ6wyqTmg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=306.3278&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:00-17:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 61 663 07 81",
+        "address": "Zaklad Diagnostyki Medycznej, Dobra 38A, 60-595 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Zak%C5%82ad+Diagnostyki+Medycznej/data=!4m7!3m6!1s0x470444934e09e495:0x5b283e906d466fbc!8m2!3d52.4175!4d16.8732107!16s%2Fg%2F1v26ktfl!19sChIJleQJTpNEBEcRvG9GbZA-KFs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7-rfQAVFBEcR30BUfO2ytso",
+        "name": "Punkt pobran krwi FLOSMED Poznan",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": "https://flosmed.pl/punkt-pobran/",
+        "owner": {
+            "id": "102916573257444631656",
+            "name": "Punkt pobran krwi FLOSMED Poznan (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102916573257444631656"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMF1V95iizWLri-SD3Tclflbva0AgVP66VhbYGS=w408-h544-k-no",
+        "main_category": "Diagnosecentrum",
+        "categories": [
+            "Diagnosecentrum",
+            "Bloedbank",
+            "Medisch centrum",
+            "Medische kliniek",
+            "Medisch laboratorium",
+            "Particulier ziekenhuis",
+            "Gespecialiseerde kliniek",
+            "Inloopkliniek"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-19:00",
+        "closed_on": [],
+        "phone": "+48 796 713 094",
+        "address": "Punkt pobran krwi FLOSMED Poznan, Barwicka 14a, 60-192 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+pobra%C5%84+krwi+FLOSMED+Pozna%C5%84/data=!4m7!3m6!1s0x4704450540dfeaef:0xcab6b2ed7c5440df!8m2!3d52.4110756!4d16.8316841!16s%2Fg%2F11rjj60fdj!19sChIJ7-rfQAVFBEcR30BUfO2ytso?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJJ4kOn2lbBEcRZ8hV9WJVdHw",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "https://www.synevo.pl/laboratorium-poznan-wierzbiecice/",
+        "owner": {
+            "id": "103901945424801653143",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103901945424801653143"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPXKcJHHki9A6ua2h8HyF9P_U-UGujHhUKUz0b_=w408-h240-k-no-pi0-ya220.20335-ro-0-fo100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "06:30-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Wierzbiecice 46, 61-546 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x47045b699f0e8927:0x7c745562f555c867!8m2!3d52.393284!4d16.921764!16s%2Fg%2F11kjlpfdmv!19sChIJJ4kOn2lbBEcRZ8hV9WJVdHw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJQTmHoc9FBEcRiEFX3XdBYCA",
+        "name": "Centrum Badan DNA - Badania genetyczne, testy DNA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "https://cbdna.pl/",
+        "owner": {
+            "id": "114106294963714217758",
+            "name": "Centrum Badan DNA - Badania genetyczne, testy DNA (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114106294963714217758"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP7lB9Zh0eB83g5Gp8AN8CVQaCjJ2eqvefg3Wkh=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Arts infectieziekten",
+            "Laboratorium",
+            "Medisch centrum",
+            "Medische kliniek",
+            "Onderzoeksinstituut"
+        ],
+        "rating": 2.7,
+        "workday_timing": "08:00-16:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 530 784 239",
+        "address": "Centrum Badan DNA - Badania genetyczne, testy DNA, Sciegiennego 20, 60-128 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Centrum+Bada%C5%84+DNA+-+Badania+genetyczne,+testy+DNA/data=!4m7!3m6!1s0x470445cfa1873941:0x20604177dd574188!8m2!3d52.3851487!4d16.8817851!16s%2Fg%2F11t5k982rp!19sChIJQTmHoc9FBEcRiEFX3XdBYCA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJa1wHgP5FBEcRCRrgYKd38mU",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "https://diag.pl/katalogi/placowki/poznan/punkt-pobran-diagnostyki-poznan-ul-lemierzycka-1/",
+        "owner": {
+            "id": "100297196275501467543",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100297196275501467543"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pWt1V4-orKak9yD0c6f6cQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=229.06544&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:30-13:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 680 217",
+        "address": "Diagnostyka. Laboratoria Medyczne., Lemierzycka 1, 60-439 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470445fe80075c6b:0x65f277a760e01a09!8m2!3d52.4342652!4d16.8261317!16s%2Fg%2F11h_sn5f87!19sChIJa1wHgP5FBEcRCRrgYKd38mU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJX6fSczdbBEcREO3mIpYubFw",
+        "name": "Laboratorium Diagnostyki Molekularnej GENMED s.j.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "http://www.genmed.pl/",
+        "owner": {
+            "id": "105632128002293017781",
+            "name": "Laboratorium Diagnostyki Molekularnej GENMED s.j. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105632128002293017781"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNV6BbWa8Slkfa1IqfygJG4qy_yD36dZ9ch0guB=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.7,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 61 853 32 38",
+        "address": "Laboratorium Diagnostyki Molekularnej GENMED s.j., Swiety Marcin 49, 61-806 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Diagnostyki+Molekularnej+GENMED+s.j./data=!4m7!3m6!1s0x47045b3773d2a75f:0x5c6c2e9622e6ed10!8m2!3d52.4065937!4d16.922958!16s%2Fg%2F1tdxp4b2!19sChIJX6fSczdbBEcREO3mIpYubFw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-_vt3bhbBEcRn3J0PBgwf1k",
+        "name": "Diagnostyka. Laboratoria medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "https://diag.pl/katalogi/placowki/poznan/punkt-pobran-diagnostyki-poznan-ul-pilsudskiego-102/",
+        "owner": {
+            "id": "113484925038210202707",
+            "name": "Diagnostyka. Laboratoria medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113484925038210202707"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TXFCTq-qEDQbrAEkCtoXSQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=273.15146&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": "08:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 680 217",
+        "address": "Diagnostyka. Laboratoria medyczne., Pilsudskiego 102, 61-246 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+medyczne./data=!4m7!3m6!1s0x47045bb8ddedfbfb:0x597f30183c74729f!8m2!3d52.387614!4d16.959781!16s%2Fg%2F11fnnm7yk_!19sChIJ-_vt3bhbBEcRn3J0PBgwf1k?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJG9_FbygnM0gRkzyf5wl813o",
+        "name": "Home Lab",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "http://www.homelab24.pl/",
+        "owner": {
+            "id": "102565145348010046195",
+            "name": "Home Lab (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102565145348010046195"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPM_4YGxM29HDUUVphCWmu3tgdWK6LG_Zbn4Z93=w408-h355-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Service establishment"
+        ],
+        "rating": 5,
+        "workday_timing": "24 uur geopend",
+        "closed_on": [],
+        "phone": "+48 61 623 50 66",
+        "address": null,
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Home+Lab/data=!4m7!3m6!1s0x483327286fc5df1b:0x7ad77c09e79f3c93!8m2!3d51.9537505!4d19.1343786!16s%2Fg%2F11jzs52j45!19sChIJG9_FbygnM0gRkzyf5wl813o?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJST81ly9dBEcRb89Y80Q0XS4",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9984",
+        "owner": {
+            "id": "113608956866742810628",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113608956866742810628"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMhveCu32nF79MYIeTfQJDv3WSwIHqdR-MHhLzq=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 509 151 981",
+        "address": "Punkt Pobran ALAB laboratoria, Czarna Rola 21/19, 61-625 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x47045d2f97353f49:0x2e5d3444f358cf6f!8m2!3d52.4347989!4d16.9429921!16s%2Fg%2F11s34blgsy!19sChIJST81ly9dBEcRb89Y80Q0XS4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJxSxGSpFFBEcRYfQ7vXPRRp4",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "https://www.alablaboratoria.pl/",
+        "owner": {
+            "id": "109884777295399788368",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109884777295399788368"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP9CxdPfSPw0dfDNuS2zgpmXIZccJkoQ818zEAO=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:30-12:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 61 307 95 72",
+        "address": "Punkt Pobran ALAB laboratoria, wejscie od kasprzaka, Sczanieckiej 8b/lok 101, 61-001 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470445914a462cc5:0x9e46d173bd3bf461!8m2!3d52.394395!4d16.8961181!16s%2Fg%2F11tmn_cnb3!19sChIJxSxGSpFFBEcRYfQ7vXPRRp4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJsQURuDVbBEcRvEB07NDYlnw",
+        "name": "Department of Medical Microbiology, Poznan University of Medical Sciences",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "http://mikrobiologialekarska.ump.edu.pl/",
+        "owner": {
+            "id": null,
+            "name": "Department of Medical Microbiology, Poznan University of Medical Sciences (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YQsED3kt-GnH2CA_wCL9_Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=259.9253&pitch=0&thumbfov=100",
+        "main_category": "Universiteitsafdeling",
+        "categories": [
+            "Universiteitsafdeling",
+            "Medisch laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 61 854 61 38",
+        "address": "Department of Medical Microbiology, Poznan University of Medical Sciences, Wieniawskiego 3, 61-712 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Department+of+Medical+Microbiology,+Poznan+University+of+Medical+Sciences/data=!4m7!3m6!1s0x47045b35b81105b1:0x7c96d8d0ec7440bc!8m2!3d52.4088689!4d16.9156874!16s%2Fg%2F1tdnvlpq!19sChIJsQURuDVbBEcRvEB07NDYlnw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJkylL5VVDBEcR6m-8ewQtYHo",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "https://sklep.alablaboratoria.pl/badania?punkty_id=9944",
+        "owner": {
+            "id": "108160366963996697072",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108160366963996697072"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOl8l04YO5b-AvAI2fWgkqg2-BB7WFdOIl6KozU=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 61 307 95 55",
+        "address": "Punkt Pobran ALAB laboratoria, Wrzoska 1, 60-663 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x47044355e54b2993:0x7a602d047bbc6fea!8m2!3d52.4374501!4d16.9061063!16s%2Fg%2F11s8hsdw9b!19sChIJkylL5VVDBEcR6m-8ewQtYHo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJg528d6tFBEcR-XKWEYk9O4o",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "https://diag.pl/katalogi/placowki/skorzewo/punkt-pobran-diagnostyki-skorzewo-szkolna-35/",
+        "owner": {
+            "id": "111075170910170618379",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111075170910170618379"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xlazBBEjGp26qANkVPIf6w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=55.18647&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "07:30-12:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 681 486",
+        "address": "Diagnostyka. Laboratoria Medyczne., Szkolna 35, 60-185 Skorzewo, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470445ab77bc9d83:0x8a3b3d89119672f9!8m2!3d52.3928001!4d16.7963523!16s%2Fg%2F11pwh0c98l!19sChIJg528d6tFBEcR-XKWEYk9O4o?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJZUDeL8FbBEcRtoKrOqrejTU",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://diag.pl/katalogi/placowki/poznan/punkt-pobran-diagnostyki-poznan-ul-slowackiego-8/",
+        "owner": {
+            "id": "111037722564224517896",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111037722564224517896"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNwt30am8AhrF0m5GQtPyzSjnu3TIbazxxJlEIs=w408-h542-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.5,
+        "workday_timing": "07:30-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 680 217",
+        "address": "Diagnostyka. Laboratoria Medyczne., Slowackiego 8, 60-823 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x47045bc12fde4065:0x358ddeaa3aab82b6!8m2!3d52.4101318!4d16.9115964!16s%2Fg%2F11rgx332cq!19sChIJZUDeL8FbBEcRtoKrOqrejTU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJJSiu7vNFBEcR5VE36r2d25M",
+        "name": "Punkt pobran Glogowska Poznan",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://centrumwilsona.pl/",
+        "owner": {
+            "id": "105829782120539352432",
+            "name": "Punkt pobran Glogowska Poznan (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105829782120539352432"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EzcYr1GNFhufQcSNaDw4Og&cb_client=search.gws-prod.gps&w=408&h=240&yaw=308.01355&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-11:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 530 530 235",
+        "address": "Punkt pobran Glogowska Poznan, Glogowska 58, 60-737 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+pobra%C5%84+G%C5%82ogowska+Pozna%C5%84/data=!4m7!3m6!1s0x470445f3eeae2825:0x93db9dbdea3751e5!8m2!3d52.3968395!4d16.9012708!16s%2Fg%2F11jyf3fm52!19sChIJJSiu7vNFBEcR5VE36r2d25M?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8xcrFNNFBEcRLIZBnKJA8xQ",
+        "name": "Punkt Pobran Poznan Solacz Wonder-Art Lions",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://wonder-art.pl/punkt-pobran/",
+        "owner": {
+            "id": "102133631213710032221",
+            "name": "Punkt Pobran Poznan Solacz Wonder-Art Lions (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102133631213710032221"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8QCA6D_fafZ3DKMe-eg9vQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=137.62871&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-09:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 607 550 567",
+        "address": "Punkt Pobran Poznan Solacz Wonder-Art Lions, Sokola 9/lokal 11, 60-644 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Pozna%C5%84+So%C5%82acz+Wonder-Art+Lions/data=!4m7!3m6!1s0x470445d3142b17f3:0x14f340a29c41862c!8m2!3d52.4248678!4d16.9121555!16s%2Fg%2F11nfc47p48!19sChIJ8xcrFNNFBEcRLIZBnKJA8xQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJd_MP0XNFBEcR4hK1jJz7_1I",
+        "name": "Punkt Wymazowy Centrum Medycznego Damiana",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://www.damian.pl/",
+        "owner": {
+            "id": null,
+            "name": "Punkt Wymazowy Centrum Medycznego Damiana (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FdZ3lhdPlmKOpSEhQvlASg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=3.0012262&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": "07:00-19:00",
+        "closed_on": [],
+        "phone": "+48 22 566 22 22",
+        "address": "Punkt Wymazowy Centrum Medycznego Damiana, Bukowska 303, 60-189 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Wymazowy+Centrum+Medycznego+Damiana/data=!4m7!3m6!1s0x47044573d10ff377:0x52fffb9c8cb512e2!8m2!3d52.4137382!4d16.8242947!16s%2Fg%2F11rbfbk38d!19sChIJd_MP0XNFBEcR4hK1jJz7_1I?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJyUtMpxJFBEcR69U2N9vz-Fw",
+        "name": "Punkt Pobran Poznan Novina",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://gabinety-novina.pl/punktpobran/",
+        "owner": {
+            "id": "107415931681858544216",
+            "name": "Punkt Pobran Poznan Novina (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107415931681858544216"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMFy7b1qS1474mDJDYJH_5vFaYxawgUyP6JmGA=w408-h303-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Arts",
+            "Verloskundige",
+            "Praktijkondersteuner"
+        ],
+        "rating": 5,
+        "workday_timing": "07:30-11:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 665 505 606",
+        "address": "Punkt Pobran Poznan Novina, Nowina 12A, 60-589 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Pozna%C5%84+Novina/data=!4m7!3m6!1s0x47044512a74c4bc9:0x5cf8f3db3736d5eb!8m2!3d52.4168639!4d16.8787794!16s%2Fg%2F11st90x80g!19sChIJyUtMpxJFBEcR69U2N9vz-Fw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJwwfBx9dbBEcR9Utsu6Wdn80",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://diag.pl/katalogi/placowki/poznan/punkt-pobran-diagnostyki-poznan-ul-starolecka-18/",
+        "owner": {
+            "id": "108011970535766799759",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108011970535766799759"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YqTMyVNWRYodoPHSN7T6Ag&cb_client=search.gws-prod.gps&w=408&h=240&yaw=287.40085&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": "07:00-10:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 680 217",
+        "address": "Diagnostyka. Laboratoria Medyczne., Starolecka 18, 61-361 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x47045bd7c7c107c3:0xcd9f9da5bb6c4bf5!8m2!3d52.3723903!4d16.9355308!16s%2Fg%2F11fnnv4x3z!19sChIJwwfBx9dbBEcR9Utsu6Wdn80?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJiYHpWhBDBEcRUV8tK5_1nqc",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9960",
+        "owner": {
+            "id": "103582461290282301834",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103582461290282301834"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOwYhmGrxLkobDNPh1kEOJsT278_aZ1QW13X_Qs=w532-h240-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-11:00",
+        "closed_on": [
+            "vrijdag",
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 61 307 95 74",
+        "address": "Punkt Pobran ALAB laboratoria, Strozynskiego 11/36, 60-688 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470443105ae98189:0xa79ef59f2b2d5f51!8m2!3d52.455063!4d16.9039905!16s%2Fg%2F11vdf9y6v4!19sChIJiYHpWhBDBEcRUV8tK5_1nqc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ5zuur-hFBEcRblq8-DPY2qM",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://diag.pl/katalogi/placowki/",
+        "owner": {
+            "id": "108478611950525697979",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108478611950525697979"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNfZJDhoUJyBzrdWVZETiMXjiowk3moet8VvfQJ=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "08:00-12:00",
+        "closed_on": [],
+        "phone": "+48 663 680 217",
+        "address": "Diagnostyka. Laboratoria Medyczne., PUNKT WYMAZOWY, Bukowska 177, 60-196 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470445e8afae3be7:0xa3dad833f8bc5a6e!8m2!3d52.4135974!4d16.8529638!16s%2Fg%2F11rp_gq5gs!19sChIJ5zuur-hFBEcRblq8-DPY2qM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJQUkVjkJDBEcR3TsGKlbqZR0",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://diag.pl/katalogi/placowki/poznan/punkt-pobran-diagnostyki-poznan-os-zwyciestwa-108/",
+        "owner": {
+            "id": null,
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5XCsk8YkRIyXW7VdTxPySA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=176.02266&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Diagnostyka. Laboratoria Medyczne., Osiedle Zwyciestwa 108, 61-653 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x470443428e154941:0x1d65ea562a063bdd!8m2!3d52.4414945!4d16.9226642!16s%2Fg%2F11jf9p_xnt!19sChIJQUkVjkJDBEcR3TsGKlbqZR0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJDYFPqrZbBEcR7OxgGEnYkwo",
+        "name": "Centrum Dowodowe - Testy pokrewienstwa i Analiza dokumentow",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://www.centrumdowodowe.pl/",
+        "owner": {
+            "id": "112539678100036895491",
+            "name": "Centrum Dowodowe - Testy pokrewienstwa i Analiza dokumentow (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112539678100036895491"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNpxHoJF5fQC3q7C2BFJlVneOe5L74c_enUr1da=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Gegevensherstelservice",
+            "Transcriptieservice"
+        ],
+        "rating": null,
+        "workday_timing": "09:00-20:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 730 902 525",
+        "address": "Centrum Dowodowe - Testy pokrewienstwa i Analiza dokumentow, Za Grobla 6/1, 61-860 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Centrum+Dowodowe+-+Testy+pokrewie%C5%84stwa+i+Analiza+dokument%C3%B3w/data=!4m7!3m6!1s0x47045bb6aa4f810d:0xa93d8491860ecec!8m2!3d52.4038319!4d16.9422188!16s%2Fg%2F11sbv8bcb3!19sChIJDYFPqrZbBEcR7OxgGEnYkwo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJX6fSczdbBEcRVMspAc4r_8M",
+        "name": "Genomio - testy na ojcostwo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "http://genomio.pl/",
+        "owner": {
+            "id": "112359660334801619990",
+            "name": "Genomio - testy na ojcostwo (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112359660334801619990"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=h8EfoCO_JqJV0Cw-NDMBDw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=217.41275&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 61 853 32 39",
+        "address": "Genomio - testy na ojcostwo, Swiety Marcin 49, 61-806 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Genomio+-+testy+na+ojcostwo/data=!4m7!3m6!1s0x47045b3773d2a75f:0xc3ff2bce0129cb54!8m2!3d52.4065472!4d16.9229243!16s%2Fg%2F11c2pzsw4k!19sChIJX6fSczdbBEcRVMspAc4r_8M?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJgVDljudFBEcRjgkBRN-4rq8",
+        "name": "testDNA Poznan Slowackiego",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://testdna-poznan-slowackiego-badania-dna-testy-na-ojcostwo.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+        "owner": {
+            "id": "100068064605113336065",
+            "name": "testDNA Poznan Slowackiego (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100068064605113336065"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOkImcUM-ElqkTvW46BDF_BH3CG03UtRU7biL29=w408-h270-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 665 761 161",
+        "address": "testDNA Poznan Slowackiego, Slowackiego 28 A, 60-823 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/testDNA+Pozna%C5%84+S%C5%82owackiego/data=!4m7!3m6!1s0x470445e78ee55081:0xafaeb8df4401098e!8m2!3d52.4107955!4d16.9073965!16s%2Fg%2F11fp4pvl_c!19sChIJgVDljudFBEcRjgkBRN-4rq8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2zE1YRpFBEcRQqyuKTj1uqo",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9759",
+        "owner": {
+            "id": "113515765735894789494",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113515765735894789494"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMyInIzADRSJIO3Cp0mR4Xhij4DTvRHEAMpuWp5=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "07:30-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 61 307 95 53",
+        "address": "Punkt Pobran ALAB laboratoria, Grunwaldzka 6, 60-780 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x4704451a613531db:0xaabaf53829aeac42!8m2!3d52.4059439!4d16.9051517!16s%2Fg%2F11vb45mgwq!19sChIJ2zE1YRpFBEcRQqyuKTj1uqo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJy246wCZFBEcRr9kBfWpI4h0",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 50,
+        "website": null,
+        "owner": {
+            "id": "110813911309923949733",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110813911309923949733"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNubfUJCLTDNTgCde7E9A2qmzttPhwWOgdsQkPn=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.5,
+        "workday_timing": "07:30-11:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 61 861 81 25",
+        "address": "Diagnostics. Medical Laboratories., Promienista 89, 60-142 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x47044526c03a6ecb:0x1de2486a7d01d9af!8m2!3d52.3908135!4d16.8756837!16s%2Fg%2F11dz4zbc5m!19sChIJy246wCZFBEcRr9kBfWpI4h0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJYUp3-BRBBEcRi7rWu4mtqN0",
+        "name": "NZOZ Laboratorium Analiz Medycznych SALVEO",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 26,
+        "website": null,
+        "owner": {
+            "id": "117282265763405559794",
+            "name": "NZOZ Laboratorium Analiz Medycznych SALVEO (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117282265763405559794"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=it_TNUJTOyJecrE3ghQdcw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=340.07312&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 3.6,
+        "workday_timing": "08:00-13:00, 15:00-16:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 605 456 378",
+        "address": "NZOZ Laboratorium Analiz Medycznych SALVEO, Chojnicka 58, 60-480 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/NZOZ+Laboratorium+Analiz+Medycznych+SALVEO/data=!4m7!3m6!1s0x47044114f8774a61:0xdda8ad89bbd6ba8b!8m2!3d52.4774089!4d16.7847333!16s%2Fg%2F1ptx4c9vh!19sChIJYUp3-BRBBEcRi7rWu4mtqN0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJP6sWTkNDBEcRp2t6qnHG7b8",
+        "name": "Kamed Lekarze Rodzinni K. Czwojda Spolka Jawna",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": null,
+        "owner": {
+            "id": "100521465259340406717",
+            "name": "Kamed Lekarze Rodzinni K. Czwojda Spolka Jawna (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100521465259340406717"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPQm-9sNUB8zYDDuaEX4qksjyLT0TeoWb2TGdi9=w408-h400-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 787 979 097",
+        "address": "Kamed Lekarze Rodzinni K. Czwojda Spolka Jawna, Obornicka 227, 60-650 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kamed+Lekarze+Rodzinni+K.+Czwojda+Sp%C3%B3%C5%82ka+Jawna/data=!4m7!3m6!1s0x470443434e16ab3f:0xbfedc671aa7a6ba7!8m2!3d52.4454567!4d16.9069404!16s%2Fg%2F11rbysvpq2!19sChIJP6sWTkNDBEcRp2t6qnHG7b8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJnYo4MapEBEcRm10d3pOe8h4",
+        "name": "Laboratorium Analiz Medycznych",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": null,
+        "owner": {
+            "id": "110031522796696319388",
+            "name": "Laboratorium Analiz Medycznych (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110031522796696319388"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPV3xV1I42r0YR1YHgUqv05Eh2a7gpJ_CK85zVS=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 61 846 65 19",
+        "address": "Laboratorium Analiz Medycznych, Piatkowska 94, 60-649 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Analiz+Medycznych/data=!4m7!3m6!1s0x470444aa31388a9d:0x1ef29e93de1d5d9b!8m2!3d52.4302997!4d16.9166346!16s%2Fg%2F1trpjxkt!19sChIJnYo4MapEBEcRm10d3pOe8h4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3WlL8RNDBEcR9IFIO9phGnc",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": "100431920049057360592",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100431920049057360592"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2K1XxhX5AOG5pplkXom6JA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=275.39056&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "07:30-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 61 823 47 11",
+        "address": "Diagnostyka. Laboratoria Medyczne., os. Marysienki 25, 60-683 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x47044313f14b69dd:0x771a61da3b4881f4!8m2!3d52.460168!4d16.9028647!16s%2Fg%2F1tf6fb9j!19sChIJ3WlL8RNDBEcR9IFIO9phGnc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ__-uVDdbBEcRXaUp_WECSZE",
+        "name": "Gabinet Szczepien",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Szczepien (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=daIPECXEalgpRgVyJtgG8Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=21.749565&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 61 853 60 32",
+        "address": "Gabinet Szczepien, Powstancow Wielkopolskich 8, 61-895 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Szczepie%C5%84/data=!4m7!3m6!1s0x47045b3754aeffff:0x91490261fd29a55d!8m2!3d52.4043827!4d16.9226965!16s%2Fg%2F11nm9ln6mc!19sChIJ__-uVDdbBEcRXaUp_WECSZE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJH0aoPjVbBEcRD7tg13gzcrU",
+        "name": "Centrum. Laboratorium analiz medycznych NZOZ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Centrum. Laboratorium analiz medycznych NZOZ (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jLyhMLMF1Y_7JV1BG4A7DA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=58.29095&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Arts"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:30-17:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 570 404 782",
+        "address": "Centrum. Laboratorium analiz medycznych NZOZ, Slowackiego 8, 60-823 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Centrum.+Laboratorium+analiz+medycznych+NZOZ/data=!4m7!3m6!1s0x47045b353ea8461f:0xb5723378d760bb0f!8m2!3d52.4098778!4d16.9117982!16s%2Fg%2F1v96kh97!19sChIJH0aoPjVbBEcRD7tg13gzcrU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJeWRndj9bBEcRXcXG0Xxmf4Q",
+        "name": "Bochna Barbara. Laboratorium analiz lekarskich",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bochna Barbara. Laboratorium analiz lekarskich (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=t_yafBal_-ziwMRVInshmw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=138.99599&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 61 853 61 81",
+        "address": "Bochna Barbara. Laboratorium analiz lekarskich, plac Kolegiacki 12B, 61-841 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bochna+Barbara.+Laboratorium+analiz+lekarskich/data=!4m7!3m6!1s0x47045b3f76676479:0x847f667cd1c6c55d!8m2!3d52.406825!4d16.9369969!16s%2Fg%2F1tjgn941!19sChIJeWRndj9bBEcRXcXG0Xxmf4Q?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJY5PLvNVEBEcR_WlfRXm_gxM",
+        "name": "TopLab",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "TopLab (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rsOcCDvIjVI7PaVohb9t7g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=128.06398&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "TopLab, Kasprzaka 16, 61-612 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/TopLab/data=!4m7!3m6!1s0x470444d5bccb9363:0x1383bf79455f69fd!8m2!3d52.3936942!4d16.894403!16s%2Fg%2F11cjp70qt9!19sChIJY5PLvNVEBEcR_WlfRXm_gxM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJiYoZXllDBEcRQofkgt7xwmE",
+        "name": "Zaklad Diagnostyki Laboratoryjnej I Mikrobiologicznej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Zaklad Diagnostyki Laboratoryjnej I Mikrobiologicznej (eigenaar)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "24 uur geopend",
+        "closed_on": [],
+        "phone": null,
+        "address": "Zaklad Diagnostyki Laboratoryjnej I Mikrobiologicznej, Juraszow 7-19, 60-479 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Zak%C5%82ad+Diagnostyki+Laboratoryjnej+I+Mikrobiologicznej/data=!4m7!3m6!1s0x470443595e198a89:0x61c2f1de82e48742!8m2!3d52.4393899!4d16.906236!16s%2Fg%2F11qnk7gm00!19sChIJiYoZXllDBEcRQofkgt7xwmE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJQwKNN7lcBEcRejAKDcouVq4",
+        "name": "Coreclinic Spolka Z Ograniczona Odpowiedzialnoscia Spolka Komandytowa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Coreclinic Spolka Z Ograniczona Odpowiedzialnoscia Spolka Komandytowa (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNhR2Uo2bA7BLcAaCNK9J8Ufv54b9L79szNaUAd=w408-h258-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "10:00-18:00",
+        "closed_on": [
+            "dinsdag",
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 61 822 71 46",
+        "address": "Coreclinic Spolka Z Ograniczona Odpowiedzialnoscia Spolka Komandytowa, Karpia 25B, 61-619 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coreclinic+Sp%C3%B3%C5%82ka+Z+Ograniczon%C4%85+Odpowiedzialno%C5%9Bci%C4%85+Sp%C3%B3%C5%82ka+Komandytowa/data=!4m7!3m6!1s0x47045cb9378d0243:0xae562eca0d0a307a!8m2!3d52.4449616!4d16.9556861!16s%2Fg%2F11q1d8vjfc!19sChIJQwKNN7lcBEcRejAKDcouVq4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJZSOVoL1bBEcRnOOqrvxyRmo",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": "113276346549187664828",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113276346549187664828"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rNimtonO7uATg2ZZNLnldQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=355.3881&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": 3.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Diagnostyka. Laboratoria Medyczne., Swarzedzka 2, 61-039 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x47045bbda0952365:0x6a4672fcaeaae39c!8m2!3d52.4103019!4d16.9849819!16s%2Fg%2F11t3zcshfg!19sChIJZSOVoL1bBEcRnOOqrvxyRmo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJu-xjYFtFBEcR5J7Doqx3lk0",
+        "name": "Alab Laboratorium",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Alab Laboratorium (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM3HCQRhJgmIGy7BFQVpB5FcJkc5zRsJzbrU3w-=w408-h544-k-no",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Alab Laboratorium, Sczanieckiej 15, 61-001 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Alab+Laboratorium/data=!4m7!3m6!1s0x4704455b6063ecbb:0x4d9677aca2c39ee4!8m2!3d52.3952735!4d16.8948937!16s%2Fg%2F11pphmb_y7!19sChIJu-xjYFtFBEcR5J7Doqx3lk0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1_Hu_8REBEcRMMjJAYQaH0g",
+        "name": "Pracownia Medycyny Nuklearnej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pracownia Medycyny Nuklearnej (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DOhXmtwIpbK1qouJxJiLCA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=253.82132&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Pracownia Medycyny Nuklearnej, Przybyszewskiego 49, 60-563 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pracownia+Medycyny+Nuklearnej/data=!4m7!3m6!1s0x470444c4ffeef1d7:0x481f1a8401c9c830!8m2!3d52.4041983!4d16.8881946!16s%2Fg%2F11h53wcchg!19sChIJ1_Hu_8REBEcRMMjJAYQaH0g?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-8F5CjdbBEcReVjv2ikcaa0",
+        "name": "Poradnia Lekarza Poz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Lekarza Poz (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ewuc72UqAlySAya7Q6ggGg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=31.28848&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 61 665 66 30",
+        "address": "Poradnia Lekarza Poz, Swiety Marcin 58/64, 61-807 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Lekarza+Poz/data=!4m7!3m6!1s0x47045b370a79c1fb:0xad691c29daef5879!8m2!3d52.4071021!4d16.9225122!16s%2Fg%2F11rbyshn37!19sChIJ-8F5CjdbBEcReVjv2ikcaa0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJA7Za08pEBEcR7tNEXqfZfyM",
+        "name": "Gabinet Szczepien",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Szczepien (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_Gf1BPGmGTysECqPM4iN-w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=277.43204&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 61 839 00 42",
+        "address": "Gabinet Szczepien, Mickiewicza 31, 60-835 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Szczepie%C5%84/data=!4m7!3m6!1s0x470444cad35ab603:0x237fd9a75e44d3ee!8m2!3d52.4093633!4d16.9098516!16s%2Fg%2F11nm9lyr9v!19sChIJA7Za08pEBEcR7tNEXqfZfyM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVVVlL8pEBEcRz7ER7IwCYc0",
+        "name": "Joanna Magdalena Tyczka",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Joanna Magdalena Tyczka (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EtxvyoKPGXf-UirSOwOnQw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=129.36833&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "09:30-14:00",
+        "closed_on": [
+            "dinsdag",
+            "woensdag",
+            "donderdag",
+            "vrijdag",
+            "zaterdag",
+            "maandag"
+        ],
+        "phone": "+48 697 298 576",
+        "address": "Joanna Magdalena Tyczka, Kraszewskiego 12/1, 60-518 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Joanna+Magdalena+Tyczka/data=!4m7!3m6!1s0x470444ca2f655555:0xcd61028cec11b1cf!8m2!3d52.4105938!4d16.9031962!16s%2Fg%2F11q1d8ryd3!19sChIJVVVlL8pEBEcRz7ER7IwCYc0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJExRN2KxbBEcRg8tW5GGGvww",
+        "name": "Przychodnia Lekarska",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Przychodnia Lekarska (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PVae38EHqfCBqPqkFuBzUg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=157.61513&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 61 879 52 96",
+        "address": "Przychodnia Lekarska, Osiedle Orla Bialego 103, 61-251 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Przychodnia+Lekarska/data=!4m7!3m6!1s0x47045bacd84d1413:0xcbf8661e456cb83!8m2!3d52.3817368!4d16.9700337!16s%2Fg%2F11nm9l_f1x!19sChIJExRN2KxbBEcRg8tW5GGGvww?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVxga8WFEBEcR1q0nKj3-X00",
+        "name": "Poznan ul. Pilotow",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": "105847380438102263383",
+            "name": "Poznan ul. Pilotow (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105847380438102263383"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOniPUvIM8LCCnTAl-WcQEqE1QZ5n6fp4WXCv--=w408-h270-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 665 761 161",
+        "address": "Poznan ul. Pilotow, Pilotow 22, 60-409 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pozna%C5%84+ul.+Pilot%C3%B3w/data=!4m7!3m6!1s0x47044461f11a1857:0x4d5ffe3d2a27add6!8m2!3d52.4250845!4d16.8529797!16s%2Fg%2F1ths816g!19sChIJVxga8WFEBEcR1q0nKj3-X00?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ___PhSVbBEcRd6Jjm_p9i4s",
+        "name": "Centrum Medyczne Poznan",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Centrum Medyczne Poznan (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kMfSh3AITTcpa1p1IlOlRg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=104.84542&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 12 629 88 00",
+        "address": "Centrum Medyczne Poznan, Przemyslowa 46A, 61-541 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Centrum+Medyczne+Pozna%C5%84/data=!4m7!3m6!1s0x47045b2585cfffff:0x8b8b7dfa9b63a277!8m2!3d52.3961774!4d16.9185724!16s%2Fg%2F11q1d8yysc!19sChIJ___PhSVbBEcRd6Jjm_p9i4s?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0_ExjgNbBEcRSusW6aVy3Fs",
+        "name": "Laboratorium Analiz Medycznych",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Laboratorium Analiz Medycznych (eigenaar)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Laboratorium Analiz Medycznych, Osiedle Rzeczypospolitej 6, 61-397 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Analiz+Medycznych/data=!4m7!3m6!1s0x47045b038e31f1d3:0x5bdc72a5e916eb4a!8m2!3d52.3885274!4d16.9513141!16s%2Fg%2F11qnk7xxhz!19sChIJ0_ExjgNbBEcRSusW6aVy3Fs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ__-PdAtbBEcR8p4PRYFirUE",
+        "name": "Cm Poznan Malta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cm Poznan Malta (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aOwcjhAEEKST5q3xtECZ3g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=76.239746&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 500 900 530",
+        "address": "Cm Poznan Malta, ABP, Baraniaka 88, 61-131 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cm+Pozna%C5%84+Malta/data=!4m7!3m6!1s0x47045b0b748fffff:0x41ad6281450f9ef2!8m2!3d52.4013056!4d16.9640172!16s%2Fg%2F11rbyt83lz!19sChIJ__-PdAtbBEcR8p4PRYFirUE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVd6WODdbBEcReDXzWcc-0jA",
+        "name": "Maxi-Lab sp.j. Laboratorium analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Maxi-Lab sp.j. Laboratorium analityczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iElZxUZ1k4nZuRotCQfYTA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=224.97603&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 61 633 16 17",
+        "address": "Maxi-Lab sp.j. Laboratorium analityczne, Stanislawa Taczaka 8, 61-818 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Maxi-Lab+sp.j.+Laboratorium+analityczne/data=!4m7!3m6!1s0x47045b373896de55:0x30d23ec759f33578!8m2!3d52.4054309!4d16.9221406!16s%2Fg%2F1tdgnjnd!19sChIJVd6WODdbBEcReDXzWcc-0jA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJJRl6wMhEBEcR-yTox5PsoCo",
+        "name": "Gabinet Diagnostyczno-Zabiegowy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Diagnostyczno-Zabiegowy (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=osvPbL54C4xyIfkbkDY2dg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=107.55572&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 62 841 92 73",
+        "address": "Gabinet Diagnostyczno-Zabiegowy, Polna 33, 60-535 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Diagnostyczno-Zabiegowy/data=!4m7!3m6!1s0x470444c8c07a1925:0x2aa0ec93c7e824fb!8m2!3d52.4095469!4d16.895751!16s%2Fg%2F11nm9lz0hg!19sChIJJRl6wMhEBEcR-yTox5PsoCo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJR8Wq_alFBEcRqy7MKb9WIQ0",
+        "name": "Mineola Laboratoria Sp. z o.o.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": "110485002354373232279",
+            "name": "Mineola Laboratoria Sp. z o.o. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110485002354373232279"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0IPFRjDi6gh-mAS0T_SPHg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=37.59964&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 731 079 500",
+        "address": "Mineola Laboratoria Sp. z o.o., Jeleniogorska 16, 60-179 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mineola+Laboratoria+Sp.+z+o.o./data=!4m7!3m6!1s0x470445a9fdaac547:0xd2156bf29cc2eab!8m2!3d52.392507!4d16.846805!16s%2Fg%2F11snbt8rm3!19sChIJR8Wq_alFBEcRqy7MKb9WIQ0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJy86DzFhDBEcRuMWsZeWTzy8",
+        "name": "Izba Przyjec",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Izba Przyjec (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z7MwnANGoFr_uI7Ivn7FnQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=127.88933&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 61 846 46 41",
+        "address": "Izba Przyjec, Dojazd 34, 60-631 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Izba+Przyj%C4%99%C4%87/data=!4m7!3m6!1s0x47044358cc83cecb:0x2fcf93e565acc5b8!8m2!3d52.436443!4d16.902608!16s%2Fg%2F11nm9llz5v!19sChIJy86DzFhDBEcRuMWsZeWTzy8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJMwkS0kpbBEcRzoa74wZJm8A",
+        "name": "Gabinet Diagnostyczno-Zabiegowy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Diagnostyczno-Zabiegowy (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1IXv3Wwa2kSVmcMTH7UWKg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=141.3939&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 61 224 54 35",
+        "address": "Gabinet Diagnostyczno-Zabiegowy, Mickiewicza 2, 60-834 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Diagnostyczno-Zabiegowy/data=!4m7!3m6!1s0x47045b4ad2120933:0xc09b4906e3bb86ce!8m2!3d52.4133783!4d16.9128594!16s%2Fg%2F11nm9lky3k!19sChIJMwkS0kpbBEcRzoa74wZJm8A?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJizXoTtpEBEcRFMXvL1Eey8o",
+        "name": "Bioinvent",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bioinvent (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=czW5LEGg8vTbdv6JSnrIYw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=161.55501&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "08:00-17:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": null,
+        "address": "Bioinvent, Grunwaldzka 50, 60-311 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bioinvent/data=!4m7!3m6!1s0x470444da4ee8358b:0xcacb1e512fefc514!8m2!3d52.4007741!4d16.8847876!16s%2Fg%2F11c494g7x5!19sChIJizXoTtpEBEcRFMXvL1Eey8o?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJrWlQaS1bBEcR9BlVaYi2xP8",
+        "name": "Pracownia badan EKG, USG i EEG Przychodni medyczno - stomatologicznej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pracownia badan EKG, USG i EEG Przychodni medyczno - stomatologicznej (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3l6IjJmxWhlZfAQXSwWRAQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=134.88097&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 61 865 87 43",
+        "address": "Pracownia badan EKG, USG i EEG Przychodni medyczno - stomatologicznej, Glogowska 27, 60-702 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pracownia+bada%C5%84+EKG,+USG+i+EEG+Przychodni+medyczno+-+stomatologicznej/data=!4m7!3m6!1s0x47045b2d695069ad:0xffc4b688695519f4!8m2!3d52.4002227!4d16.906637!16s%2Fg%2F1tglg046!19sChIJrWlQaS1bBEcR9BlVaYi2xP8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJBwAAKDVbBEcRo38WkTpWEyM",
+        "name": "Diagnostyka ginekologiczna, Testy i Badania ginekologiczne zakazen",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Diagnostyka ginekologiczna, Testy i Badania ginekologiczne zakazen (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GD6ua7gKnvgxREXoeMnK5g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=265.95413&pitch=0&thumbfov=100",
+        "main_category": "Medisch centrum",
+        "categories": [
+            "Medisch centrum",
+            "Medische kliniek",
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "08:00-16:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 509 658 006",
+        "address": "Diagnostyka ginekologiczna, Testy i Badania ginekologiczne zakazen, ul. Mickiewicza 31, Centrum Badan DNA Laboratorium Genetyki Medycznej, 60-835 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka+ginekologiczna,+Testy+i+Badania+ginekologiczne+zaka%C5%BCe%C5%84/data=!4m7!3m6!1s0x47045b3528000007:0x2313563a91167fa3!8m2!3d52.4074554!4d16.9176759!16s%2Fg%2F12hm631zk!19sChIJBwAAKDVbBEcRo38WkTpWEyM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJDWwNrxxbBEcRl63FkNXnF84",
+        "name": "Lab. Anal. Midilab",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Lab. Anal. Midilab (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GwNy5bntYqqtE2UAhbABcQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=46.673157&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Lab. Anal. Midilab, Osiedle Piastowskie 75, 61-139 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lab.+Anal.+Midilab/data=!4m7!3m6!1s0x47045b1caf0d6c0d:0xce17e7d590c5ad97!8m2!3d52.3895359!4d16.9456681!16s%2Fg%2F11lgy2y51t!19sChIJDWwNrxxbBEcRl63FkNXnF84?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJy86DzFhDBEcRJL94sLGik6g",
+        "name": "Gabinet Pielegniarki Srodowiskowo - Rodzinnej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Pielegniarki Srodowiskowo - Rodzinnej (eigenaar)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 61 846 47 88",
+        "address": "Gabinet Pielegniarki Srodowiskowo - Rodzinnej, Dojazd 34, 60-649 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Piel%C4%99gniarki+%C5%9Arodowiskowo+-+Rodzinnej/data=!4m7!3m6!1s0x47044358cc83cecb:0xa893a2b1b078bf24!8m2!3d52.436153!4d16.9048171!16s%2Fg%2F11rbysqwh4!19sChIJy86DzFhDBEcRJL94sLGik6g?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJx2ImwhVbBEcR9QhC4JUxtAY",
+        "name": "Zespol Poradni I Pracowni Diagnostycznych",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": "106480494696517519437",
+            "name": "Zespol Poradni I Pracowni Diagnostycznych (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106480494696517519437"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QWyhg-gtncwOWKWeJOUIBw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=321.82803&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 61 851 86 27",
+        "address": "Zespol Poradni I Pracowni Diagnostycznych, Kazimierza Wielkiego 24/26, 61-863 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Zesp%C3%B3%C5%82+Poradni+I+Pracowni+Diagnostycznych/data=!4m7!3m6!1s0x47045b15c22662c7:0x6b43195e04208f5!8m2!3d52.4027121!4d16.9406953!16s%2Fg%2F11q1d998c8!19sChIJx2ImwhVbBEcR9QhC4JUxtAY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJYV8DiSBFBEcR0-wa8ebcvxg",
+        "name": "Punkt Szczepien Covid",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien Covid (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dlu4yAMGh5Q7rttfTT48qg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=328.7384&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 61 225 99 80",
+        "address": "Punkt Szczepien Covid, Heweliusza 1E, 60-281 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+Covid/data=!4m7!3m6!1s0x4704452089035f61:0x18bfdce6f11aecd3!8m2!3d52.3944077!4d16.8721877!16s%2Fg%2F11r_mqkvv_!19sChIJYV8DiSBFBEcR0-wa8ebcvxg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJMwkS0kpbBEcRT1fWjUdRv2s",
+        "name": "Izby Przyjec",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Izby Przyjec (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1IXv3Wwa2kSVmcMTH7UWKg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=141.3939&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 61 224 54 35",
+        "address": "Izby Przyjec, Mickiewicza 2, 60-834 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Izby+Przyj%C4%99%C4%87/data=!4m7!3m6!1s0x47045b4ad2120933:0x6bbf51478dd6574f!8m2!3d52.4133783!4d16.9128594!16s%2Fg%2F11q1d966zl!19sChIJMwkS0kpbBEcRT1fWjUdRv2s?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJJRl6wMhEBEcR_CSBEzW7vmY",
+        "name": "Poradnia Lekarza Medycyny Pracy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Lekarza Medycyny Pracy (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=osvPbL54C4xyIfkbkDY2dg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=107.55572&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 61 841 92 73",
+        "address": "Poradnia Lekarza Medycyny Pracy, Polna 33, 60-535 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Lekarza+Medycyny+Pracy/data=!4m7!3m6!1s0x470444c8c07a1925:0x66bebb35138124fc!8m2!3d52.4095469!4d16.895751!16s%2Fg%2F11nm9m3961!19sChIJJRl6wMhEBEcR_CSBEzW7vmY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJAQA0Fg5FBEcR5gCv8OYL-iQ",
+        "name": "Laboratorium",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Laboratorium (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NpkpqQ5mcPrWQ4d-_i_Unw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=217.6512&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "08:00-10:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": null,
+        "address": "Laboratorium, Ziebicka 16, 60-164 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium/data=!4m7!3m6!1s0x4704450e16340001:0x24fa0be6f0af00e6!8m2!3d52.3843428!4d16.8438465!16s%2Fg%2F11j08bdjb5!19sChIJAQA0Fg5FBEcR5gCv8OYL-iQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJt5caElZDBEcRSEjQlOoiX7s",
+        "name": "Podania Lekarza Rodzinnego",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Podania Lekarza Rodzinnego (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=h9iF5Yuk6Iums5a64IgjSA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=172.39758&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 531 987 531",
+        "address": "Podania Lekarza Rodzinnego, Osiedle Powstancow Warszawy 5E/4, 61-656 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Podania+Lekarza+Rodzinnego/data=!4m7!3m6!1s0x47044356121a97b7:0xbb5f22ea94d04848!8m2!3d52.433814!4d16.9160219!16s%2Fg%2F11nm9m6yc4!19sChIJt5caElZDBEcRSEjQlOoiX7s?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJwyDuYk5dBEcR_vVZ4kw_ewI",
+        "name": "Cfx Laboratorium techniki dentystycznej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": "113619905306550599559",
+            "name": "Cfx Laboratorium techniki dentystycznej (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113619905306550599559"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GS3UC4lunfXG65BJiXXEIw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=259.7514&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "09:00-19:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 697 131 278",
+        "address": "Cfx Laboratorium techniki dentystycznej, Slubicka 5 A, 61-615 Poznan, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cfx+Laboratorium+techniki+dentystycznej/data=!4m7!3m6!1s0x47045d4e62ee20c3:0x27b3f4ce259f5fe!8m2!3d52.4467095!4d16.9344588!16s%2Fg%2F11tg1ywy_b!19sChIJwyDuYk5dBEcR_vVZ4kw_ewI?authuser=0&hl=nl&rclk=1"
+    }
+]

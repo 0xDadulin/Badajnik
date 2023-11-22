@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prześlij Pliki JSON</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.2/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mx-auto mt-10">
+        <form action="{% url 'upload_files' %}" method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <div class="flex w-full items-center justify-center bg-grey-lighter">
+                <label class="w-64 flex flex-col items-center px-4 py-6 bg-white text-blue rounded-lg shadow-lg tracking-wide uppercase border border-blue cursor-pointer hover:bg-blue hover:text-white">
+                    <span class="mt-2 text-base leading-normal">Wybierz pliki JSON</span>
+                    <input type='file' class="hidden" name="file_field" multiple id="file_field">
+                </label>
+            </div>
+            <div class="flex w-full items-center justify-center mt-5">
+                <button type="submit" class="px-4 py-2 bg-blue-500 text-white text-base font-medium rounded-md w-1/2 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-300">
+                    Prześlij
+                </button>
+            </div>
+        </form>
+    </div>
+
+    <script>
+        const fileInput = document.getElementById('file_field');
+        fileInput.addEventListener('change', (event) => {
+            const fileCount = event.target.files.length;
+            if (fileCount > 10) {
+                alert('Możesz przesłać maksymalnie 10 plików.');
+                fileInput.value = '';  // Resetuje wybrane pliki
+            }
+        });
+    </script>
+</body>
+</html>

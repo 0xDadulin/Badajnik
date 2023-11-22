@@ -1,0 +1,1043 @@
+[
+    {
+        "place_id": "ChIJd6DtKPz6PEcRlM5MBNXgPjo",
+        "name": "Medical Center MEDYK",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 328,
+        "website": "http://medyk.rzeszow.pl/",
+        "owner": {
+            "id": null,
+            "name": "Medical Center MEDYK (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO65cgu0VM-cu60KUDtQRqwm_9QBCYso3H6f7cr=w408-h544-k-no",
+        "main_category": "Openbaar medisch centrum",
+        "categories": [
+            "Openbaar medisch centrum",
+            "Cardioloog",
+            "Arts",
+            "SEH-arts",
+            "Huisarts",
+            "Medische kliniek"
+        ],
+        "rating": 2.2,
+        "workday_timing": "07:00-20:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 17 850 93 40",
+        "address": "Medical Center MEDYK, Centrum Medyczne MEDYK, Fryderyka Szopena 1, 35-055 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Medical+Center+MEDYK/data=!4m7!3m6!1s0x473cfafc28eda077:0x3a3ee0d5044cce94!8m2!3d50.03583!4d22.0098753!16s%2Fg%2F11zc_y2sc!19sChIJd6DtKPz6PEcRlM5MBNXgPjo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJaSIiHIz6PEcRsQNSdNXsoWI",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 106,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9270",
+        "owner": {
+            "id": "111806396203657839330",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111806396203657839330"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNPoGqUGHUP25Cu3oMuP3zF6YXfnLn5lWWhAkOQ=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "06:30-19:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 500 430 031",
+        "address": "Punkt Pobran ALAB laboratoria, Witolda 6c, 35-302 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x473cfa8c1c222269:0x62a1ecd5745203b1!8m2!3d50.0297176!4d22.0394828!16s%2Fg%2F1ptxfz0sw!19sChIJaSIiHIz6PEcRsQNSdNXsoWI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJD7gasRL7PEcR7d5M9tIOMCo",
+        "name": "Diagnostics. Medical Laboratory.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 66,
+        "website": "https://diag.pl/katalogi/placowki/rzeszow/laboratorium-diagnostyki-rzeszow-ul-krakowska-16/",
+        "owner": {
+            "id": "114021020037259579406",
+            "name": "Diagnostics. Medical Laboratory. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114021020037259579406"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOU75Pj3SzJ6VRY22_-rrHLZ6DY9HWh-f5A0Ufh=w408-h725-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.2,
+        "workday_timing": "24 uur geopend",
+        "closed_on": [],
+        "phone": "+48 17 850 70 82",
+        "address": "Diagnostics. Medical Laboratory., Krakowska 16B, 35-068 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratory./data=!4m7!3m6!1s0x473cfb12b11ab80f:0x2a300ed2f64cdeed!8m2!3d50.0467415!4d21.982057!16s%2Fg%2F11g6nk6sl9!19sChIJD7gasRL7PEcR7d5M9tIOMCo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJD3Qhtlf6PEcRGg2WuH-Awt0",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 50,
+        "website": "https://sklep.alablaboratoria.pl/badania?punkty_id=9635",
+        "owner": {
+            "id": "117423730998178163754",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117423730998178163754"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNq4Z9P_PieYBf6Xs1FUtGoFtdMRzNMq4pOF_h9=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "07:30-14:30",
+        "closed_on": [],
+        "phone": "+48 17 859 32 12",
+        "address": "Punkt Pobran ALAB laboratoria, al. Tadeusza Rejtana 49/8, 35-326 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x473cfa57b621740f:0xddc2807fb8960d1a!8m2!3d50.0246488!4d22.0174039!16s%2Fg%2F1ptx_5h79!19sChIJD3Qhtlf6PEcRGg2WuH-Awt0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJba9W4pj7PEcRHRrnKiKaW5A",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 47,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9871",
+        "owner": {
+            "id": "112703928606999811332",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112703928606999811332"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOeiW54ZU2dgJh1YQw8rQ9sAl-hy8I4wI6pVug=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-16:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 17 300 05 98",
+        "address": "Punkt Pobran ALAB laboratoria, Lubelska 13, 35-241 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x473cfb98e256af6d:0x905b9a222ae71a1d!8m2!3d50.0492446!4d22.0000464!16s%2Fg%2F11ry97hy1_!19sChIJba9W4pj7PEcRHRrnKiKaW5A?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJrWSHLy_7PEcRsv0AvNPDFlE",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 33,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9846",
+        "owner": {
+            "id": "106450682151064584955",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106450682151064584955"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMkqpuFSuQIsd2fc-sv4sQyVhGZnFHIoqxU6Mdc=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.9,
+        "workday_timing": "07:00-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 17 300 05 62",
+        "address": "Punkt Pobran ALAB laboratoria, wejscie od, Ksiecia Jozefa Poniatowskiego, Jagiellonska 8, 35-026 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x473cfb2f2f8764ad:0x5116c3d3bc00fdb2!8m2!3d50.0342081!4d21.9958608!16s%2Fg%2F11nmp1p4g0!19sChIJrWSHLy_7PEcRsv0AvNPDFlE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ90R0FPn6PEcR9oZbv35BZUE",
+        "name": "Department of Medical Laboratory Diagnostics",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 29,
+        "website": "https://www.wzsrzeszow.pl/",
+        "owner": {
+            "id": null,
+            "name": "Department of Medical Laboratory Diagnostics (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMDqBzkkCp52FOcIcD0obWazxgA4zWy5EsI_eWj=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 17 859 43 64",
+        "address": "Department of Medical Laboratory Diagnostics, Warzywna 3, 35-310 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Department+of+Medical+Laboratory+Diagnostics/data=!4m7!3m6!1s0x473cfaf9147444f7:0x4165417ebf5b86f6!8m2!3d50.033228!4d22.0137339!16s%2Fg%2F1tf6w3gs!19sChIJ90R0FPn6PEcR9oZbv35BZUE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJl5BIOIn7PEcR91B8DsQHO9o",
+        "name": "GENETIX Laboratoria Specjalistyczne / medyczne / genetyczne / nieplodnosci / parazytologii / immunologii / Rzeszow",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 29,
+        "website": "https://genetix-laboratoria-specjalistyczne-medyczne.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+        "owner": {
+            "id": "107260489423998854572",
+            "name": "GENETIX Laboratoria Specjalistyczne / medyczne / genetyczne / nieplodnosci / parazytologii / immunologii / Rzeszow (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107260489423998854572"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPsZ81DIOdKpHo5EPzfxI7yM0QYG92OD70BKs7k=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Bloedbank",
+            "Testservice voor drugs",
+            "Hiv-testcentrum",
+            "Perinataal centrum",
+            "Voortplantingskliniek"
+        ],
+        "rating": 4.7,
+        "workday_timing": "07:00-17:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 886 689 138",
+        "address": "GENETIX Laboratoria Specjalistyczne / medyczne / genetyczne / nieplodnosci / parazytologii / immunologii / Rzeszow, Generala Jaroslawa Dabrowskiego 31, 35-036 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/GENETIX+Laboratoria+Specjalistyczne+%2F+medyczne+%2F+genetyczne+%2F+niep%C5%82odno%C5%9Bci+%2F+parazytologii+%2F+immunologii+%2F+Rzesz%C3%B3w/data=!4m7!3m6!1s0x473cfb8938489097:0xda3b07c40e7c50f7!8m2!3d50.0272105!4d21.9918795!16s%2Fg%2F11rstp67hc!19sChIJl5BIOIn7PEcR91B8DsQHO9o?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJfcny0UL7PEcRcTfB5uGJ7Vw",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 28,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9346",
+        "owner": {
+            "id": "105209335198349818807",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105209335198349818807"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNnNytcg9PGYTrvTORy2K2sOLapga2WCjaPMNxV=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:30-11:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 17 300 05 00",
+        "address": "Punkt Pobran ALAB laboratoria, Slusarczyka 2, 35-510 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x473cfb42d1f2c97d:0x5ced89e1e6c13771!8m2!3d50.0609139!4d21.97478!16s%2Fg%2F11cs40bhw3!19sChIJfcny0UL7PEcRcTfB5uGJ7Vw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJxW0oOQP7PEcRZWCNuuRfVh4",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "website": "https://diag.pl/katalogi/placowki/rzeszow/punkt-pobran-diagnostyki-rzeszow-ul-grunwaldzka-341/",
+        "owner": {
+            "id": "102979932273095594330",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102979932273095594330"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMnCCJBr8ij6Qiur-nN4dM4ST7Ldp2FKC2n3BV7=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "07:00-19:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 17 862 12 96",
+        "address": "Diagnostics. Medical Laboratories., Grunwaldzka 34/1, 35-068 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x473cfb0339286dc5:0x1e565fe4ba8d6065!8m2!3d50.0411367!4d22.0027323!16s%2Fg%2F11df0x7d9b!19sChIJxW0oOQP7PEcRZWCNuuRfVh4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJRTUdUl_6PEcR8OSuWUY7PrE",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": "https://diag.pl/katalogi/placowki/rzeszow/punkt-pobran-diagnostyki-rzeszow-ul-krzyzanowskiego-6h/",
+        "owner": {
+            "id": "110095950241376183529",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110095950241376183529"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPYUYfEFntFWGkRP5SrMd3kn2HaUZmUdGBxLuKf=w408-h725-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.5,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostics. Medical Laboratories., Aleja Krzyzanowskiego 6H, 35-329 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x473cfa5f521d3545:0xb13e3b4659aee4f0!8m2!3d50.0279322!4d22.0183592!16s%2Fg%2F11df0x6_ry!19sChIJRTUdUl_6PEcR8OSuWUY7PrE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJs4GTmvL7PEcRLIaBXHhsUl8",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10168",
+        "owner": {
+            "id": "103310860039845726007",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103310860039845726007"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNijl3anZGFBhcI_FyWI2f-dAYz2HXM4zcOxRTv=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.9,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [],
+        "phone": "+48 17 300 05 32",
+        "address": "Punkt Pobran ALAB laboratoria, Litewska 29, 35-302 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x473cfbf29a9381b3:0x5f526c785c81862c!8m2!3d50.0324126!4d22.0389338!16s%2Fg%2F11jt978z2h!19sChIJs4GTmvL7PEcRLIaBXHhsUl8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJsUvlWeL7PEcRqEkuN-7OxMI",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "109260726641330088310",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109260726641330088310"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMs-thuiIIcBIt1RG7qb_zgGcU9yca0_VUPghYY=w408-h266-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Aleja Majora Waclawa Kopisto 8, 35-001 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x473cfbe259e54bb1:0xc2c4ceee372e49a8!8m2!3d50.0297852!4d22.0094966!16s%2Fg%2F11rsh2rgbp!19sChIJsUvlWeL7PEcRqEkuN-7OxMI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJDWUmSMT7PEcRwQGxi9CGy20",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": "https://diag.pl/katalogi/placowki/rzeszow/punkt-pobran-diagnostyki-rzeszow-ul-zenitowa-5/",
+        "owner": {
+            "id": "114092322539525130479",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114092322539525130479"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AA-_HLld20pieQEHAF7Ogg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=327.01758&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostyka. Laboratoria Medyczne., Zenitowa 5, 35-301 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x473cfbc44826650d:0x6dcb86d08bb101c1!8m2!3d50.0370117!4d22.0366104!16s%2Fg%2F11h1m8wxnk!19sChIJDWUmSMT7PEcRwQGxi9CGy20?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJDQO75Kn7PEcRBMdgQBSOoGc",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": "https://diag.pl/katalogi/placowki/rzeszow/punkt-pobran-diagnostyki-rzeszow-ul-langiewicza-4/",
+        "owner": {
+            "id": "101847221856742542450",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101847221856742542450"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uEFJ54TkM2TlTQgmP2K6lw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=343.7132&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1.4,
+        "workday_timing": "07:30-11:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostics. Medical Laboratories., Generala Mariana Langiewicza 4, 35-021 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x473cfba9e4bb030d:0x67a08e144060c704!8m2!3d50.032628!4d21.9920552!16s%2Fg%2F1tjdkj86!19sChIJDQO75Kn7PEcRBMdgQBSOoGc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJh3y8oHr7PEcREkm1l7RtMeo",
+        "name": "Podkarpackie Centrum Genetyczne OncoGenLab",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "http://oncogenlab.pl/",
+        "owner": {
+            "id": "117635317643766389283",
+            "name": "Podkarpackie Centrum Genetyczne OncoGenLab (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117635317643766389283"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPQ41o64P3YUTog3BE92Q8xtv-mz_SkRmDpBmcu=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 787 961 919",
+        "address": "Podkarpackie Centrum Genetyczne OncoGenLab, Leszka Czarnego 4D, 35-615 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Podkarpackie+Centrum+Genetyczne+OncoGenLab/data=!4m7!3m6!1s0x473cfb7aa0bc7c87:0xea316db497b54912!8m2!3d50.0332107!4d22.0408515!16s%2Fg%2F11jgdh9fm4!19sChIJh3y8oHr7PEcREkm1l7RtMeo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJZdc3w2X7PEcRVt-SDxWdLYA",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "https://sklep.alablaboratoria.pl/badania?punkty_id=10254",
+        "owner": {
+            "id": "113966173058851222590",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113966173058851222590"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipObDujPjgyIPLxRZNMpH--ppiB7LnaSDFqWB95l=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 17 300 05 91",
+        "address": "Punkt Pobran ALAB laboratoria, Strzelnicza 12E/1, 35-103 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x473cfb65c337d765:0x802d9d150f92df56!8m2!3d50.035017!4d21.9681359!16s%2Fg%2F11twq5t68g!19sChIJZdc3w2X7PEcRVt-SDxWdLYA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJLf40lR37PEcRWgSwxnu5KP8",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://diag.pl/katalogi/placowki/rzeszow/punkt-pobran-kontrahenta-przedsiebiorstwo-sloneczny-stok-rzeszow-ul-leska-1/",
+        "owner": {
+            "id": "107358113471244309711",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107358113471244309711"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=f0pv2gNYrt5y0Okq30ymBQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=30.449783&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostyka. Laboratoria Medyczne., Leska 1, 35-515 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x473cfb1d9534fe2d:0xff28b97bc6b0045a!8m2!3d50.0444246!4d21.9544119!16s%2Fg%2F11flbxv6cj!19sChIJLf40lR37PEcRWgSwxnu5KP8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJzVZErS77PEcRisTt1u95jLE",
+        "name": "Punkt pobran DRIVE-THRU",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://szpital2.rzeszow.pl/aktualnosci/wykonujemy-testy-rt-pcr-ma-obecnosc-wirusa-sars-cov-2-zlecane-przez-lekarza-poz/",
+        "owner": {
+            "id": "118416084365697738355",
+            "name": "Punkt pobran DRIVE-THRU (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/118416084365697738355"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO9k3WLKVoHiIzGimhKqpdwPAtAazE3oTCOv15D=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Ziekenhuis"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-16:00",
+        "closed_on": [],
+        "phone": "+48 601 690 801",
+        "address": "Punkt pobran DRIVE-THRU, Lwowska 60 od strony, Leszka Czarnego, 35-301 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+pobra%C5%84+DRIVE-THRU/data=!4m7!3m6!1s0x473cfb2ead4456cd:0xb18c79efd6edc48a!8m2!3d50.0354678!4d22.0398841!16s%2Fg%2F11qpl3nrrb!19sChIJzVZErS77PEcRisTt1u95jLE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJP45aHhv7PEcRNZC3I25qEeE",
+        "name": "Laboratorium diagnostyki medycznej NZOZ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "http://www.medycyna.itl.pl/",
+        "owner": {
+            "id": "105914035003671009015",
+            "name": "Laboratorium diagnostyki medycznej NZOZ (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105914035003671009015"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM9EB3ZHR-ZBT3jO9GX4EPn8uc2mvoJ5AIwCHZ6=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": "07:30-15:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 17 852 32 47",
+        "address": "Laboratorium diagnostyki medycznej NZOZ, Marszalkowska 9/1, 35-215 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+diagnostyki+medycznej+NZOZ/data=!4m7!3m6!1s0x473cfb1b1e5a8e3f:0xe1116a6e23b79035!8m2!3d50.0443379!4d22.0001174!16s%2Fg%2F1tzlxq_m!19sChIJP45aHhv7PEcRNZC3I25qEeE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJr6T8-dX7PEcRm9T6XrwPD6o",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://diag.pl/placowki/rzeszow/punkt-pobran-diagnostyki-rzeszow-pl-wolnosci-17/",
+        "owner": {
+            "id": "103603777570759752629",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103603777570759752629"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MVkbihBJQs78V0zIuK_m8A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=321.90656&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostyka. Laboratoria Medyczne., plac Wolnosci 17, 35-073 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x473cfbd5f9fca4af:0xaa0f0fbc5efad49b!8m2!3d50.0397749!4d22.0092146!16s%2Fg%2F11vlbtp34c!19sChIJr6T8-dX7PEcRm9T6XrwPD6o?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJIzbMzEH7PEcRYqhwwNmw2WQ",
+        "name": "testDNA Rzeszow Architektow",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://testdna-rzeszow-architektow-badania-dna-testy-na-ojcostwo.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+        "owner": {
+            "id": "117707059754430798440",
+            "name": "testDNA Rzeszow Architektow (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117707059754430798440"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNT6tMOb3c5s3eIMa6_NM4g_BZCBw2ObNvzxE-D=w408-h270-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 665 761 161",
+        "address": "testDNA Rzeszow Architektow, Architektow 11/u4, 35-083 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/testDNA+Rzesz%C3%B3w+Architekt%C3%B3w/data=!4m7!3m6!1s0x473cfb41cccc3623:0x64d9b0d9c070a862!8m2!3d50.0181611!4d21.9721932!16s%2Fg%2F11j0cv63x8!19sChIJIzbMzEH7PEcRYqhwwNmw2WQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJQXmbQv36PEcRYpStR6nbg1g",
+        "name": "testDNA Rzeszow Krakowska",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://testdna-rzeszow-krakowska-badania-dna-testy-na-ojcostwo.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+        "owner": {
+            "id": "109462512901708847541",
+            "name": "testDNA Rzeszow Krakowska (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109462512901708847541"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNMf1bIPrVVd2ref0a7Ymx6LnnxtoItTW6Wb56t=w408-h270-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 665 761 161",
+        "address": "testDNA Rzeszow Krakowska, Krakowska 16 B, 35-111 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/testDNA+Rzesz%C3%B3w+Krakowska/data=!4m7!3m6!1s0x473cfafd429b7941:0x5883dba947ad9462!8m2!3d50.047086!4d21.979716!16s%2Fg%2F1thvfqc4!19sChIJQXmbQv36PEcRYpStR6nbg1g?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJhZZWcFv7PEcRc-wpEenYhRI",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://diag.pl/placowki/rzeszow/punkt-pobran-diagnostyki-rzeszow-ul-potockiego-182/",
+        "owner": {
+            "id": "117475347326946279574",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117475347326946279574"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EwdWXjM2umJRAyYkE6Olwg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=155.56566&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": null,
+        "workday_timing": "07:30-12:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 399 361",
+        "address": "Diagnostyka. Laboratoria Medyczne., Hr.Alfreda Potockiego 182, 35-322 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x473cfb5b70569685:0x1285d8e91129ec73!8m2!3d50.0605185!4d22.0660899!16s%2Fg%2F11v9mr4fgm!19sChIJhZZWcFv7PEcRc-wpEenYhRI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJc0UmVAP7PEcRzHzQdpF21lo",
+        "name": "Diagnostyka. NZOZ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Diagnostyka. NZOZ (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RZofOxDsz7Sug5q2N3u9lA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=244.97751&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 17 875 58 24",
+        "address": "Diagnostyka. NZOZ, Stanislawa Jablonskiego 2/4, 35-068 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+NZOZ/data=!4m7!3m6!1s0x473cfb0354264573:0x5ad6769176d07ccc!8m2!3d50.0421917!4d22.0019756!16s%2Fg%2F1vd3tkjb!19sChIJc0UmVAP7PEcRzHzQdpF21lo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ__-_cFz6PEcRM57KdT-Ka9c",
+        "name": "Ambulatoryjne Swiadczenia Zdrowotne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ambulatoryjne Swiadczenia Zdrowotne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GsYcgQqkekISK2Q4SGDBAw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=50.756565&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 17 865 20 00",
+        "address": "Ambulatoryjne Swiadczenia Zdrowotne, al. Tadeusza Rejtana 53, 35-326 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ambulatoryjne+%C5%9Awiadczenia+Zdrowotne/data=!4m7!3m6!1s0x473cfa5c70bfffff:0xd76b8a3f75ca9e33!8m2!3d50.0211771!4d22.0176662!16s%2Fg%2F11rbysr5sj!19sChIJ__-_cFz6PEcRM57KdT-Ka9c?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJCy1KFRj7PEcRBgwhncC1PCU",
+        "name": "Poradnia Poz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Poz (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UdS0iSyHPTl-tDnruSLKYw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=123.92652&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 17 861 24 22",
+        "address": "Poradnia Poz, Lubelska 6/14, 35-241 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Poz/data=!4m7!3m6!1s0x473cfb18154a2d0b:0x253cb5c09d210c06!8m2!3d50.0518296!4d22.0032434!16s%2Fg%2F11nm9mdj7z!19sChIJCy1KFRj7PEcRBgwhncC1PCU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJLaxFUAT7PEcRq3oRd7vRFcc",
+        "name": "Laboratorium diagnostyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": "113769705320813676345",
+            "name": "Laboratorium diagnostyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113769705320813676345"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNfU3DbVdCMVjrjobpJ5yGLGPSZW8Od_FKUcTiO=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 17 853 54 78",
+        "address": "Laboratorium diagnostyczne, Ksiedza Jozefa Jalowego 10, 35-010 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+diagnostyczne/data=!4m7!3m6!1s0x473cfb045045ac2d:0xc715d1bb77117aab!8m2!3d50.0401067!4d21.9966251!16s%2Fg%2F1tht06ph!19sChIJLaxFUAT7PEcRq3oRd7vRFcc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJn0ErQaz7PEcRVEwLt5fqfqs",
+        "name": "Przychodnia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Przychodnia (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1QNWciAVoUJF7MrSlldeXw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=64.83278&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 17 853 22 86",
+        "address": "Przychodnia, Generala Jaroslawa Dabrowskiego 33A, 35-036 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Przychodnia/data=!4m7!3m6!1s0x473cfbac412b419f:0xab7eea97b70b4c54!8m2!3d50.026817!4d21.9914108!16s%2Fg%2F11rbys_k80!19sChIJn0ErQaz7PEcRVEwLt5fqfqs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8SQ1OVH6PEcRYmM8UJJpjN8",
+        "name": "Szpital Wielospecjalistyczny",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Szpital Wielospecjalistyczny (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tIMUi8FJXIomV26xkqBPnQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=42.811268&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 17 850 37 10",
+        "address": "Szpital Wielospecjalistyczny, Podwislocze 22A, 35-309 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Szpital+Wielospecjalistyczny/data=!4m7!3m6!1s0x473cfa51393524f1:0xdf8c6992503c6362!8m2!3d50.0245178!4d22.0063578!16s%2Fg%2F11nm9lkglx!19sChIJ8SQ1OVH6PEcRYmM8UJJpjN8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJHUt2Orj7PEcRWH2ttIw1NRY",
+        "name": "Przychodnia Lekarzy Rodzinnych I Specjalistow",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Przychodnia Lekarzy Rodzinnych I Specjalistow (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=msc3_-lEax8lB4iATOhyGg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=56.190285&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 17 850 80 05",
+        "address": "Przychodnia Lekarzy Rodzinnych I Specjalistow, Architektow 11, 35-082 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Przychodnia+Lekarzy+Rodzinnych+I+Specjalist%C3%B3w/data=!4m7!3m6!1s0x473cfbb83a764b1d:0x1635358cb4ad7d58!8m2!3d50.0181611!4d21.9721932!16s%2Fg%2F11q1d8myn8!19sChIJHUt2Orj7PEcRWH2ttIw1NRY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJz8QlPIb6PEcRLuvhxmu6ecI",
+        "name": "Pracownia Ultrasonografii",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pracownia Ultrasonografii (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gxSE98qBOBKuCAwZSiwO5g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=152.21054&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Pracownia Ultrasonografii, Slocinska 10, 35-330 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pracownia+Ultrasonografii/data=!4m7!3m6!1s0x473cfa863c25c4cf:0xc279ba6bc6e1eb2e!8m2!3d50.0262983!4d22.048686!16s%2Fg%2F11b7by3jwh!19sChIJz8QlPIb6PEcRLuvhxmu6ecI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJQy8ZEfn6PEcR5Wo0jX-DaHQ",
+        "name": "Podstawowa Opieka Zdrowotna",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Podstawowa Opieka Zdrowotna (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uKqtIt41Fu8qt5UpNtnTaw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=353.2713&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 17 866 96 06",
+        "address": "Podstawowa Opieka Zdrowotna, Warzywna 3, 35-310 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Podstawowa+Opieka+Zdrowotna/data=!4m7!3m6!1s0x473cfaf911192f43:0x7468837f8d346ae5!8m2!3d50.0330485!4d22.0136115!16s%2Fg%2F11rbyssycg!19sChIJQy8ZEfn6PEcR5Wo0jX-DaHQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJcbVSOR37PEcRaq_oQvlZ4V4",
+        "name": "Ambulatoryjna Opieka Specjalistyczna",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ambulatoryjna Opieka Specjalistyczna (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oCyqfqWospEHzFj9DeOTng&cb_client=search.gws-prod.gps&w=408&h=240&yaw=20.837206&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 17 852 89 50",
+        "address": "Ambulatoryjna Opieka Specjalistyczna, plac Dworcowy 2, 35-201 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ambulatoryjna+Opieka+Specjalistyczna/data=!4m7!3m6!1s0x473cfb1d3952b571:0x5ee159f942e8af6a!8m2!3d50.042432!4d22.0076656!16s%2Fg%2F11rbysw38x!19sChIJcbVSOR37PEcRaq_oQvlZ4V4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJAQDwPHn7PEcR1fsj54hGBuU",
+        "name": "Przychodnia Lekarzy Rodzinnych I Specjalistow",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Przychodnia Lekarzy Rodzinnych I Specjalistow (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lT022t21oLJp3_FyGlGpsg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=44.643845&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 505 583 988",
+        "address": "Przychodnia Lekarzy Rodzinnych I Specjalistow, Leska 2, 35-505 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Przychodnia+Lekarzy+Rodzinnych+I+Specjalist%C3%B3w/data=!4m7!3m6!1s0x473cfb793cf00001:0xe5064688e723fbd5!8m2!3d50.044576!4d21.9552032!16s%2Fg%2F11rbysw1jk!19sChIJAQDwPHn7PEcR1fsj54hGBuU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJle1XvHP7PEcRm8f7WZ240uE",
+        "name": "Poradnia Lekarzy Rodzinnych",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Lekarzy Rodzinnych (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iph2knSLaZFSv1cjldHmXQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=83.57442&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 17 856 95 56",
+        "address": "Poradnia Lekarzy Rodzinnych, Wiktora Zbyszewskiego 15, 35-119 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Lekarzy+Rodzinnych/data=!4m7!3m6!1s0x473cfb73bc57ed95:0xe1d2b89d59fbc79b!8m2!3d50.044514!4d21.9729733!16s%2Fg%2F11nm9lzz9n!19sChIJle1XvHP7PEcRm8f7WZ240uE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJU415Xw37PEcREPiKImTfAn0",
+        "name": "Szpital Tymczasowy-Covid",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Szpital Tymczasowy-Covid (eigenaar)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 733 337 691",
+        "address": "Szpital Tymczasowy-Covid, Krakowska 16, 35-111 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Szpital+Tymczasowy-Covid/data=!4m7!3m6!1s0x473cfb0d5f798d53:0x7d02df64228af810!8m2!3d50.0465426!4d21.9819051!16s%2Fg%2F11q1d8xhtm!19sChIJU415Xw37PEcREPiKImTfAn0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJAQCwiQD7PEcR3KlAp8mIp60",
+        "name": "Przychodnia Lekarzy Rodzinnych I Specjalistow",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Przychodnia Lekarzy Rodzinnych I Specjalistow (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=f36wlMYm4tMRBsPE-Kktiw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=262.8618&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 17 853 99 41",
+        "address": "Przychodnia Lekarzy Rodzinnych I Specjalistow, plk. Leopolda Lisa-Kuli 9D, 35-959 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Przychodnia+Lekarzy+Rodzinnych+I+Specjalist%C3%B3w/data=!4m7!3m6!1s0x473cfb0089b00001:0xada788c9a740a9dc!8m2!3d50.0333917!4d21.9984264!16s%2Fg%2F11rbysnqs9!19sChIJAQCwiQD7PEcR3KlAp8mIp60?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJD4ZFQv36PEcRFkBNOEE6Uwc",
+        "name": "Poradnia Lekarza Rodzinnego",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Lekarza Rodzinnego (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ic-fmf_tex5p4rxmF4AiHg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=131.49205&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 17 859 20 20",
+        "address": "Poradnia Lekarza Rodzinnego, plac Wolnosci 17, 35-073 Rzeszow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Lekarza+Rodzinnego/data=!4m7!3m6!1s0x473cfafd4245860f:0x7533a41384d4016!8m2!3d50.0398538!4d22.0094859!16s%2Fg%2F11nm9l_4kb!19sChIJD4ZFQv36PEcRFkBNOEE6Uwc?authuser=0&hl=nl&rclk=1"
+    }
+]

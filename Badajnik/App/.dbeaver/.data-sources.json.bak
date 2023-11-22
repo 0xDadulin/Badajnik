@@ -1,0 +1,42 @@
+{
+	"folders": {},
+	"connections": {
+		"sqlite_jdbc-18beef44507-41bd2369430ca69d": {
+			"provider": "sqlite",
+			"driver": "sqlite_jdbc",
+			"name": "db.sqlite3",
+			"save-password": true,
+			"configuration": {
+				"database": "C:\\Users\\48511\\OneDrive\\Pulpit\\Djang-Angular-Fullstack\\Badajnik\\db.sqlite3",
+				"url": "jdbc:sqlite:C:\\Users\\48511\\OneDrive\\Pulpit\\Djang-Angular-Fullstack\\Badajnik\\db.sqlite3",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"auth-model": "native"
+			}
+		},
+		"sqlite_jdbc-18beefa19b7-7a4f69c01f31885e": {
+			"provider": "sqlite",
+			"driver": "sqlite_jdbc",
+			"name": "db.sqlite3 2",
+			"save-password": true,
+			"configuration": {
+				"database": "C:\\Users\\48511\\OneDrive\\Pulpit\\Djang-Angular-Fullstack\\Badajnik\\db.sqlite3",
+				"url": "jdbc:sqlite:C:\\Users\\48511\\OneDrive\\Pulpit\\Djang-Angular-Fullstack\\Badajnik\\db.sqlite3",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"auth-model": "native"
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"auto-close-transactions": false
+		}
+	}
+}

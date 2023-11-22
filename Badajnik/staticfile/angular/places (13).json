@@ -1,0 +1,632 @@
+[
+    {
+        "place_id": "ChIJGa6LDa01A0cRduU8GkuzT6I",
+        "name": "Vitalabo Laboratoria Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 58,
+        "website": "http://www.vitalabo.com.pl/",
+        "owner": {
+            "id": null,
+            "name": "Vitalabo Laboratoria Medyczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNsvi0FCr8XvY_W9ReVOcheLdpZwfqyg08M1lws=w408-h725-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.4,
+        "workday_timing": "06:30-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 52 561 80 50",
+        "address": "Vitalabo Laboratoria Medyczne, Juliana Falata 35, 87-100 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Vitalabo+Laboratoria+Medyczne/data=!4m7!3m6!1s0x470335ad0d8bae19:0xa24fb34b1a3ce576!8m2!3d53.0148582!4d18.5704162!16s%2Fg%2F11g874gfwn!19sChIJGa6LDa01A0cRduU8GkuzT6I?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJITzwl-U0A0cR__5SF2pIbt0",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 30,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9578",
+        "owner": {
+            "id": "104310176565423502829",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/104310176565423502829"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNja7fIl3L6PBCxt-fuMDHbeG_9RL5F3RPcfIs5=w550-h240-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.6,
+        "workday_timing": "07:30-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 56 623 27 36",
+        "address": "Punkt Pobran ALAB laboratoria, Grudziadzka 51/B, 87-110 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470334e597f03c21:0xdd6e486a1752feff!8m2!3d53.0204353!4d18.6108684!16s%2Fg%2F11hbqtb4hq!19sChIJITzwl-U0A0cR__5SF2pIbt0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJm0LEGe80A0cRvDZYHh9R-dk",
+        "name": "Vitalabo Medical Lab",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": "http://www.vitalabo.com.pl/",
+        "owner": {
+            "id": null,
+            "name": "Vitalabo Medical Lab (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8l7ZBMkxTqA_uGVA0SwVRg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=198.39862&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.4,
+        "workday_timing": "07:00-11:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 501 266 955",
+        "address": "Vitalabo Medical Lab, Tadeusza Kosciuszki 12A, 87-100 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Vitalabo+Medical+Lab/data=!4m7!3m6!1s0x470334ef19c4429b:0xd9f9511f1e5836bc!8m2!3d53.0234653!4d18.6135703!16s%2Fg%2F11bwf7g54y!19sChIJm0LEGe80A0cRvDZYHh9R-dk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJn0VcszA1A0cRiZLbk_bk-u4",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9970",
+        "owner": {
+            "id": "109067781011441819951",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109067781011441819951"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOTEony-OG0sAvNBXpEXgnIcqlozO-NnZit4M-I=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:30-12:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 56 300 05 56",
+        "address": "Punkt Pobran ALAB laboratoria, Szosa Lubicka 11, 87-100 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x47033530b35c459f:0xeefae4f693db9289!8m2!3d53.0194529!4d18.6407653!16s%2Fg%2F11s2jd125y!19sChIJn0VcszA1A0cRiZLbk_bk-u4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-YSeE6s1A0cR2Ue2Cvpe_TE",
+        "name": "Vitalabo Laboratoria Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": "http://www.vitalabo.com.pl/",
+        "owner": {
+            "id": null,
+            "name": "Vitalabo Laboratoria Medyczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FK6CNRPBZt7SBA0F_1TzJg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=16.120409&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 3.2,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 52 561 80 50",
+        "address": "Vitalabo Laboratoria Medyczne, Broniewskiego 4, 87-100 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Vitalabo+Laboratoria+Medyczne/data=!4m7!3m6!1s0x470335ab139e84f9:0x31fd5efa0ab647d9!8m2!3d53.0140518!4d18.5772289!16s%2Fg%2F11g02b4xx5!19sChIJ-YSeE6s1A0cR2Ue2Cvpe_TE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJLRpxarA1A0cR84eOCRPRnGc",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10090",
+        "owner": {
+            "id": "113884961817358921626",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113884961817358921626"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMDYHJCFmPXPZHqTDTL7kU1t7vZyhz5m27VkohE=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "maandag",
+            "zondag"
+        ],
+        "phone": "+48 665 787 368",
+        "address": "Punkt Pobran ALAB laboratoria, Watzenrodego 15A, 87-100 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x470335b06a711a2d:0x679cd113098e87f3!8m2!3d53.0461543!4d18.6025189!16s%2Fg%2F11s96rl_ft!19sChIJLRpxarA1A0cR84eOCRPRnGc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJDwCmfJ3LHEcRgZ75-JdC6Bg",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "114768238272082049087",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114768238272082049087"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMVNyg2-5Hmb68gDTTaVrgUEaBkzIxsUXbss4-w=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.6,
+        "workday_timing": "06:30-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Szosa Lubicka 160B, 87-100 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471ccb9d7ca6000f:0x18e84297f8f99e81!8m2!3d53.0261751!4d18.6809901!16s%2Fg%2F11nxv5jdhn!19sChIJDwCmfJ3LHEcRgZ75-JdC6Bg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJD0vFns01A0cRDKzVYbik4S0",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "website": "https://www.synevo.pl/laboratorium-torun-matejki/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dtorun_matejki",
+        "owner": {
+            "id": "117871041896661383361",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117871041896661383361"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO5o35VkDczIHvlB5m-bB4Jc3wwTvYxYnA3djU7=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:30-10:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Jana Matejki 63a, 87-100 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470335cd9ec54b0f:0x2de1a4b861d5ac0c!8m2!3d53.0151304!4d18.5913529!16s%2Fg%2F11qpfgzhjh!19sChIJD0vFns01A0cRDKzVYbik4S0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1f4lRYjLHEcRaXqiSlmemtc",
+        "name": "Vitalabo Laboratoria Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": "http://www.vitalabo.com.pl/",
+        "owner": {
+            "id": null,
+            "name": "Vitalabo Laboratoria Medyczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMlAyinxSW2X4iOeKC30QDUzRUzHlxokIdRdZjf=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "07:00-11:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 52 561 80 50",
+        "address": "Vitalabo Laboratoria Medyczne, Wladyslawa Dziewulskiego 12, 87-100 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Vitalabo+Laboratoria+Medyczne/data=!4m7!3m6!1s0x471ccb884525fed5:0xd79a9e594aa27a69!8m2!3d53.0278618!4d18.6730883!16s%2Fg%2F11j2fzlc7c!19sChIJ1f4lRYjLHEcRaXqiSlmemtc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJr_WurbA1A0cRl_yY3_bCixY",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "115694208767236196396",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115694208767236196396"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNLioXxYhhSYVg6B67WClKYqEyUIQIjxoMK1G-C=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.6,
+        "workday_timing": "06:30-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Lodzka 35, 87-100 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470335b0adaef5af:0x168bc2f6df98fc97!8m2!3d52.99654!4d18.6252608!16s%2Fg%2F11r4lxsb94!19sChIJr_WurbA1A0cRl_yY3_bCixY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJm6A5_UbLHEcRypA9x0utWQI",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": "http://diag.pl/katalogi/placowki/",
+        "owner": {
+            "id": "110275883914110924653",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110275883914110924653"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nt9CzZFKlJBAtggLLNah3A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=263.22113&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "07:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 56 623 37 85",
+        "address": "Diagnostics. Medical Laboratories., Kardynala Stefana Wyszynskiego 6, 87-100 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x471ccb46fd39a09b:0x259ad4bc73d90ca!8m2!3d53.0239149!4d18.6818316!16s%2Fg%2F11df0xl9w9!19sChIJm6A5_UbLHEcRypA9x0utWQI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJoa0PwWg0A0cRY4VnXcKymVc",
+        "name": "Vitalabo Sp. z o.o. NZOZ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": "https://www.vitalabo.com.pl/punkty-pobran",
+        "owner": {
+            "id": null,
+            "name": "Vitalabo Sp. z o.o. NZOZ (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qB48cDgz-aK6hVs9hc7igA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=193.18886&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": "07:00-10:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 56 654 62 27",
+        "address": "Vitalabo Sp. z o.o. NZOZ, Storczykowa 8/10, 87-100 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Vitalabo+Sp.+z+o.o.+NZOZ/data=!4m7!3m6!1s0x47033468c10fada1:0x5799b2c25d678563!8m2!3d53.0412029!4d18.5846829!16s%2Fg%2F1tdpksk0!19sChIJoa0PwWg0A0cRY4VnXcKymVc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9V-ZDK40A0cRj-0C98dLvt8",
+        "name": "Pracownia Genetyki Nowotworow",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "http://www.genetykatorun.pl/",
+        "owner": {
+            "id": null,
+            "name": "Pracownia Genetyki Nowotworow (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOzV1JhpE1IF_vXBGMXC7rwjeiGsXG1FzKMoQTg=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.2,
+        "workday_timing": "08:00-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 502 373 487",
+        "address": "Pracownia Genetyki Nowotworow, Marii Sklodowskiej-Curie 73, 87-100 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pracownia+Genetyki+Nowotwor%C3%B3w/data=!4m7!3m6!1s0x470334ae0c995ff5:0xdfbe4bc7f702ed8f!8m2!3d53.0373729!4d18.6598297!16s%2Fg%2F11df6cqr7f!19sChIJ9V-ZDK40A0cRj-0C98dLvt8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJxUuh4TrLHEcR3GkvTSrUsLc",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9924",
+        "owner": {
+            "id": "103225957059351107190",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103225957059351107190"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP2op9Nxk6rhUw3XSXfj2CBXG8za8wFopMY-bXW=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:30-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 56 300 05 55",
+        "address": "Punkt Pobran ALAB laboratoria, Ignacego Lyskowskiego 8, 87-100 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471ccb3ae1a14bc5:0xb7b0d42a4d2f69dc!8m2!3d53.0257099!4d18.664655!16s%2Fg%2F11s2jd3vvz!19sChIJxUuh4TrLHEcR3GkvTSrUsLc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJS-fhW4bLHEcRU6hL1ApHiUQ",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "http://synevo.pl/laboratorium-torun-suleckiego/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dtorun-suleckiego",
+        "owner": {
+            "id": "110082636746587825287",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110082636746587825287"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNJgCIy5p2JVqe6vhvLIYMQ4D8s_sid1of7orhb=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "07:30-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Jakuba Suleckiego 2e, 87-100 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471ccb865be1e74b:0x4489470ad44ba853!8m2!3d53.0221136!4d18.672266!16s%2Fg%2F11j8l7_q85!19sChIJS-fhW4bLHEcRU6hL1ApHiUQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2T7hxdY1A0cR1d_nNqOh-Pg",
+        "name": "Punkt Pobran ALAB LABORATORIA Torun ul. Grudziadzka 93",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "http://sklep.alablaboratoria.pl/",
+        "owner": {
+            "id": "108129892893122802103",
+            "name": "Punkt Pobran ALAB LABORATORIA Torun ul. Grudziadzka 93 (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108129892893122802103"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNI3uA0j7ohqof452eQpiLaoungYyU3QxPv_SjE=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 56 300 05 62",
+        "address": "Punkt Pobran ALAB LABORATORIA Torun ul. Grudziadzka 93, Grudziadzka 93, 87-100 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+LABORATORIA+Toru%C5%84+ul.+Grudzi%C4%85dzka+93/data=!4m7!3m6!1s0x470335d6c5e13ed9:0xf8f8a1a336e7dfd5!8m2!3d53.0260929!4d18.6108799!16s%2Fg%2F11txc8ct4v!19sChIJ2T7hxdY1A0cR1d_nNqOh-Pg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJqasJDdo1A0cR_4fFNyEj8Tc",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "114905683318809661870",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114905683318809661870"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNib9jBSbLeAJ-2twVbAejGeEL4Om6RH7lZgkiN=w408-h240-k-no-pi0-ya298.97256-ro-0-fo100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Szosa Chelminska 16, 87-100 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470335da0d09aba9:0x37f1232137c587ff!8m2!3d53.015674!4d18.602466!16s%2Fg%2F11krhm3mps!19sChIJqasJDdo1A0cR_4fFNyEj8Tc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJT5Whtqg1A0cR9o88CV-ress",
+        "name": "Vitalabo Laboratoria Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://vitalabo.com.pl/",
+        "owner": {
+            "id": null,
+            "name": "Vitalabo Laboratoria Medyczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YA4vO6Gb-RDsQFvFYXQxWA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=106.70206&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": "07:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 56 622 09 88",
+        "address": "Vitalabo Laboratoria Medyczne, plac 18 Stycznia 4, 87-100 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Vitalabo+Laboratoria+Medyczne/data=!4m7!3m6!1s0x470335a8b6a1954f:0xcb7aab5f093c8ff6!8m2!3d53.011843!4d18.619769!16s%2Fg%2F11v0lb31vz!19sChIJT5Whtqg1A0cR9o88CV-ress?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJmbVO2rE0A0cReAMOmDqN_Nc",
+        "name": "testDNA Torun - badania DNA, testy na ojcostwo, badania genetyczne, NIFTY Pro - punkt pobran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://www.testdna.pl/",
+        "owner": {
+            "id": "113912665837646950835",
+            "name": "testDNA Torun - badania DNA, testy na ojcostwo, badania genetyczne, NIFTY Pro - punkt pobran (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113912665837646950835"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO-9jl70wKmOzdI1tij7NmEFgKsHtYDIm3HuzvV=w408-h270-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 665 761 161",
+        "address": "testDNA Torun - badania DNA, testy na ojcostwo, badania genetyczne, NIFTY Pro - punkt pobran, ul, Stefana Srebrnego 1, 87-100 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/testDNA+Toru%C5%84+-+badania+DNA,+testy+na+ojcostwo,+badania+genetyczne,+NIFTY+Pro+-+punkt+pobra%C5%84/data=!4m7!3m6!1s0x470334b1da4eb599:0xd7fc8d3a980e0378!8m2!3d53.022343!4d18.6743905!16s%2Fg%2F1xcbnb09!19sChIJmbVO2rE0A0cReAMOmDqN_Nc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJM3oWMK40A0cReHBo7Qvkla4",
+        "name": "Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "http://www.synevo.pl/",
+        "owner": {
+            "id": null,
+            "name": "Synevo Laboratorium Medyczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UtpZhWdtDBmO0Mt3S8oC7Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=81.24731&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Synevo Laboratorium Medyczne, Rowninna 6, 87-100 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x470334ae30167a33:0xae95e40bed687078!8m2!3d53.037337!4d18.6570219!16s%2Fg%2F11bzrg19l3!19sChIJM3oWMK40A0cReHBo7Qvkla4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJCwVcZvQEii8RijWNEBSiw70",
+        "name": "Interpretacja wynikow krwi online - BloodLab.pl",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://bloodlab.pl/",
+        "owner": {
+            "id": "105616693913115161792",
+            "name": "Interpretacja wynikow krwi online - BloodLab.pl (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105616693913115161792"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOPuuw3Xm7F37czCBdRBDo1H86Xy2FAuzgrEcGN=w546-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Service establishment"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": null,
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Interpretacja+wynik%C3%B3w+krwi+online+-+BloodLab.pl/data=!4m7!3m6!1s0x2f8a04f4665c050b:0xbdc3a214108d358a!8m2!3d51.9537505!4d19.1343786!16s%2Fg%2F11jz0gm9k0!19sChIJCwVcZvQEii8RijWNEBSiw70?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVVXRUNo0A0cRC1dWL256NBY",
+        "name": "ImmQuest",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": "116083733680485019207",
+            "name": "ImmQuest (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116083733680485019207"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3Zruwf6RiBjx9wCpgyrHzw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=229.28036&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "10:00-12:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 536 999 273",
+        "address": "ImmQuest, Polna 32A, 87-100 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/ImmQuest/data=!4m7!3m6!1s0x470334da50d15555:0x16347a6e2f56570b!8m2!3d53.037505!4d18.6157877!16s%2Fg%2F11h7zf0pc9!19sChIJVVXRUNo0A0cRC1dWL256NBY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ5Zv-WOU0A0cRKKvieftbi-c",
+        "name": "Piatkowska Malgorzata. Pracownia diagnostyczna",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Piatkowska Malgorzata. Pracownia diagnostyczna (eigenaar)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 56 655 95 85",
+        "address": "Piatkowska Malgorzata. Pracownia diagnostyczna, Podgorna 62C, 87-100 Torun, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pi%C4%85tkowska+Ma%C5%82gorzata.+Pracownia+diagnostyczna/data=!4m7!3m6!1s0x470334e558fe9be5:0xe78b5bfb79e2ab28!8m2!3d53.022084!4d18.607995!16s%2Fg%2F1vxvgkkb!19sChIJ5Zv-WOU0A0cRKKvieftbi-c?authuser=0&hl=nl&rclk=1"
+    }
+]

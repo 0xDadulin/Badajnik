@@ -1,0 +1,2406 @@
+[
+    {
+        "place_id": "ChIJpw0xFhbOFkcRIQFR_2hNxjE",
+        "name": "Slaskie Laboratoria Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 312,
+        "website": "https://sla.pl/punkt-pobran/badania-krwi-katowice/",
+        "owner": {
+            "id": "113337309559616775285",
+            "name": "Slaskie Laboratoria Analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113337309559616775285"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOKZsHFCR_0512paAhNdcoGtWeVMtBekB6Rlv-c=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "06:00-21:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 416 25 00",
+        "address": "Slaskie Laboratoria Analityczne, Zelazna 2, 40-851 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Al%C4%85skie+Laboratoria+Analityczne/data=!4m7!3m6!1s0x4716ce1616310da7:0x31c64d68ff510121!8m2!3d50.2668381!4d19.0090161!16s%2Fg%2F1tf5jcqk!19sChIJpw0xFhbOFkcRIQFR_2hNxjE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJnR5uSjjOFkcRc52puYYLFJ8",
+        "name": "Central Analytical Laboratory",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 149,
+        "website": "http://bip.spzla-katowice.pl/",
+        "owner": {
+            "id": null,
+            "name": "Central Analytical Laboratory (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fq0tNlYcnSodSQe7Jq04eg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=38.533737&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:15-10:15",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 32 258 87 35",
+        "address": "Central Analytical Laboratory, Adama Mickiewicza 9, 40-092 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Central+Analytical+Laboratory/data=!4m7!3m6!1s0x4716ce384a6e1e9d:0x9f140b86b9a99d73!8m2!3d50.261058!4d19.0196909!16s%2Fg%2F1tgcwt77!19sChIJnR5uSjjOFkcRc52puYYLFJ8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJScB-BA3OFkcRpvCwRuXwzGQ",
+        "name": "testDNA Katowice - badania DNA, testy na ojcostwo, badanie kariotypu, NIFTY Pro, testy genetyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 129,
+        "website": "https://www.testdna.pl/",
+        "owner": {
+            "id": "103370251422931273660",
+            "name": "testDNA Katowice - badania DNA, testy na ojcostwo, badanie kariotypu, NIFTY Pro, testy genetyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103370251422931273660"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNYFNCQsQxOdXNGvumdx8TV4xHat_lBRYKXiSPd=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.9,
+        "workday_timing": "07:00-19:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 665 761 161",
+        "address": "testDNA Katowice - badania DNA, testy na ojcostwo, badanie kariotypu, NIFTY Pro, testy genetyczne, Feliksa Bochenskiego 38a, 40-859 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/testDNA+Katowice+-+badania+DNA,+testy+na+ojcostwo,+badanie+kariotypu,+NIFTY+Pro,+testy+genetyczne/data=!4m7!3m6!1s0x4716ce0d047ec049:0x64ccf0e546b0f0a6!8m2!3d50.2659999!4d18.9896965!16s%2Fg%2F1tdypjb6!19sChIJScB-BA3OFkcRpvCwRuXwzGQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ80ET1pjPFkcRfM74Ih4KRYs",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 114,
+        "website": "https://diag.pl/katalogi/placowki/katowice/punkt-pobran-diagnostyki-katowice-ul-paderewskiego-32c/",
+        "owner": {
+            "id": "101550908680175828784",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101550908680175828784"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPT6DxbERATL6k1Ysp1hjzrfWRoL_0boq5IFMCI=w408-h262-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.7,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 399 362",
+        "address": "Diagnostyka. Laboratoria Medyczne., Paderewskiego 32, 40-284 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x4716cf98d61341f3:0x8b450a1e22f8ce7c!8m2!3d50.2533197!4d19.0363381!16s%2Fg%2F11j03v8p5b!19sChIJ80ET1pjPFkcRfM74Ih4KRYs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_Q9haEPOFkcR_aXcjP0YI0s",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 75,
+        "website": "https://diag.pl/katalogi/placowki/katowice/punkt-pobran-diagnostyki-katowice-ul-mikolowska-53a/",
+        "owner": {
+            "id": "117416422302134991122",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117416422302134991122"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOQzWwMG54nvErsbKb4ivSWQQruDLZAVr_BC4uR=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.7,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostics. Medical Laboratories., Mikolowska 53A, 40-065 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x4716ce4368610ffd:0x4b2318fd8cdca5fd!8m2!3d50.2517772!4d19.0061586!16s%2Fg%2F11df0xhtq8!19sChIJ_Q9haEPOFkcR_aXcjP0YI0s?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8czYBg3OFkcRBJIWANbYWCk",
+        "name": "Cytolab Medyczne Laboratorium Diagnostyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 72,
+        "website": "http://www.cytolab.pl/",
+        "owner": {
+            "id": "109828490680369444056",
+            "name": "Cytolab Medyczne Laboratorium Diagnostyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109828490680369444056"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMgNtd0AxdjVlWw-hl2T8JzcGJB2d0aLnHn3HE3=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.9,
+        "workday_timing": "07:30-18:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 530 092 449",
+        "address": "Cytolab Medyczne Laboratorium Diagnostyczne, Mikolowska 53, 40-065 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cytolab+Medyczne+Laboratorium+Diagnostyczne/data=!4m7!3m6!1s0x4716ce0d06d8ccf1:0x2958d8d600169204!8m2!3d50.2517349!4d19.0060119!16s%2Fg%2F11g9qtg18l!19sChIJ8czYBg3OFkcRBJIWANbYWCk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_XZi2dTOFkcR4B2cwQ02s-E",
+        "name": "Lab-Test Medyczne Laboratorium Diagnostyczne N. Nicpon, M. Bielesz S.C",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 65,
+        "website": "http://lab-test.katowice.pl/",
+        "owner": {
+            "id": "108908070776822476483",
+            "name": "Lab-Test Medyczne Laboratorium Diagnostyczne N. Nicpon, M. Bielesz S.C (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108908070776822476483"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPPlD4KTUxFTr1TV00k3gCRcsGxa2D70TaTg3Yj=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-15:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 605 553 334",
+        "address": "Lab-Test Medyczne Laboratorium Diagnostyczne N. Nicpon, M. Bielesz S.C, Bazantow 47/2, 40-668 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lab-Test+Medyczne+Laboratorium+Diagnostyczne+N.+Nicpo%C5%84,+M.+Bielesz+S.C/data=!4m7!3m6!1s0x4716ced4d96276fd:0xe1b3360dc19c1de0!8m2!3d50.200449!4d18.990661!16s%2Fg%2F11c468nq6k!19sChIJ_XZi2dTOFkcR4B2cwQ02s-E?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJoVwAOXvNFkcR-Wu7tO-J1EA",
+        "name": "Slaskie Laboratoria Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 62,
+        "website": "https://sla.pl/punkt-pobran/badania-krwi-swietochlowice/",
+        "owner": {
+            "id": "108575484784355096025",
+            "name": "Slaskie Laboratoria Analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108575484784355096025"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNYr19dK39_4V3CgzE0RahjBDorzAyf7rVFQoIk=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:00-13:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 416 25 34",
+        "address": "Slaskie Laboratoria Analityczne, Bytomska 5, 41-600 Swietochlowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Al%C4%85skie+Laboratoria+Analityczne/data=!4m7!3m6!1s0x4716cd7b39005ca1:0x40d489efb4bb6bf9!8m2!3d50.2907787!4d18.9159494!16s%2Fg%2F11bw2f_qyv!19sChIJoVwAOXvNFkcR-Wu7tO-J1EA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJxVkw7zLPFkcRQWJ2pys86m0",
+        "name": "Slaskie Laboratoria Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 60,
+        "website": "https://sla.pl/punkt-pobran/badania-analityczne-katowice/",
+        "owner": {
+            "id": "118286113751359940429",
+            "name": "Slaskie Laboratoria Analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/118286113751359940429"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMTDa8bdVKbo8hHqxzhtabIwdppW0bEn_js897Y=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.7,
+        "workday_timing": "06:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 32 432 46 16",
+        "address": "Slaskie Laboratoria Analityczne, Warszawska 40, 40-008 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Al%C4%85skie+Laboratoria+Analityczne/data=!4m7!3m6!1s0x4716cf32ef3059c5:0x6dea3c2ba7766241!8m2!3d50.2579086!4d19.0315463!16s%2Fg%2F11j0nfpx17!19sChIJxVkw7zLPFkcRQWJ2pys86m0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJC11KPXjSFkcRtOQbev8yXns",
+        "name": "Slaskie Laboratoria Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 60,
+        "website": "https://sla.pl/punkt-pobran/badania-krwi-chorzow/",
+        "owner": {
+            "id": "100766508653692989948",
+            "name": "Slaskie Laboratoria Analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100766508653692989948"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN3RbHnr5-JywI1XV_LhqF-vm4kLTVYLQA2WZeX=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.5,
+        "workday_timing": "06:00-13:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 32 416 25 25",
+        "address": "Slaskie Laboratoria Analityczne, Ksiedza Jana Galeczki 54, 41-500 Chorzow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Al%C4%85skie+Laboratoria+Analityczne/data=!4m7!3m6!1s0x4716d2783d4a5d0b:0x7b5e32ff7a1be4b4!8m2!3d50.2817193!4d18.9596219!16s%2Fg%2F11c0phj0ys!19sChIJC11KPXjSFkcRtOQbev8yXns?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJlZkjXk_OFkcRU6e9J9hzRO8",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 56,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "113214972599454453730",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113214972599454453730"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPFi7q2XJMg_j4JAwGH9P7tOh4MO7w3r1Y0oUmb=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-14:15",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Tadeusza Kosciuszki 38, 40-048 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x4716ce4f5e239995:0xef4473d827bda753!8m2!3d50.2526654!4d19.0161369!16s%2Fg%2F11c44pphsy!19sChIJlZkjXk_OFkcRU6e9J9hzRO8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJaT8tHQjOFkcRfzAjqeadQvM",
+        "name": "Slaskie Laboratoria Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 45,
+        "website": "https://sla.pl/punkt-pobran/badania-analityczne-krwi-katowice/",
+        "owner": {
+            "id": "102449578450028741169",
+            "name": "Slaskie Laboratoria Analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102449578450028741169"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNQpMdC51MS6KBhVHdIqpmq7TV7vvzYCf3acTlH=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.7,
+        "workday_timing": "06:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 32 416 25 74",
+        "address": "Slaskie Laboratoria Analityczne, Piastow 8, 40-867 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Al%C4%85skie+Laboratoria+Analityczne/data=!4m7!3m6!1s0x4716ce081d2d3f69:0xf3429de6a923307f!8m2!3d50.2748609!4d18.9835949!16s%2Fg%2F11g9syt3_v!19sChIJaT8tHQjOFkcRfzAjqeadQvM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJK492RfHNFkcRXCbpGwEJbnA",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 43,
+        "website": "https://diag.pl/katalogi/placowki/katowice/punkt-pobran-diagnostyki-katowice-ul-tysiaclecia-90/",
+        "owner": {
+            "id": "103683185311643701959",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103683185311643701959"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=J0QR-Qnfc38AJsgD41uSBA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=85.71714&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.7,
+        "workday_timing": "07:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 703 101",
+        "address": "Diagnostics. Medical Laboratories., Tysiaclecia 90, 40-871 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x4716cdf145768f2b:0x706e09011be9265c!8m2!3d50.283054!4d18.9665275!16s%2Fg%2F11dyzl87dj!19sChIJK492RfHNFkcRXCbpGwEJbnA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJuyH0ZgHRFkcRqZlwPjqkILc",
+        "name": "Slaskie Laboratoria Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 42,
+        "website": "https://sla.pl/punkt-pobran/badania-krwi-czeladz/",
+        "owner": {
+            "id": "116830388130701411833",
+            "name": "Slaskie Laboratoria Analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116830388130701411833"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPbElsNfyjFuRNCHyDcNFYCgs_7E3VXHTEkXyOg=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.2,
+        "workday_timing": "06:00-11:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 416 25 42",
+        "address": "Slaskie Laboratoria Analityczne, Bytomska 12, 41-250 Czeladz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Al%C4%85skie+Laboratoria+Analityczne/data=!4m7!3m6!1s0x4716d10166f421bb:0xb720a43a3e7099a9!8m2!3d50.3190073!4d19.0723976!16s%2Fg%2F11hbvvm_y4!19sChIJuyH0ZgHRFkcRqZlwPjqkILc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJxY1mM-vRFkcR6RMfxc9B4VM",
+        "name": "Slaskie Laboratoria Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 40,
+        "website": "https://sla.pl/punkt-pobran/badania-krwi-siemianowice-slaskie/",
+        "owner": {
+            "id": "100842678609589792665",
+            "name": "Slaskie Laboratoria Analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100842678609589792665"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOqdcGzoJmFvpfBrT_MN77MHVVP-DF3aOcXEm3m=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.9,
+        "workday_timing": "06:00-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 416 25 54",
+        "address": "Slaskie Laboratoria Analityczne, Centrum Stomatologii i Medycyny ATRIA, Stanislawa Staszica 14, 41-100 Siemianowice Slaskie, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Al%C4%85skie+Laboratoria+Analityczne/data=!4m7!3m6!1s0x4716d1eb33668dc5:0x53e141cfc51f13e9!8m2!3d50.300062!4d19.027563!16s%2Fg%2F11clyt4jfp!19sChIJxY1mM-vRFkcR6RMfxc9B4VM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJNSL1qarPFkcRUKlOqCYkQtI",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 38,
+        "website": "https://diag.pl/placowki/katowice/punkt-pobran-diagnostyki-katowice-ul-chorzowska-11/",
+        "owner": {
+            "id": "105642431442877174015",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105642431442877174015"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNEkTHesFiw6gZo2R23nF9XTkTLhiyJ2Ec0ecQL=w408-h278-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 399 362",
+        "address": "Diagnostyka. Laboratoria Medyczne., Chorzowska 11, 40-121 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x4716cfaaa9f52235:0xd2422426a84ea950!8m2!3d50.2660824!4d19.0184793!16s%2Fg%2F11t5jj6d2f!19sChIJNSL1qarPFkcRUKlOqCYkQtI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9_dSFkzOFkcRzkzlpeTHbMQ",
+        "name": "Centralne Laboratorium ZWPS",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 38,
+        "website": "http://zwps.pl/portal/laboratorium/",
+        "owner": {
+            "id": null,
+            "name": "Centralne Laboratorium ZWPS (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNlyoJX_Jh8RuydmCKT2DJfjbGbCPV3MKE6NjdI=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.6,
+        "workday_timing": "07:00-16:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 32 255 29 50",
+        "address": "Centralne Laboratorium ZWPS, Jozefa Lompy 16, 40-038 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Centralne+Laboratorium+ZWPS/data=!4m7!3m6!1s0x4716ce4c1652f7f7:0xc46cc7e4a5e54cce!8m2!3d50.2512662!4d19.0239536!16s%2Fg%2F1w97t3wv!19sChIJ9_dSFkzOFkcRzkzlpeTHbMQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJWUQPoibTFkcRhX_lLaUnqpI",
+        "name": "Slaskie Laboratoria Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 37,
+        "website": "https://sla.pl/punkt-pobran/badania-laboratoryjne-chorzow/",
+        "owner": {
+            "id": "109675174724301915572",
+            "name": "Slaskie Laboratoria Analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109675174724301915572"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMsCaylpGqhiIKdaAG7kWXfet2ILnZ6kSnYkDKd=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.9,
+        "workday_timing": "06:00-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 432 46 01",
+        "address": "Slaskie Laboratoria Analityczne, Lwowska 34, 41-500 Chorzow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Al%C4%85skie+Laboratoria+Analityczne/data=!4m7!3m6!1s0x4716d326a20f4459:0x92aa27a52de57f85!8m2!3d50.2951272!4d18.9647165!16s%2Fg%2F11h7bjytss!19sChIJWUQPoibTFkcRhX_lLaUnqpI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJmaQ_tS3PFkcRaSzBi0Ic9-0",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 36,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9369",
+        "owner": {
+            "id": "112668406185146596892",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112668406185146596892"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPhUswEZn4M32QX0jhviIO0TZ9mymid1q6Eot2B=w426-h240-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": "07:30-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 723 771 401",
+        "address": "Punkt Pobran ALAB laboratoria, Tadeusza Kosciuszki 92/B, 40-760 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x4716cf2db53fa499:0xedf71c428bc12c69!8m2!3d50.2462986!4d19.012501!16s%2Fg%2F11gmg21g03!19sChIJmaQ_tS3PFkcRaSzBi0Ic9-0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJy-cUXe3OFkcR5gMVVXjFvBc",
+        "name": "Slaskie Laboratoria Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 35,
+        "website": "https://sla.pl/punkt-pobran/badania-laboratoryjne-krwi-katowice/",
+        "owner": {
+            "id": "110046419161118478339",
+            "name": "Slaskie Laboratoria Analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110046419161118478339"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM8HVW2XrXykv-QQxMGppT1hDYJVCi31OiW1Vtb=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.8,
+        "workday_timing": "06:00-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 416 25 75",
+        "address": "Slaskie Laboratoria Analityczne, Rolna 18, 40-555 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Al%C4%85skie+Laboratoria+Analityczne/data=!4m7!3m6!1s0x4716ceed5d14e7cb:0x17bcc578551503e6!8m2!3d50.231653!4d18.9869479!16s%2Fg%2F11fzf4hzct!19sChIJy-cUXe3OFkcR5gMVVXjFvBc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-yvzpjjOFkcRbSi2p_RKEIY",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 35,
+        "website": "https://diag.pl/katalogi/placowki/katowice/punkt-pobran-diagnostyki-katowice-pl-wolnosci-1/",
+        "owner": {
+            "id": "115966599339397508506",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115966599339397508506"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOWUYAB04poNssSB19tdgqK2ht00bFFvCYE-cBI=w408-h277-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.6,
+        "workday_timing": "07:00-13:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 399 362",
+        "address": "Diagnostics. Medical Laboratories., plac Wolnosci 1, 40-078 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x4716ce38a6f32bfb:0x86104af4a7b6286d!8m2!3d50.259963!4d19.014311!16s%2Fg%2F11dyzlrn99!19sChIJ-yvzpjjOFkcRbSi2p_RKEIY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8TLY-Y7RFkcReyDg5RHXcDc",
+        "name": "Slaskie Laboratoria Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 34,
+        "website": "https://sla.pl/punkt-pobran/badania-krwi-w-katowicach/",
+        "owner": {
+            "id": "112436013294837472126",
+            "name": "Slaskie Laboratoria Analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112436013294837472126"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNCbWbBFXpJzd_pUcifa62WWybPDGUbPQwAWDgW=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:00-11:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 432 46 24",
+        "address": "Slaskie Laboratoria Analityczne, Jozefowska 76, 40-145 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Al%C4%85skie+Laboratoria+Analityczne/data=!4m7!3m6!1s0x4716d18ef9d832f1:0x3770d711e5e0207b!8m2!3d50.2819879!4d19.0147912!16s%2Fg%2F11ky7b_pg5!19sChIJ8TLY-Y7RFkcReyDg5RHXcDc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJXabGLZvNFkcRvRLoiCAI5Sk",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 34,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9830",
+        "owner": {
+            "id": "116470015507544104920",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116470015507544104920"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNd2bKEuuTKY7Sm50CB9G3y0TkaVIM36soQjE7f=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:15-12:45",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 308 98 52",
+        "address": "Punkt Pobran ALAB laboratoria, Tysiaclecia 17, 40-873 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x4716cd9b2dc6a65d:0x29e5082088e812bd!8m2!3d50.2769823!4d18.9807043!16s%2Fg%2F11p4hb3n83!19sChIJXabGLZvNFkcRvRLoiCAI5Sk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJq-utENnNFkcRk-JRMXJgMdg",
+        "name": "Slaskie Laboratoria Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 27,
+        "website": "https://sla.pl/punkt-pobran/badania-laboratoryjne-katowice/",
+        "owner": {
+            "id": "114558714207748667025",
+            "name": "Slaskie Laboratoria Analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114558714207748667025"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOs0DIfrBKDTj_sjj1I4ZkaIi3WCjsbC6H6HPZX=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.5,
+        "workday_timing": "06:00-11:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 32 416 25 26",
+        "address": "Slaskie Laboratoria Analityczne, Kwiatkowskiego 8, 40-824 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Al%C4%85skie+Laboratoria+Analityczne/data=!4m7!3m6!1s0x4716cdd910adebab:0xd83160723151e293!8m2!3d50.2604063!4d18.968611!16s%2Fg%2F11f121wlyq!19sChIJq-utENnNFkcRk-JRMXJgMdg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJo0ABTUPOFkcRAjWn6VnxVeY",
+        "name": "Care Clinic Centrum Medyczne Katowice",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 27,
+        "website": "https://www.careclinic.katowice.pl/",
+        "owner": {
+            "id": "108979219961879723543",
+            "name": "Care Clinic Centrum Medyczne Katowice (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108979219961879723543"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPV41q4xlxx6lKJCTnoSQMZcOFoe08MS9XrcwJY=w408-h272-k-no",
+        "main_category": "Medische kliniek",
+        "categories": [
+            "Medische kliniek",
+            "Cardioloog",
+            "Endocrinoloog",
+            "Medisch laboratorium",
+            "Psychiater"
+        ],
+        "rating": 4.7,
+        "workday_timing": "08:00-20:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 510 412 221",
+        "address": "Care Clinic Centrum Medyczne Katowice, Ligocka 103, 40-568 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Care+Clinic+Centrum+Medyczne+Katowice/data=!4m7!3m6!1s0x4716ce434d0140a3:0xe655f159e9a73502!8m2!3d50.2357613!4d18.9771127!16s%2Fg%2F11cp77yh4b!19sChIJo0ABTUPOFkcRAjWn6VnxVeY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJr9jhCBjFFkcRb0MMuULlfds",
+        "name": "Punkt Pobran KORLAB Myslowice",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 26,
+        "website": "http://www.korlab.pl/",
+        "owner": {
+            "id": null,
+            "name": "Punkt Pobran KORLAB Myslowice (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6iBsn796Ho2PU1nCYrq2dw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.67653&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.6,
+        "workday_timing": "06:00-10:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 222 16 73",
+        "address": "Punkt Pobran KORLAB Myslowice, Mikolowska 5A, 41-400 Myslowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+KORLAB+Mys%C5%82owice/data=!4m7!3m6!1s0x4716c51808e1d8af:0xdb7de542b90c436f!8m2!3d50.2390196!4d19.1356318!16s%2Fg%2F11b75f86gm!19sChIJr9jhCBjFFkcRb0MMuULlfds?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJFwVqo0POFkcR5Q9KyMbvAcY",
+        "name": "KORLAB Laboratoria Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 25,
+        "website": "http://korlab.pl/",
+        "owner": {
+            "id": null,
+            "name": "KORLAB Laboratoria Medyczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNIf5Y0MfaMi-VA1-ID1G8dZZ420DSywVBAirif=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.1,
+        "workday_timing": "07:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 32 202 67 79",
+        "address": "KORLAB Laboratoria Medyczne, Strzelecka 9, 40-073 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/KORLAB+Laboratoria+Medyczne/data=!4m7!3m6!1s0x4716ce43a36a0517:0xc601efc6c84a0fe5!8m2!3d50.2536129!4d19.006046!16s%2Fg%2F11hcdsn_84!19sChIJFwVqo0POFkcR5Q9KyMbvAcY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJZ3ub18jOFkcRUHVCZLV5cTU",
+        "name": "Slaskie Laboratoria Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "website": "https://sla.pl/punkt-pobran/laboratorium-katowice/",
+        "owner": {
+            "id": "101043204006799579212",
+            "name": "Slaskie Laboratoria Analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101043204006799579212"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN56imGEF0a6-xAPdsnZlh8sM-igPn7gGs1rE1I=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:00-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 416 25 70",
+        "address": "Slaskie Laboratoria Analityczne, Fredry 22, 40-662 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Al%C4%85skie+Laboratoria+Analityczne/data=!4m7!3m6!1s0x4716cec8d79b7b67:0x357179b564427550!8m2!3d50.2100014!4d18.9774607!16s%2Fg%2F1vnnh43_!19sChIJZ3ub18jOFkcRUHVCZLV5cTU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJMQbV1BjPFkcRIYo_M-Xzm_s",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9714",
+        "owner": {
+            "id": "107559190305615597289",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107559190305615597289"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNVJePV0XC6hc5YrOMwmtSL_DRRowH7Wf_VO5US=w408-h816-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 2.9,
+        "workday_timing": "07:30-11:45",
+        "closed_on": [
+            "donderdag",
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 838 842",
+        "address": "Punkt Pobran ALAB laboratoria, 3 Maja 34, 40-097 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x4716cf18d4d50631:0xfb9bf3e5333f8a21!8m2!3d50.259496!4d19.0170819!16s%2Fg%2F11hzqghdlj!19sChIJMQbV1BjPFkcRIYo_M-Xzm_s?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJzXxBQ13TFkcRlDGAAD2Vx9M",
+        "name": "Slaskie Laboratoria Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": "https://sla.pl/punkt-pobran/badania-laboratoryjne-swietochlowice/",
+        "owner": {
+            "id": "106638731120694803196",
+            "name": "Slaskie Laboratoria Analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106638731120694803196"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPR1_ZqyxvI8RfZ8AxUMVtAHaVbeGO3GWiOhEgN=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:00-10:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 416 25 78",
+        "address": "Slaskie Laboratoria Analityczne, Lagiewnicka 6, 41-608 Swietochlowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Al%C4%85skie+Laboratoria+Analityczne/data=!4m7!3m6!1s0x4716d35d43417ccd:0xd3c7953d00803194!8m2!3d50.3162561!4d18.9155775!16s%2Fg%2F11gh_7_6h8!19sChIJzXxBQ13TFkcRlDGAAD2Vx9M?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJB6-ArtnOFkcRPWRFyjsnagY",
+        "name": "Laboratorium ANCHEM. Laboratorium Analiz Medycznych NZOZ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": "http://www.anchem.com.pl/",
+        "owner": {
+            "id": "103414220796597248513",
+            "name": "Laboratorium ANCHEM. Laboratorium Analiz Medycznych NZOZ (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103414220796597248513"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMvcSOUDaUIffz0zBsEWJCKKDbUlDHIeGp4dHBq=w408-h316-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "07:00-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 32 205 95 90",
+        "address": "Laboratorium ANCHEM. Laboratorium Analiz Medycznych NZOZ, Fredry 20, 40-662 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+ANCHEM.+Laboratorium+Analiz+Medycznych+NZOZ/data=!4m7!3m6!1s0x4716ced9ae80af07:0x66a273bca45643d!8m2!3d50.2100913!4d18.9777963!16s%2Fg%2F1td9tvrl!19sChIJB6-ArtnOFkcRPWRFyjsnagY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJtXgFP1nPFkcRY3o88VPwqbY",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": "https://diag.pl/katalogi/placowki/katowice/punkt-pobran-diagnostyki-katowice-ul-jankego-14/",
+        "owner": {
+            "id": "105983812216618729481",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105983812216618729481"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNjLpnwE34U4qWWqpdk61Px_CvTkorjL8-VmNvc=w408-h305-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.9,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 681 950",
+        "address": "Diagnostyka. Laboratoria Medyczne., Generala Zygmunta Waltera-Jankego 14, 40-612 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x4716cf593f0578b5:0xb6a9f053f13c7a63!8m2!3d50.2203621!4d18.989284!16s%2Fg%2F11q3rxj5xn!19sChIJtXgFP1nPFkcRY3o88VPwqbY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0xk_G4bPFkcRNWSQSsZ-lT8",
+        "name": "Slaskie Laboratoria Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": "https://sla.pl/punkt-pobran/pobieranie-krwi-katowice/",
+        "owner": {
+            "id": "108469376116317573648",
+            "name": "Slaskie Laboratoria Analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108469376116317573648"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN_e2YhWj_ZfapW8dhRBePBPEd7W-0WD-dKTffj=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 432 46 25",
+        "address": "Slaskie Laboratoria Analityczne, Kijowska 15, 40-753 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Al%C4%85skie+Laboratoria+Analityczne/data=!4m7!3m6!1s0x4716cf861b3f19d3:0x3f957ec64a906435!8m2!3d50.2291224!4d18.9601768!16s%2Fg%2F11hwxj1ft_!19sChIJ0xk_G4bPFkcRNWSQSsZ-lT8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJmdk8n_bNFkcRsNaQkPaIreo",
+        "name": "Korlab Laboratoria Medyczne Punkt Pobran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "http://www.korlab.pl/",
+        "owner": {
+            "id": "100107005978235865925",
+            "name": "Korlab Laboratoria Medyczne Punkt Pobran (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100107005978235865925"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xhil6EvQrRdguoNmZSKIsg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=182.51134&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "07:30-11:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 254 00 44",
+        "address": "Korlab Laboratoria Medyczne Punkt Pobran, Ulanska 11, 40-887 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Korlab+Laboratoria+Medyczne+Punkt+Pobra%C5%84/data=!4m7!3m6!1s0x4716cdf69f3cd999:0xeaad88f69090d6b0!8m2!3d50.2851406!4d18.9670338!16s%2Fg%2F11f3n8n5wb!19sChIJmdk8n_bNFkcRsNaQkPaIreo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJMWIppZDOFkcR3_wUxvxhDQU",
+        "name": "ZRE Katowice SA - Laboratorium Badawczo - Pomiarowe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "http://www.zre.com.pl/",
+        "owner": {
+            "id": null,
+            "name": "ZRE Katowice SA - Laboratorium Badawczo - Pomiarowe (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d10HB0sKyPq58Wpi_q2wIg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=350.12305&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 438 18 95",
+        "address": "ZRE Katowice SA - Laboratorium Badawczo - Pomiarowe, Ksiazeca 12, 40-724 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/ZRE+Katowice+SA+-+Laboratorium+Badawczo+-+Pomiarowe/data=!4m7!3m6!1s0x4716ce90a5296231:0x50d61fcc614fcdf!8m2!3d50.2306728!4d18.9694052!16s%2Fg%2F11g020clbq!19sChIJMWIppZDOFkcR3_wUxvxhDQU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJEZYHHRHTFkcRojqGE5fqJ7Y",
+        "name": "Slaskie Laboratoria Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "https://sla.pl/punkt-pobran/badania-laboratoryjne-siemianowice-slaskie/",
+        "owner": {
+            "id": "109790515828826402861",
+            "name": "Slaskie Laboratoria Analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109790515828826402861"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNvgSoVkrNPVmOg2B_Y0rrZqN5bRzqIYspZpOFu=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-11:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 432 46 21",
+        "address": "Slaskie Laboratoria Analityczne, Wladyslawa Jagielly 9, 41-106 Siemianowice Slaskie, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Al%C4%85skie+Laboratoria+Analityczne/data=!4m7!3m6!1s0x4716d3111d079611:0xb627ea9713863aa2!8m2!3d50.300866!4d18.999661!16s%2Fg%2F11jcvp9fyh!19sChIJEZYHHRHTFkcRojqGE5fqJ7Y?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3_mLMEDEFkcR0f1Ts2jsRp0",
+        "name": "P.H.U. \"SBB\" Laboratorium Badan i Ekspertyz Bogdan Chobel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "http://www.laboratorium-sbb.pl/",
+        "owner": {
+            "id": "107245891827875591280",
+            "name": "P.H.U. \"SBB\" Laboratorium Badan i Ekspertyz Bogdan Chobel (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107245891827875591280"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNOmp1aOSX-Ll042Dbaz5yUHvzgr-n4vDvcotla=w408-h271-k-no",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-17:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 222 10 04",
+        "address": "P.H.U. \"SBB\" Laboratorium Badan i Ekspertyz Bogdan Chobel, Tadeusza Boya Zelenskiego 104, 40-750 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/P.H.U.+%22SBB%22+Laboratorium+Bada%C5%84+i+Ekspertyz+Bogdan+Chobel/data=!4m7!3m6!1s0x4716c440308bf9df:0x9d46ec68b353fdd1!8m2!3d50.1786363!4d19.0079211!16s%2Fg%2F1tm8j9sy!19sChIJ3_mLMEDEFkcR0f1Ts2jsRp0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJT5qTd0fPFkcRHCZLvaLOh_g",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9926",
+        "owner": {
+            "id": "115626068515862587019",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115626068515862587019"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMeK-Z8-fHsiB6PwyS3Y-Xniucc9LaYjmIE5WcQ=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "07:15-11:45",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 308 95 18",
+        "address": "Punkt Pobran ALAB laboratoria, Motyli 2, 40-646 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x4716cf4777939a4f:0xf887cea2bd4b261c!8m2!3d50.2064002!4d18.9898786!16s%2Fg%2F11rn5cp5h4!19sChIJT5qTd0fPFkcRHCZLvaLOh_g?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJQaxf25DOFkcRowH82n9EGuc",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "102365798791049472064",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102365798791049472064"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOF-TXqHc_Gtx4f8nwHeXFcXsDdgW-cgccDpwJr=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Piotrowicka 83, 40-724 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x4716ce90db5fac41:0xe71a447fdafc01a3!8m2!3d50.2304994!4d18.9714323!16s%2Fg%2F11c5_5p9f3!19sChIJQaxf25DOFkcRowH82n9EGuc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJaXCoXdrPFkcRE0oJr9T8c_U",
+        "name": "Laboratoria.ahop.pl",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "https://laboratoria.ahop.pl/",
+        "owner": {
+            "id": "110980944335881007310",
+            "name": "Laboratoria.ahop.pl (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110980944335881007310"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOtZuC7n3zSQLQJaxTTEmrcFUhBY-MhUt9WnhI9=w408-h259-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "24 uur geopend",
+        "closed_on": [],
+        "phone": "+48 885 802 485",
+        "address": "Laboratoria.ahop.pl, Warszawska 52, 40-010 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratoria.ahop.pl/data=!4m7!3m6!1s0x4716cfda5da87069:0xf573fcd4af094a13!8m2!3d50.2576558!4d19.0337607!16s%2Fg%2F11r42hj624!19sChIJaXCoXdrPFkcRE0oJr9T8c_U?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_6VVffvNFkcRpWaE8mA65CU",
+        "name": "Korlab Sp. z o.o.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "http://www.korlab.pl/",
+        "owner": {
+            "id": null,
+            "name": "Korlab Sp. z o.o. (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPmBRfQujDNN1ULRBmo-6XA81srr6HzpnWVcNOj=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 32 248 17 49",
+        "address": "Korlab Sp. z o.o., Zawiszy Czarnego 7A, 40-872 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Korlab+Sp.+z+o.o./data=!4m7!3m6!1s0x4716cdfb7d55a5ff:0x25e43a60f28466a5!8m2!3d50.278502!4d18.9779555!16s%2Fg%2F11c5b1p53h!19sChIJ_6VVffvNFkcRpWaE8mA65CU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJLQoLJf_PFkcRm1ojk51tVqA",
+        "name": "Slaskie Laboratoria Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "https://sla.pl/punkt-pobran/badanie-krwi-katowice/",
+        "owner": {
+            "id": "100583670386440274907",
+            "name": "Slaskie Laboratoria Analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100583670386440274907"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO5SXdlwcemw7_kFphKLXKU7l7wxOV8LJZSSSiU=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 341 02 68",
+        "address": "Slaskie Laboratoria Analityczne, Ceglana 66, 40-514 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Al%C4%85skie+Laboratoria+Analityczne/data=!4m7!3m6!1s0x4716cfff250b0a2d:0xa0566d9d93235a9b!8m2!3d50.2433052!4d19.0143413!16s%2Fg%2F11kqrvrfn8!19sChIJLQoLJf_PFkcRm1ojk51tVqA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJRRmvutHPFkcRDjmoTYyRvi4",
+        "name": "Slaskie Laboratoria Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "https://sla.pl/punkt-pobran/laboratorium-medyczne-katowice/",
+        "owner": {
+            "id": "114756941850189285602",
+            "name": "Slaskie Laboratoria Analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114756941850189285602"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO23BRWNR1KqqZ-fW5vTiQPxNKBweMJhSCxDbxW=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-11:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 32 432 46 94",
+        "address": "Slaskie Laboratoria Analityczne, Gospodarcza 48, 40-432 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Al%C4%85skie+Laboratoria+Analityczne/data=!4m7!3m6!1s0x4716cfd1baaf1945:0x2ebe918c4da8390e!8m2!3d50.2461067!4d19.0738779!16s%2Fg%2F11k9dy_zvv!19sChIJRRmvutHPFkcRDjmoTYyRvi4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVf85Lc_OFkcRxy9_9gFvh9E",
+        "name": "FedaLab Sp. z o.o. Laboratorium Analityczno-Kryminalistyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "http://www.fedalab.pl/",
+        "owner": {
+            "id": "102986159642904888869",
+            "name": "FedaLab Sp. z o.o. Laboratorium Analityczno-Kryminalistyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102986159642904888869"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOJ0pr0-cJOso4Zhmb_VxT2MUkv5VkudOTcPkVa=w408-h544-k-no",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 532 259 011",
+        "address": "FedaLab Sp. z o.o. Laboratorium Analityczno-Kryminalistyczne, Fredry 18/1A, 40-662 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/FedaLab+Sp.+z+o.o.+Laboratorium+Analityczno-Kryminalistyczne/data=!4m7!3m6!1s0x4716cecf2d39ff55:0xd1876f01f67f2fc7!8m2!3d50.210254!4d18.9782023!16s%2Fg%2F11f3n45srt!19sChIJVf85Lc_OFkcRxy9_9gFvh9E?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJOyDpCqLOFkcR98O6wm9sPlk",
+        "name": "niepubliczny zaklad opieki zdrowotnej bio diagnostyka sp z oo katowice",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "https://polki.pl/zdrowie/ogolnopolska-baza-zoz,niepubliczny-zaklad-opieki-zdrowotnej-bio-diagnostyka-sp-z-o-o-katowice,42897,zaklad.html",
+        "owner": {
+            "id": null,
+            "name": "niepubliczny zaklad opieki zdrowotnej bio diagnostyka sp z oo katowice (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YWSLMlu9DQhbHyo7_yDLiA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=130.36632&pitch=0&thumbfov=100",
+        "main_category": "Diagnosecentrum",
+        "categories": [
+            "Diagnosecentrum",
+            "Centrum voor diagnostische beeldvorming"
+        ],
+        "rating": 3.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "niepubliczny zaklad opieki zdrowotnej bio diagnostyka sp z oo katowice, Panewnicka 65, 40-760 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/niepubliczny+zak%C5%82ad+opieki+zdrowotnej+bio+diagnostyka+sp+z+oo+katowice/data=!4m7!3m6!1s0x4716cea20ae9203b:0x593e6c6fc2bac3f7!8m2!3d50.2265878!4d18.9589304!16s%2Fg%2F1wbfz47y!19sChIJOyDpCqLOFkcR98O6wm9sPlk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJd1XK69bPFkcRMG3pAVd2Uoc",
+        "name": "Korlab Laboratoria Medyczne punkt pobran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "http://www.korlab.pl/",
+        "owner": {
+            "id": null,
+            "name": "Korlab Laboratoria Medyczne punkt pobran (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPcq8H4HP8ZP4_sa4W36fBeLC6FlDFRJI0O4ECF=w532-h240-k-no",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-10:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": null,
+        "address": "Korlab Laboratoria Medyczne punkt pobran, al. Wojciecha Korfantego 138, 40-156 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Korlab+Laboratoria+Medyczne+punkt+pobra%C5%84/data=!4m7!3m6!1s0x4716cfd6ebca5577:0x8752765701e96d30!8m2!3d50.2795719!4d19.0200393!16s%2Fg%2F11sv1zf902!19sChIJd1XK69bPFkcRMG3pAVd2Uoc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJc-cy9X7PFkcR4d3wKhO_JJ0",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://diag.pl/katalogi/placowki/katowice/punkt-pobran-diagnostyki-katowice-ul-mila-7b/",
+        "owner": {
+            "id": "114438510002014423804",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114438510002014423804"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CnQGWct_FwE5Y2LawUmbKQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=281.48624&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:30-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 32 209 31 31",
+        "address": "Diagnostics. Medical Laboratories., Mila 7B, 40-464 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x4716cf7ef532e773:0x9d24bf132af0dde1!8m2!3d50.2245445!4d19.0717196!16s%2Fg%2F11dyzlgs6m!19sChIJc-cy9X7PFkcR4d3wKhO_JJ0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJrYIxjdjNFkcR4QsoX_bbyRE",
+        "name": "Laboratorium analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://sla.pl/",
+        "owner": {
+            "id": null,
+            "name": "Laboratorium analityczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z5LP67voRgrD8y9dLTqWlA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=92.52706&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 254 02 39",
+        "address": "Laboratorium analityczne, Witosa 21, 40-001 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+analityczne/data=!4m7!3m6!1s0x4716cdd88d3182ad:0x11c9dbf65f280be1!8m2!3d50.2595349!4d18.9709819!16s%2Fg%2F1tcyqk_3!19sChIJrYIxjdjNFkcR4QsoX_bbyRE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1ehDAy3OFkcRruffeU10POE",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://diag.pl/katalogi/placowki/katowice/punkt-pobran-diagnostyki-katowice-ul-markiefki-87/",
+        "owner": {
+            "id": "103608012366101648958",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103608012366101648958"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rmitIJKjIPT670TOgfCI3g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=171.70381&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 203 96 04",
+        "address": "Diagnostyka. Laboratoria Medyczne., Markiefki 87, 40-211 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x4716ce2d0343e8d5:0xe13c744d79dfe7ae!8m2!3d50.2686173!4d19.039241!16s%2Fg%2F1tj31w6m!19sChIJ1ehDAy3OFkcRruffeU10POE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJL5027t_NFkcRejc1rD4-jhc",
+        "name": "DNALab Spolka z o.o.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "http://www.dnalab.pl/",
+        "owner": {
+            "id": "104487775436351050669",
+            "name": "DNALab Spolka z o.o. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/104487775436351050669"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AZf8_PLqxCbSCg1-_geETA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=179.70695&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "08:00-16:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 32 201 50 86",
+        "address": "DNALab Spolka z o.o., Stanislawa Kossutha 6, 40-844 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/DNALab+Sp%C3%B3%C5%82ka+z+o.o./data=!4m7!3m6!1s0x4716cddfee369d2f:0x178e3e3eac35377a!8m2!3d50.265637!4d18.9754711!16s%2Fg%2F11b6jkhs4d!19sChIJL5027t_NFkcRejc1rD4-jhc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJA_wrbjDPFkcROsuP4Seasc0",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9364",
+        "owner": {
+            "id": "109350223690066781291",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109350223690066781291"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN4bY-EOkuaBVVivNPXWqEN4byPHX3-bjRo7ZoP=w550-h240-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "07:30-10:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 32 605 35 99",
+        "address": "Punkt Pobran ALAB laboratoria, Panewnicka 65, 40-760 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x4716cf306e2bfc03:0xcdb19a27e18fcb3a!8m2!3d50.2261181!4d18.9590146!16s%2Fg%2F11rc7q5jf4!19sChIJA_wrbjDPFkcROsuP4Seasc0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJy5zqUOHRFkcRN0YBzOnOMd0",
+        "name": "Diagnostyka. Laboratorium medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://diag.pl/pacjent/",
+        "owner": {
+            "id": null,
+            "name": "Diagnostyka. Laboratorium medyczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dDQZjKlRyYeoEK8XIr2Onw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=19.229376&pitch=0&thumbfov=100",
+        "main_category": "Diagnosecentrum",
+        "categories": [
+            "Diagnosecentrum"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 253 80 99",
+        "address": "Diagnostyka. Laboratorium medyczne, Karlowicza 11, 40-145 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratorium+medyczne/data=!4m7!3m6!1s0x4716d1e150ea9ccb:0xdd31cee9cc014637!8m2!3d50.2856448!4d19.0150965!16s%2Fg%2F1td46q8f!19sChIJy5zqUOHRFkcRN0YBzOnOMd0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJScB-BA3OFkcRI5c6IAcuoRM",
+        "name": "Geneticus",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://www.geneticus.pl/kontakt/",
+        "owner": {
+            "id": "103077903307109073911",
+            "name": "Geneticus (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103077903307109073911"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2brjlIQlENU9vybCx6kJzQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=174.82562&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 575 347 086",
+        "address": "Geneticus, Feliksa Bochenskiego 38/A, 40-859 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Geneticus/data=!4m7!3m6!1s0x4716ce0d047ec049:0x13a12e07203a9723!8m2!3d50.2659999!4d18.9896965!16s%2Fg%2F11fmmdy0j3!19sChIJScB-BA3OFkcRI5c6IAcuoRM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJL5027t_NFkcR0Wa556qyzJo",
+        "name": "Toxlab Laboratorium Toksykologiczne Spolka z o.o.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "http://www.toxlab.pl/",
+        "owner": {
+            "id": "114542273141892839745",
+            "name": "Toxlab Laboratorium Toksykologiczne Spolka z o.o. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114542273141892839745"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AZf8_PLqxCbSCg1-_geETA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=178.91664&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "08:00-16:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 32 254 03 79",
+        "address": "Toxlab Laboratorium Toksykologiczne Spolka z o.o., Stanislawa Kossutha 6, 40-844 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Toxlab+Laboratorium+Toksykologiczne+Sp%C3%B3%C5%82ka+z+o.o./data=!4m7!3m6!1s0x4716cddfee369d2f:0x9accb2aae7b966d1!8m2!3d50.2656418!4d18.975475!16s%2Fg%2F11btmcjjfx!19sChIJL5027t_NFkcR0Wa556qyzJo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJScB-BA3OFkcRYQ2KZ4TFDBA",
+        "name": "PremiumLEX",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://premium.testdna.pl/",
+        "owner": {
+            "id": "106320204122522809629",
+            "name": "PremiumLEX (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106320204122522809629"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2brjlIQlENU9vybCx6kJzQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=174.82562&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "07:30-17:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 665 761 161",
+        "address": "PremiumLEX, Feliksa Bochenskiego 38A, 40-859 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/PremiumLEX/data=!4m7!3m6!1s0x4716ce0d047ec049:0x100cc584678a0d61!8m2!3d50.2659999!4d18.9896965!16s%2Fg%2F11c2q48j27!19sChIJScB-BA3OFkcRYQ2KZ4TFDBA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJL4srQ5jPFkcRbm6vRtXgqxM",
+        "name": "Punkt wymazow ginekologicznych SLA Katowice",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://sla.pl/pobieranie-wymazow-ginekologicznych/",
+        "owner": {
+            "id": "112862327037036122121",
+            "name": "Punkt wymazow ginekologicznych SLA Katowice (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112862327037036122121"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP2B_Cdxzo_o9hmPhRkAe5dPtZy4Fg0QhWZRETi=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "15:00-19:00",
+        "closed_on": [
+            "dinsdag",
+            "donderdag",
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 32 416 25 00",
+        "address": "Punkt wymazow ginekologicznych SLA Katowice, Zelazna 2, 40-851 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+wymaz%C3%B3w+ginekologicznych+%C5%9ALA+Katowice/data=!4m7!3m6!1s0x4716cf98432b8b2f:0x13abe0d546af6e6e!8m2!3d50.2669475!4d19.0089911!16s%2Fg%2F11v69tczx3!19sChIJL4srQ5jPFkcRbm6vRtXgqxM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJedOtieXRFkcRSwiO2WkhujA",
+        "name": "Supra Film Sp. z o.o.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "http://suprafilm.com/",
+        "owner": {
+            "id": null,
+            "name": "Supra Film Sp. z o.o. (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EfLbyUT-FZtyRVx6M5rHFw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=259.93634&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 730 28 95",
+        "address": "Supra Film Sp. z o.o., al. Wojciecha Korfantego 193, 40-005 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Supra+Film+Sp.+z+o.o./data=!4m7!3m6!1s0x4716d1e589add379:0x30ba2169d98e084b!8m2!3d50.2558791!4d19.0168008!16s%2Fg%2F1tgw8ncg!19sChIJedOtieXRFkcRSwiO2WkhujA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJxYCQIkPPFkcRxedSHOIr_GU",
+        "name": "GenCheck Badania Genetyczne Katowice",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://gencheck.pl/badania-genetyczne/",
+        "owner": {
+            "id": "106386113544708813761",
+            "name": "GenCheck Badania Genetyczne Katowice (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106386113544708813761"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Lg3gV4qb09NRBmjFPQ30wA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=70.01248&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Medisch centrum"
+        ],
+        "rating": null,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 690 525 785",
+        "address": "GenCheck Badania Genetyczne Katowice, Swietego Huberta 6, 40-542 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/GenCheck+Badania+Genetyczne+Katowice/data=!4m7!3m6!1s0x4716cf43229080c5:0x65fc2be21c52e7c5!8m2!3d50.2292256!4d18.9971726!16s%2Fg%2F11ty273tt6!19sChIJxYCQIkPPFkcRxedSHOIr_GU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJcTYZYjXOFkcRx_8Jq5lOVmM",
+        "name": "Laboratorium Drogowe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "http://www.labotest.pl/",
+        "owner": {
+            "id": null,
+            "name": "Laboratorium Drogowe (eigenaar)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 253 63 10",
+        "address": "Laboratorium Drogowe, Mysliwska 5, 40-016 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Drogowe/data=!4m7!3m6!1s0x4716ce3562193671:0x63564e99ab09ffc7!8m2!3d50.2567086!4d19.0320445!16s%2Fg%2F1vfn5d22!19sChIJcTYZYjXOFkcRx_8Jq5lOVmM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJf4yEtTIwMGkRLlnmFxJWncw",
+        "name": "Badanie WES Bystrzyca - najszersze badanie genetyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://badamydzieci.pl/porady/inne/badanie-wes-bystrzyca/",
+        "owner": {
+            "id": "108309937616809684751",
+            "name": "Badanie WES Bystrzyca - najszersze badanie genetyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108309937616809684751"
+        },
+        "featured_image": null,
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Service establishment"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 576 997 525",
+        "address": null,
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Badanie+WES+Bystrzyca+%E2%80%93+najszersze+badanie+genetyczne/data=!4m7!3m6!1s0x69303032b5848c7f:0xcc9d561217e6592e!8m2!3d50.9589662!4d17.4057922!16s%2Fg%2F11pzblwdf8!19sChIJf4yEtTIwMGkRLlnmFxJWncw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVXP7NpBIaygRdInM2cpmq6g",
+        "name": "Badanie WES Ciechocinek - najszersze badanie genetyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://badamydzieci.pl/porady/inne/badanie-wes-ciechocinek/",
+        "owner": {
+            "id": "102927043790078402364",
+            "name": "Badanie WES Ciechocinek - najszersze badanie genetyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102927043790078402364"
+        },
+        "featured_image": null,
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Service establishment"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 576 997 525",
+        "address": null,
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Badanie+WES+Ciechocinek+%E2%80%93+najszersze+badanie+genetyczne/data=!4m7!3m6!1s0x286b489036fb7355:0xa8ab66cad9cc8974!8m2!3d52.884323!4d18.7950881!16s%2Fg%2F11spzmw4vg!19sChIJVXP7NpBIaygRdInM2cpmq6g?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJl2EzjOLNFkcRQPePQVFORaA",
+        "name": "Lab-Test s.c. Laboratorium. Grudzinski J.P.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "http://www.labtest.pl/",
+        "owner": {
+            "id": null,
+            "name": "Lab-Test s.c. Laboratorium. Grudzinski J.P. (eigenaar)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 203 63 42",
+        "address": "Lab-Test s.c. Laboratorium. Grudzinski J.P., Piastow 6, 40-866 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lab-Test+s.c.+Laboratorium.+Grudzi%C5%84ski+J.P./data=!4m7!3m6!1s0x4716cde28c336197:0xa0454e51418ff740!8m2!3d50.2745649!4d18.9834634!16s%2Fg%2F1thf79d0!19sChIJl2EzjOLNFkcRQPePQVFORaA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJUXTmwsO8vqMRoFvt5YtJZg8",
+        "name": "Badanie WES Kolobrzeg - najszersze badanie genetyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://badamydzieci.pl/porady/inne/badanie-wes-kolobrzeg/",
+        "owner": {
+            "id": "106409359918236851799",
+            "name": "Badanie WES Kolobrzeg - najszersze badanie genetyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106409359918236851799"
+        },
+        "featured_image": null,
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Service establishment"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 576 997 525",
+        "address": null,
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Badanie+WES+Ko%C5%82obrzeg+%E2%80%93+najszersze+badanie+genetyczne/data=!4m7!3m6!1s0xa3bebcc3c2e67451:0xf66498be5ed5ba0!8m2!3d54.175092!4d15.5998212!16s%2Fg%2F11rqcgxmh3!19sChIJUXTmwsO8vqMRoFvt5YtJZg8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJwUt-ji1ojoMRCKnPvqp_MOg",
+        "name": "Badanie WES Lodz - najszersze badanie genetyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://badamydzieci.pl/porady/inne/badanie-wes-lodz/",
+        "owner": {
+            "id": "118186351994620838553",
+            "name": "Badanie WES Lodz - najszersze badanie genetyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/118186351994620838553"
+        },
+        "featured_image": null,
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Service establishment"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 576 997 525",
+        "address": null,
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Badanie+WES+%C5%81%C3%B3d%C5%BA+%E2%80%93+najszersze+badanie+genetyczne/data=!4m7!3m6!1s0x838e682d8e7e4bc1:0xe8307faabecfa908!8m2!3d51.7731179!4d19.4805926!16s%2Fg%2F11sn_gz8b3!19sChIJwUt-ji1ojoMRCKnPvqp_MOg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ99FkXDwHGa4RBHhOD9HGOxI",
+        "name": "Badanie WES Wroclaw - najszersze badanie genetyczne dostepne w Twoim miescie",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://badamydzieci.pl/porady/inne/badanie-wes-wroclaw/",
+        "owner": {
+            "id": "111702401865659679671",
+            "name": "Badanie WES Wroclaw - najszersze badanie genetyczne dostepne w Twoim miescie (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111702401865659679671"
+        },
+        "featured_image": null,
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Service establishment"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 576 997 525",
+        "address": null,
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Badanie+WES+Wroc%C5%82aw+%E2%80%93+najszersze+badanie+genetyczne+dost%C4%99pne+w+Twoim+mie%C5%9Bcie/data=!4m7!3m6!1s0xae19073c5c64d1f7:0x123bc6d10f4e7804!8m2!3d51.1270779!4d16.9918639!16s%2Fg%2F11sp1plmjv!19sChIJ99FkXDwHGa4RBHhOD9HGOxI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJa8Z_X71Ktk0RwrgLzCrHXRU",
+        "name": "Badanie WES Warszawa - najszersze badanie genetyczne!",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://badamydzieci.pl/porady/inne/badanie-wes-warszawa/",
+        "owner": {
+            "id": "114281451339798187169",
+            "name": "Badanie WES Warszawa - najszersze badanie genetyczne! (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114281451339798187169"
+        },
+        "featured_image": null,
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Service establishment"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 576 997 525",
+        "address": null,
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Badanie+WES+Warszawa+%E2%80%93+najszersze+badanie+genetyczne!/data=!4m7!3m6!1s0x4db64abd5f7fc66b:0x155dc72acc0bb8c2!8m2!3d52.232938!4d21.0611941!16s%2Fg%2F11pvckblgv!19sChIJa8Z_X71Ktk0RwrgLzCrHXRU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJBajwi9TLFkcRWMc7nPNC4bU",
+        "name": "Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "http://www.rehabilitacja.avimed.pl/",
+        "owner": {
+            "id": null,
+            "name": "Laboratorium Medyczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iWpEGUcx9PRm4KIHTI6Xxw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=358.5127&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 226 45 63",
+        "address": "Laboratorium Medyczne, Katowicka 22, 43-190 Mikolow, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Medyczne/data=!4m7!3m6!1s0x4716cbd48bf0a805:0xb5e142f39c3bc758!8m2!3d50.1733988!4d18.9058904!16s%2Fg%2F1tct7gd3!19sChIJBajwi9TLFkcRWMc7nPNC4bU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ26aZZkLOFkcRiidHsEKk3Y4",
+        "name": "Centrum Diagnostyki ABIM - Badania nasienia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://www.facebook.com/Badanie-nasienia-P%C5%82odno%C5%9B%C4%87-w-formie-1685151398388691/?notif_t=page_fan",
+        "owner": {
+            "id": "104992084407121508585",
+            "name": "Centrum Diagnostyki ABIM - Badania nasienia (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/104992084407121508585"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO4sfNe7CKkqA-4ImCQuBdMocxclJX5m6tDME07=w408-h306-k-no",
+        "main_category": "Medische groep",
+        "categories": [
+            "Medische groep"
+        ],
+        "rating": null,
+        "workday_timing": "12:00-21:00",
+        "closed_on": [],
+        "phone": "+48 791 770 750",
+        "address": "Centrum Diagnostyki ABIM - Badania nasienia, Koszarowa 3/1, 40-068 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Centrum+Diagnostyki+ABIM+-+Badania+nasienia/data=!4m7!3m6!1s0x4716ce426699a6db:0x8edda442b047278a!8m2!3d50.254061!4d19.00236!16s%2Fg%2F1tk21p0c!19sChIJ26aZZkLOFkcRiidHsEKk3Y4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9WFZkBDNFkcRlo1WWTu_foo",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": null,
+        "owner": {
+            "id": "102670041325873767950",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102670041325873767950"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOHfJ0MO7qHAdqThndFOfdjj13H6v-YnxnRg4Xn=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.1,
+        "workday_timing": "08:00-13:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Tysiaclecia 101, 40-875 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x4716cd10905961f5:0x8a7ebf3b59568d96!8m2!3d50.2833475!4d18.963795!16s%2Fg%2F11h_4863j1!19sChIJ9WFZkBDNFkcRlo1WWTu_foo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJf5jgfCPQFkcRZRG23XQ_EYg",
+        "name": "mikado",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mikado (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mc9EYiA-YNOHQlrpGgYK_g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=51.07072&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "24 uur geopend",
+        "closed_on": [],
+        "phone": "+48 512 068 900",
+        "address": "mikado, Juliusza Ligonia 40/12, 40-037 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/mikado/data=!4m7!3m6!1s0x4716d0237ce0987f:0x88113f74ddb61165!8m2!3d50.2533446!4d19.0226709!16s%2Fg%2F11ggw828n8!19sChIJf5jgfCPQFkcRZRG23XQ_EYg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJFwVqo0POFkcR9llbyhfh2uM",
+        "name": "Laboratorium",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Laboratorium (eigenaar)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 202 67 79",
+        "address": "Laboratorium, Strzelecka 9, 40-073 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium/data=!4m7!3m6!1s0x4716ce43a36a0517:0xe3dae117ca5b59f6!8m2!3d50.2536129!4d19.006046!16s%2Fg%2F11j08b1tqv!19sChIJFwVqo0POFkcR9llbyhfh2uM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJZ0Ov2YzOFkcRAeQa5w42ZXg",
+        "name": "Laboratorium Medyczne Teresa Fryda",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Laboratorium Medyczne Teresa Fryda (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9VlzpEgLZ4V0LuFmIxrg1Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=202.1335&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 252 60 10",
+        "address": "Laboratorium Medyczne Teresa Fryda, Orzeszkowej 16, 40-581 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Medyczne+Teresa+Fryda/data=!4m7!3m6!1s0x4716ce8cd9af4367:0x7865360ee71ae401!8m2!3d50.2355118!4d18.9852962!16s%2Fg%2F1hc68q2vq!19sChIJZ0Ov2YzOFkcRAeQa5w42ZXg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVXn_7dLPFkcRAoRW7jkpUBY",
+        "name": "Labmed. Laboratorium analiz medycznych. Robakowski J.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Labmed. Laboratorium analiz medycznych. Robakowski J. (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vv90mM69N7xTdQ0Sw1KR0A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=179.73564&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 203 08 92",
+        "address": "Labmed. Laboratorium analiz medycznych. Robakowski J., Wroclawska 42, 40-217 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Labmed.+Laboratorium+analiz+medycznych.+Robakowski+J./data=!4m7!3m6!1s0x4716cfd2edff7955:0x16502939ee568402!8m2!3d50.2662369!4d19.0453478!16s%2Fg%2F1hc15l_3d!19sChIJVXn_7dLPFkcRAoRW7jkpUBY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJhznvY_vNFkcRrwmHyF2GVdk",
+        "name": "Poradnia Poz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Poz (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PLyX-qu-2tixVPKsOtX4Hg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=237.1451&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 411 00 00",
+        "address": "Poradnia Poz, Zawiszy Czarnego 7A, 40-872 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Poz/data=!4m7!3m6!1s0x4716cdfb63ef3987:0xd955865dc88709af!8m2!3d50.2782961!4d18.9774129!16s%2Fg%2F11nm9lw9qm!19sChIJhznvY_vNFkcRrwmHyF2GVdk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVVUZes_PFkcRrsy0ZoaC0j8",
+        "name": "Gabinet Diagnostyczno-Zabiegowy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Diagnostyczno-Zabiegowy (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cUx_HjHg4cVL0BPQAyEudg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=67.173195&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 256 46 93",
+        "address": "Gabinet Diagnostyczno-Zabiegowy, Bohaterow Monte Cassino 3, 40-231 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Diagnostyczno-Zabiegowy/data=!4m7!3m6!1s0x4716cfcf7a195555:0x3fd2828666b4ccae!8m2!3d50.2608244!4d19.0525395!16s%2Fg%2F11rbysllpp!19sChIJVVUZes_PFkcRrsy0ZoaC0j8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ65i5ssjPFkcR9h3ZFbrA3IU",
+        "name": "Pracownia USG, EKG, laboratorium analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pracownia USG, EKG, laboratorium analityczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Jkq6DxO7Jus1y-xU0bJskA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=176.40697&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 255 51 18",
+        "address": "Pracownia USG, EKG, laboratorium analityczne, 1 Maja 88, 40-240 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pracownia+USG,+EKG,+laboratorium+analityczne/data=!4m7!3m6!1s0x4716cfc8b2b998eb:0x85dcc0ba15d91df6!8m2!3d50.258773!4d19.0508747!16s%2Fg%2F1tkc0vsg!19sChIJ65i5ssjPFkcR9h3ZFbrA3IU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJHR8JLhzOFkcRErLf8rXmWzU",
+        "name": "Gabinet Zabiegowy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Zabiegowy (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4tSIA0Mga6TM5kyfRHmruQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=120.28623&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 254 88 90",
+        "address": "Gabinet Zabiegowy, Kotlarza 6, 40-139 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Zabiegowy/data=!4m7!3m6!1s0x4716ce1c2e091f1d:0x355be6b5f2dfb212!8m2!3d50.2788612!4d19.0092452!16s%2Fg%2F11rbyssql9!19sChIJHR8JLhzOFkcRErLf8rXmWzU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJScB-BA3OFkcRYALQ4JeD868",
+        "name": "Poradnia Lekarza Podstawowej Opieki Zdrowotnej Dla Doroslych",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Lekarza Podstawowej Opieki Zdrowotnej Dla Doroslych (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2brjlIQlENU9vybCx6kJzQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=174.82562&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 517 811 921",
+        "address": "Poradnia Lekarza Podstawowej Opieki Zdrowotnej Dla Doroslych, Feliksa Bochenskiego 38A, 40-859 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Lekarza+Podstawowej+Opieki+Zdrowotnej+Dla+Doros%C5%82ych/data=!4m7!3m6!1s0x4716ce0d047ec049:0xaff38397e0d00260!8m2!3d50.2659999!4d18.9896965!16s%2Fg%2F11rbysqq4b!19sChIJScB-BA3OFkcRYALQ4JeD868?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9zyoAS3OFkcR3i1cR-xUJdo",
+        "name": "Poradnia Lekarza Podstawowej Opieki Zdrowotnej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Lekarza Podstawowej Opieki Zdrowotnej (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rmitIJKjIPT670TOgfCI3g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=171.70381&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 519 564 489",
+        "address": "Poradnia Lekarza Podstawowej Opieki Zdrowotnej, Markiefki 87, 40-211 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Lekarza+Podstawowej+Opieki+Zdrowotnej/data=!4m7!3m6!1s0x4716ce2d01a83cf7:0xda2554ec475c2dde!8m2!3d50.2686173!4d19.039241!16s%2Fg%2F11rbysk2sk!19sChIJ9zyoAS3OFkcR3i1cR-xUJdo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJwa0pqkvOFkcRkJLt16be-Fs",
+        "name": "Centralne Laboratorium",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Centralne Laboratorium (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPmK03M7eeZ3gM9N9R8XbC073znaIs6iO7g7u3F=w408-h306-k-no",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Centralne Laboratorium, Francuska 20, 40-027 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Centralne+Laboratorium/data=!4m7!3m6!1s0x4716ce4baa29adc1:0x5bf8dea6d7ed9290!8m2!3d50.2543774!4d19.0296198!16s%2Fg%2F11h7zf5by9!19sChIJwa0pqkvOFkcRkJLt16be-Fs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJK8E_cMzPFkcRp6T-fZceos0",
+        "name": "Poradnia Lekarza Poz Dla Doroslych",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Lekarza Poz Dla Doroslych (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2uUOEWwcVGui7nJ7pStAJQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=290.09818&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 259 90 31",
+        "address": "Poradnia Lekarza Poz Dla Doroslych, Bogucicka 18A, 40-226 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Lekarza+Poz+Dla+Doros%C5%82ych/data=!4m7!3m6!1s0x4716cfcc703fc12b:0xcda21e977dfea4a7!8m2!3d50.260791!4d19.042565!16s%2Fg%2F11nm9lqjb4!19sChIJK8E_cMzPFkcRp6T-fZceos0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ72cjcxfJFkcRqPkxbA_8woE",
+        "name": "Poradnia Poz Dla Doroslych",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Poz Dla Doroslych (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=umXdy5pQFQyg_KU5C9wTig&cb_client=search.gws-prod.gps&w=408&h=240&yaw=171.60365&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Poradnia Poz Dla Doroslych, Uniczowska, 40-748 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Poz+Dla+Doros%C5%82ych/data=!4m7!3m6!1s0x4716c917732367ef:0x81c2fc0f6c31f9a8!8m2!3d50.1797119!4d18.9627719!16s%2Fg%2F11rbysx4mw!19sChIJ72cjcxfJFkcRqPkxbA_8woE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJI_O2_4zPFkcR_BPRKw7YtCA",
+        "name": "Poradnia Lekarza Poz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Lekarza Poz (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1n3qbF5HtEGphAxjenekMQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=271.50064&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 411 00 00",
+        "address": "Poradnia Lekarza Poz, Szopienicka 59, 40-431 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Lekarza+Poz/data=!4m7!3m6!1s0x4716cf8cffb6f323:0x20b4d80e2bd113fc!8m2!3d50.2463097!4d19.0799509!16s%2Fg%2F11q1d8xp95!19sChIJI_O2_4zPFkcR_BPRKw7YtCA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJIedr77PPFkcRKyZN96AsLPc",
+        "name": "Poradnia Lekarza Rodzinnego",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Lekarza Rodzinnego (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sd5Y_CQB043IAR-rvGP6Rg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=44.10096&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 256 47 76",
+        "address": "Poradnia Lekarza Rodzinnego, Szeptyckiego 1, 40-281 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Lekarza+Rodzinnego/data=!4m7!3m6!1s0x4716cfb3ef6be721:0xf72c2ca0f74d262b!8m2!3d50.2496379!4d19.0365054!16s%2Fg%2F11rbysyjsv!19sChIJIedr77PPFkcRKyZN96AsLPc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJf5wktJXOFkcRnpYqnPz_sFI",
+        "name": "Poradnia Lekarza Poz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Lekarza Poz (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2xXF_KCnLqvqFCNHtoVLtA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.82336&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 252 67 01",
+        "address": "Poradnia Lekarza Poz, Panewnicka 5, 40-709 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Lekarza+Poz/data=!4m7!3m6!1s0x4716ce95b4249c7f:0x52b0fffc9c2a969e!8m2!3d50.225864!4d18.9753998!16s%2Fg%2F11q1d8vzsx!19sChIJf5wktJXOFkcRnpYqnPz_sFI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJOe3B9i_OFkcRrdYekEkTr8g",
+        "name": "Poradnia Lekarza Poz Dla Doroslych",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Lekarza Poz Dla Doroslych (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1c4l7Z4ol_oyybxmOGPdLg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=103.64381&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 259 94 91",
+        "address": "Poradnia Lekarza Poz Dla Doroslych, Ordona 3, 40-164 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Lekarza+Poz+Dla+Doros%C5%82ych/data=!4m7!3m6!1s0x4716ce2ff6c1ed39:0xc8af1349901ed6ad!8m2!3d50.2689849!4d19.0276143!16s%2Fg%2F11q1d8w3wb!19sChIJOe3B9i_OFkcRrdYekEkTr8g?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ17FTRzXOFkcR98VUsAIEqw4",
+        "name": "Poradnia Podstawowej Opieki Zdrowotnej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Podstawowej Opieki Zdrowotnej (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yRkCVn4MpGEsA1wXTtvxaA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=21.029823&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 604 17 70",
+        "address": "Poradnia Podstawowej Opieki Zdrowotnej, Warszawska 52, 40-008 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Podstawowej+Opieki+Zdrowotnej/data=!4m7!3m6!1s0x4716ce354753b1d7:0xeab0402b054c5f7!8m2!3d50.2576558!4d19.0337607!16s%2Fg%2F11rbysv6j_!19sChIJ17FTRzXOFkcR98VUsAIEqw4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJwRtUCqLOFkcRzGQGn2bbLEE",
+        "name": "Poradnia Lekarza Poz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Lekarza Poz (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=m65Bde7TEzPWNid9PWcVLw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=136.34404&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 605 35 35",
+        "address": "Poradnia Lekarza Poz, Panewnicka 65, 40-760 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Lekarza+Poz/data=!4m7!3m6!1s0x4716cea20a541bc1:0x412cdb669f0664cc!8m2!3d50.2261181!4d18.9590146!16s%2Fg%2F11rbyszcdg!19sChIJwRtUCqLOFkcRzGQGn2bbLEE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJzXCn_ZbOFkcRfYfAZ3iS-lU",
+        "name": "Poradnia Poz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Poz (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sZ8lZaX2k7IH-pr9oV4RmA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=94.04746&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 411 00 00",
+        "address": "Poradnia Poz, Piotrowicka 68, 40-723 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Poz/data=!4m7!3m6!1s0x4716ce96fda770cd:0x55fa927867c0877d!8m2!3d50.2275157!4d18.9704063!16s%2Fg%2F11rbysj83m!19sChIJzXCn_ZbOFkcRfYfAZ3iS-lU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVVXp9UfOFkcR9E8qbQtllJM",
+        "name": "Poradnia (Gabinet) Lekarza Podstawowej Opieki Zdrowotnej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia (Gabinet) Lekarza Podstawowej Opieki Zdrowotnej (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ozEXP40LkU_TY7XW5iWmAQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=302.7817&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 501 637 021",
+        "address": "Poradnia (Gabinet) Lekarza Podstawowej Opieki Zdrowotnej, Mlynska 23, 40-098 Katowice, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+%28Gabinet%29+Lekarza+Podstawowej+Opieki+Zdrowotnej/data=!4m7!3m6!1s0x4716ce47f5e95555:0x9394650b6d2a4ff4!8m2!3d50.2588697!4d19.0185236!16s%2Fg%2F11nm9lhlj4!19sChIJVVXp9UfOFkcR9E8qbQtllJM?authuser=0&hl=nl&rclk=1"
+    }
+]

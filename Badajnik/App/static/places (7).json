@@ -1,0 +1,2727 @@
+[
+    {
+        "place_id": "ChIJL4MGA9Q0GkcR_oe3NzX1uXE",
+        "name": "Centrum Medicover Pilsudskiego",
+        "description": null,
+        "is_spending_on_ads": true,
+        "reviews": 250,
+        "website": "https://www.medicover.pl/lodz/centrum-medicover-pilsudskiego-lodz,828,d,1022%3Futm_source%3DGMB%26utm_medium%3Dpilsudskiego_witryna%26utm_campaing%3D20191021_witryna",
+        "owner": {
+            "id": "109514057847773892915",
+            "name": "Centrum Medicover Pilsudskiego (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109514057847773892915"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOYo4ybVd_9N3gAX0kEYX7tROhCnU_IrROKqHa4=w439-h240-k-no",
+        "main_category": "Medisch centrum",
+        "categories": [
+            "Medisch centrum",
+            "Arts",
+            "Medische kliniek",
+            "Inloopkliniek"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:00-20:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 500 900 500",
+        "address": "Centrum Medicover Pilsudskiego, al. marsz. Jozefa Pilsudskiego 3, 90-368 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Centrum+Medicover+Pi%C5%82sudskiego/data=!4m7!3m6!1s0x471a34d40306832f:0x71b9f53537b787fe!8m2!3d51.7590759!4d19.4597778!16s%2Fg%2F11xp45mnm!19sChIJL4MGA9Q0GkcR_oe3NzX1uXE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-XF6bbw1GkcR-bNTTJQ3k50",
+        "name": "Punkt pobran CDL - Lodz Niemcewicza 19",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 139,
+        "website": "https://cdl.pl/",
+        "owner": {
+            "id": "116138800825920019394",
+            "name": "Punkt pobran CDL - Lodz Niemcewicza 19 (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116138800825920019394"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EIc3--Xd3NNFTz7VeyT2bQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=211.88962&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": "07:00-10:45, 12:00-14:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 519 062 550",
+        "address": "Punkt pobran CDL - Lodz Niemcewicza 19, Juliana Ursyna Niemcewicza 19, 93-024 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+pobra%C5%84+CDL+-+%C5%81%C3%B3d%C5%BA+Niemcewicza+19/data=!4m7!3m6!1s0x471a35bc6d7a71f9:0x9d9337944c53b3f9!8m2!3d51.7301802!4d19.4726968!16s%2Fg%2F11h3ml043x!19sChIJ-XF6bbw1GkcR-bNTTJQ3k50?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJJTCr52rLG0cRQKTDxBRxQTc",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 97,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9745",
+        "owner": {
+            "id": "116723020050395475730",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116723020050395475730"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPqniEEImzBlmxHhEfLWshIEM3XtmcoM77UAR7A=w408-h408-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.9,
+        "workday_timing": "07:30-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 42 307 95 00",
+        "address": "Punkt Pobran ALAB laboratoria, Gen. Zygmunta Sierakowskiego 67A, 91-324 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471bcb6ae7ab3025:0x37417114c4c3a440!8m2!3d51.7963464!4d19.4397673!16s%2Fg%2F11j11btsdb!19sChIJJTCr52rLG0cRQKTDxBRxQTc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJiVrHl5I0GkcRdWiwYEjEAyU",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 81,
+        "website": "https://diag.pl/katalogi/placowki/lodz/punkt-pobran-diagnostyki-lodz-ul-tuszynska-19/",
+        "owner": {
+            "id": "101176801077525973640",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101176801077525973640"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM2PDUbLjey2NvbJ1CSqqx1JkVMKVJJLv62DTAb=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": "07:00-13:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostics. Medical Laboratories., PUNKT WYMAZOWY, Tuszynska 19, 93-011 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x471a349297c75a89:0x2503c44860b06875!8m2!3d51.7310549!4d19.46745!16s%2Fg%2F11dyzlxgwv!19sChIJiVrHl5I0GkcRdWiwYEjEAyU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJzznVsSW1G0cRHFzEqUKDzuE",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 62,
+        "website": "https://sklep.alablaboratoria.pl/badania?punkty_id=9689",
+        "owner": {
+            "id": "113811921245930224508",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113811921245930224508"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOq_9KIHoVxzG0L2EbaQ0dSB_1j9pMpkRSuNBWv=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-13:20",
+        "closed_on": [],
+        "phone": "+48 508 358 127",
+        "address": "Punkt Pobran ALAB laboratoria, aleja Pasjonistow 15, 91-140 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471bb525b1d539cf:0xe1ce8342a9c45c1c!8m2!3d51.7947816!4d19.3887061!16s%2Fg%2F11g0mv77ps!19sChIJzznVsSW1G0cRHFzEqUKDzuE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJzykus9M0GkcRDNulzuShUw8",
+        "name": "Synevo Sp. z o.o.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 55,
+        "website": "https://www.synevo.pl/laboratorium-lodz-pilsudskiego/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dlodz_pilsudskiego14",
+        "owner": {
+            "id": "117569200693631626035",
+            "name": "Synevo Sp. z o.o. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117569200693631626035"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNCQXB7NkTIfO2hfJElwtA_NwNZhESt80G0zx4N=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "06:15-13:45",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Synevo Sp. z o.o., al. marsz. Jozefa Pilsudskiego 14, 90-368 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Synevo+Sp.+z+o.o./data=!4m7!3m6!1s0x471a34d3b32e29cf:0xf53a1e4cea5db0c!8m2!3d51.7601054!4d19.4619923!16s%2Fg%2F11cs0bfhs9!19sChIJzykus9M0GkcRDNulzuShUw8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJcyHfEiY1GkcRAKO-yHouxBc",
+        "name": "OlimpiaMed Laboratorium Diagnostyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 55,
+        "website": "http://olimpiamed.com/",
+        "owner": {
+            "id": "102557251841707652947",
+            "name": "OlimpiaMed Laboratorium Diagnostyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102557251841707652947"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOvVeIW6xb5arpZYNahHiZdF6d5cvnvYHXL1KqR=w408-h306-k-no",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "09:00-18:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 531 265 626",
+        "address": "OlimpiaMed Laboratorium Diagnostyczne, Zeligowskiego 42, 90-752 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/OlimpiaMed+Laboratorium+Diagnostyczne/data=!4m7!3m6!1s0x471a352612df2173:0x17c42e7ac8bea300!8m2!3d51.7665409!4d19.4392525!16s%2Fg%2F11nwb8lw14!19sChIJcyHfEiY1GkcRAKO-yHouxBc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJGeMn3Xk0GkcRF3uzQ-TniAo",
+        "name": "APC-ANALIZY MEDYCZNE Sp. z o.o.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 44,
+        "website": "http://apc-analizy.pl/",
+        "owner": {
+            "id": "106451319829294751165",
+            "name": "APC-ANALIZY MEDYCZNE Sp. z o.o. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106451319829294751165"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMp8CXGRZlAqaMeqZaOhfTjtLB6wbSVtfMIekW5=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Laboratorium",
+            "Leverancier van laboratoriumbenodigdheden",
+            "Onderzoek en productontwikkeling",
+            "Onderzoeksinstituut"
+        ],
+        "rating": 3.1,
+        "workday_timing": "08:30-20:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 696 004 043",
+        "address": "APC-ANALIZY MEDYCZNE Sp. z o.o., Emilii Sczanieckiej 4, 93-342 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/APC-ANALIZY+MEDYCZNE+Sp.+z+o.o./data=!4m7!3m6!1s0x471a3479dd27e319:0xa88e7e443b37b17!8m2!3d51.7074872!4d19.4757526!16s%2Fg%2F1tdmz7s8!19sChIJGeMn3Xk0GkcRF3uzQ-TniAo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3-X34Q3LG0cRVPNqZTYbdSE",
+        "name": "Punkt Pobran Diagnostyki",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 41,
+        "website": "https://diag.pl/katalogi/placowki/lodz/punkt-pobran-diagnostyki-lodz-ul-drewnowska-43a/",
+        "owner": {
+            "id": "113098996490442024653",
+            "name": "Punkt Pobran Diagnostyki (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113098996490442024653"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO9AuFeGfp51ZfgZhYSh4mKUzEOl3R0cJTBksty=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.4,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [],
+        "phone": "+48 663 681 263",
+        "address": "Punkt Pobran Diagnostyki, Drewnowska 43a, 91-002 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Diagnostyki/data=!4m7!3m6!1s0x471bcb0de1f7e5df:0x21751b36656af354!8m2!3d51.7821292!4d19.4472593!16s%2Fg%2F11pb9mfh0b!19sChIJ3-X34Q3LG0cRVPNqZTYbdSE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJv4F6UtLKG0cRb9ruuiI50Is",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 40,
+        "website": "https://diag.pl/katalogi/placowki/lodz/punkt-pobran-diagnostyki-lodz-ul-zielona-29/",
+        "owner": {
+            "id": "106754610013497278751",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106754610013497278751"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPFBbLn7kzs0LktsTMG6gDw_5x-zyJxnMkZENaz=w408-h725-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.5,
+        "workday_timing": "08:00-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostics. Medical Laboratories., Zielona 29, 90-602 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x471bcad2527a81bf:0x8bd03922baeeda6f!8m2!3d51.7701137!4d19.4472709!16s%2Fg%2F11df0xd5xq!19sChIJv4F6UtLKG0cRb9ruuiI50Is?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVZfeqlTLG0cRNiuEunmaANA",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 38,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9520",
+        "owner": {
+            "id": "114063467507452317691",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114063467507452317691"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNrZaeQo7Woo_qW8CzZxtEhy28pymB5XY-ApuDp=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": "07:00-11:00, 14:00-18:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 510 922 240",
+        "address": "Punkt Pobran ALAB laboratoria, Niciarniana 49, 92-320 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471bcb54aade9755:0xd0009a79ba842b36!8m2!3d51.75551!4d19.508518!16s%2Fg%2F11c1v2pjkt!19sChIJVZfeqlTLG0cRNiuEunmaANA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJRYKIRjrLG0cRsqklxGelU9o",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 35,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "112236996187333888361",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112236996187333888361"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOnc3gV1wyuRM2WS6UHH6LVfjOT01aKQTxwNwCQ=w408-h240-k-no-pi-0-ya117.65984-ro-0-fo100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "06:30-14:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Drewnowska 55/55a, 91-085 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471bcb3a46888245:0xda53a567c425a9b2!8m2!3d51.7819894!4d19.445225!16s%2Fg%2F11rkpbyhb2!19sChIJRYKIRjrLG0cRsqklxGelU9o?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJob_hohDLG0cRmabbCdtaGBk",
+        "name": "badaj.to Mobilny Punkt Pobran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 34,
+        "website": "https://badaj.to/pobor-krwi-w-domu-pacjenta/",
+        "owner": {
+            "id": "101803293713754440695",
+            "name": "badaj.to Mobilny Punkt Pobran (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101803293713754440695"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AwM6c25slmmOy6xxexSHTQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=310.04724&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 416 25 01",
+        "address": "badaj.to Mobilny Punkt Pobran, Ludwika Zamenhofa 1/3, 90-431 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/badaj.to+Mobilny+Punkt+Pobra%C5%84/data=!4m7!3m6!1s0x471bcb10a2e1bfa1:0x19185adb09dba699!8m2!3d51.7623929!4d19.4570077!16s%2Fg%2F11shg5b9m2!19sChIJob_hohDLG0cRmabbCdtaGBk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJkaMu3_E0GkcRJvq_KsPAUe4",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 33,
+        "website": "https://www.synevo.pl/laboratorium-lodz-kopernik/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dlodz-kopernik",
+        "owner": {
+            "id": "101766422005606575100",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101766422005606575100"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM19_F72rmw4-dUaWfmiarFQdH1pVxWfNNV4LqU=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "07:00-16:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Pabianicka 62, 93-503 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471a34f1df2ea391:0xee51c0c32abffa26!8m2!3d51.7319529!4d19.4552633!16s%2Fg%2F11b6cpblks!19sChIJkaMu3_E0GkcRJvq_KsPAUe4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJF0BQ8a80GkcRw2xxappCy9A",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 33,
+        "website": "https://diag.pl/katalogi/placowki/lodz/punkt-pobran-diagnostyki-lodz-ul-brzechwy-7a/",
+        "owner": {
+            "id": "106079301904609275654",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106079301904609275654"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNcup8VPO7DxmIXc0ugUgp1nObl3wC41GjHdnu6=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.7,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostyka. Laboratoria Medyczne., Jana Brzechwy 7A, 90-001 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471a34aff1504017:0xd0cb429a6a716cc3!8m2!3d51.7475651!4d19.4954302!16s%2Fg%2F11d_8dpnqz!19sChIJF0BQ8a80GkcRw2xxappCy9A?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJyQbLwZU1GkcRQjC-YMojrPw",
+        "name": "Punkt Pobran Diagnostyki",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 31,
+        "website": "https://diag.pl/katalogi/placowki/lodz/punkt-pobran-diagnostyki-lodz-ul-obywatelska-139/",
+        "owner": {
+            "id": "115600875739270281245",
+            "name": "Punkt Pobran Diagnostyki (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115600875739270281245"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPoAxUSWMbLgIc6xt_g9ZaP9O33ce6ZqCt0I11m=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "07:00-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Punkt Pobran Diagnostyki, Obywatelska 139, 94-104 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Diagnostyki/data=!4m7!3m6!1s0x471a3595c1cb06c9:0xfcac23ca60be3042!8m2!3d51.7376747!4d19.4266642!16s%2Fg%2F11j2r387nh!19sChIJyQbLwZU1GkcRQjC-YMojrPw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJJ5mtJr3LG0cRx8C8X5svr94",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 30,
+        "website": "https://www.synevo.pl/laboratorium-lodz-kochanowskiego/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dlodz_kochanowskiego",
+        "owner": {
+            "id": "102671326685189409343",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102671326685189409343"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOI-66D7Ske_BY540pgCpVq4WmhTMSqW9X1Rp20=w408-h620-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:30-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Jana Kochanowskiego 14A, 91-464 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471bcbbd26ad9927:0xdeaf2f9b5fbcc0c7!8m2!3d51.7968207!4d19.4496161!16s%2Fg%2F11mtrj6nyn!19sChIJJ5mtJr3LG0cRx8C8X5svr94?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJzfsxeJQ0GkcRxlLiuFvLATg",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 27,
+        "website": "https://www.synevo.pl/laboratorium-lodz-gorna/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dlodz-gorna_lecznicza",
+        "owner": {
+            "id": "106115103093042037334",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106115103093042037334"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOo0TSFJ_fxjvig6F0_d_CXrSm73gA2RLWF4OUK=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "08:00-13:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Lecznicza 6, 93-173 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471a34947831fbcd:0x3801cb5bb8e252c6!8m2!3d51.7347909!4d19.4732622!16s%2Fg%2F11ddw_gbz9!19sChIJzfsxeJQ0GkcRxlLiuFvLATg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJKbAjI2g1GkcRp92MIGZ4eHI",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 26,
+        "website": "https://diag.pl/katalogi/placowki/lodz/punkt-pobran-diagnostyki-lodz-ul-kusocinskiego-61/",
+        "owner": {
+            "id": "107801928481872052562",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107801928481872052562"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNR7oFTXmt9sqI9KGfTFYKLqI3Q04NBVC64yrKM=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": "07:00-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostics. Medical Laboratories., Janusza Kusocinskiego 61, 94-054 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x471a35682323b029:0x72787866208cdda7!8m2!3d51.7522!4d19.3993!16s%2Fg%2F11dyzlgf4v!19sChIJKbAjI2g1GkcRp92MIGZ4eHI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJr2UCOzXLG0cRSIAs1H-tj-8",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 25,
+        "website": "https://www.synevo.pl/laboratorium-lodz-korczak/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dlodz-korczak",
+        "owner": {
+            "id": "110502598851322722578",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110502598851322722578"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNHJ6anMbo89ubSrr7cET2NUmH3-T5LC9kVWSvy=w408-h727-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:30-16:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, al. marsz. Jozefa Pilsudskiego 71, 90-329 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471bcb353b0265af:0xef8fad7fd42c8048!8m2!3d51.7611429!4d19.4844454!16s%2Fg%2F1thp_gkg!19sChIJr2UCOzXLG0cRSIAs1H-tj-8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ__F6xG01GkcR_4BBGOh4EcQ",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9702",
+        "owner": {
+            "id": "110572491855234936304",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110572491855234936304"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOOJlUVtVX3tcGNL_rA8w9XLGuUAQg3uhRwse85=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 42 208 94 49",
+        "address": "Punkt Pobran ALAB laboratoria, Rzgowska 219, 93-317 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471a356dc47af1ff:0xc41178e8184180ff!8m2!3d51.7172217!4d19.484832!16s%2Fg%2F11fm1wnjsc!19sChIJ__F6xG01GkcR_4BBGOh4EcQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJaTJQQY7LG0cReaWcgA0oiE8",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": "https://sklep.alablaboratoria.pl/badania?punkty_id=9735",
+        "owner": {
+            "id": "105262820838799196140",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105262820838799196140"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPy2No3062GxqDcIVhhnN0WN9VgaR1d5vTfK6K5=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "08:00-13:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 42 307 95 00",
+        "address": "Punkt Pobran ALAB laboratoria, Boleslawa Limanowskiego 194/196, 91-026 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471bcb8e41503269:0x4f88280d809ca579!8m2!3d51.793036!4d19.4140032!16s%2Fg%2F11fkl4n_cm!19sChIJaTJQQY7LG0cReaWcgA0oiE8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJmRkt2E3LG0cR7jRHSTxu2n4",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9223",
+        "owner": {
+            "id": "117423308423529771495",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117423308423529771495"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN058lCn7Cec5I3JDHiBKPTEbFDip80360UyY8W=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "08:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 42 307 95 00",
+        "address": "Punkt Pobran ALAB laboratoria, al. marsz. Jozefa Pilsudskiego 135, 92-318 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471bcb4dd82d1999:0x7eda6e3c494734ee!8m2!3d51.7626548!4d19.5034791!16s%2Fg%2F1pv5w2kqh!19sChIJmRkt2E3LG0cR7jRHSTxu2n4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_W57jVC1G0cR630zodwW3-E",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": "https://diag.pl/katalogi/placowki/lodz/punkt-pobran-diagnostyki-lodz-ul-plugowa-5153/",
+        "owner": {
+            "id": "112367616555243344089",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112367616555243344089"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOOj8Ca8Wu74reaoo5i6HuAPAmCuVkPQfAs9dcq=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.2,
+        "workday_timing": "08:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostics. Medical Laboratories., Plugowa 51/53, 94-238 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x471bb5508d7b6efd:0xe1df16dca1337deb!8m2!3d51.7844756!4d19.3923113!16s%2Fg%2F11g8bb3k9f!19sChIJ_W57jVC1G0cR630zodwW3-E?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJAWrWLjTLG0cRPcyWf35-LSU",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": "https://diag.pl/katalogi/placowki/lodz/punkt-pobran-diagnostyki-lodz-ul-piotrkowska-5/",
+        "owner": {
+            "id": "107531662810292670472",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107531662810292670472"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMLDBKSGkd7nTuznyvM7enJOs5ON83tOfx0-3UZ=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "07:00-12:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 680 781",
+        "address": "Diagnostyka. Laboratoria Medyczne., Piotrkowska 5, 90-406 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471bcb342ed66a01:0x252d7e7e7f96cc3d!8m2!3d51.775643!4d19.4547221!16s%2Fg%2F11h8jkwvq5!19sChIJAWrWLjTLG0cRPcyWf35-LSU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9etv2hczGkcRPZUR4qbuplk",
+        "name": "Laboratorium Medyczne badaj.to",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": "https://badaj.to/punkt-pobran/badania-analityczne-lodz/",
+        "owner": {
+            "id": "102046243720132827770",
+            "name": "Laboratorium Medyczne badaj.to (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102046243720132827770"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMjmYk4zHPp6mxlCaKj3O5ue2dO6et-F2SolA06=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.8,
+        "workday_timing": "06:00-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 42 670 27 85",
+        "address": "Laboratorium Medyczne badaj.to, Ogniskowa 16, 93-329 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Medyczne+badaj.to/data=!4m7!3m6!1s0x471a3317da6febf5:0x59a6eea6e211953d!8m2!3d51.7215684!4d19.4966235!16s%2Fg%2F11k5sd_nh5!19sChIJ9etv2hczGkcRPZUR4qbuplk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJCdkXK9E1GkcRnTsGmNgif0I",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": "https://diag.pl/katalogi/placowki/lodz/punkt-pobran-diagnostyki-lodz-ul-strazacka-5/",
+        "owner": {
+            "id": "111149262342920980790",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111149262342920980790"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPGde7UpG-y9nqtCht2MyuRr1co-bPxANVRhV4F=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": 3.8,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostyka. Laboratoria Medyczne., Strazacka 5, 93-318 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471a35d12b17d909:0x427f22d898063b9d!8m2!3d51.7179076!4d19.4829573!16s%2Fg%2F11rvc4tj6s!19sChIJCdkXK9E1GkcRnTsGmNgif0I?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJbVhJ72HNG0cR4L1nliQ7Zl4",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "104514378646644242275",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/104514378646644242275"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN5t2kcpXmGUmcqWehZcRE9bD6uCGrLmpaEfXrq=w408-h240-k-no-pi-0-ya278.4541-ro0-fo100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "06:30-14:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Aleksandra Puszkina 19, 92-516 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471bcd61ef49586d:0x5e663b249667bde0!8m2!3d51.7568446!4d19.5347236!16s%2Fg%2F11ryh2_czz!19sChIJbVhJ72HNG0cR4L1nliQ7Zl4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJrfxICkPNG0cR0BEkJvSZzyk",
+        "name": "Punkt Pobran Diagnostyki",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": "https://diag.pl/katalogi/placowki/lodz/punkt-pobran-diagnostyki-lodz-ul-jugoslowianska-1a/",
+        "owner": {
+            "id": "112295726842877955623",
+            "name": "Punkt Pobran Diagnostyki (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112295726842877955623"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO2xyHURbzQFRmxjoiw6lfTDujIuWU44t2Cwuiu=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.3,
+        "workday_timing": "07:00-14:00",
+        "closed_on": [],
+        "phone": "+48 797 108 683",
+        "address": "Punkt Pobran Diagnostyki, Jugoslowianska 1A, 92-720 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Diagnostyki/data=!4m7!3m6!1s0x471bcd430a48fcad:0x29cf99f4262411d0!8m2!3d51.792451!4d19.5874439!16s%2Fg%2F11qnfmxs6d!19sChIJrfxICkPNG0cR0BEkJvSZzyk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJq_NC44Q1GkcRYZPe6t4SDj8",
+        "name": "Laboratorium Medyczne badaj.to",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": "https://badaj.to/punkt-pobran/badania-laboratoryjne-lodz/",
+        "owner": {
+            "id": "118166392529925714948",
+            "name": "Laboratorium Medyczne badaj.to (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/118166392529925714948"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNVcQF0-O8UbOU5QCxPKTEGAymXbEkPNQvSxDC2=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:00-11:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 42 670 27 83",
+        "address": "Laboratorium Medyczne badaj.to, Ludwika Zamenhofa 1/3, 90-431 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Medyczne+badaj.to/data=!4m7!3m6!1s0x471a3584e342f3ab:0x3f0e12deeade9361!8m2!3d51.7624145!4d19.4572873!16s%2Fg%2F11fwbkz095!19sChIJq_NC44Q1GkcRYZPe6t4SDj8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJJ82QzqrLG0cRHkI7eoKdZBU",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": "https://diag.pl/katalogi/placowki/lodz/punkt-pobran-diagnostyki-lodz-ul-nastrojowa-54/",
+        "owner": {
+            "id": "112145996719162122467",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112145996719162122467"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOg2NscGddHjAB_UFwByj2dTyu9jD1JibHkE_K9=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": 4.4,
+        "workday_timing": "07:30-13:00",
+        "closed_on": [],
+        "phone": "+48 663 687 659",
+        "address": "Diagnostyka. Laboratoria Medyczne., Nastrojowa 54, 91-496 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471bcbaace90cd27:0x15649d827a3b421e!8m2!3d51.8207133!4d19.4425!16s%2Fg%2F11s90rz_06!19sChIJJ82QzqrLG0cRHkI7eoKdZBU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJJRXXjLjLG0cRvbZx-nO35rg",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": "https://sklep.alablaboratoria.pl/badania?punkty_id=10116",
+        "owner": {
+            "id": "111934633186515965221",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111934633186515965221"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOYEvkNV5A0cXakM4AXnCsrc912GkjlWozUG2e2=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:30-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 42 307 96 13",
+        "address": "Punkt Pobran ALAB laboratoria, Krokusowa 3, 92-101 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471bcbb88cd71525:0xb8e6b773fa71b6bd!8m2!3d51.7757272!4d19.5226656!16s%2Fg%2F11td3f8xmr!19sChIJJRXXjLjLG0cRvbZx-nO35rg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJk25jBNDLG0cRr1VLj3eC_5g",
+        "name": "Laboratorium Medyczne badaj.to",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": "https://badaj.to/punkt-pobran/badania-krwi-lodz/",
+        "owner": {
+            "id": "118387790584348550795",
+            "name": "Laboratorium Medyczne badaj.to (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/118387790584348550795"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPKEpJX7N49A5-e1rDLXyYUir3IPZe8tzRJT_4D=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-11:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 42 670 27 93",
+        "address": "Laboratorium Medyczne badaj.to, al. marsz. Jozefa Pilsudskiego 138, 92-230 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Medyczne+badaj.to/data=!4m7!3m6!1s0x471bcbd004636e93:0x98ff82778f4b55af!8m2!3d51.7643272!4d19.5110399!16s%2Fg%2F11r2hdm0ch!19sChIJk25jBNDLG0cRr1VLj3eC_5g?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJtQTzU2PKG0cR2KBRabNUT48",
+        "name": "Diagnostyka Medyczna dr n. med. Danuta Domanska",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": "http://www.diagnostykamed.pl/",
+        "owner": {
+            "id": "105733979029675109163",
+            "name": "Diagnostyka Medyczna dr n. med. Danuta Domanska (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105733979029675109163"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vgKdWLx4ixlP1bjVIJrOew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=52.617535&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-22:00",
+        "closed_on": [],
+        "phone": "+48 730 668 623",
+        "address": "Diagnostyka Medyczna dr n. med. Danuta Domanska, Zbijewskiej 17, 91-493 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka+Medyczna+dr+n.+med.+Danuta+Doma%C5%84ska/data=!4m7!3m6!1s0x471bca6353f304b5:0x8f4f54b36951a0d8!8m2!3d51.8161705!4d19.4439444!16s%2Fg%2F1s04drj5k!19sChIJtQTzU2PKG0cR2KBRabNUT48?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJTTCfAb41GkcR-CImJzShRRM",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": "https://www.synevo.pl/laboratorium-gdansk-sopocka/%3Futm_source%3Dgoogle%26utm_medium%3Dmybussines%26utm_campaign%3Dlodzkie",
+        "owner": {
+            "id": "108999070546498263790",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108999070546498263790"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipODnlG5cMhpNp-5gojBj0HyVYH9nw0zq2FIlV8J=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:30-14:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Armii Krajowej 35, 94-058 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471a35be019f304d:0x1345a134272622f8!8m2!3d51.7447992!4d19.4001965!16s%2Fg%2F11t5l7g4jd!19sChIJTTCfAb41GkcR-CImJzShRRM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJPciNM73KG0cRVSYJPvba0O4",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9222",
+        "owner": {
+            "id": "113368722386218512929",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113368722386218512929"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOcCluKaFF275NbRA5dkD4Cz6vHQUwT7O9HcEyG=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 2.6,
+        "workday_timing": "08:00-12:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 42 307 95 00",
+        "address": "Punkt Pobran ALAB laboratoria, Mokra 4, 91-034 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471bcabd338dc83d:0xeed0daf63e092655!8m2!3d51.7907169!4d19.425512!16s%2Fg%2F1ptz3rv86!19sChIJPciNM73KG0cRVSYJPvba0O4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJz0K8ZDrLG0cRVBkQ6_6kxbc",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": "https://sklep.alablaboratoria.pl/badania?punkty_id=9797",
+        "owner": {
+            "id": "113786896532811681558",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113786896532811681558"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMhTt2o2m6l8mJhQ-R6Y6RuxYXY55aoMa_0rg80=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 2.1,
+        "workday_timing": "08:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 42 307 95 00",
+        "address": "Punkt Pobran ALAB laboratoria, Dr. Stefana Kopcinskiego 32, 90-154 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471bcb3a64bc42cf:0xb7c5a4feeb101954!8m2!3d51.7722396!4d19.4832629!16s%2Fg%2F1ptwl2xzk!19sChIJz0K8ZDrLG0cRVBkQ6_6kxbc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJBwYCS8zKG0cRq2b4OQ_vkbI",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9224",
+        "owner": {
+            "id": "109399154141295904517",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109399154141295904517"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPoJuAu7zaSVBBVf8xZZT_PhFDSWAaz9fSSCnx5=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 2.3,
+        "workday_timing": "08:00-11:00",
+        "closed_on": [
+            "dinsdag",
+            "vrijdag",
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 665 787 365",
+        "address": "Punkt Pobran ALAB laboratoria, aleja 1 Maja 42/44, 90-741 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471bcacc4b020607:0xb291ef0f39f866ab!8m2!3d51.7717565!4d19.4407727!16s%2Fg%2F1ptz2_dxc!19sChIJBwYCS8zKG0cRq2b4OQ_vkbI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7VtPbP3LG0cRIjIYNwsMeYA",
+        "name": "Laboratorium Medyczne badaj.to",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": "https://badaj.to/punkt-pobran/laboratorium-medyczne-lodz/",
+        "owner": {
+            "id": "100593828897363859043",
+            "name": "Laboratorium Medyczne badaj.to (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100593828897363859043"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM8B7Eq5ankPHbeb6N_vMLB0xC0vrsmFOOzowHb=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-10:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 42 670 27 92",
+        "address": "Laboratorium Medyczne badaj.to, Franciszkanska 123, 91-845 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Medyczne+badaj.to/data=!4m7!3m6!1s0x471bcbfd6c4f5bed:0x80790c0b37183222!8m2!3d51.7938527!4d19.4605791!16s%2Fg%2F11qwrp_w8w!19sChIJ7VtPbP3LG0cRIjIYNwsMeYA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJOe9jJrszGkcRgSI8sEqxaJU",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": "https://diag.pl/katalogi/placowki/lodz/punkt-pobran-diagnostyki-lodz-ul-kolumny-155/",
+        "owner": {
+            "id": "101897863247217327129",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101897863247217327129"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fS0cz4gRzNRblZL-_aZj_A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=146.35776&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:30-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostyka. Laboratoria Medyczne., Kolumny 155, 93-611 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471a33bb2663ef39:0x9568b14ab03c2281!8m2!3d51.7076404!4d19.5139755!16s%2Fg%2F11nmcx8zdz!19sChIJOe9jJrszGkcRgSI8sEqxaJU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJGY8wuKM0GkcRpLmtPYpjItk",
+        "name": "Uslugi Medyczne, Punkt Pobran Anna Kawczynska",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": "http://medycynaiuroda.com.pl/index.php%3Fac%3Dproducent%26id%3D13194708",
+        "owner": {
+            "id": "110247497468875614645",
+            "name": "Uslugi Medyczne, Punkt Pobran Anna Kawczynska (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110247497468875614645"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMixIXzQI-nhEs8B3uBcKKaRjZnyuVqZISeZy8x=w408-h544-k-no",
+        "main_category": "Lokale medische diensten",
+        "categories": [
+            "Lokale medische diensten"
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:30-15:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 42 642 84 64",
+        "address": "Uslugi Medyczne, Punkt Pobran Anna Kawczynska, Tatrzanska 103, 90-001 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Us%C5%82ugi+Medyczne,+Punkt+Pobra%C5%84+Anna+Kawczy%C5%84ska/data=!4m7!3m6!1s0x471a34a3b8308f19:0xd922638a3dadb9a4!8m2!3d51.7398911!4d19.4947828!16s%2Fg%2F1tdfrw_c!19sChIJGY8wuKM0GkcRpLmtPYpjItk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_6yt0UbNG0cRzX6psTTPf9g",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": "https://diag.pl/katalogi/placowki/lodz/punkt-pobran-diagnostyki-lodz-ul-puszkina-18/",
+        "owner": {
+            "id": "103292360902062879407",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103292360902062879407"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=s6j_dfq1WQoUb4Sa018W9A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=117.60247&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.5,
+        "workday_timing": "08:00-12:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostyka. Laboratoria Medyczne., Aleksandra Puszkina 18, 92-516 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471bcd46d1adacff:0xd87fcf34b1a97ecd!8m2!3d51.7555519!4d19.5355878!16s%2Fg%2F11j53dxg61!19sChIJ_6yt0UbNG0cRzX6psTTPf9g?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJCV7sCSPLG0cR0UsrUc19JPA",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9675",
+        "owner": {
+            "id": "108741508174447413526",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108741508174447413526"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMKspPWWuizYUne6pv_iTZxb8_TPA3VM0K2sqR8=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.1,
+        "workday_timing": "07:30-10:30",
+        "closed_on": [
+            "woensdag",
+            "donderdag",
+            "zaterdag",
+            "zondag",
+            "maandag"
+        ],
+        "phone": "+48 42 307 95 00",
+        "address": "Punkt Pobran ALAB laboratoria, Zgierska 1, 91-446 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471bcb2309ec5e09:0xf0247dcd512b4bd1!8m2!3d51.7822155!4d19.4536181!16s%2Fg%2F11ftyx2211!19sChIJCV7sCSPLG0cR0UsrUc19JPA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ82zFsnjLG0cR8wHubIpHMQY",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9921",
+        "owner": {
+            "id": "106206493760233346438",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106206493760233346438"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP7s1y0qurXEhX21Yj86fd0dVpgXa3_I2wxxSgy=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.9,
+        "workday_timing": "07:00-11:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 42 307 95 03",
+        "address": "Punkt Pobran ALAB laboratoria, Sobolowa 2, 92-321 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471bcb78b2c56cf3:0x631478a6cee01f3!8m2!3d51.7631044!4d19.5134343!16s%2Fg%2F11sh07bx51!19sChIJ82zFsnjLG0cR8wHubIpHMQY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJm7XsDfI0GkcR_0GvyXpdwQs",
+        "name": "Synevo Laboratorium Centralne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "108508242533343039791",
+            "name": "Synevo Laboratorium Centralne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108508242533343039791"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM_JpZQrGlTornJSJvRvsJTL1Q9oLrZYKMl3rjC=w408-h408-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 22 120 24 02",
+        "address": "Synevo Laboratorium Centralne, Krakusa 28, 93-515 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Synevo+Laboratorium+Centralne/data=!4m7!3m6!1s0x471a34f20decb59b:0xbc15d7ac9af41ff!8m2!3d51.7302339!4d19.4604605!16s%2Fg%2F11cjp690ly!19sChIJm7XsDfI0GkcR_0GvyXpdwQs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2QPc1b81GkcRhDT7Sq0YZV0",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "https://diag.pl/katalogi/placowki/lodz/punkt-pobran-diagnostyki-lodz-ul-hubala-1/",
+        "owner": {
+            "id": "114283431507222040159",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114283431507222040159"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMGRQfcej7OR6bsDaH-mWSWEPjM91Ro4HvBTYDp=w457-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.6,
+        "workday_timing": "08:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostyka. Laboratoria Medyczne., Hubala 1, 94-048 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471a35bfd5dc03d9:0x5d6518ad4afb3484!8m2!3d51.7466002!4d19.402092!16s%2Fg%2F11j1sk_h5p!19sChIJ2QPc1b81GkcRhDT7Sq0YZV0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJcfxxZl81GkcRMTy11QExxfs",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10076",
+        "owner": {
+            "id": "117133954539585178909",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117133954539585178909"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOxfUHwUVtjQBmR7Srn46hGntPB_3JA3-jrieg_=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "07:30-12:00, 15:00-18:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 42 307 96 04",
+        "address": "Punkt Pobran ALAB laboratoria, al. Marsz. Edwarda Smiglego-Rydza 43A, 93-272 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471a355f6671fc71:0xfbc53101d5b53c31!8m2!3d51.7371231!4d19.4880897!16s%2Fg%2F11tdqcswqm!19sChIJcfxxZl81GkcRMTy11QExxfs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJfXd1thY1GkcRUNQuCDy5pXY",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9822",
+        "owner": {
+            "id": "116465993628845111636",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116465993628845111636"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNjAWuTzXngnlo_9bccQHosjiB4smuQpIsrznI1=w408-h725-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.6,
+        "workday_timing": "08:00-13:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 42 307 95 59",
+        "address": "Punkt Pobran ALAB laboratoria, Stanislawa Wigury 19, 90-302 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471a3516b675777d:0x76a5b93c082ed450!8m2!3d51.756282!4d19.4635576!16s%2Fg%2F11rwq7d7mg!19sChIJfXd1thY1GkcRUNQuCDy5pXY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJw_TBmdA1GkcRu1gzxYTgkh8",
+        "name": "Zdrowe Jelita - Testy wodorowo-metanowe Sibo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "http://www.zdrowe-jelita.com/",
+        "owner": {
+            "id": "102169536632098512187",
+            "name": "Zdrowe Jelita - Testy wodorowo-metanowe Sibo (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102169536632098512187"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K9xyBwSUleEYnfqSmUjnIA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=301.30646&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-20:00",
+        "closed_on": [],
+        "phone": "+48 22 667 55 44",
+        "address": "Zdrowe Jelita - Testy wodorowo-metanowe Sibo, aleje Politechniki 27, 93-588 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Zdrowe+Jelita+-+Testy+wodorowo-metanowe+Sibo/data=!4m7!3m6!1s0x471a35d099c1f4c3:0x1f92e084c53358bb!8m2!3d51.7369931!4d19.4522331!16s%2Fg%2F11ry5150t3!19sChIJw_TBmdA1GkcRu1gzxYTgkh8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJFUTKiuXKG0cR1rvA6_xwhUE",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "https://diag.pl/katalogi/placowki/lodz/punkt-pobran-diagnostyki-lodz-ul-franciszkanska-104112/",
+        "owner": {
+            "id": "106162092638285799904",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106162092638285799904"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VHCIFYxrvf4w7x4WgGZ2hQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=313.46967&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.2,
+        "workday_timing": "08:00-12:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostics. Medical Laboratories., Franciszkanska 104/112, 91-845 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x471bcae58aca4415:0x418570fcebc0bbd6!8m2!3d51.7928695!4d19.4598177!16s%2Fg%2F11g8bb47yb!19sChIJFUTKiuXKG0cR1rvA6_xwhUE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7f77JGw1GkcRUNyMX9l8Rp0",
+        "name": "Punkt analiz lekarskich",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "https://www.cylex-polska.pl/firmy/punkt-analiz-lekarskich-10569662.html",
+        "owner": {
+            "id": null,
+            "name": "Punkt analiz lekarskich (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ThGASfXZpAkwQB3cFIuazA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=214.78442&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 42 687 12 01",
+        "address": "Punkt analiz lekarskich, Batalionow Chlopskich 14, 94-046 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+analiz+lekarskich/data=!4m7!3m6!1s0x471a356c24fbfeed:0x9d467cd95f8cdc50!8m2!3d51.7451735!4d19.4009942!16s%2Fg%2F1tf646_3!19sChIJ7f77JGw1GkcRUNyMX9l8Rp0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJo2lW29A0GkcRAhjLMfcv5zg",
+        "name": "Laboratorium Genetyki Medycznej GENOS",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "http://www.genos.com.pl/",
+        "owner": {
+            "id": "109372063426800356907",
+            "name": "Laboratorium Genetyki Medycznej GENOS (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109372063426800356907"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNyxiuwuhRGPqC7zZoEgQKrtatBr-coU-d3DMTX=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.4,
+        "workday_timing": "08:00-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 887 848 487",
+        "address": "Laboratorium Genetyki Medycznej GENOS, Inowroclawska 9/132, 91-033 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Genetyki+Medycznej+GENOS/data=!4m7!3m6!1s0x471a34d0db5669a3:0x38e72ff731cb1802!8m2!3d51.7856805!4d19.4176602!16s%2Fg%2F1tx1ryvs!19sChIJo2lW29A0GkcRAhjLMfcv5zg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJaUalRz-1G0cRwfN3FODWo-w",
+        "name": "Aditus - Laboratorium medyczne - Lodz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "http://www.aditus.com.pl/",
+        "owner": {
+            "id": null,
+            "name": "Aditus - Laboratorium medyczne - Lodz (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_mc1lH9CQ7A3TJt7F7fJKg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=287.13034&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 42 611 07 55",
+        "address": "Aditus - Laboratorium medyczne - Lodz, Rydzowa 22, 91-211 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Aditus+-+Laboratorium+medyczne+-+%C5%81%C3%B3d%C5%BA/data=!4m7!3m6!1s0x471bb53f47a54669:0xeca3d6e01477f3c1!8m2!3d51.7959002!4d19.3761797!16s%2Fg%2F1tgplsg_!19sChIJaUalRz-1G0cRwfN3FODWo-w?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJERELsLc0GkcRToDesBcE1CY",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "https://www.synevo.pl/laboratorium-lodz/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dlodz_milionowa",
+        "owner": {
+            "id": "110918032461091550176",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110918032461091550176"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPl2ceydOI-pILuhAxvwbxaAM5dC401Fsr2ZfM8=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": "07:30-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Milionowa 14, 93-113 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x471a34b7b00b1111:0x26d40417b0de804e!8m2!3d51.7514417!4d19.4832259!16s%2Fg%2F1td9p8mc!19sChIJERELsLc0GkcRToDesBcE1CY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJKwPwN_LLG0cRMC92MFRdPok",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "https://diag.pl/placowki/lodz/punkt-pobran-diagnostyki-lodz-ul-marynarska-67/",
+        "owner": {
+            "id": "112564352571734824500",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112564352571734824500"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PUgyGAD8uojVARSc5HWUKg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=64.27129&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Diagnosecentrum",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostyka. Laboratoria Medyczne., Marynarska 67, 91-850 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471bcbf237f0032b:0x893e5d5430762f30!8m2!3d51.7922094!4d19.4646669!16s%2Fg%2F11svqwt9m9!19sChIJKwPwN_LLG0cRMC92MFRdPok?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJfZ5NwU_LG0cRYywh0GXj7qU",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9684",
+        "owner": {
+            "id": "118211849959143459712",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/118211849959143459712"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipORwLUNsiEbu7ozZ9LmDGfbSrDxnqi9F6E82fnb=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 2.3,
+        "workday_timing": "07:30-10:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 42 307 95 00",
+        "address": "Punkt Pobran ALAB laboratoria, Juliana Tuwima 15, 90-010 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471bcb4fc14d9e7d:0xa5eee365d0212c63!8m2!3d51.7658927!4d19.463583!16s%2Fg%2F11qg43yz00!19sChIJfZ5NwU_LG0cRYywh0GXj7qU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJCwEpSL7KG0cR5TebNsRhAM8",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "https://diag.pl/katalogi/placowki/lodz/punkt-pobran-diagnostyki-lodz-limanowskiego-104/",
+        "owner": {
+            "id": "116975777852707845285",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116975777852707845285"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOF8JBRWgwddwUdrlXJ6mdEjM-d4uH-ZgjeQQeY=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "08:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostyka. Laboratoria Medyczne., Boleslawa Limanowskiego 104, 91-042 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471bcabe4829010b:0xcf0061c4369b37e5!8m2!3d51.7891852!4d19.4353459!16s%2Fg%2F11g9s_gp3v!19sChIJCwEpSL7KG0cR5TebNsRhAM8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJtQpqYNXKG0cRBa8UDmNSjKc",
+        "name": "Laboratorium analiz lekarskich",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://www.alablaboratoria.pl/",
+        "owner": {
+            "id": null,
+            "name": "Laboratorium analiz lekarskich (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNUb2SBJMlqUyN-ZBGp5tj8-7wrvnaWND8pPuKC=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Laboratorium analiz lekarskich, Piotrkowska 92, 90-001 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+analiz+lekarskich/data=!4m7!3m6!1s0x471bcad5606a0ab5:0xa78c52630e14af05!8m2!3d51.766337!4d19.457283!16s%2Fg%2F1tj83ltp!19sChIJtQpqYNXKG0cRBa8UDmNSjKc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJQydADCg1GkcRn6Cc5ndTuxo",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://diag.pl/placowki/lodz/punkt-pobran-diagnostyki-lodz-ul-kilinskiego-193/",
+        "owner": {
+            "id": "101917377257742308410",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/101917377257742308410"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=II8DIhbUiN_-ofcaj9CAOQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=192.3231&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": 3.5,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostyka. Laboratoria Medyczne., plk. Jana Kilinskiego 193, 93-126 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471a35280c402743:0x1abb5377e69ca09f!8m2!3d51.7487147!4d19.4742875!16s%2Fg%2F11vcvmmdr5!19sChIJQydADCg1GkcRn6Cc5ndTuxo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJi6z8qcMzGkcRoIx8BgoJo6M",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://sklep.alablaboratoria.pl/punkty#10012",
+        "owner": {
+            "id": "111965194967193558950",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111965194967193558950"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMw95vpbddkMZ2E7UDNn8nt9TIRHu3XULwmsAM=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-11:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 42 307 96 05",
+        "address": "Punkt Pobran ALAB laboratoria, Kazimierza Odnowiciela 15, 92-414 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471a33c3a9fcac8b:0xa3a3090a067c8ca0!8m2!3d51.7386495!4d19.5627296!16s%2Fg%2F11jslqr8kb!19sChIJi6z8qcMzGkcRoIx8BgoJo6M?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJd4WmMOnKG0cRrpQL6ldFRBU",
+        "name": "Laboratorium",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://www.alablaboratoria.pl/",
+        "owner": {
+            "id": null,
+            "name": "Laboratorium (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zhMVsyQAugQ1HfwhbK_5Ow&cb_client=search.gws-prod.gps&w=408&h=240&yaw=189.04553&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 42 617 11 51",
+        "address": "Laboratorium, Lagiewnicka 54/56, 91-463 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium/data=!4m7!3m6!1s0x471bcae930a68577:0x15444557ea0b94ae!8m2!3d51.792159!4d19.454534!16s%2Fg%2F1vn_xqfd!19sChIJd4WmMOnKG0cRrpQL6ldFRBU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJRdjAgUs1GkcRR00wucUwFfw",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10014",
+        "owner": {
+            "id": "112359267999397222197",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112359267999397222197"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMpqN7S3FyRNIZoz8TgMOLw80lRXWc3JnKQDwyt=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 2.5,
+        "workday_timing": "07:30-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 42 307 95 25",
+        "address": "Punkt Pobran ALAB laboratoria, Alojzego Felinskiego 7, 93-252 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471a354b81c0d845:0xfc1530c5b9304d47!8m2!3d51.7319643!4d19.4977552!16s%2Fg%2F11s9gdpfmd!19sChIJRdjAgUs1GkcRR00wucUwFfw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJsyqNu8PKG0cRjZLl-A4s1ZY",
+        "name": "testDNA Lodz - badania DNA, testy na ojcostwo, badania genetyczne, NIFTY Pro - punkt pobran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://www.testdna.pl/",
+        "owner": {
+            "id": "105387015485865856617",
+            "name": "testDNA Lodz - badania DNA, testy na ojcostwo, badania genetyczne, NIFTY Pro - punkt pobran (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105387015485865856617"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOs4XGUfTPSddV5NS0TnSURR7gi_eXq3OEC-6tC=w408-h270-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 665 761 161",
+        "address": "testDNA Lodz - badania DNA, testy na ojcostwo, badania genetyczne, NIFTY Pro - punkt pobran, Gen. Karola Kniaziewicza 20 A, 91-347 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/testDNA+%C5%81%C3%B3d%C5%BA+-+badania+DNA,+testy+na+ojcostwo,+badania+genetyczne,+NIFTY+Pro+-+punkt+pobra%C5%84/data=!4m7!3m6!1s0x471bcac3bb8d2ab3:0x96d52c0ef8e5928d!8m2!3d51.7995187!4d19.4370105!16s%2Fg%2F1tfc5c1_!19sChIJsyqNu8PKG0cRjZLl-A4s1ZY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJdYNS-OnKG0cRssNJFbIRlDs",
+        "name": "NZOZ DIAG-MED Laboratorium analiz lekarskich, mgr W. Kajszczak-Helt",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://www.cylex-polska.pl/firmy/diag-med--nzoz--laboratorium-analiz-lekarskich--kajszczak-helt-w---mgr-10461000.html",
+        "owner": {
+            "id": "104667345625629157202",
+            "name": "NZOZ DIAG-MED Laboratorium analiz lekarskich, mgr W. Kajszczak-Helt (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/104667345625629157202"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LnSR35PQs7LIwlIvrZKvzw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=290.8361&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:30-15:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 42 654 41 31",
+        "address": "NZOZ DIAG-MED Laboratorium analiz lekarskich, mgr W. Kajszczak-Helt, Snycerska 3, 91-302 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/NZOZ+DIAG-MED+Laboratorium+analiz+lekarskich,+mgr+W.+Kajszczak-Helt/data=!4m7!3m6!1s0x471bcae9f8528375:0x3b9411b21549c3b2!8m2!3d51.7887449!4d19.4486343!16s%2Fg%2F1td5kfr9!19sChIJdYNS-OnKG0cRssNJFbIRlDs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJhaeLuds0GkcRbYavRCrvlgM",
+        "name": "Aqua-Med. Zaklad produkcji diagnostycznych testow laboratoryjnych",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "http://www.aqua-med.pl/",
+        "owner": {
+            "id": null,
+            "name": "Aqua-Med. Zaklad produkcji diagnostycznych testow laboratoryjnych (eigenaar)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 42 636 38 02",
+        "address": "Aqua-Med. Zaklad produkcji diagnostycznych testow laboratoryjnych, Targowa 55, 90-323 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Aqua-Med.+Zak%C5%82ad+produkcji+diagnostycznych+test%C3%B3w+laboratoryjnych/data=!4m7!3m6!1s0x471a34dbb98ba785:0x396ef2a44af866d!8m2!3d51.7589414!4d19.4716482!16s%2Fg%2F1ttq0w1m!19sChIJhaeLuds0GkcRbYavRCrvlgM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJo6EhuZ41GkcRG7rVRUIVk34",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10013",
+        "owner": {
+            "id": "118056487511090969500",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/118056487511090969500"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMMDNEIlbODqcvRUlBCJM2RcKFTjvk8MvuQceC6=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:30-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 42 307 95 28",
+        "address": "Punkt Pobran ALAB laboratoria, Augusta Cieszkowskiego 6, 90-001 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x471a359eb921a1a3:0x7e93154245d5ba1b!8m2!3d51.7337232!4d19.449062!16s%2Fg%2F11sk4t6q97!19sChIJo6EhuZ41GkcRG7rVRUIVk34?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJp9CBndbKG0cRCAbsoBYPhfs",
+        "name": "Laboratorium analiz lekarskich",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://www.alablaboratoria.pl/",
+        "owner": {
+            "id": null,
+            "name": "Laboratorium analiz lekarskich (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YXuQIksA5a2Elf5RkPGdfQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=127.11338&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 42 632 03 78",
+        "address": "Laboratorium analiz lekarskich, Zielona 77, 90-765 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+analiz+lekarskich/data=!4m7!3m6!1s0x471bcad69d81d0a7:0xfb850f16a0ec0608!8m2!3d51.7697!4d19.4297921!16s%2Fg%2F1tflqrxj!19sChIJp9CBndbKG0cRCAbsoBYPhfs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJPTk2MCbLG0cR39pIeWcA39o",
+        "name": "ALAB Laboratoria Sp. z o.o.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://www.alablaboratoria.pl/",
+        "owner": {
+            "id": null,
+            "name": "ALAB Laboratoria Sp. z o.o. (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UtksQ470zQDP66fy9SFHyQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=270.60306&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 797 373 640",
+        "address": "ALAB Laboratoria Sp. z o.o., Doktora Seweryna Sterlinga 27/29, 90-212 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/ALAB+Laboratoria+Sp.+z+o.o./data=!4m7!3m6!1s0x471bcb263036393d:0xdadf00677948dadf!8m2!3d51.7746!4d19.4685!16s%2Fg%2F11c1v21klb!19sChIJPTk2MCbLG0cR39pIeWcA39o?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJv3hoJWI1GkcRix62uhKn66w",
+        "name": "Diagnostyka, Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://diag.pl/katalogi/placowki/lodz/punkt-pobran-diagnostyki-lodz-ul-wilcza-4/",
+        "owner": {
+            "id": "113270790368332690651",
+            "name": "Diagnostyka, Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113270790368332690651"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rpxkKCXTEZhvLksI9w-Pug&cb_client=search.gws-prod.gps&w=408&h=240&yaw=262.48575&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": null,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostyka, Laboratoria Medyczne., Wilcza 4, 90-339 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka,+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471a3562256878bf:0xaceba712bab61e8b!8m2!3d51.7559016!4d19.4849189!16s%2Fg%2F11jt2qz07j!19sChIJv3hoJWI1GkcRix62uhKn66w?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJnacceY3LG0cRUU--uqVZH6s",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://diag.pl/placowki/lodz/punkt-pobran-diagnostyki-lodz-ul-jana-matejki-35/",
+        "owner": {
+            "id": "107153673428582574636",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107153673428582574636"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kK4qXbwpY3nr-2R-xBluUg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=204.99559&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": null,
+        "workday_timing": "10:00-14:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostyka. Laboratoria Medyczne., Jana Matejki 3/5, 91-402 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471bcb8d791ca79d:0xab1f59a5babe4f51!8m2!3d51.7814874!4d19.4846633!16s%2Fg%2F11v9mrg9tl!19sChIJnacceY3LG0cRUU--uqVZH6s?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJh14H-J-1G0cRXrpqz_qeuzY",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://diag.pl/placowki/lodz/punkt-pobran-diagnostyki-lodz-ul-11-listopada-26/",
+        "owner": {
+            "id": "115469538964476699916",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115469538964476699916"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LJxa30uJEWTMptvizSkYZQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=288.7684&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": null,
+        "workday_timing": "07:30-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostyka. Laboratoria Medyczne., 11 Listopada 26, 91-370 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471bb59ff8075e87:0x36bb9efacf6aba5e!8m2!3d51.8170599!4d19.4201453!16s%2Fg%2F11v9z7qhz2!19sChIJh14H-J-1G0cRXrpqz_qeuzY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVc9FzKrLG0cR0BxFLAEopc8",
+        "name": "Art Medici",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://art-medici.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+        "owner": {
+            "id": "112399707937986953918",
+            "name": "Art Medici (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112399707937986953918"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMT3xoAf05t_9y5JERrABFfStYLXDEqpUZuKedd=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "08:00-20:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 699 714 067",
+        "address": "Art Medici, Uzdrowiskowa 26, 91-615 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Art+Medici/data=!4m7!3m6!1s0x471bcbaacc45cf55:0xcfa528012c451cd0!8m2!3d51.8075911!4d19.4885731!16s%2Fg%2F11qms4csz6!19sChIJVc9FzKrLG0cR0BxFLAEopc8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJxSSYURzLG0cRsGLA7Fm1he0",
+        "name": "Zaklad diagnostyki laboratoryjnej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 75,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Zaklad diagnostyki laboratoryjnej (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=n9fg3eEC_mGwSqw8jhuNqA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=175.14055&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:30-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 42 617 24 93",
+        "address": "Zaklad diagnostyki laboratoryjnej, Karola Libelta 16, 90-001 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Zak%C5%82ad+diagnostyki+laboratoryjnej/data=!4m7!3m6!1s0x471bcb1c519824c5:0xed85b559ecc062b0!8m2!3d51.7904904!4d19.4800752!16s%2Fg%2F1trxj0dl!19sChIJxSSYURzLG0cRsGLA7Fm1he0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJuSC0jc9LGkcRV65ylA4dQSg",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 42,
+        "website": null,
+        "owner": {
+            "id": "104830990898303926572",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/104830990898303926572"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM0aaSQidgvdysilic3UNT6h8DVHir7DZCpl9rM=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 799 399 360",
+        "address": "Diagnostyka. Laboratoria Medyczne., Lodzka 1, 95-050 Konstantynow Lodzki, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x471a4bcf8db420b9:0x28411d0e9472ae57!8m2!3d51.7471389!4d19.3266285!16s%2Fg%2F11t3zchhys!19sChIJuSC0jc9LGkcRV65ylA4dQSg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJWd3JMGk1GkcRcqq1F6QAViQ",
+        "name": "MAMED LABORATORIUM ANALIZ LEKARSKICH",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "MAMED LABORATORIUM ANALIZ LEKARSKICH (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNzoWj1-AiZEgRJwOpi6dPEcCWv4pWP3snbCd24=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "07:00-17:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 42 688 87 16",
+        "address": "MAMED LABORATORIUM ANALIZ LEKARSKICH, aleja Kardynala Stefana Wyszynskiego 25, 94-048 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/MAMED+LABORATORIUM+ANALIZ+LEKARSKICH/data=!4m7!3m6!1s0x471a356930c9dd59:0x245600a417b5aa72!8m2!3d51.7479499!4d19.399516!16s%2Fg%2F1tgdrwrb!19sChIJWd3JMGk1GkcRcqq1F6QAViQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJibdcxtPKG0cReVRDc2u6kXc",
+        "name": "Laboratorium Zdrowia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": null,
+        "owner": {
+            "id": "100389511019683792931",
+            "name": "Laboratorium Zdrowia (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100389511019683792931"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TDUVHJN9jvmquDmb8fnLSw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=84.05065&pitch=0&thumbfov=100",
+        "main_category": "Tandarts",
+        "categories": [
+            "Tandarts",
+            "Openbaar medisch centrum"
+        ],
+        "rating": 4.4,
+        "workday_timing": "07:30-10:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 795 561 374",
+        "address": "Laboratorium Zdrowia, Gdanska 46, 90-730 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Zdrowia/data=!4m7!3m6!1s0x471bcad3c65cb789:0x7791ba6b73435479!8m2!3d51.770556!4d19.449033!16s%2Fg%2F1tdwnvhw!19sChIJibdcxtPKG0cReVRDc2u6kXc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJfw_Ym97KG0cRjySxh4J_YOc",
+        "name": "MIKROB NZOZ Laboratorium Medyczne Anna Wozniak",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": "108080919584003214683",
+            "name": "MIKROB NZOZ Laboratorium Medyczne Anna Wozniak (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108080919584003214683"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNi-LMJ0lE95CJb8zq9XucBLirS85uVY1CWMzk=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "08:00-16:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 42 616 14 34",
+        "address": "MIKROB NZOZ Laboratorium Medyczne Anna Wozniak, Franciszkanska 17/25, 91-433 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/MIKROB+NZOZ+Laboratorium+Medyczne+Anna+Wo%C5%BAniak/data=!4m7!3m6!1s0x471bcade9bd80f7f:0xe7607f8287b1248f!8m2!3d51.7822522!4d19.4611772!16s%2Fg%2F1tfld_cp!19sChIJfw_Ym97KG0cRjySxh4J_YOc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJPzw5y6HKG0cRySi4LzR5xHE",
+        "name": "Aries-Med. Laboratorium analiz lekarskich",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Aries-Med. Laboratorium analiz lekarskich (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BsIOxOoFbaA02zNGVXf9ig&cb_client=search.gws-prod.gps&w=408&h=240&yaw=317.4963&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 42 659 63 41",
+        "address": "Aries-Med. Laboratorium analiz lekarskich, Boleslawa Limanowskiego 194, 91-027 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Aries-Med.+Laboratorium+analiz+lekarskich/data=!4m7!3m6!1s0x471bcaa1cb393c3f:0x71c479342fb828c9!8m2!3d51.7930352!4d19.4142008!16s%2Fg%2F1tqnkc5w!19sChIJPzw5y6HKG0cRySi4LzR5xHE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJAU-4jJE0GkcRMOXCAGyU96E",
+        "name": "Centrum Diagnostyki Laboratoryjnej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Centrum Diagnostyki Laboratoryjnej (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EisYrOq5Rjv91vOHaq_3Xw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=49.139565&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 3.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Centrum Diagnostyki Laboratoryjnej, Juliana Ursyna Niemcewicza 24, 93-024 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Centrum+Diagnostyki+Laboratoryjnej/data=!4m7!3m6!1s0x471a34918cb84f01:0xa1f7946c00c2e530!8m2!3d51.7304612!4d19.4739687!16s%2Fg%2F11j08bcwpn!19sChIJAU-4jJE0GkcRMOXCAGyU96E?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ73DrXCHLG0cR1dm9Fl4qwMg",
+        "name": "Laboratorium Analityczne NZOZ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Laboratorium Analityczne NZOZ (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNenacfaG0KyJXN00SBfon_1MF26tyhxz2HBnNK=w426-h240-k-no",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 3.6,
+        "workday_timing": "08:00-10:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 42 678 01 30",
+        "address": "Laboratorium Analityczne NZOZ, hm. Aleksandra Kaminskiego 7, 91-427 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Analityczne+NZOZ/data=!4m7!3m6!1s0x471bcb215ceb70ef:0xc8c02a5e16bdd9d5!8m2!3d51.7794148!4d19.474483!16s%2Fg%2F1tdkwfbj!19sChIJ73DrXCHLG0cR1dm9Fl4qwMg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJqwy-QIw1GkcRLeKfvqeTqUg",
+        "name": "Synevo - Laboratorium diagnostyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Synevo - Laboratorium diagnostyczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=j6CWzqQvUeMCQRAXSfqxOA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=82.66635&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.3,
+        "workday_timing": "07:30-16:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": null,
+        "address": "Synevo - Laboratorium diagnostyczne, al. marsz. Jozefa Pilsudskiego 71, 90-001 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Synevo+-+Laboratorium+diagnostyczne/data=!4m7!3m6!1s0x471a358c40be0cab:0x48a993a7be9fe22d!8m2!3d51.7590993!4d19.4846605!16s%2Fg%2F11ft2pk4d_!19sChIJqwy-QIw1GkcRLeKfvqeTqUg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJq6q6C880GkcRKXVwl5gnWww",
+        "name": "Polmed Limited",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Polmed Limited (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9yxfysJ1rnJeooS3dIlVqg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=336.84857&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 690 025 100",
+        "address": "Polmed Limited, Tylna 4C/47, 90-364 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Polmed+Limited/data=!4m7!3m6!1s0x471a34cf0bbaaaab:0xc5b279897707529!8m2!3d51.7533483!4d19.4693219!16s%2Fg%2F11rbysk1tb!19sChIJq6q6C880GkcRKXVwl5gnWww?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4Y3r2PE0GkcR-v9b2SSAJwk",
+        "name": "Eurolab. Laboratorium analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Eurolab. Laboratorium analityczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZuedAsbSMvDfjiYjsoSqqw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=94.86462&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 42 689 57 44",
+        "address": "Eurolab. Laboratorium analityczne, Pabianicka 62, 90-001 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Eurolab.+Laboratorium+analityczne/data=!4m7!3m6!1s0x471a34f1d8eb8de1:0x9278024d95bfffa!8m2!3d51.732124!4d19.4551829!16s%2Fg%2F1hc33ffrc!19sChIJ4Y3r2PE0GkcR-v9b2SSAJwk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJF7Q0rKHKG0cRSZzEDT4c7iw",
+        "name": "aries lab",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "aries lab (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8dRusdMtHT3-8V1dU2yfYg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=0.86507803&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 42 659 63 41",
+        "address": "aries lab, Wielkopolska 53, 91-027 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/aries+lab/data=!4m7!3m6!1s0x471bcaa1ac34b417:0x2cee1c3e0dc49c49!8m2!3d51.7919873!4d19.4136053!16s%2Fg%2F11h48wzt6x!19sChIJF7Q0rKHKG0cRSZzEDT4c7iw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8_knZTrLG0cRjWl6xkZlZws",
+        "name": "Analityk. Medyczne laboratorium diagnostyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Analityk. Medyczne laboratorium diagnostyczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GGbANjG7s5YtewDj-DA-Yw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=334.41205&pitch=0&thumbfov=100",
+        "main_category": "Centrum voor diagnostische beeldvorming",
+        "categories": [
+            "Centrum voor diagnostische beeldvorming"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 42 678 64 48",
+        "address": "Analityk. Medyczne laboratorium diagnostyczne, Dr. Stefana Kopcinskiego 32, 90-154 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Analityk.+Medyczne+laboratorium+diagnostyczne/data=!4m7!3m6!1s0x471bcb3a6527f9f3:0xb676546c67a698d!8m2!3d51.7720068!4d19.4833543!16s%2Fg%2F1tfkdbf1!19sChIJ8_knZTrLG0cRjWl6xkZlZws?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJdcOLJYC1G0cRGAJ9E6GqaGI",
+        "name": "Diagnostyka S.A",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "116646664130346043008",
+            "name": "Diagnostyka S.A (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116646664130346043008"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B5CA5S2Rk_jZvNPLLG5T2g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=299.5467&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Diagnostyka S.A, Szparagowa, 90-001 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka+S.A/data=!4m7!3m6!1s0x471bb580258bc375:0x6268aaa1137d0218!8m2!3d51.804147!4d19.3776728!16s%2Fg%2F11t77h_h13!19sChIJdcOLJYC1G0cRGAJ9E6GqaGI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJP2eXPM80GkcRRA7OLzHFWQI",
+        "name": "Analityk. Medyczne laboratorium diagnostyczne. Sniegula R.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Analityk. Medyczne laboratorium diagnostyczne. Sniegula R. (eigenaar)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Diagnosecentrum",
+        "categories": [
+            "Diagnosecentrum"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 42 634 36 36",
+        "address": "Analityk. Medyczne laboratorium diagnostyczne. Sniegula R., Tylna 8, 90-354 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Analityk.+Medyczne+laboratorium+diagnostyczne.+%C5%9Aniegula+R./data=!4m7!3m6!1s0x471a34cf3c97673f:0x259c5312fce0e44!8m2!3d51.7537526!4d19.4704175!16s%2Fg%2F1tqnkc31!19sChIJP2eXPM80GkcRRA7OLzHFWQI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4Qk2_kLLG0cRqqxCEESZHQQ",
+        "name": "Microbiology Department (MUL)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Microbiology Department (MUL) (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPsekGQL8NOKcomJ_zYFNdtirIwi9DapbOtvzbd=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Microbiology Department (MUL), Pomorska 265, 92-213 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Microbiology+Department+%28MUL%29/data=!4m7!3m6!1s0x471bcb42fe3609e1:0x41d99441042acaa!8m2!3d51.7744843!4d19.5099775!16s%2Fg%2F11byxfmm5j!19sChIJ4Qk2_kLLG0cRqqxCEESZHQQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJBeRJ4q3MG0cRCrC50Gjnb-o",
+        "name": "Miejskie Centrum Medyczne \"Widzew\" W Lodzi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Miejskie Centrum Medyczne \"Widzew\" W Lodzi (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=G7juwRbgFaCea_qwtsjSGA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=72.412025&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 502 326 094",
+        "address": "Miejskie Centrum Medyczne \"Widzew\" W Lodzi, Jozefa Elsnera 19, 92-504 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Miejskie+Centrum+Medyczne+%22Widzew%22+W+%C5%81odzi/data=!4m7!3m6!1s0x471bccade249e405:0xea6fe768d0b9b00a!8m2!3d51.7570578!4d19.5332271!16s%2Fg%2F11nm9lf8kz!19sChIJBeRJ4q3MG0cRCrC50Gjnb-o?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJA1ddHL3LG0cRIoiC963vs8M",
+        "name": "Laboratorium Medicover Lodz Pomorska",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": "103870854697319573885",
+            "name": "Laboratorium Medicover Lodz Pomorska (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103870854697319573885"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sfmV8ssnYuFDDJYS0lFO-A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=184.12086&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "07:00-12:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 500 900 500",
+        "address": "Laboratorium Medicover Lodz Pomorska, Pomorska 106A, 91-402 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Medicover+%C5%81%C3%B3d%C5%BA+Pomorska/data=!4m7!3m6!1s0x471bcbbd1c5d5703:0xc3b3efadf7828822!8m2!3d51.7797291!4d19.4825522!16s%2Fg%2F11trcgqsgk!19sChIJA1ddHL3LG0cRIoiC963vs8M?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_f0ZrLHMG0cRGoJbsYLMKhM",
+        "name": "Miejskie Centrum Medyczne \"Widzew\" W Lodzi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Miejskie Centrum Medyczne \"Widzew\" W Lodzi (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aZbFvBXK_91X-tMovcZPHQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=358.8023&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 727 724 937",
+        "address": "Miejskie Centrum Medyczne \"Widzew\" W Lodzi, Andrzeja Sacharowa 21A, 92-524 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Miejskie+Centrum+Medyczne+%22Widzew%22+W+%C5%81odzi/data=!4m7!3m6!1s0x471bccb1ac19fdfd:0x132acc82b15b821a!8m2!3d51.758591!4d19.5393591!16s%2Fg%2F11rbysjwhd!19sChIJ_f0ZrLHMG0cRGoJbsYLMKhM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJjYdrr800GkcRR09B2039nIg",
+        "name": "Rawicka Jadwiga. NZOZ. Laboratorium analiz lekarskich",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Rawicka Jadwiga. NZOZ. Laboratorium analiz lekarskich (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fb-hznfgrUC-A0Xv9FYNHA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=221.71349&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 42 674 71 71",
+        "address": "Rawicka Jadwiga. NZOZ. Laboratorium analiz lekarskich, Targowa 55, 90-323 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Rawicka+Jadwiga.+NZOZ.+Laboratorium+analiz+lekarskich/data=!4m7!3m6!1s0x471a34cdaf6b878d:0x889cfd4ddb414f47!8m2!3d51.7589281!4d19.4728474!16s%2Fg%2F1tdqs8hn!19sChIJjYdrr800GkcRR09B2039nIg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJMbxAud3KG0cRYG7bi_GEViQ",
+        "name": "Lodz Ul. Franciszkanska 30a",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Lodz Ul. Franciszkanska 30a (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=a3TNNWA0J_fb3fJI-o1KAQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=167.92345&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Lodz Ul. Franciszkanska 30a, Wojska Polskiego 25, 91-440 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%81%C3%B3d%C5%BA+Ul.+Franciszka%C5%84ska+30a/data=!4m7!3m6!1s0x471bcaddb940bc31:0x245684f18bdb6e60!8m2!3d51.784459!4d19.460009!16s%2Fg%2F11ggsbgwxj!19sChIJMbxAud3KG0cRYG7bi_GEViQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJFVCheZQ0GkcRFi5fuS9ak4E",
+        "name": "Poradnia Lekarza Poz Miejskie Centrum Medyczne Imienia Dr. Karola Jonschera W Lodzi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Lekarza Poz Miejskie Centrum Medyczne Imienia Dr. Karola Jonschera W Lodzi (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Rt2bCh4kpERWDf3CemXZtA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=337.67358&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 42 256 51 00",
+        "address": "Poradnia Lekarza Poz Miejskie Centrum Medyczne Imienia Dr. Karola Jonschera W Lodzi, Lecznicza 6, 93-173 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Lekarza+Poz+Miejskie+Centrum+Medyczne+Imienia+Dr.+Karola+Jonschera+W+%C5%81odzi/data=!4m7!3m6!1s0x471a349479a15015:0x81935a2fb95f2e16!8m2!3d51.7348956!4d19.4731739!16s%2Fg%2F11rbyslb5f!19sChIJFVCheZQ0GkcRFi5fuS9ak4E?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJc0jyFXg0GkcRoH9M3kdUPpU",
+        "name": "Zaklad Medycyny Rodzinnej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Zaklad Medycyny Rodzinnej (eigenaar)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 42 271 12 54",
+        "address": "Zaklad Medycyny Rodzinnej, Rzgowska 281/289, 93-338 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Zak%C5%82ad+Medycyny+Rodzinnej/data=!4m7!3m6!1s0x471a347815f24873:0x953e5447de4c7fa0!8m2!3d51.707261!4d19.479561!16s%2Fg%2F11q1d8w_ds!19sChIJc0jyFXg0GkcRoH9M3kdUPpU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJq6p6jdXKG0cRofqfi8BSFto",
+        "name": "Gabinety Diagnostyczno-Zabiegowe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinety Diagnostyczno-Zabiegowe (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0CPLpdL1PZJDQsfZm4015A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=183.42603&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 665 990 358",
+        "address": "Gabinety Diagnostyczno-Zabiegowe, Stanislawa Moniuszki 4A, 90-111 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinety+Diagnostyczno-Zabiegowe/data=!4m7!3m6!1s0x471bcad58d7aaaab:0xda1652c08b9ffaa1!8m2!3d51.7686293!4d19.4581486!16s%2Fg%2F11rbyt3t64!19sChIJq6p6jdXKG0cRofqfi8BSFto?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJHfEsjFg0GkcRIMXRG3exnhc",
+        "name": "Echoson. Laboratorium badan srodowiska pracy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Echoson. Laboratorium badan srodowiska pracy (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6AjYKBHBPbdqttEwt8HjdA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=249.67038&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 42 684 22 10",
+        "address": "Echoson. Laboratorium badan srodowiska pracy, Beczkowa 17, 93-487 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Echoson.+Laboratorium+bada%C5%84+%C5%9Brodowiska+pracy/data=!4m7!3m6!1s0x471a34588c2cf11d:0x179eb1771bd1c520!8m2!3d51.721699!4d19.446777!16s%2Fg%2F1v96kjsh!19sChIJHfEsjFg0GkcRIMXRG3exnhc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJAQAM5lC1G0cR4qZe4X_OV98",
+        "name": "Niepubliczny Zaklad Opieki Zdrowotnej Mikomed",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Niepubliczny Zaklad Opieki Zdrowotnej Mikomed (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fu45xi5cakAkHBmPPeaALg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=93.4226&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 42 611 11 55",
+        "address": "Niepubliczny Zaklad Opieki Zdrowotnej Mikomed, Plugowa 51/53, 94-238 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Niepubliczny+Zak%C5%82ad+Opieki+Zdrowotnej+Mikomed/data=!4m7!3m6!1s0x471bb550e60c0001:0xdf57ce7fe15ea6e2!8m2!3d51.7847087!4d19.3927067!16s%2Fg%2F11q1d8lpm9!19sChIJAQAM5lC1G0cR4qZe4X_OV98?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJqaoGiLA0GkcR5T0tR-EGmaI",
+        "name": "Caritas Archidiecezji Lodzkiej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Caritas Archidiecezji Lodzkiej (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PDfysWcRmV8w9g_iX9rr8Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=314.0383&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 573 216 699",
+        "address": "Caritas Archidiecezji Lodzkiej, al. Marsz. Edwarda Smiglego-Rydza 24/26, 93-281 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caritas+Archidiecezji+%C5%81%C3%B3dzkiej/data=!4m7!3m6!1s0x471a34b08806aaa9:0xa29906e1472d3de5!8m2!3d51.7487849!4d19.4907913!16s%2Fg%2F11rbyskh5l!19sChIJqaoGiLA0GkcR5T0tR-EGmaI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVVXFEj7LG0cRYYo9mZZvIi0",
+        "name": "Szpital Tymczasowy W Ramach Wojewodzkiego Specjalistycznego Szpitala Imienia Dr Wladyslawa Bieganskiego",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Szpital Tymczasowy W Ramach Wojewodzkiego Specjalistycznego Szpitala Imienia Dr Wladyslawa Bieganskiego (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fhUahpOjJ5yfwwsDDHlkKQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=254.5364&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Szpital Tymczasowy W Ramach Wojewodzkiego Specjalistycznego Szpitala Imienia Dr Wladyslawa Bieganskiego, Patrice Lumumby 14, 91-404 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Szpital+Tymczasowy+W+Ramach+Wojew%C3%B3dzkiego+Specjalistycznego+Szpitala+Imienia+Dr+W%C5%82adys%C5%82awa+Biega%C5%84skiego/data=!4m7!3m6!1s0x471bcb3e12c55555:0x2d226f96993d8a61!8m2!3d51.7792041!4d19.4932931!16s%2Fg%2F11q1d91ywd!19sChIJVVXFEj7LG0cRYYo9mZZvIi0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJs7yogUTLG0cRnnKMss6cBm8",
+        "name": "Punkt Szczepien - Sp Zoz Csk Czechoslowacka",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien - Sp Zoz Csk Czechoslowacka (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9liiLuRQHS0ETYjL4IwZQQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=18.125088&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 42 675 75 00",
+        "address": "Punkt Szczepien - Sp Zoz Csk Czechoslowacka, Czechoslowacka 44112, 92-216 Lodz, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+-+Sp+Zoz+Csk+Czechos%C5%82owacka/data=!4m7!3m6!1s0x471bcb4481a8bcb3:0x6f069cceb28c729e!8m2!3d51.7723137!4d19.5083154!16s%2Fg%2F11rd2jz719!19sChIJs7yogUTLG0cRnnKMss6cBm8?authuser=0&hl=nl&rclk=1"
+    }
+]

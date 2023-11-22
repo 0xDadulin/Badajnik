@@ -1,0 +1,2708 @@
+[
+    {
+        "place_id": "ChIJw9RR0mhXIkcRN_ng2O3Fwoo",
+        "name": "Sanitas Medical Center Lublin",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 238,
+        "website": "http://www.cmsanitas.pl/",
+        "owner": {
+            "id": "112405409477826238111",
+            "name": "Sanitas Medical Center Lublin (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112405409477826238111"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPj1MXlPZwbFWAc1aEV7rMyR37BI1PvPPc49CR7=w408-h271-k-no",
+        "main_category": "Medisch centrum",
+        "categories": [
+            "Medisch centrum",
+            "Cosmetisch chirurg",
+            "Tandarts",
+            "Huisarts",
+            "Centrum voor diagnostische beeldvorming",
+            "Medisch laboratorium",
+            "Optometrist",
+            "Kinesist",
+            "Particulier ziekenhuis",
+            "Chirurg"
+        ],
+        "rating": 2.6,
+        "workday_timing": "07:30-20:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 81 534 04 00",
+        "address": "Sanitas Medical Center Lublin, Okopowa 3, 20-022 Lublin, Polen",
+        "review_keywords": [
+            {
+                "keyword": "racistisch",
+                "count": 3
+            },
+            {
+                "keyword": "kliniek",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sanitas+Medical+Center+Lublin/data=!4m7!3m6!1s0x47225768d251d4c3:0x8ac2c5edd8e0f937!8m2!3d51.2453149!4d22.5574267!16s%2Fg%2F1pp2vg4mw!19sChIJw9RR0mhXIkcRN_ng2O3Fwoo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJQVvETmpXIkcRE-xvU3iT6Cc",
+        "name": "CM Luxmed Sp. z o.o.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 236,
+        "website": "https://luxmedlublin.pl/",
+        "owner": {
+            "id": "117158767023720939136",
+            "name": "CM Luxmed Sp. z o.o. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117158767023720939136"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMuRgH7OhKwbu6EXsuvxpZueRG2pO6muG7WE38v=w408-h279-k-no",
+        "main_category": "Medisch centrum",
+        "categories": [
+            "Medisch centrum",
+            "Huisarts",
+            "Medische kliniek",
+            "Medisch laboratorium",
+            "Arbo-arts",
+            "Sportarts"
+        ],
+        "rating": 2.7,
+        "workday_timing": "07:00-19:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 81 532 37 11",
+        "address": "CM Luxmed Sp. z o.o., Krolewska 11, 20-400 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CM+Luxmed+Sp.+z+o.o./data=!4m7!3m6!1s0x4722576a4ec45b41:0x27e89378536fec13!8m2!3d51.2464037!4d22.5668151!16s%2Fg%2F11h81jqrpf!19sChIJQVvETmpXIkcRE-xvU3iT6Cc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3YIC9zVYIkcRI-WhLNOURyI",
+        "name": "CM Luxmed Sp. z o.o.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 232,
+        "website": "http://luxmedlublin.pl/",
+        "owner": {
+            "id": "112265230963360973328",
+            "name": "CM Luxmed Sp. z o.o. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112265230963360973328"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNK5-STQjsFtE6jzzt7DOqOt8M_Lx9t2kHKKwm7=w426-h240-k-no",
+        "main_category": "Medisch centrum",
+        "categories": [
+            "Medisch centrum",
+            "Cosmetische tandarts",
+            "Tandarts",
+            "Huisarts",
+            "Medisch laboratorium",
+            "Kindertandarts"
+        ],
+        "rating": 3.4,
+        "workday_timing": "07:00-20:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 81 532 37 11",
+        "address": "CM Luxmed Sp. z o.o., Koncertowa 4d, 20-866 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CM+Luxmed+Sp.+z+o.o./data=!4m7!3m6!1s0x47225835f70282dd:0x224794d32ca1e523!8m2!3d51.26804!4d22.540983!16s%2Fg%2F1tdjpxl5!19sChIJ3YIC9zVYIkcRI-WhLNOURyI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJR2DxK2hXIkcRLOXuuZYfwVw",
+        "name": "CM Luxmed",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 193,
+        "website": "https://luxmedlublin.pl/",
+        "owner": {
+            "id": "107375119250801919303",
+            "name": "CM Luxmed (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107375119250801919303"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP77xEs9Q5k9dYtepSX_EPTE1klfij0tuSrJeqP=w408-h291-k-no",
+        "main_category": "Medisch centrum",
+        "categories": [
+            "Medisch centrum",
+            "Tandarts",
+            "Huisarts",
+            "Medische kliniek",
+            "Kindertandarts",
+            "Psychotherapeut"
+        ],
+        "rating": 3.3,
+        "workday_timing": "07:00-20:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 81 532 37 11",
+        "address": "CM Luxmed, Radziwillowska 5, 20-080 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CM+Luxmed/data=!4m7!3m6!1s0x472257682bf16047:0x5cc11f96b9eee52c!8m2!3d51.2498589!4d22.5617361!16s%2Fg%2F1thx7c5q!19sChIJR2DxK2hXIkcRLOXuuZYfwVw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJz6EIwYZZIkcRfZhAHqTqkNA",
+        "name": "CM Luxmed",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 139,
+        "website": "https://luxmedlublin.pl/",
+        "owner": {
+            "id": "111366287404216753102",
+            "name": "CM Luxmed (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111366287404216753102"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM9L02BT-DFEBcAUT-I7WdsCmp2dRotbcHhs512=w426-h240-k-no",
+        "main_category": "Medisch centrum",
+        "categories": [
+            "Medisch centrum",
+            "Diagnosecentrum",
+            "Huisarts",
+            "Medische kliniek",
+            "Centrum voor diagnostische beeldvorming",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.1,
+        "workday_timing": "07:00-20:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 81 532 37 11",
+        "address": "CM Luxmed, Orkana 7, 20-504 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CM+Luxmed/data=!4m7!3m6!1s0x47225986c108a1cf:0xd090eaa41e40987d!8m2!3d51.2329873!4d22.5001114!16s%2Fg%2F11fn264mr7!19sChIJz6EIwYZZIkcRfZhAHqTqkNA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJvy4OioJXIkcRbVZm-Bx3cUc",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 49,
+        "website": "https://diag.pl/katalogi/placowki/lublin/punkt-pobran-diagnostyki-lublin-ul-wigilijna-12/",
+        "owner": {
+            "id": "112398284452296078170",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112398284452296078170"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMh0p3yLrQbLWb-UUKaXmQzFbtt4u9kfqNzopup=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.7,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 81 744 44 43",
+        "address": "Diagnostyka. Laboratoria Medyczne., Wigilijna 12, 20-502 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x472257828a0e2ebf:0x4771771cf866566d!8m2!3d51.2312853!4d22.5382539!16s%2Fg%2F11bxb9n06p!19sChIJvy4OioJXIkcRbVZm-Bx3cUc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJwWCazNxZIkcRzj5qhye-32c",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 41,
+        "website": "https://sklep.alablaboratoria.pl/badania?punkty_id=9668",
+        "owner": {
+            "id": "100693829406384719279",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100693829406384719279"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOEi5rCd1cG6iE7Zk428ArFUrWDtgwBGl-ASRVh=w408-h816-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.5,
+        "workday_timing": "07:30-12:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 81 503 23 99",
+        "address": "Punkt Pobran ALAB laboratoria, Zygmunta Krasinskiego 2/15, 20-709 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x472259dccc9a60c1:0x67dfbe27876a3ece!8m2!3d51.2417924!4d22.5170967!16s%2Fg%2F11hzjgw2t1!19sChIJwWCazNxZIkcRzj5qhye-32c?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJKXrUc2pZIkcRFOTI647rWRg",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 31,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9836",
+        "owner": {
+            "id": "103458708824733295762",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103458708824733295762"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOc4RxI3idZxWDN4IFQlTXJET9xxSbh6pQCI_E4=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.7,
+        "workday_timing": "07:00-12:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 81 535 85 54",
+        "address": "Punkt Pobran ALAB laboratoria, Onyksowa 6, 20-582 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x4722596a73d47a29:0x1859eb8eebc8e414!8m2!3d51.2218926!4d22.5004926!16s%2Fg%2F11mwbxg9dj!19sChIJKXrUc2pZIkcRFOTI647rWRg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJdYOHpvJWIkcRp-pfwgrE208",
+        "name": "Laboratorium Badan Genetycznych",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 29,
+        "website": "http://www.lbg.com.pl/",
+        "owner": {
+            "id": "106153029017990585021",
+            "name": "Laboratorium Badan Genetycznych (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106153029017990585021"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gDhnqXV9KZg9s7aJ4x_DMg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=29.729519&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "09:00-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 81 476 18 45",
+        "address": "Laboratorium Badan Genetycznych, Magnoliowa 2, 20-143 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Bada%C5%84+Genetycznych/data=!4m7!3m6!1s0x472256f2a6878375:0x4fdbc40ac25feaa7!8m2!3d51.2651815!4d22.5748546!16s%2Fg%2F1pv5w2805!19sChIJdYOHpvJWIkcRp-pfwgrE208?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0Uuvk0ZXIkcRxbmoRrvVH7s",
+        "name": "NZOZ Serviam Laboratorium Diagnostyczne Dabrowscy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 25,
+        "website": "http://www.laboratorium.lublin.pl/",
+        "owner": {
+            "id": "115768465683948385994",
+            "name": "NZOZ Serviam Laboratorium Diagnostyczne Dabrowscy (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115768465683948385994"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPWKAgMW3bsZRLHluJApLjRDey-iVtbe-WqSjd_=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 81 748 19 91",
+        "address": "NZOZ Serviam Laboratorium Diagnostyczne Dabrowscy, Czwartek 17, 20-124 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/NZOZ+Serviam+Laboratorium+Diagnostyczne+D%C4%85browscy/data=!4m7!3m6!1s0x4722574693af4bd1:0xbb1fd5bb46a8b9c5!8m2!3d51.2548946!4d22.5729046!16s%2Fg%2F1tf6fd72!19sChIJ0Uuvk0ZXIkcRxbmoRrvVH7s?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJL3c5gARXIkcRZvnIlec9RrI",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "website": "https://diag.pl/katalogi/placowki/lublin/punkt-pobran-diagnostyki-lublin-ul-topolowa-7/",
+        "owner": {
+            "id": "103550478444866677862",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103550478444866677862"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMwoNowy4o5iJOdVG2ab26kboPcWXZMlY7oAXsP=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.6,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 81 745 92 55",
+        "address": "Diagnostyka. Laboratoria Medyczne., Topolowa 7, 20-352 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x472257048039772f:0xb2463de795c8f966!8m2!3d51.231643!4d22.585613!16s%2Fg%2F11dyzlh4p3!19sChIJL3c5gARXIkcRZvnIlec9RrI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJe4D1HLZZIkcRELpojdQG5_w",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D10103",
+        "owner": {
+            "id": "103052969129311004112",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103052969129311004112"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOTuX1C0HEl4wI9KFd7hni45lk1HKvL7gzPuHMi=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-11:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 81 307 98 38",
+        "address": "Punkt Pobran ALAB laboratoria, Relaksowa 28, 20-819 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x472259b61cf5807b:0xfce706d48d68ba10!8m2!3d51.2673279!4d22.5280626!16s%2Fg%2F11s5tvw6sc!19sChIJe4D1HLZZIkcRELpojdQG5_w?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJP71nLA1ZIkcRerxKC2iEBMw",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "website": "https://diag.pl/katalogi/placowki/lublin/punkt-pobran-diagnostyki-lublin-ul-wallenroda-4c/https://diag.pl/pacjent/",
+        "owner": {
+            "id": "116242784009258744294",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116242784009258744294"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPA5YNeLQ-wt3aU2Y7WdUzsygBEu7jQRiix7wpY=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.4,
+        "workday_timing": "07:00-16:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 665 680 016",
+        "address": "Diagnostyka. Laboratoria Medyczne., Konrada Wallenroda 4c, 20-607 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x4722590d2c67bd3f:0xcc0484680b4abc7a!8m2!3d51.2399182!4d22.5265074!16s%2Fg%2F11jb6yqz1f!19sChIJP71nLA1ZIkcRerxKC2iEBMw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJk55lJgVZIkcRCkY7Q_zcG28",
+        "name": "Punkt Pobran CM Luxmed",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": "https://luxmedlublin.pl/",
+        "owner": {
+            "id": "112867283210088141220",
+            "name": "Punkt Pobran CM Luxmed (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112867283210088141220"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNC0hYXcdQfFr8ALDeMmPVRwEXSYsxus5QdANMA=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:00-19:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 81 532 37 11",
+        "address": "Punkt Pobran CM Luxmed, Orkana 7, 20-504 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+CM+Luxmed/data=!4m7!3m6!1s0x4722590526659e93:0x6f1bdcfc433b460a!8m2!3d51.2330246!4d22.4995141!16s%2Fg%2F11h_51xgmq!19sChIJk55lJgVZIkcRCkY7Q_zcG28?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJX9GDefBXIkcRuYJ_0-Jl8PM",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9997",
+        "owner": {
+            "id": "103140240387281615523",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103140240387281615523"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNf4oC0SU6YvWjg9SKa8mKRLqqnHUMx5ETmGgsi=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "06:30-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 81 307 95 05",
+        "address": "Punkt Pobran ALAB laboratoria, Tumidajskiego 2, 20-247 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x472257f07983d15f:0xf3f065e2d37f82b9!8m2!3d51.2588882!4d22.5863264!16s%2Fg%2F11q4bzvd4q!19sChIJX9GDefBXIkcRuYJ_0-Jl8PM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJSZ-6NThXIkcRmuMm5wLCSa8",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": "https://diag.pl/katalogi/placowki/lublin/punkt-pobran-diagnostyki-lublin-ul-witolda-chodzki-10a/",
+        "owner": {
+            "id": "117206927136505212823",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117206927136505212823"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOeRiCw9Rmfnj2qlWNdgOFQUGHC_h8CsczyXhA0=w408-h543-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": 3.9,
+        "workday_timing": "07:00-20:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 799 366 566",
+        "address": "Diagnostyka. Laboratoria Medyczne., Doktora Witolda Chodzki 10a, 20-093 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x4722573835ba9f49:0xaf49c202e726e39a!8m2!3d51.2641957!4d22.5594726!16s%2Fg%2F11shqg0xl2!19sChIJSZ-6NThXIkcRmuMm5wLCSa8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJP4rx-ONZIkcRUNFqIq-hSwQ",
+        "name": " MRI-LAB Centrum Medyczne - Rezonans Magnetyczny",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": "https://mri-lab.pl/",
+        "owner": {
+            "id": "102708552406968793536",
+            "name": " MRI-LAB Centrum Medyczne - Rezonans Magnetyczny (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102708552406968793536"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPbCgueeXUKjXDzrKMXnGD01tsyIQUI63jw1Elf=w408-h544-k-no",
+        "main_category": "MRI-centrum",
+        "categories": [
+            "MRI-centrum",
+            "Medisch centrum",
+            "Medische kliniek",
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:30-20:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 81 511 40 00",
+        "address": " MRI-LAB Centrum Medyczne - Rezonans Magnetyczny, Gesia 3, 20-719 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%F0%9F%A9%BA+MRI-LAB+Centrum+Medyczne+-+Rezonans+Magnetyczny/data=!4m7!3m6!1s0x472259e3f8f18a3f:0x44ba1af226ad150!8m2!3d51.2293376!4d22.484541!16s%2Fg%2F11srqkdx83!19sChIJP4rx-ONZIkcRUNFqIq-hSwQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ36ACNLtZIkcRCp8WcU6QBqw",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "118413019798004044323",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/118413019798004044323"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMIhaijTm4Eml09gfJc5vhLYWSGGhuvGsc_B7ry=w408-h240-k-no-pi-20-ya353.0478-ro-0-fo100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-15:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Naleczowska 18a/U23, 20-701 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x472259bb3402a0df:0xac06904e71169f0a!8m2!3d51.2484169!4d22.5158901!16s%2Fg%2F11q362nfr0!19sChIJ36ACNLtZIkcRCp8WcU6QBqw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJrdLYkPRXIkcR-ZF_HLEi1MA",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9701",
+        "owner": {
+            "id": "110779441552542827487",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110779441552542827487"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPy9nicuOkerIk_kw76j6AeGaAmciCuNK8eSKcF=w408-h544-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "07:00-18:45",
+        "closed_on": [],
+        "phone": "+48 81 535 85 93",
+        "address": "Punkt Pobran ALAB laboratoria, Ceramiczna 1, 20-001 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x472257f490d8d2ad:0xc0d422b11c7f91f9!8m2!3d51.2704335!4d22.5668611!16s%2Fg%2F11sdnw8qgl!19sChIJrdLYkPRXIkcR-ZF_HLEi1MA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJO2Eeq_1XIkcR7Svl-XTJZCw",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": "https://diag.pl/katalogi/placowki/lublin/punkt-pobran-diagnostyki-lublin-ul-nalkowskich-108-37/",
+        "owner": {
+            "id": "116428160888866341673",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116428160888866341673"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lZBCYYmLaj6UhYvNLBuS-w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=79.11184&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.4,
+        "workday_timing": "07:30-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 682 392",
+        "address": "Diagnostyka. Laboratoria Medyczne., Nalkowskich 108/37, 20-470 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x472257fdab1e613b:0x2c64c974f9e52bed!8m2!3d51.210264!4d22.5444999!16s%2Fg%2F11jcfpm0qc!19sChIJO2Eeq_1XIkcR7Svl-XTJZCw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ5wK2fTJXIkcRd19hyQq0YwU",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9749",
+        "owner": {
+            "id": "116613766634640710466",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116613766634640710466"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPZg-xbPhfLKjXH-Aho8nnP2RfYokUObAJVxvm_=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 81 535 85 85",
+        "address": "Punkt Pobran ALAB laboratoria, aleja Kompozytorow Polskich 8, 20-848 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x472257327db602e7:0x563b40ac9615f77!8m2!3d51.2614812!4d22.5512244!16s%2Fg%2F11h4v7yxfk!19sChIJ5wK2fTJXIkcRd19hyQq0YwU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJzQPdja5XIkcRhmMS-ZNwFro",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": "https://sklep.alablaboratoria.pl/badania?punkty_id=9842",
+        "owner": {
+            "id": "108573243338463184177",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108573243338463184177"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNobFuOdzHTWcHV8TiDLwcyV9iHZpBqFB-ExIYl=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "07:30-12:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 81 307 99 91",
+        "address": "Punkt Pobran ALAB laboratoria, Krancowa 107/lok 8, 20-338 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x472257ae8ddd03cd:0xba167093f9126386!8m2!3d51.2321389!4d22.592201!16s%2Fg%2F11ngn4z0q5!19sChIJzQPdja5XIkcRhmMS-ZNwFro?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJffLXEfJWIkcR6uKbe6dpq90",
+        "name": "Centralne Laboratorium Badawcze Uniwersytetu Przyrodniczego w Lublinie",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": "https://up.lublin.pl/uslugi/centralne-laboratorium/",
+        "owner": {
+            "id": "102083885713807527536",
+            "name": "Centralne Laboratorium Badawcze Uniwersytetu Przyrodniczego w Lublinie (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102083885713807527536"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNBWlUfhIBXQ2avQAbaV-d3Dfx1WYyqo2v_BrjU=w408-h272-k-no",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 4.9,
+        "workday_timing": "08:00-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 81 531 97 77",
+        "address": "Centralne Laboratorium Badawcze Uniwersytetu Przyrodniczego w Lublinie, Gleboka 28, 20-612 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Centralne+Laboratorium+Badawcze+Uniwersytetu+Przyrodniczego+w+Lublinie/data=!4m7!3m6!1s0x472256f211d7f27d:0xddab69a77b9be2ea!8m2!3d51.2406402!4d22.5455033!16s%2Fg%2F1hc6gnjrn!19sChIJffLXEfJWIkcR6uKbe6dpq90?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJmVC-a-xZIkcRDcdrTvWeWYo",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": "https://diag.pl/katalogi/placowki/lublin/punkt-pobran-diagnostyki-lublin-ul-willowa-29/",
+        "owner": {
+            "id": "114655104175760164195",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114655104175760164195"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xhUd2AYBuSptd_rKFzSHyg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=38.71929&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.6,
+        "workday_timing": "08:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 681 348",
+        "address": "Diagnostics. Medical Laboratories., Willowa 29, 20-819 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x472259ec6bbe5099:0x8a599ef54e6bc70d!8m2!3d51.2648713!4d22.5218217!16s%2Fg%2F11df0x2f4f!19sChIJmVC-a-xZIkcRDcdrTvWeWYo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1WA5E2ZXIkcRegtDyZgAUpk",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9232",
+        "owner": {
+            "id": "100614090982925488326",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100614090982925488326"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP9ux6niIWWuYyhTd-dswd1QIKbal6wQmhv4yyJ=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.5,
+        "workday_timing": "07:00-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 797 028 365",
+        "address": "Punkt Pobran ALAB laboratoria, Hipoteczna 4, 20-400 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x47225766133960d5:0x99520098c9430b7a!8m2!3d51.2467806!4d22.5532917!16s%2Fg%2F1tcz726r!19sChIJ1WA5E2ZXIkcRegtDyZgAUpk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJm4mjO0RZIkcRbcAahSKi3-U",
+        "name": "CDL - Lublin Harnasie",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": "https://cdl.pl/",
+        "owner": {
+            "id": "115679516233772387896",
+            "name": "CDL - Lublin Harnasie (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115679516233772387896"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPkL2QIdpuOSVoQfC-KgElHM73M-_TdWe0KvovT=w425-h240-k-no",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 4.7,
+        "workday_timing": "07:30-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 572 353 136",
+        "address": "CDL - Lublin Harnasie, Harnasie 11, 20-001 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CDL+-+Lublin+Harnasie/data=!4m7!3m6!1s0x472259443ba3899b:0xe5dfa222851ac06d!8m2!3d51.275329!4d22.545358!16s%2Fg%2F11h4g84hm3!19sChIJm4mjO0RZIkcRbcAahSKi3-U?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_8RkVJBXIkcRuvlmvM1y-xw",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": "https://www.synevo.pl/",
+        "owner": {
+            "id": "115719967613016482025",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115719967613016482025"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOwHkQTECMuAa3N5gcQTszQx2tocpNv-s3tAg3n=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.7,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Aleje Raclawickie 8, 20-037 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x472257905464c4ff:0x1cfb72cdbc66f9ba!8m2!3d51.2475369!4d22.5499381!16s%2Fg%2F11pd2hh_ty!19sChIJ_8RkVJBXIkcRuvlmvM1y-xw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJeWeRISNYIkcRBKXUgqXLni4",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": "https://diag.pl/katalogi/placowki/lublin/punkt-pobran-diagnostyki-lublin-ul-onyksowa-12/",
+        "owner": {
+            "id": "105156804943228345618",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105156804943228345618"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iLVggVY-_61UGGqvem6lkg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=82.78916&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.5,
+        "workday_timing": "08:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 81 479 57 92",
+        "address": "Diagnostics. Medical Laboratories., Onyksowa 12, 20-582 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x4722582321916779:0x2e9ecba582d4a504!8m2!3d51.2210909!4d22.500751!16s%2Fg%2F11dyzl3qkx!19sChIJeWeRISNYIkcRBKXUgqXLni4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJudPPiAdXIkcRLT1yvcSz22s",
+        "name": "Punkt Pobran CM Luxmed",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": "https://luxmedlublin.pl/",
+        "owner": {
+            "id": "105328719651011984557",
+            "name": "Punkt Pobran CM Luxmed (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105328719651011984557"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOjofyNpr2jbPScJ6ixjWLK9cjdl1sURuekXU0g=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 81 473 60 66",
+        "address": "Punkt Pobran CM Luxmed, Jozefa Franczaka \"Lalka\" 43, 20-325 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+CM+Luxmed/data=!4m7!3m6!1s0x4722570788cfd3b9:0x6bdbb3c4bd723d2d!8m2!3d51.2162768!4d22.6313018!16s%2Fg%2F11ngjq6vhy!19sChIJudPPiAdXIkcRLT1yvcSz22s?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJnc4JdulXIkcR-pQvZlPAavw",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "https://diag.pl/katalogi/placowki/lublin/lublin-ul-prof-a-gebali-6/",
+        "owner": {
+            "id": "106485539997949991987",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/106485539997949991987"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xe2ffX3QNKl3A9aRdhPpAg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=178.81497&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 663 681 147",
+        "address": "Diagnostyka. Laboratoria Medyczne., Profesora Antoniego Gebali 6, 20-093 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x472257e97609ce9d:0xfc6ac053662f94fa!8m2!3d51.2601241!4d22.5614671!16s%2Fg%2F11gm91fzxq!19sChIJnc4JdulXIkcR-pQvZlPAavw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJIynlOMhXIkcRxn-7qXhmEtE",
+        "name": "CEREClab - Laboratorium Protetyki Komputerowej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "https://cereclab.pl/",
+        "owner": {
+            "id": "102769363921996376435",
+            "name": "CEREClab - Laboratorium Protetyki Komputerowej (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102769363921996376435"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN8E4MENm3Ri8mId2d7eS5Fxh_wW_WkO_8DdR02=w408-h272-k-no",
+        "main_category": "Tandtechnisch laboratorium",
+        "categories": [
+            "Tandtechnisch laboratorium",
+            "Aanbieder van tandimplantaten",
+            "Medisch laboratorium"
+        ],
+        "rating": 4.6,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 538 405 454",
+        "address": "CEREClab - Laboratorium Protetyki Komputerowej, Graniczna 12, 20-400 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CEREClab+-+Laboratorium+Protetyki+Komputerowej/data=!4m7!3m6!1s0x472257c838e52923:0xd1126678a9bb7fc6!8m2!3d51.2430041!4d22.5588469!16s%2Fg%2F11j3wvc7xx!19sChIJIynlOMhXIkcRxn-7qXhmEtE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJkQ4uNmBXIkcRQossjeaLHo4",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": "https://www.synevo.pl/laboratorium-lublin-leszczynskiego/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3Dlublin_leszczynskiego",
+        "owner": {
+            "id": "108222121220174426135",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108222121220174426135"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNJR0kTXzagObVOMhLteE3BPK7s-hLoYGVlGwB4=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.5,
+        "workday_timing": "07:30-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Stanislawa Leszczynskiego 25, 20-068 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x47225760362e0e91:0x8e1e8be68d2c8b42!8m2!3d51.2513716!4d22.5440223!16s%2Fg%2F11dflpqg8k!19sChIJkQ4uNmBXIkcRQossjeaLHo4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJtRHkCrNQIkcRsAgHuZQ5k6c",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": "https://diag.pl/katalogi/placowki/lublin/punkt-pobran-diagnostyki-lublin-ul-weglarza-16/",
+        "owner": {
+            "id": "110130556239947134001",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110130556239947134001"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=P8FftmiTIftNw8U7RABeug&cb_client=search.gws-prod.gps&w=408&h=240&yaw=33.174873&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1.6,
+        "workday_timing": "07:30-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 795 410",
+        "address": "Diagnostics. Medical Laboratories., ul, Stanislawa Weglarza 16, 20-141 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x472250b30ae411b5:0xa7933994b90708b0!8m2!3d51.2703694!4d22.5818732!16s%2Fg%2F11df0x446w!19sChIJtRHkCrNQIkcRsAgHuZQ5k6c?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJrXk5RxlRIkcRQ0-pvVRXhGI",
+        "name": "Punkt Pobran CM Luxmed",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": "https://luxmedlublin.pl/",
+        "owner": {
+            "id": "112979408489727448615",
+            "name": "Punkt Pobran CM Luxmed (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112979408489727448615"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMAXrxfN4n25O007PgFWiBJdGFhFrSsSrfaDPqE=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-12:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 81 473 60 67",
+        "address": "Punkt Pobran CM Luxmed, Bazylianowka 58, 20-147 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+CM+Luxmed/data=!4m7!3m6!1s0x47225119473979ad:0x62845754bda94f43!8m2!3d51.2693343!4d22.5771946!16s%2Fg%2F11n8_83pqc!19sChIJrXk5RxlRIkcRQ0-pvVRXhGI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJrdIS_4VXIkcRqYglrIuHgz8",
+        "name": "Laboratorium INNGEN",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "http://inngen.pl/",
+        "owner": {
+            "id": "114384426725214630636",
+            "name": "Laboratorium INNGEN (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/114384426725214630636"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOW5FJzK_r_tXWM61adkH5AyeuFuilqonT2qP_D=w408-h292-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:30-15:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 517 499 740",
+        "address": "Laboratorium INNGEN, Magnoliowa 2, 20-143 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+INNGEN/data=!4m7!3m6!1s0x47225785ff12d2ad:0x3f83878bac2588a9!8m2!3d51.2654853!4d22.5738059!16s%2Fg%2F11ll8wxhy9!19sChIJrdIS_4VXIkcRqYglrIuHgz8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJaz_dt1pXIkcRN0Fuk8LiH6E",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9230",
+        "owner": {
+            "id": "115025123316560592645",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115025123316560592645"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPtgMt3MzDxeEQkiZJrAWYdEXv81xI5U_eSn99a=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "07:00-15:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 81 535 85 85",
+        "address": "Punkt Pobran ALAB laboratoria, Doktora Kazimierza Jaczewskiego 8, 20-090 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x4722575ab7dd3f6b:0xa11fe2c2936e4137!8m2!3d51.259685!4d22.5643635!16s%2Fg%2F1pt_s7jb8!19sChIJaz_dt1pXIkcRN0Fuk8LiH6E?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJFeP5Pk9ZIkcRt6hf5r2yE5I",
+        "name": "Diagnostyka. Laboratorium Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "https://diag.pl/katalogi/placowki/lublin/punkt-pobran-diagnostyki-lublin-ul-kawaleryjska-10/",
+        "owner": {
+            "id": "111509274972276288869",
+            "name": "Diagnostyka. Laboratorium Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111509274972276288869"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0CwWy2sxs9qcp7wGQL1iMA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=334.8102&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:30-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 81 525 72 74",
+        "address": "Diagnostyka. Laboratorium Medyczne., Kawaleryjska 10/5, 20-552 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratorium+Medyczne./data=!4m7!3m6!1s0x4722594f3ef9e315:0x9213b2bde65fa8b7!8m2!3d51.2343953!4d22.5090769!16s%2Fg%2F11fnr9bmw_!19sChIJFeP5Pk9ZIkcRt6hf5r2yE5I?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJJQ2kSv5XIkcRQX4L3TNj88E",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "https://www.synevo.pl/laboratorium-lublin/?utm_source=google&utm_medium=mybusiness&utm_campaign=lublin_jutrzenki",
+        "owner": {
+            "id": "115916154421441647274",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115916154421441647274"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNP_cytJzo3t83Um6yPDn13xYlQ-KZY81rxUcZ4=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.4,
+        "workday_timing": "07:15-13:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Jutrzenki 4, 20-538 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x472257fe4aa40d25:0xc1f36333dd0b7e41!8m2!3d51.2290629!4d22.5233678!16s%2Fg%2F11jfd8jc7k!19sChIJJQ2kSv5XIkcRQX4L3TNj88E?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ5WvRPtdXIkcRsDyGCZH2ppE",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "https://diag.pl/katalogi/%3Fpost_type%3Dinstitution%26p%3D40553518%26preview%3Dtrue",
+        "owner": {
+            "id": "109981556140452289156",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109981556140452289156"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO5O8y5hkUSUVeubo8iFLb5_4a6e6TWTmH2Qx5D=w507-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1.8,
+        "workday_timing": "08:00-11:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 663 681 131",
+        "address": "Diagnostyka. Laboratoria Medyczne., ul. Stadionowa 1 Punkt MOBILNY Drive&Go-Thru, znajduje sie w NAMIOCIE ustawionym na terenie obiektu sportowego Arena, 20-405 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x472257d73ed16be5:0x91a6f69109863cb0!8m2!3d51.2321616!4d22.5580449!16s%2Fg%2F11fv3cf49h!19sChIJ5WvRPtdXIkcRsDyGCZH2ppE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1RkVz0RXIkcRbHNhj_hMYdA",
+        "name": "Laboratorium Planetmed",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "https://planetmed.pl/",
+        "owner": {
+            "id": "109525545561886686557",
+            "name": "Laboratorium Planetmed (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109525545561886686557"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMSCg7UqJIZL3x4CP9IJY8I-fCbI7HmPYT8wME=w408-h612-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 724 588 772",
+        "address": "Laboratorium Planetmed, Frezerow 3, 20-209 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Planetmed/data=!4m7!3m6!1s0x47225744cf1519d5:0xd0614cf88f61736c!8m2!3d51.245949!4d22.6085893!16s%2Fg%2F11qb86rhtv!19sChIJ1RkVz0RXIkcRbHNhj_hMYdA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJP5LpyXRZIkcRALs1f2XViNg",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "https://diag.pl/katalogi/placowki/lublin/punkt-pobran-diagnostyki-lublin-ul-glowackiego-35/",
+        "owner": {
+            "id": "100812213500413013335",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100812213500413013335"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MWEitGAExdmx5GcH7hMMUg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=138.68924&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:30-12:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 81 533 21 45",
+        "address": "Diagnostyka. Laboratoria Medyczne., Bartosza Glowackiego 35, 20-060 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x47225974c9e9923f:0xd888d5657f35bb00!8m2!3d51.2537839!4d22.5387096!16s%2Fg%2F11q4kb0nv5!19sChIJP5LpyXRZIkcRALs1f2XViNg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJe0fdt1pXIkcROt9O3USjYi0",
+        "name": "Medyczne Laboratorium Diagnostyczne Centrum Onkologii Ziemi Lubelskiej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "https://cozl.eu/pacjent/zaklady/medyczne-laboratorium-diagnostyczne",
+        "owner": {
+            "id": "117279759408015637748",
+            "name": "Medyczne Laboratorium Diagnostyczne Centrum Onkologii Ziemi Lubelskiej (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117279759408015637748"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNATWpNxbO76Yrh5uTLu9xnPWIqPulS5dd8OyIC=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Diagnosecentrum"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-17:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 81 454 14 37",
+        "address": "Medyczne Laboratorium Diagnostyczne Centrum Onkologii Ziemi Lubelskiej, Doktora Kazimierza Jaczewskiego 7, 20-090 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Medyczne+Laboratorium+Diagnostyczne+Centrum+Onkologii+Ziemi+Lubelskiej/data=!4m7!3m6!1s0x4722575ab7dd477b:0x2d62a344dd4edf3a!8m2!3d51.258136!4d22.5671802!16s%2Fg%2F1tdbjrkn!19sChIJe0fdt1pXIkcROt9O3USjYi0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJPT2eT2pXIkcRwMrG4-sJB3Y",
+        "name": "Punkt Pobran CM Luxmed",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "http://luxmedlublin.pl/dla_pacjenta/2,18,strona,badania-i-zabiegi,laboratorium",
+        "owner": {
+            "id": "118362812890017346601",
+            "name": "Punkt Pobran CM Luxmed (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/118362812890017346601"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPx56OiiLK3_ZrL_P9lTFyDqnyX8nrUAyV2GcIJ=w408-h279-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 81 532 37 11",
+        "address": "Punkt Pobran CM Luxmed, Krolewska 11, 20-109 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+CM+Luxmed/data=!4m7!3m6!1s0x4722576a4f9e3d3d:0x760709ebe3c6cac0!8m2!3d51.2464037!4d22.5668151!16s%2Fg%2F11bxg9t6m5!19sChIJPT2eT2pXIkcRwMrG4-sJB3Y?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJuSoYfTZYIkcRh_6cGw3vbiE",
+        "name": "Punkt Pobran CM Luxmed",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "http://luxmedlublin.pl/dla_pacjenta/2,18,strona,badania-i-zabiegi,laboratorium",
+        "owner": {
+            "id": "115877762259940851735",
+            "name": "Punkt Pobran CM Luxmed (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115877762259940851735"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNk9gc4cKJ8EX5a5tzsbCxPE5aPZwuJ4yQdUfgd=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Medische kliniek",
+            "Revalidatiearts",
+            "Kinesist",
+            "Inloopkliniek"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-19:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 81 532 37 11",
+        "address": "Punkt Pobran CM Luxmed, Zwycieska 6, 20-555 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+CM+Luxmed/data=!4m7!3m6!1s0x472258367d182ab9:0x216eef0d1b9cfe87!8m2!3d51.2366296!4d22.4944876!16s%2Fg%2F11bxg99x4f!19sChIJuSoYfTZYIkcRh_6cGw3vbiE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJIXkgZ9lZIkcRnKL34VRclVI",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "https://www.alablaboratoria.pl/",
+        "owner": {
+            "id": "116689364719461630543",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116689364719461630543"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPKF3JLtWkOV3tBEicF-AzM6enuCo7Z9Qk398fq=w550-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 535 85 85",
+        "address": "Punkt Pobran ALAB laboratoria, Weteranow 46, 20-044 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x472259d967207921:0x52955c54e1f7a29c!8m2!3d51.2486126!4d22.5316026!16s%2Fg%2F11c6w09w_j!19sChIJIXkgZ9lZIkcRnKL34VRclVI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJWZtWduBWIkcRjSfb3wr4uUc",
+        "name": "Laboratorium Badan Materialowych \"LAB TEST\" Sp. z o.o.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "http://www.lab-test.pl/",
+        "owner": {
+            "id": "110001699966998762464",
+            "name": "Laboratorium Badan Materialowych \"LAB TEST\" Sp. z o.o. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110001699966998762464"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOk36EAWp-rO2-mklyTEKoyoWySB904dBYwI9S-=w408-h290-k-no",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 81 749 10 39",
+        "address": "Laboratorium Badan Materialowych \"LAB TEST\" Sp. z o.o., Frezerow 13, 20-209 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Bada%C5%84+Materia%C5%82owych+%22LAB+TEST%22+Sp.+z+o.o./data=!4m7!3m6!1s0x472256e076569b59:0x47b9f80adfdb278d!8m2!3d51.2410479!4d22.6054836!16s%2Fg%2F1tfpng4w!19sChIJWZtWduBWIkcRjSfb3wr4uUc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ27G7xGhXIkcRIS8o0i7W4Po",
+        "name": "Centrum Badan DNA. CM SANITAS",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "http://www.ustalenie.ojcostwa.com/",
+        "owner": {
+            "id": "118095860970079350203",
+            "name": "Centrum Badan DNA. CM SANITAS (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/118095860970079350203"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPqrD2E5VnXDlGo0eLE3V3uUcz_b6wqdJOWUlaT=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.5,
+        "workday_timing": "07:30-20:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 81 534 74 80",
+        "address": "Centrum Badan DNA. CM SANITAS, Zeslancow Sybiru 5, 20-008 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Centrum+Bada%C5%84+DNA.+CM+SANITAS/data=!4m7!3m6!1s0x47225768c4bbb1db:0xfae0d62ed2282f21!8m2!3d51.2454634!4d22.5574205!16s%2Fg%2F1tx8rz6s!19sChIJ27G7xGhXIkcRIS8o0i7W4Po?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJncbhytZZIkcRpzxSppOSa3A",
+        "name": "Punkt Pobran CM Luxmed",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://luxmedlublin.pl/",
+        "owner": {
+            "id": "108487969583983819833",
+            "name": "Punkt Pobran CM Luxmed (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108487969583983819833"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPgEklCthpAWtr5bt4Ex9V2Kmfyf5-E2uinES6u=w408-h302-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:30-12:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 81 473 60 69",
+        "address": "Punkt Pobran CM Luxmed, Tomasza Zana 14, 20-601 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+CM+Luxmed/data=!4m7!3m6!1s0x472259d6cae1c69d:0x706b9293a6523ca7!8m2!3d51.2437325!4d22.5168607!16s%2Fg%2F11svh81jg5!19sChIJncbhytZZIkcRpzxSppOSa3A?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJWWcHO0FXIkcRzTCVT5-3PCM",
+        "name": "Laboratorium Uslug Badawczych, Lubelskiej Spoldzielni Uslug Mleczarskich w Lublinie",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "http://lsum.pl/laboratorium/",
+        "owner": {
+            "id": null,
+            "name": "Laboratorium Uslug Badawczych, Lubelskiej Spoldzielni Uslug Mleczarskich w Lublinie (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM2eV97RL6T8CjVIvKF5BhpSeehrS1Cvi1mazHr=w408-h306-k-no",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-15:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 884 621 888",
+        "address": "Laboratorium Uslug Badawczych, Lubelskiej Spoldzielni Uslug Mleczarskich w Lublinie, Probostwo 4, 20-400 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Us%C5%82ug+Badawczych,+Lubelskiej+Sp%C3%B3%C5%82dzielni+Us%C5%82ug+Mleczarskich+w+Lublinie/data=!4m7!3m6!1s0x472257413b076759:0x233cb79f4f9530cd!8m2!3d51.2525637!4d22.5662759!16s%2Fg%2F11mhp77g6y!19sChIJWWcHO0FXIkcRzTCVT5-3PCM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4_iT1pxZIkcRmWBA4JRKa3U",
+        "name": "Centrum Medyczne Damiana - Mobilny Punkt Wymazowy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://www.damian.pl/",
+        "owner": {
+            "id": null,
+            "name": "Centrum Medyczne Damiana - Mobilny Punkt Wymazowy (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S05s3hNE6mVIJa_aZxC_vQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=218.61282&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "08:00-16:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": null,
+        "address": "Centrum Medyczne Damiana - Mobilny Punkt Wymazowy, Konrada Wallenroda 4C, 20-607 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Centrum+Medyczne+Damiana+-+Mobilny+Punkt+Wymazowy/data=!4m7!3m6!1s0x4722599cd693f8e3:0x756b4a94e0406099!8m2!3d51.2399182!4d22.5265074!16s%2Fg%2F11mv26yqfy!19sChIJ4_iT1pxZIkcRmWBA4JRKa3U?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ45S5_VpXIkcRE06jZmJIrqU",
+        "name": "Osrodek Medycyny Doswiadczalnej Uniwersytet Medyczny w Lublinie",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://www.omd.umlub.pl/",
+        "owner": {
+            "id": null,
+            "name": "Osrodek Medycyny Doswiadczalnej Uniwersytet Medyczny w Lublinie (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B56OXY5QZJA2M3_yEKMWWg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=123.07824&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 448 59 00",
+        "address": "Osrodek Medycyny Doswiadczalnej Uniwersytet Medyczny w Lublinie, Doktora Kazimierza Jaczewskiego 8, 20-090 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/O%C5%9Brodek+Medycyny+Do%C5%9Bwiadczalnej+Uniwersytet+Medyczny+w+Lublinie/data=!4m7!3m6!1s0x4722575afdb994e3:0xa5ae486266a34e13!8m2!3d51.2586189!4d22.5617114!16s%2Fg%2F11by_l9s7_!19sChIJ45S5_VpXIkcRE06jZmJIrqU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJj6Vh2mhXIkcR1VOGyzFsHw8",
+        "name": "testDNA Lublin Przyjazni",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://www.testdna.pl/",
+        "owner": {
+            "id": "109423563273295967724",
+            "name": "testDNA Lublin Przyjazni (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109423563273295967724"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipONOVfoXj-K5IE5SEm6m2Wphv6OugHN8zegmp5B=w408-h270-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 665 761 161",
+        "address": "testDNA Lublin Przyjazni, Przyjazni 13, 20-314 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/testDNA+Lublin+Przyja%C5%BAni/data=!4m7!3m6!1s0x47225768da61a58f:0xf1f6c31cb8653d5!8m2!3d51.2437205!4d22.5886246!16s%2Fg%2F1hdyxfdc0!19sChIJj6Vh2mhXIkcR1VOGyzFsHw8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ85FIdiIxq0cR1Ofiv_wCP-o",
+        "name": "Emmed Ewa Maluga-Lukasiak",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "http://www.emmed-lab.pl/",
+        "owner": {
+            "id": "115640886495999201324",
+            "name": "Emmed Ewa Maluga-Lukasiak (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/115640886495999201324"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPiYlKymDB2zbjxA7hEL1RuyEUMNtI7szVO8dxX=w813-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Service establishment"
+        ],
+        "rating": null,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 794 365 911",
+        "address": null,
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Emmed+Ewa+Maluga-%C5%81ukasiak/data=!4m7!3m6!1s0x47ab3122764891f3:0xea3f02fcbfe2e7d4!8m2!3d51.218109!4d22.5637702!16s%2Fg%2F11tx9jd_sc!19sChIJ85FIdiIxq0cR1Ofiv_wCP-o?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ99-0uLtXIkcR1Ib3sDLj-lQ",
+        "name": "HorizOn Business HUB Sp. z o.o.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "http://www.direct-astigmatic-test.com/",
+        "owner": {
+            "id": null,
+            "name": "HorizOn Business HUB Sp. z o.o. (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sEQ4buCTfbkyRD_GeSiJOQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=182.78613&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 609 181 714",
+        "address": "HorizOn Business HUB Sp. z o.o., Graniczna 19, 20-010 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/HorizOn+Business+HUB+Sp.+z+o.o./data=!4m7!3m6!1s0x472257bbb8b4dff7:0x54fae332b0f786d4!8m2!3d51.2427809!4d22.5588176!16s%2Fg%2F11qlb0wlzw!19sChIJ99-0uLtXIkcR1Ib3sDLj-lQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8fl9ZetZIkcRWVw_wKkrw9g",
+        "name": "Diagnostyka. Laboratorium Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://diag.pl/katalogi/placowki/lublin/punkt-pobran-kontrahenta-lublin-ul-jutrzenki-10/",
+        "owner": {
+            "id": "116772138790980717524",
+            "name": "Diagnostyka. Laboratorium Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116772138790980717524"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Fv6i1kS5onsWtq53GjgkSA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=154.63312&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 661 912 746",
+        "address": "Diagnostyka. Laboratorium Medyczne., Jutrzenki 10/16a, 20-538 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratorium+Medyczne./data=!4m7!3m6!1s0x472259eb657df9f1:0xd8c32ba9c03f5c59!8m2!3d51.2293204!4d22.5209871!16s%2Fg%2F11h5nbln1j!19sChIJ8fl9ZetZIkcRWVw_wKkrw9g?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJB5XvzsJXIkcR7pWE74ugLeg",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://diag.pl/katalogi/placowki/lublin/punkt-pobran-diagnostyki-lublin-ul-kapucynska-1a/",
+        "owner": {
+            "id": "111133247086525040468",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/111133247086525040468"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=s-mHkpkZz-M_CkzLaildlw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=246.1497&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 661 912 746",
+        "address": "Diagnostyka. Laboratoria Medyczne., Kapucynska 1a, 20-009 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x472257c2ceef9507:0xe82da08bef8495ee!8m2!3d51.2468384!4d22.5613585!16s%2Fg%2F11sgj3ct81!19sChIJB5XvzsJXIkcR7pWE74ugLeg?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJaR2hGj1XIkcRU95wC_Ml3GA",
+        "name": "Punkt szczepien Smarthealth",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": null,
+        "owner": {
+            "id": "102333189455390483772",
+            "name": "Punkt szczepien Smarthealth (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102333189455390483772"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOZdSC6p_p5g1jyWh4Mw-AX4Z6fx3hAw7FZifCB=w408-h511-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Huisarts",
+            "Medisch centrum",
+            "Medische organisatie"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 602 692 500",
+        "address": "Punkt szczepien Smarthealth, Turystyczna 36, 20-207 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+szczepie%C5%84+Smarthealth/data=!4m7!3m6!1s0x4722573d1aa11d69:0x60dc25f30b70de53!8m2!3d51.2543233!4d22.6031338!16s%2Fg%2F11q3632yn6!19sChIJaR2hGj1XIkcRU95wC_Ml3GA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJXRmP0HpXIkcRENdpYFmj8tQ",
+        "name": "Medyczne Laboratorium Diagnostyczne LABMED Michalowski Spolka komandytowa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": "103824144890320050373",
+            "name": "Medyczne Laboratorium Diagnostyczne LABMED Michalowski Spolka komandytowa (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/103824144890320050373"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNo8OpsxSDcpYlba0bUJns0uXHrCe_w8_Y0IYrc=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.8,
+        "workday_timing": "13:00-17:00",
+        "closed_on": [],
+        "phone": "+48 514 330 400",
+        "address": "Medyczne Laboratorium Diagnostyczne LABMED Michalowski Spolka komandytowa, Zimna 9, 20-204 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Medyczne+Laboratorium+Diagnostyczne+LABMED+Micha%C5%82owski+Sp%C3%B3%C5%82ka+komandytowa/data=!4m7!3m6!1s0x4722577ad08f195d:0xd4f2a3596069d710!8m2!3d51.2525098!4d22.606639!16s%2Fg%2F11lgwysnp6!19sChIJXRmP0HpXIkcRENdpYFmj8tQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJGXA15uNWIkcRx6lb2NPd7pA",
+        "name": "Labdrog. Laboratorium drogowe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Labdrog. Laboratorium drogowe (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_PgV0Me53VlHJAfUlKL-kg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=139.7721&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 445 90 25",
+        "address": "Labdrog. Laboratorium drogowe, al. Wincentego Witosa 10, 20-315 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Labdrog.+Laboratorium+drogowe/data=!4m7!3m6!1s0x472256e3e6357019:0x90eeddd3d85ba9c7!8m2!3d51.2349612!4d22.6045142!16s%2Fg%2F1tdgz14g!19sChIJGXA15uNWIkcRx6lb2NPd7pA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJQWBuD2hXIkcR63Ar3dcYuP8",
+        "name": "Szpital Tymczasowy Zlokalizowany Na Terenie Centrum Targowo-Wystawienniczego Targow Lublin S.A. Pod Patronatem Samodzielnego Publicznego Szpitala Klinicznego Nr 1 W Lublinie",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Szpital Tymczasowy Zlokalizowany Na Terenie Centrum Targowo-Wystawienniczego Targow Lublin S.A. Pod Patronatem Samodzielnego Publicznego Szpitala Klinicznego Nr 1 W Lublinie (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=479npjEE0jldaxZkqxvlfQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=21.293756&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 531 71 26",
+        "address": "Szpital Tymczasowy Zlokalizowany Na Terenie Centrum Targowo-Wystawienniczego Targow Lublin S.A. Pod Patronatem Samodzielnego Publicznego Szpitala Klinicznego Nr 1 W Lublinie, Radziwillowska 13/Budynek A13, 20-406 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Szpital+Tymczasowy+Zlokalizowany+Na+Terenie+Centrum+Targowo-Wystawienniczego+Targ%C3%B3w+Lublin+S.A.+Pod+Patronatem+Samodzielnego+Publicznego+Szpitala+Klinicznego+Nr+1+W+Lublinie/data=!4m7!3m6!1s0x472257680f6e6041:0xffb818d7dd2b70eb!8m2!3d51.2496712!4d22.5586436!16s%2Fg%2F11q1d8p58t!19sChIJQWBuD2hXIkcR63Ar3dcYuP8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJHwPIgwRXIkcRExTldKfvBcU",
+        "name": "Diagnostics Sp. o.o. sp.k. Medical laboratory",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Diagnostics Sp. o.o. sp.k. Medical laboratory (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K67Xactmhqnq43Z0T1WTfg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=6.1916165&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 744 44 43",
+        "address": "Diagnostics Sp. o.o. sp.k. Medical laboratory, Topolowa 7, 20-352 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics+Sp.+o.o.+sp.k.+Medical+laboratory/data=!4m7!3m6!1s0x4722570483c8031f:0xc505efa774e51413!8m2!3d51.2316248!4d22.5856928!16s%2Fg%2F1tdxd0vd!19sChIJHwPIgwRXIkcRExTldKfvBcU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ__9P1KBXIkcRWRCrxhqVp8Y",
+        "name": "Punkt Pobran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Pobran (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CyzXmJgzIDIcMmXcotlc2A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=166.33984&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 534 07 41",
+        "address": "Punkt Pobran, Nowy Swiat 38, 20-418 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84/data=!4m7!3m6!1s0x472257a0d44fffff:0xc6a7951ac6ab1059!8m2!3d51.2250247!4d22.5627439!16s%2Fg%2F11q1d8vz34!19sChIJ__9P1KBXIkcRWRCrxhqVp8Y?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_7OifUJXIkcRMPN_cvBVtoo",
+        "name": "Punkt Pobran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Pobran (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zgnO346d0d06DkXt4Ln3nw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=296.47504&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:30-11:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": null,
+        "address": "Punkt Pobran, Stanislawa Staszica 14, 20-081 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84/data=!4m7!3m6!1s0x472257427da2b3ff:0x8ab655f0727ff330!8m2!3d51.2500633!4d22.5627382!16s%2Fg%2F11j08bhbz_!19sChIJ_7OifUJXIkcRMPN_cvBVtoo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6Zu519VZIkcRcE8ylY8_TAQ",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP20pT5iK34_e6cwgRUl3giLdoP880Txlf1sxJj=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 661 665 516",
+        "address": "Punkt Szczepien COVID, Konrada Wallenroda 2F, 20-607 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x472259d5d7b99be9:0x44c3f8f95324f70!8m2!3d51.2398388!4d22.528676!16s%2Fg%2F11q1d8mrnt!19sChIJ6Zu519VZIkcRcE8ylY8_TAQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJO6v8SstZIkcR5fyBeF048nA",
+        "name": "Zaklad Diagnostyki Laboratoryjnej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Zaklad Diagnostyki Laboratoryjnej (eigenaar)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Zaklad Diagnostyki Laboratoryjnej, Aleja Krasnicka 100, 20-718 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Zak%C5%82ad+Diagnostyki+Laboratoryjnej/data=!4m7!3m6!1s0x472259cb4afcab3b:0x70f2385d7881fce5!8m2!3d51.239604!4d22.503804!16s%2Fg%2F11h53wlrfx!19sChIJO6v8SstZIkcR5fyBeF048nA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJnXwqxMVZIkcRq5iNPeac4Xw",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNGApJrYVbKT9uZYmX7-DT-bML8jdANfAmHlG30=w408-h244-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 533 00 34",
+        "address": "Punkt Szczepien COVID, Naleczowska 27, 20-701 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x472259c5c42a7c9d:0x7ce19ce63d8d98ab!8m2!3d51.2498919!4d22.516108!16s%2Fg%2F11nm9lz3ld!19sChIJnXwqxMVZIkcRq5iNPeac4Xw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVVWlle1ZIkcRrvq0b5FlVj4",
+        "name": "Gabinet Szczepien",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Szczepien (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qDVsJIefYAVcl8AXoL2BDA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=182.56126&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 563 37 07",
+        "address": "Gabinet Szczepien, Relaksowa 27/U1, 20-819 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Szczepie%C5%84/data=!4m7!3m6!1s0x472259ed95a55555:0x3e5665916fb4faae!8m2!3d51.266732!4d22.5262945!16s%2Fg%2F11nm9lmdyj!19sChIJVVWlle1ZIkcRrvq0b5FlVj4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJaZBxPIZWIkcRu-p_-wgSAOk",
+        "name": "Gabinet Szczepien",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Szczepien (eigenaar)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 381 43 57",
+        "address": "Gabinet Szczepien, Zygmunta Augusta 31/U01, 20-283 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Szczepie%C5%84/data=!4m7!3m6!1s0x472256863c719069:0xe9001208fb7feabb!8m2!3d51.2165102!4d22.6358168!16s%2Fg%2F11q1d8v0sr!19sChIJaZBxPIZWIkcRu-p_-wgSAOk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3_mVMOJZIkcRYVbVkt70p_Q",
+        "name": "Lublin",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Lublin (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EZz_KJPPa6ayUoBrvdq_Ug&cb_client=search.gws-prod.gps&w=408&h=240&yaw=297.67758&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 478 50 50",
+        "address": "Lublin, Jana Kiepury 5, 20-858 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lublin/data=!4m7!3m6!1s0x472259e23095f9df:0xf4a7f4de92d55661!8m2!3d51.259549!4d22.545473!16s%2Fg%2F11rbyswgvf!19sChIJ3_mVMOJZIkcRYVbVkt70p_Q?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJL5IvandXIkcR4BZqqnWXT4Q",
+        "name": "Gabinet Diagnostyczno-Zabiegowy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Diagnostyczno-Zabiegowy (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNFOZSicx_x0PP55Fr2YJINJnxyR83ycatvCyiP=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 504 802 196",
+        "address": "Gabinet Diagnostyczno-Zabiegowy, Nadbystrzycka 42A, 20-501 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Diagnostyczno-Zabiegowy/data=!4m7!3m6!1s0x472257776a2f922f:0x844f9775aa6a16e0!8m2!3d51.2347504!4d22.5468993!16s%2Fg%2F11q1d91ydv!19sChIJL5IvandXIkcR4BZqqnWXT4Q?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJkTcWc1hXIkcR5kbXrsX5784",
+        "name": "Gabinet Diagnostyczno- Zabiegowy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Diagnostyczno- Zabiegowy (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8OpCFxOZ0SJtWxA1IeDZRg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=141.57242&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 740 90 11",
+        "address": "Gabinet Diagnostyczno- Zabiegowy, aleja Kompozytorow Polskich 8, 20-848 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Diagnostyczno-+Zabiegowy/data=!4m7!3m6!1s0x4722575873163791:0xceeff9c5aed746e6!8m2!3d51.2614812!4d22.5512244!16s%2Fg%2F11nm9lvn3f!19sChIJkTcWc1hXIkcR5kbXrsX5784?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJy7mXzjZYIkcRywGt5zS3S-U",
+        "name": "Punkt Pobran Materialow Do Badan",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Pobran Materialow Do Badan (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPcJhSZOPzogrfY79v7LMaBGNvFFP1UkLH7SLFe=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 532 37 11",
+        "address": "Punkt Pobran Materialow Do Badan, Orkana 7, 20-866 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Materia%C5%82%C3%B3w+Do+Bada%C5%84/data=!4m7!3m6!1s0x47225836ce97b9cb:0xe54bb734e7ad01cb!8m2!3d51.2330248!4d22.4995299!16s%2Fg%2F11nm9m30dz!19sChIJy7mXzjZYIkcRywGt5zS3S-U?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJZyjJ095WIkcRoZFRMHn_Q2w",
+        "name": "Gabinet Diagnostyczno-Zabiegowy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Diagnostyczno-Zabiegowy (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OM83XB8YDJM39j_a3mSzPg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=108.652&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 440 80 82",
+        "address": "Gabinet Diagnostyczno-Zabiegowy, Projektowa 5, 20-209 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Diagnostyczno-Zabiegowy/data=!4m7!3m6!1s0x472256ded3c92867:0x6c43ff79305191a1!8m2!3d51.2449472!4d22.6113785!16s%2Fg%2F11rbysp_5z!19sChIJZyjJ095WIkcRoZFRMHn_Q2w?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ___jLTZXIkcRaiYqB1rMxfk",
+        "name": "Gabinet Diagnostyczno - Zabiegowy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Diagnostyczno - Zabiegowy (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=V3CGd61Hbac465xZkA_F-A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=14.666403&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 725 171 013",
+        "address": "Gabinet Diagnostyczno - Zabiegowy, Marii Koryznowej 2G, 20-137 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Diagnostyczno+-+Zabiegowy/data=!4m7!3m6!1s0x472257362de3ffff:0xf9c5cc5a072a266a!8m2!3d51.2592749!4d22.5845168!16s%2Fg%2F11q1d9675w!19sChIJ___jLTZXIkcRaiYqB1rMxfk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJf2la2ClYIkcRyF-oxxZ1fIU",
+        "name": "Bio-Farm Sp. z o.o.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bio-Farm Sp. z o.o. (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LlbUJBplrZi7IylL47Sy7g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=336.4115&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 527 10 50",
+        "address": "Bio-Farm Sp. z o.o., Watykanska 6, 20-538 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bio-Farm+Sp.+z+o.o./data=!4m7!3m6!1s0x47225829d85a697f:0x857c7516c7a85fc8!8m2!3d51.2282133!4d22.5220333!16s%2Fg%2F1v8h_5nn!19sChIJf2la2ClYIkcRyF-oxxZ1fIU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6RnXnSNXIkcRp5OpeUiqAeI",
+        "name": "Gabinet Szczepien",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Szczepien (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOLANP25wslEktZVDf2Z1-GA0kgetcIPCbml3Gl=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 745 10 00",
+        "address": "Gabinet Szczepien, Odlewnicza 3, 20-219 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Szczepie%C5%84/data=!4m7!3m6!1s0x472257239dd719e9:0xe201aa4879a993a7!8m2!3d51.2474356!4d22.5954877!16s%2Fg%2F11nm9ltb2_!19sChIJ6RnXnSNXIkcRp5OpeUiqAeI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJq6oOIyNYIkcRSJbv0pgTDdA",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO6sQpunrOnMKkXARgpOI8MQAjqhyI-kYRU30xz=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 718 02 40",
+        "address": "Punkt Szczepien COVID, Onyksowa 10, 20-582 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x47225823230eaaab:0xd00d1398d2ef9648!8m2!3d51.2213414!4d22.5007625!16s%2Fg%2F11rbyt58fs!19sChIJq6oOIyNYIkcRSJbv0pgTDdA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJZ8DiuN5ZIkcRJe1jhQ4SJp0",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNNR0-WTXejhb8sfwq33KiM1dZOs9EjQm_X40wD=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 26 118 32 00",
+        "address": "Punkt Szczepien COVID, Aleje Raclawickie 23, 20-049 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x472259deb8e2c067:0x9d26120e8563ed25!8m2!3d51.2507029!4d22.534523!16s%2Fg%2F11rbysw7n8!19sChIJZ8DiuN5ZIkcRJe1jhQ4SJp0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJcRQLs9hWIkcRiN604z8Wyec",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_2XCt5bQf1_HN9p5UJOlbw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=318.67056&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 783 434 086",
+        "address": "Punkt Szczepien COVID, Frezerow 3, 20-209 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x472256d8b30b1471:0xe7c9163fe3b4de88!8m2!3d51.245949!4d22.6085892!16s%2Fg%2F11q1d9bd2n!19sChIJcRQLs9hWIkcRiN604z8Wyec?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0ch0ZNhZIkcRn-bMPsxqP0M",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOtlh0kHNk4qR78wsClf1SWjEjxUic32Kksz3mf=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 524 78 37",
+        "address": "Punkt Szczepien COVID, Langiewicza 6/A, 20-032 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x472259d86474c8d1:0x433f6acc3ecce69f!8m2!3d51.2463563!4d22.5361425!16s%2Fg%2F11rbysz0kg!19sChIJ0ch0ZNhZIkcRn-bMPsxqP0M?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJAQCQqy9YIkcRosJpalpZhb0",
+        "name": "Gabinet Szczepien",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Szczepien (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNLZC3VncL5seGHqrRSirPa6Jg6AFdyYIcLv_Ls=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 527 51 71",
+        "address": "Gabinet Szczepien, Tymiankowa 7, 20-542 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Szczepie%C5%84/data=!4m7!3m6!1s0x4722582fab900001:0xbd85595a6a69c2a2!8m2!3d51.2297412!4d22.5099491!16s%2Fg%2F11q1d8z2mt!19sChIJAQCQqy9YIkcRosJpalpZhb0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJhYVwe2FXIkcRxLbwuFWMSAM",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPcwpRyTfK5UYrFit9yOEk1Cfc-S-aCb_XL78Hk=w408-h612-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 602 532 234",
+        "address": "Punkt Szczepien COVID, Aleje Raclawickie 14, 20-950 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x472257617b708585:0x3488c55b8f0b6c4!8m2!3d51.2481806!4d22.5444109!16s%2Fg%2F11q1d8_mx8!19sChIJhYVwe2FXIkcRxLbwuFWMSAM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJq6p2bk9YIkcRVgwpU39G8Ec",
+        "name": "Gabinet Szczepien",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Szczepien (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AJeHcl6RVy23EEMahPS6cw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=241.3161&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 527 74 07",
+        "address": "Gabinet Szczepien, Lazurowa 24, 20-781 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Szczepie%C5%84/data=!4m7!3m6!1s0x4722584f6e76aaab:0x47f0467f53290c56!8m2!3d51.2341392!4d22.4806049!16s%2Fg%2F11rbys_85p!19sChIJq6p2bk9YIkcRVgwpU39G8Ec?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJq6oOh_hZIkcRxmd7h8jyzdE",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IzyHRoxvBdOYXlzDQ1zuuw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=127.061806&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 740 31 16",
+        "address": "Punkt Szczepien COVID, Krola Rogera 6, 20-857 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x472259f8870eaaab:0xd1cdf2c8877b67c6!8m2!3d51.2741086!4d22.5482526!16s%2Fg%2F11nm9m8sk4!19sChIJq6oOh_hZIkcRxmd7h8jyzdE?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJBTXKoqxXIkcRonZAFtuqmUQ",
+        "name": "Poz - Lublin",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poz - Lublin (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_ol9HDLbpY5Tp4lrQlmGfw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=116.519646&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 535 711 744",
+        "address": "Poz - Lublin, Adama Mickiewicza 28, 20-443 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poz+-+Lublin/data=!4m7!3m6!1s0x472257aca2ca3505:0x4499aadb164076a2!8m2!3d51.2176563!4d22.5809541!16s%2Fg%2F11q1d8t5h0!19sChIJBTXKoqxXIkcRonZAFtuqmUQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJkSdJybJQIkcRs4gqUJ2ER6o",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wmUVm3Aq2r3HOBMkowOl7Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=297.3048&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 460 29 06",
+        "address": "Punkt Szczepien COVID, Bazylianowka 58, 20-144 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x472250b2c9492791:0xaa47849d502a88b3!8m2!3d51.2693343!4d22.5771946!16s%2Fg%2F11rbyt5r4g!19sChIJkSdJybJQIkcRs4gqUJ2ER6o?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJwaRsI65XIkcRdtTYImYhhQA",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": "107206159830990155023",
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/107206159830990155023"
+        },
+        "featured_image": null,
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 760 42 22",
+        "address": "Punkt Szczepien COVID, Zbigniewa Herberta 21, 20-468 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x472257ae236ca4c1:0x85216622d8d476!8m2!3d51.2156315!4d22.569943!16s%2Fg%2F11q1d8rz9g!19sChIJwaRsI65XIkcRdtTYImYhhQA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJXfY7suNZIkcRXf2e-9YMc0k",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMGmhx5yWCKKkmcW1oXytJQplSnB_KCXLPfkVF3=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 741 97 63",
+        "address": "Punkt Szczepien COVID, Skoluby 10, 20-837 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x472259e3b23bf65d:0x49730cd6fb9efd5d!8m2!3d51.2606606!4d22.5449852!16s%2Fg%2F11nm9lx0p9!19sChIJXfY7suNZIkcRXf2e-9YMc0k?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJS_3_wkBYIkcR2YnhaoxXia4",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPtyNkFSBxhS4qEWYQxow1HEdEZ8MEDMCxerqc7=w408-h284-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 669 800 880",
+        "address": "Punkt Szczepien COVID, Gesia 19/U3, 20-719 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x47225840c2fffd4b:0xae89578c6ae189d9!8m2!3d51.226039!4d22.482527!16s%2Fg%2F11nm9lt3x1!19sChIJS_3_wkBYIkcR2YnhaoxXia4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ__9PyJ5XIkcRqhreNrqK28E",
+        "name": "Gabinet Szczepien",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Szczepien (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPUyPFvNKD-seGL2kx-VH8BZUGV8iTAXMDVcFkv=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 532 36 39",
+        "address": "Gabinet Szczepien, Piekarska 27, 20-402 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Szczepie%C5%84/data=!4m7!3m6!1s0x4722579ec84fffff:0xc1db8aba36de1aaa!8m2!3d51.2254844!4d22.5484622!16s%2Fg%2F11rbyskh_3!19sChIJ__9PyJ5XIkcRqhreNrqK28E?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJByu2QIhXIkcRn9vGu7SV8vQ",
+        "name": "Gabinet Szczepien",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Szczepien (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOrkqEQUvTYWxfX4Ppd_2WoNnh9L00qrJTXphSn=w408-h295-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 443 35 35",
+        "address": "Gabinet Szczepien, Bursztynowa 24/A/1, 20-576 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Szczepie%C5%84/data=!4m7!3m6!1s0x4722578840b62b07:0xf4f295b4bbc6db9f!8m2!3d51.2233965!4d22.5204393!16s%2Fg%2F11rbysqwjh!19sChIJByu2QIhXIkcRn9vGu7SV8vQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJGUruk11XIkcR0DAY-HFKtLs",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZvYj4B_EBzti5SA8XOC-Iw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=207.54321&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 747 77 17",
+        "address": "Punkt Szczepien COVID, Czechowska 10/43, 20-072 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x4722575d93ee4a19:0xbbb44a71f81830d0!8m2!3d51.2523298!4d22.5540755!16s%2Fg%2F11nm9lxdw_!19sChIJGUruk11XIkcR0DAY-HFKtLs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJq6rqyvNWIkcRlMlBM0pskQs",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=V75doSxPXVDfka2cA07hJA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=197.0842&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 451 17 92",
+        "address": "Punkt Szczepien COVID, Bohdana Dobrzanskiego 3, 20-262 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x472256f3caeaaaab:0xb916c4a3341c994!8m2!3d51.2246619!4d22.6171739!16s%2Fg%2F11rbysxysy!19sChIJq6rqyvNWIkcRlMlBM0pskQs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJfXRLx0VXIkcRFr-L12Z_Dtw",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZyiG5NqNgkKXfMYZ_b0d4A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=292.38516&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 442 92 22",
+        "address": "Punkt Szczepien COVID, Lubartowska 64, 20-094 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x47225745c74b747d:0xdc0e7f66d78bbf16!8m2!3d51.2571971!4d22.5709528!16s%2Fg%2F11rbysjw_q!19sChIJfXRLx0VXIkcRFr-L12Z_Dtw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJkTcWc1hXIkcRLvUybxi9N6g",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNKxhPFufmGt-xElhslQQ9LUITosOFOXHAdkrFU=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 741 00 40",
+        "address": "Punkt Szczepien COVID, aleja Kompozytorow Polskich 8, 20-848 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x4722575873163791:0xa837bd186f32f52e!8m2!3d51.2614812!4d22.5512244!16s%2Fg%2F11rbysf3gt!19sChIJkTcWc1hXIkcRLvUybxi9N6g?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJbf0zlyhXIkcRZO5bmLHslBk",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=huUMU2AUY1eBR_eLZBvnCw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=334.0076&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 514 330 400",
+        "address": "Punkt Szczepien COVID, Zimna 9, 20-204 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x472257289733fd6d:0x1994ecb1985bee64!8m2!3d51.2525098!4d22.606639!16s%2Fg%2F11nm9m2cdn!19sChIJbf0zlyhXIkcRZO5bmLHslBk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJwwscl0lYIkcRfYratMOBLcY",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dLn_SMov9nmleG7IeYP0Sg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=333.6692&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 821 13 21",
+        "address": "Punkt Szczepien COVID, Aleja Krasnicka 213, 23-206 Stroza, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x47225849971c0bc3:0xc62d81c3b4da8a7d!8m2!3d51.2354984!4d22.4905563!16s%2Fg%2F11rbysnhxp!19sChIJwwscl0lYIkcRfYratMOBLcY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVVWFC8ZXIkcRWAV_s5XpiOQ",
+        "name": "Gabinet Szczepien",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Szczepien (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TMa4N7w0UvKj7fIVW0btTQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.30853&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 509 357 309",
+        "address": "Gabinet Szczepien, WAPOWSKIEGO 2/3, 20-491 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Szczepie%C5%84/data=!4m7!3m6!1s0x472257c60b855555:0xe488e995b37f0558!8m2!3d51.202675!4d22.5509583!16s%2Fg%2F11q1d93_z4!19sChIJVVWFC8ZXIkcRWAV_s5XpiOQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJAQDcscRXIkcRW3A8APrP6AY",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FgmV3HCcsqQWJvB9t1DzLA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=330.26654&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 504 93 96",
+        "address": "Punkt Szczepien COVID, Jacka Woronieckiego 11, 20-492 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x472257c4b1dc0001:0x6e8cffa003c705b!8m2!3d51.1990989!4d22.5421668!16s%2Fg%2F11rbysj7tb!19sChIJAQDcscRXIkcRW3A8APrP6AY?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJhVT7aTZXIkcRnG8dJ7Tgne8",
+        "name": "Atta Labs. Gajewski D.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Atta Labs. Gajewski D. (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=k1WEpz5YHbSsQC7sdJ-YVQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=131.41109&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 507 470 257",
+        "address": "Atta Labs. Gajewski D., Kazimierza Tumidajskiego 2C, 20-400 Lublin, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Atta+Labs.+Gajewski+D./data=!4m7!3m6!1s0x4722573669fb5485:0xef9de0b4271d6f9c!8m2!3d51.259868!4d22.5868362!16s%2Fg%2F1hc21jk37!19sChIJhVT7aTZXIkcRnG8dJ7Tgne8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJCTvh0_1YIkcRrJMDhqq6Muw",
+        "name": "Punkt Szczepien COVID",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Szczepien COVID (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNKDOPgKSUWk5gwvSw8IfHqc95PxmcvgQuEaDyC=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 81 503 14 15",
+        "address": "Punkt Szczepien COVID, Dabrowica 200, 21-008 Dabrowica, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Szczepie%C5%84+COVID/data=!4m7!3m6!1s0x472258fdd3e13b09:0xec32baaa860393ac!8m2!3d51.2461285!4d22.4584212!16s%2Fg%2F11q1d98l5x!19sChIJCTvh0_1YIkcRrJMDhqq6Muw?authuser=0&hl=nl&rclk=1"
+    }
+]

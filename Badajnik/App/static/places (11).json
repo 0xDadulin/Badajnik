@@ -1,0 +1,884 @@
+[
+    {
+        "place_id": "ChIJv-AajrraFkcRkSD7-sTqqvo",
+        "name": "\"Gran-Med\" Medical Laboratory Analysis",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 89,
+        "website": "http://www.granmed.pl/Kontakt/tabid/2483/Default.aspx",
+        "owner": {
+            "id": "113431746679423270831",
+            "name": "\"Gran-Med\" Medical Laboratory Analysis (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/113431746679423270831"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPk-dBMNa6pozlE9btiEyRuJORVv0iPkRxXUDF_=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-11:00, 13:00-15:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 266 54 94",
+        "address": "\"Gran-Med\" Medical Laboratory Analysis, Koscielna 24, 41-200 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%22Gran-Med%22+Medical+Laboratory+Analysis/data=!4m7!3m6!1s0x4716daba8e1ae0bf:0xfaaaeac4fafb2091!8m2!3d50.2730336!4d19.1292837!16s%2Fg%2F1thz0dw2!19sChIJv-AajrraFkcRkSD7-sTqqvo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJO0UDc1baFkcR1xKyoHIgeP8",
+        "name": "Punkt Pobran Synevo Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 53,
+        "website": "https://www.synevo.pl/laboratorium-sosnowiec/%3Futm_source%3Dgoogle%26utm_medium%3Dmybusiness%26utm_campaign%3D%25C5%259Bl%25C4%2585skie%26utm_content%3Dsosnowiec",
+        "owner": {
+            "id": "112292675103337142675",
+            "name": "Punkt Pobran Synevo Laboratorium Medyczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/112292675103337142675"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOZZRCS5VmLYjnwRRvAhFfHyy2347CHNRY377Ty=w426-h240-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.1,
+        "workday_timing": "07:00-17:45",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 22 120 24 00",
+        "address": "Punkt Pobran Synevo Laboratorium Medyczne, Dworska 26B, 41-219 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+Synevo+Laboratorium+Medyczne/data=!4m7!3m6!1s0x4716da567303453b:0xff782072a0b212d7!8m2!3d50.2969876!4d19.1811277!16s%2Fg%2F11ddw_zj0l!19sChIJO0UDc1baFkcR1xKyoHIgeP8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3a5LMr7aFkcR7mp9B9g-9lU",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 49,
+        "website": "https://diag.pl/katalogi/placowki/sosnowiec/punkt-pobran-diagnostyki-sosnowiec-ul-wawel-15/",
+        "owner": {
+            "id": "117284603957145089658",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/117284603957145089658"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMsF4PB6uLxllIF2PX-X1MWdnI7HGRYXbI-HqrU=w408-h544-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": "07:00-14:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 32 368 48 36",
+        "address": "Diagnostics. Medical Laboratories., Wawel 15, 41-200 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x4716dabe324baedd:0x55f63ed8077d6aee!8m2!3d50.2795725!4d19.1423305!16s%2Fg%2F11df0x1dvx!19sChIJ3a5LMr7aFkcR7mp9B9g-9lU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJe4fsOADRFkcRw2aR1F56vFk",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 47,
+        "website": "https://diag.pl/katalogi/placowki/sosnowiec/punkt-pobran-diagnostyki-sosnowiec-ul-generala-hallera-1/",
+        "owner": {
+            "id": "108217951306149784651",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108217951306149784651"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMNgHViwSvjVswfwLTvzST-CZK154cyoQ4vVFgZ=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3.9,
+        "workday_timing": "07:30-13:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 681 542",
+        "address": "Diagnostyka. Laboratoria Medyczne., Generala Jozefa Hallera 1, 41-214 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x4716d10038ec877b:0x59bc7a5ed49166c3!8m2!3d50.288889!4d19.1136404!16s%2Fg%2F11rxp2sjmh!19sChIJe4fsOADRFkcRw2aR1F56vFk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJX81z4bHaFkcRyza-JvGKM8Y",
+        "name": "Al-Med Centrum Diagnostyki Laboratoryjnej NZOZ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 41,
+        "website": "http://www.al-med-lab.pl/",
+        "owner": {
+            "id": null,
+            "name": "Al-Med Centrum Diagnostyki Laboratoryjnej NZOZ (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNHXcYTP9mYMzVAALkSJNQhEUxDSLUyDsPIquqV=w408-h306-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 3,
+        "workday_timing": "07:30-20:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 293 23 00",
+        "address": "Al-Med Centrum Diagnostyki Laboratoryjnej NZOZ, Osiedle Naftowa 35, 41-200 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Al-Med+Centrum+Diagnostyki+Laboratoryjnej+NZOZ/data=!4m7!3m6!1s0x4716dab1e173cd5f:0xc6338af126be36cb!8m2!3d50.2690037!4d19.1236092!16s%2Fg%2F1tdshj9x!19sChIJX81z4bHaFkcRyza-JvGKM8Y?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0RrHq47bFkcRQTVMgJQW11I",
+        "name": "Punkt Pobran ALAB laboratoria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 30,
+        "website": "https://sklep.alablaboratoria.pl/badania%3Fpunkty_id%3D9851",
+        "owner": {
+            "id": "109636573525837537810",
+            "name": "Punkt Pobran ALAB laboratoria (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/109636573525837537810"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP-1WDna2VnHqCKJEbUn6-Eb8OYS3i1wMcUaGA6=w408-h306-k-no",
+        "main_category": "Bloedbank",
+        "categories": [
+            "Bloedbank",
+            "Medisch laboratorium"
+        ],
+        "rating": 3.6,
+        "workday_timing": "07:15-12:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 308 95 76",
+        "address": "Punkt Pobran ALAB laboratoria, Jagiellonska 6A, 41-200 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84+ALAB+laboratoria/data=!4m7!3m6!1s0x4716db8eabc71ad1:0x52d71694804c3541!8m2!3d50.2683726!4d19.1324309!16s%2Fg%2F11rg9v_j9l!19sChIJ0RrHq47bFkcRQTVMgJQW11I?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJzSUma9jbFkcRwWSWdYdIBHs",
+        "name": "MMed Laboratorium Diagnostyczne Renata Celniaszek",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 28,
+        "website": "http://badanie-nasienia.pl/lab/mmed-laboratorium-diagnostyczne-renata-celniaszek/",
+        "owner": {
+            "id": "116653345245454428353",
+            "name": "MMed Laboratorium Diagnostyczne Renata Celniaszek (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116653345245454428353"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FS9yVQITddNI4fbaRnm3YQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=17.023148&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.9,
+        "workday_timing": "07:30-14:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 32 745 17 10",
+        "address": "MMed Laboratorium Diagnostyczne Renata Celniaszek, Zielonogorska 25, 41-218 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/MMed+Laboratorium+Diagnostyczne+Renata+Celniaszek/data=!4m7!3m6!1s0x4716dbd86b2625cd:0x7b044887759664c1!8m2!3d50.2802834!4d19.1783149!16s%2Fg%2F11gv19p79k!19sChIJzSUma9jbFkcRwWSWdYdIBHs?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJTcx6WLzaFkcRPybvgrLh8a8",
+        "name": "Slaskie Laboratoria Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 25,
+        "website": "https://sla.pl/punkt-pobran/badania-laboratoryjne-krwi-sosnowiec/",
+        "owner": {
+            "id": "102409236344942833928",
+            "name": "Slaskie Laboratoria Analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/102409236344942833928"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNeIkfVi57nQ5UuT2QFsay3lNC-rFB9DE_Ir1f9=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.8,
+        "workday_timing": "06:00-13:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 32 432 46 05",
+        "address": "Slaskie Laboratoria Analityczne, al. Zwyciestwa 6, 41-200 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Al%C4%85skie+Laboratoria+Analityczne/data=!4m7!3m6!1s0x4716dabc587acc4d:0xaff1e1b282ef263f!8m2!3d50.2789239!4d19.131777!16s%2Fg%2F11h53wgk9g!19sChIJTcx6WLzaFkcRPybvgrLh8a8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJpYHLmlHaFkcRFVSaAhXlSaw",
+        "name": "Slaskie Laboratoria Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": "https://sla.pl/punkt-pobran/badania-krwi-sosnowiec/",
+        "owner": {
+            "id": "110432159794513812893",
+            "name": "Slaskie Laboratoria Analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110432159794513812893"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM3yls3yTWfe0YpeV7puMbN_Z8r2Z8plFRMqBk=w408-h272-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.1,
+        "workday_timing": "06:00-11:00",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 416 25 73",
+        "address": "Slaskie Laboratoria Analityczne, Jana Dlugosza 1, 41-219 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Al%C4%85skie+Laboratoria+Analityczne/data=!4m7!3m6!1s0x4716da519acb81a5:0xac49e515029a5415!8m2!3d50.3032958!4d19.185974!16s%2Fg%2F11g9m2rnlw!19sChIJpYHLmlHaFkcRFVSaAhXlSaw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJs2SSLNDbFkcRO-aG6-EeGZI",
+        "name": "Slaskie Laboratoria Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": "https://sla.pl/punkt-pobran/laboratorium-sosnowiec/",
+        "owner": {
+            "id": "108885565694369139427",
+            "name": "Slaskie Laboratoria Analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/108885565694369139427"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNrRozGNcjyJNPyQKwswCGb8QdBKAK1-_OdJLKG=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:00-11:30",
+        "closed_on": [
+            "zondag"
+        ],
+        "phone": "+48 32 432 46 71",
+        "address": "Slaskie Laboratoria Analityczne, Szkolna 4a, 41-200 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Al%C4%85skie+Laboratoria+Analityczne/data=!4m7!3m6!1s0x4716dbd02c9264b3:0x92191ee1eb86e63b!8m2!3d50.2820311!4d19.1450839!16s%2Fg%2F11s4h1fbkv!19sChIJs2SSLNDbFkcRO-aG6-EeGZI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJEa6IYXTbFkcR2vy1PbdAGAw",
+        "name": "Slaskie Laboratoria Analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": "https://sla.pl/punkt-pobran/badania-laboratoryjne-sosnowiec/",
+        "owner": {
+            "id": "100938899746802311197",
+            "name": "Slaskie Laboratoria Analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100938899746802311197"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPPlnEDoJWVyUIO1qMJnv3eSPYmgM-t8WVfl_eh=w408-h271-k-no",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 4.3,
+        "workday_timing": "06:00-13:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 32 432 46 77",
+        "address": "Slaskie Laboratoria Analityczne, Kielecka 38a, 41-219 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C5%9Al%C4%85skie+Laboratoria+Analityczne/data=!4m7!3m6!1s0x4716db746188ae11:0xc1840b73db5fcda!8m2!3d50.2874787!4d19.1799345!16s%2Fg%2F11swzpypcy!19sChIJEa6IYXTbFkcR2vy1PbdAGAw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJDZ1NeLnaFkcRw3N8fAQnHkw",
+        "name": "Laboratorium analityczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "http://laboratorium.sosnowiec.pl/",
+        "owner": {
+            "id": "105945691284979809422",
+            "name": "Laboratorium analityczne (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/105945691284979809422"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0yrOu0UJmt-Gd6APvqIuEw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=315.43335&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:15-10:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 501 417 625",
+        "address": "Laboratorium analityczne, 1 Maja 8/12, 41-200 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+analityczne/data=!4m7!3m6!1s0x4716dab9784d9d0d:0x4c1e27047c7c73c3!8m2!3d50.27395!4d19.135498!16s%2Fg%2F11bychm14s!19sChIJDZ1NeLnaFkcRw3N8fAQnHkw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJawjRkbbaFkcRoPNr_JF8ooo",
+        "name": "Diagnostics. Medical Laboratories.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "https://diag.pl/katalogi/placowki/sosnowiec/punkt-pobran-diagnostyki-sosnowiec-ul-jagiellonska-13b/",
+        "owner": {
+            "id": "116855265398532788808",
+            "name": "Diagnostics. Medical Laboratories. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/116855265398532788808"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pnRrTLKK4qLTJsOw3RuOhQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=170.02307&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1.7,
+        "workday_timing": "07:00-10:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 663 701 458",
+        "address": "Diagnostics. Medical Laboratories., Jagiellonska 13B, 41-200 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostics.+Medical+Laboratories./data=!4m7!3m6!1s0x4716dab691d1086b:0x8aa27c91fc6bf3a0!8m2!3d50.2673139!4d19.1319821!16s%2Fg%2F11df0xbptx!19sChIJawjRkbbaFkcRoPNr_JF8ooo?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-_D8jpLRFkcR5zKd2BujOwA",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "https://diag.pl/katalogi/placowki/sosnowiec/punkt-pobran-diagnostyki-sosnowiec-ul-baczynskiego-14c/",
+        "owner": {
+            "id": "110602131498539484319",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/110602131498539484319"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JuXcUhWVwOXjy97zMQMshA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=163.63618&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": 3.7,
+        "workday_timing": "07:30-10:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 726 889 887",
+        "address": "Diagnostyka. Laboratoria Medyczne., Krzysztofa Kamila Baczynskiego 14c, 41-203 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x4716d1928efcf0fb:0x3ba31bd89d32e7!8m2!3d50.2900991!4d19.0786628!16s%2Fg%2F11s8_t5ytj!19sChIJ-_D8jpLRFkcR5zKd2BujOwA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJiV6PcfzaFkcRwsZWQ7k4Gq4",
+        "name": "Fryda. Laboratorium medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "http://www.fryda.pl/",
+        "owner": {
+            "id": null,
+            "name": "Fryda. Laboratorium medyczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9Oz6FyhLh_2NPqTfuKtqig&cb_client=search.gws-prod.gps&w=408&h=240&yaw=302.80176&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 263 24 84",
+        "address": "Fryda. Laboratorium medyczne, Stefana Kisielewskiego 2, 41-219 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fryda.+Laboratorium+medyczne/data=!4m7!3m6!1s0x4716dafc718f5e89:0xae1a38b94356c6c2!8m2!3d50.2888628!4d19.1782627!16s%2Fg%2F1tdfrwtk!19sChIJiV6PcfzaFkcRwsZWQ7k4Gq4?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJMez5OqPaFkcRdnMlaDlulPc",
+        "name": "Bio Diagnostyka. Wyposazenie laboratorium",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "http://www.biodiagnostyka.pl/",
+        "owner": {
+            "id": null,
+            "name": "Bio Diagnostyka. Wyposazenie laboratorium (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Wxv0__Bk2o_8JCiqgTRgGg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=34.447666&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 297 90 15",
+        "address": "Bio Diagnostyka. Wyposazenie laboratorium, 3 Maja 21, 41-200 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bio+Diagnostyka.+Wyposa%C5%BCenie+laboratorium/data=!4m7!3m6!1s0x4716daa33af9ec31:0xf7946e3968257376!8m2!3d50.2793671!4d19.1293239!16s%2Fg%2F1thwz5d7!19sChIJMez5OqPaFkcRdnMlaDlulPc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4fP6eLnaFkcRJdIvf0wvWus",
+        "name": "Fogt Norbert. Laboratorium",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://laboratorium.sosnowiec.pl/",
+        "owner": {
+            "id": null,
+            "name": "Fogt Norbert. Laboratorium (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0yrOu0UJmt-Gd6APvqIuEw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=336.5711&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "07:15-10:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 501 417 625",
+        "address": "Fogt Norbert. Laboratorium, 1 Maja 8, 41-200 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fogt+Norbert.+Laboratorium/data=!4m7!3m6!1s0x4716dab978faf3e1:0xeb5a2f4c7f2fd225!8m2!3d50.274015!4d19.135482!16s%2Fg%2F1v2pnz32!19sChIJ4fP6eLnaFkcRJdIvf0wvWus?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJSZBz5jnbFkcRNujJvQovmSM",
+        "name": "Laboratorium Medyczne Korlab punkt pobran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "http://www.korlab.pl/",
+        "owner": {
+            "id": null,
+            "name": "Laboratorium Medyczne Korlab punkt pobran (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8PTMB5SSuoA7i3gcNkokkg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=134.44229&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "08:00-10:15",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": null,
+        "address": "Laboratorium Medyczne Korlab punkt pobran, Centrum Opieki Zdrowotnej SAFMED, Bedzinska 41, 41-205 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Medyczne+Korlab+punkt+pobra%C5%84/data=!4m7!3m6!1s0x4716db39e6739049:0x23992f0abdc9e836!8m2!3d50.29826!4d19.1348843!16s%2Fg%2F11fq9ydf5p!19sChIJSZBz5jnbFkcRNujJvQovmSM?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJwz4KDhPbFkcR0zV3wFJ_PH8",
+        "name": "Diagnostyka. Laboratoria Medyczne.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": "https://diag.pl/placowki/sosnowiec/punkt-pobran-diagnostyki-sosnowiec-ul-blachnickiego-3/",
+        "owner": {
+            "id": "100500340307508043014",
+            "name": "Diagnostyka. Laboratoria Medyczne. (eigenaar)",
+            "link": "https://www.google.com/maps/contrib/100500340307508043014"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nnyhkMeV9Qsd-OszAPoA9A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=32.502724&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium",
+            "Uitzendbureau voor gediplomeerd algemeen verpleegkundigen"
+        ],
+        "rating": null,
+        "workday_timing": "07:00-11:30",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 799 399 362",
+        "address": "Diagnostyka. Laboratoria Medyczne., aleja Ksiedza Franciszka Blachnickiego 3, 41-219 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diagnostyka.+Laboratoria+Medyczne./data=!4m7!3m6!1s0x4716db130e0a3ec3:0x7f3c7f52c07735d3!8m2!3d50.2908936!4d19.1792038!16s%2Fg%2F11v9hdvh_x!19sChIJwz4KDhPbFkcR0zV3wFJ_PH8?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJE6KvfhbbFkcRUo_phSNASDU",
+        "name": "Fryda T., dr. Laboratorium medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Fryda T., dr. Laboratorium medyczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.8,
+        "workday_timing": "07:00-19:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 664 292 384",
+        "address": "Fryda T., dr. Laboratorium medyczne, Gabrieli Zapolskiej 3, 41-218 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fryda+T.,+dr.+Laboratorium+medyczne/data=!4m7!3m6!1s0x4716db167eafa213:0x3548402385e98f52!8m2!3d50.2734683!4d19.1982683!16s%2Fg%2F1tfk7rrj!19sChIJE6KvfhbbFkcRUo_phSNASDU?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJh4Op7JTaFkcR81j8HvDYbBQ",
+        "name": "Punkt pobran Mmed Laboratorium diagnostyczne Renata Celniaszek",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt pobran Mmed Laboratorium diagnostyczne Renata Celniaszek (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9UPS5mEicmAlhKcRJIrCug&cb_client=search.gws-prod.gps&w=408&h=240&yaw=243.83746&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": "08:15-10:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": "+48 502 317 137",
+        "address": "Punkt pobran Mmed Laboratorium diagnostyczne Renata Celniaszek, Gabriela Narutowicza 52, 41-200 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+pobra%C5%84+Mmed+Laboratorium+diagnostyczne+Renata+Celniaszek/data=!4m7!3m6!1s0x4716da94eca98387:0x146cd8f01efc58f3!8m2!3d50.28385!4d19.147306!16s%2Fg%2F1tcv9mt7!19sChIJh4Op7JTaFkcR81j8HvDYbBQ?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJlyOJnqbaFkcR89rggn9Oc0I",
+        "name": "Specjalistyczno - Rejonowa Przychodnia Lekarska",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Specjalistyczno - Rejonowa Przychodnia Lekarska (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ABlAcg6Xg4VAgay_HyTwEw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=38.82249&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 2.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 290 00 35",
+        "address": "Specjalistyczno - Rejonowa Przychodnia Lekarska, Marszalka Jozefa Pilsudskiego 9, 41-200 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Specjalistyczno+-+Rejonowa+Przychodnia+Lekarska/data=!4m7!3m6!1s0x4716daa69e892397:0x42734e7f82e0daf3!8m2!3d50.2773605!4d19.120806!16s%2Fg%2F11q1d8mz7d!19sChIJlyOJnqbaFkcR89rggn9Oc0I?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJq6paV4HaFkcRMPAG6-48iQk",
+        "name": "Poradnia Lekarza Poz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Lekarza Poz (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8PTMB5SSuoA7i3gcNkokkg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=134.44229&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 665 000 313",
+        "address": "Poradnia Lekarza Poz, Bedzinska 41, 41-200 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Lekarza+Poz/data=!4m7!3m6!1s0x4716da81575aaaab:0x9893ceeeb06f030!8m2!3d50.29826!4d19.1348843!16s%2Fg%2F11nm9lt5v2!19sChIJq6paV4HaFkcRMPAG6-48iQk?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJWzZOrgvQFkcRtehCfsn49_s",
+        "name": "Ambulatorium",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ambulatorium (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ohf51VRLXkjRvUmHNZHQOQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=335.72644&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 307 58 57",
+        "address": "Ambulatorium, Stanislawa Moniuszki 19, 41-200 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ambulatorium/data=!4m7!3m6!1s0x4716d00bae4e365b:0xfbf7f8c97e42e8b5!8m2!3d50.2825744!4d19.1122558!16s%2Fg%2F11q1d8zvxt!19sChIJWzZOrgvQFkcRtehCfsn49_s?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJcxWdfxbbFkcRo4RXmka_GQc",
+        "name": "Laboratorium Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Laboratorium Medyczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Laboratorium Medyczne, Gabrieli Zapolskiej 3, 41-218 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratorium+Medyczne/data=!4m7!3m6!1s0x4716db167f9d1573:0x719bf469a5784a3!8m2!3d50.2735764!4d19.1984302!16s%2Fg%2F11h53wb5k_!19sChIJcxWdfxbbFkcRo4RXmka_GQc?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJJ5a2jbraFkcRkyWNH6lLBE0",
+        "name": "Laboratoria Medyczne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Laboratoria Medyczne (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=O_Yvk1thkmDnAYtoil8ZXg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=302.71204&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Laboratoria Medyczne, Koscielna 24, 41-200 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laboratoria+Medyczne/data=!4m7!3m6!1s0x4716daba8db69627:0x4d044ba91f8d2593!8m2!3d50.273083!4d19.1292223!16s%2Fg%2F11hzwc8nc9!19sChIJJ5a2jbraFkcRkyWNH6lLBE0?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ88GJV1baFkcRo1LCFeOo7DI",
+        "name": "Sosnowiecki Sm",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Sosnowiecki Sm (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=suC-30fHF3qFu8Tjh8p9ZA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=120.07696&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 413 05 64",
+        "address": "Sosnowiecki Sm, Szpitalna 1, 41-219 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sosnowiecki+Sm/data=!4m7!3m6!1s0x4716da565789c1f3:0x32eca8e315c252a3!8m2!3d50.2981315!4d19.1800574!16s%2Fg%2F11nm9lzhqk!19sChIJ88GJV1baFkcRo1LCFeOo7DI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJJ5a2jbraFkcRAquCYHUC5qA",
+        "name": "Punkt Pobran",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Punkt Pobran (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=O_Yvk1thkmDnAYtoil8ZXg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=302.71204&pitch=0&thumbfov=100",
+        "main_category": "Laboratorium",
+        "categories": [
+            "Laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": "08:00-10:00",
+        "closed_on": [
+            "zaterdag",
+            "zondag"
+        ],
+        "phone": null,
+        "address": "Punkt Pobran, Koscielna 24, 41-200 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Punkt+Pobra%C5%84/data=!4m7!3m6!1s0x4716daba8db69627:0xa0e602756082ab02!8m2!3d50.273083!4d19.1292223!16s%2Fg%2F11h53wdq_l!19sChIJJ5a2jbraFkcRAquCYHUC5qA?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJVVXFraTaFkcR3LWPfAUh1Gw",
+        "name": "Synergia CPZ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Synergia CPZ (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0sctfjKKfcJpj_ijy4TXMw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=6.7362595&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 502 625 144",
+        "address": "Synergia CPZ, Modrzejowska 12, 41-200 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Synergia+CPZ/data=!4m7!3m6!1s0x4716daa4adc55555:0x6cd421057c8fb5dc!8m2!3d50.2771785!4d19.1285013!16s%2Fg%2F11h48wx5_3!19sChIJVVXFraTaFkcR3LWPfAUh1Gw?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJU375orvaFkcRN2WJeRWsP_g",
+        "name": "Gabinet Pielegniarki Poz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gabinet Pielegniarki Poz (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tSv_qL2tMtUCtcvLO0BNWA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=122.897224&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 661 05 71",
+        "address": "Gabinet Pielegniarki Poz, Modrzejowska 32B, 41-200 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gabinet+Piel%C4%99gniarki+Poz/data=!4m7!3m6!1s0x4716dabba2f97e53:0xf83fac1579896537!8m2!3d50.2754771!4d19.1321922!16s%2Fg%2F11rbyt1kdv!19sChIJU375orvaFkcRN2WJeRWsP_g?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ___TwqfaFkcRAf-8bBzYF2A",
+        "name": "Poradnia Lekarza Poz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Lekarza Poz (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2WPVj5Ni9c7hiYFgnDd20Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=293.56323&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 299 71 09",
+        "address": "Poradnia Lekarza Poz, Jana III Sobieskiego 29, 41-200 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Lekarza+Poz/data=!4m7!3m6!1s0x4716daa7c2d3ffff:0x6017d81c6cbcff01!8m2!3d50.2754797!4d19.1139644!16s%2Fg%2F11rbysyhk5!19sChIJ___TwqfaFkcRAf-8bBzYF2A?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ__9P4bHaFkcRuGNYFBg7fsI",
+        "name": "Poradnia Lekarza Poz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Lekarza Poz (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KGfNyJC4CjC37uEf9kvclg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=251.61012&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 293 33 31",
+        "address": "Poradnia Lekarza Poz, Osiedle Naftowa 35, 41-200 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Lekarza+Poz/data=!4m7!3m6!1s0x4716dab1e14fffff:0xc27e3b18145863b8!8m2!3d50.2688593!4d19.1235211!16s%2Fg%2F11q1d90pjz!19sChIJ__9P4bHaFkcRuGNYFBg7fsI?authuser=0&hl=nl&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-zDGjVXaFkcRtt0dhy7jv50",
+        "name": "Poradnia Lekarza Poz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": null,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poradnia Lekarza Poz (eigenaar)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1IsH6LmrQ4dbvPBIXf856A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=256.91843&pitch=0&thumbfov=100",
+        "main_category": "Medisch laboratorium",
+        "categories": [
+            "Medisch laboratorium"
+        ],
+        "rating": null,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "+48 32 269 07 36",
+        "address": "Poradnia Lekarza Poz, Aleja Wolnosci 6, 41-219 Sosnowiec, Polen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poradnia+Lekarza+Poz/data=!4m7!3m6!1s0x4716da558dc630fb:0x9dbfe32e871dddb6!8m2!3d50.2954277!4d19.1842953!16s%2Fg%2F11rbysmmqg!19sChIJ-zDGjVXaFkcRtt0dhy7jv50?authuser=0&hl=nl&rclk=1"
+    }
+]
